@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "16ac34215537ad19",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf8b0380c1f5d20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf35fb0115a60a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper-Writing/In-network computing idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-network computing idea"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99025c8207f228c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cdcff0a20eedcff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb092e45cbe1933",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f449d97e86f520b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1f990dcf429abf09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d92b82378f3b3613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d461a3a83e862892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eba3ae13d99cc951",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "collab-external/Anywi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anywi"
+            }
+          },
+          {
+            "id": "c96e9f82a258dcea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Drones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drones"
+            }
+          },
+          {
+            "id": "da6b50b15390d3c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fad98bf614fc1d77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paper-Writing/In-network computing idea.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of In-network computing idea"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false,
+      "markwhen:Create new Markwhen file": false
+    }
+  },
+  "active": "baf35fb0115a60a0",
+  "lastOpenFiles": [
+    "Notes/UTM.md",
+    "Notes/UAM-AAM.md",
+    "Notes/RDM workshop.md",
+    "Notes/NTN.md",
+    "Notes/Klagenfurt visit.md",
+    "Progress- PhD/Application.md",
+    "Notes/Air-Air comm.md",
+    "Notes/Untitled.md",
+    "Markwhen/PhD Project management.mw",
+    "Progress- PhD/Progress and Tasks - topic.md",
+    "Progress- PhD/Milestones.md",
+    "Progress- PhD/Workshops.md",
+    "Implementation/Topics.md",
+    "collab-external/EU call.md",
+    "collab-external/C2 group.md",
+    "collab-external/Anywi.md",
+    "Progress- PhD/Monograph.md",
+    "~$phd.docx",
+    "phD.pdf",
+    "phd.docx",
+    "Progress- PhD/First TAC meeting.md",
+    "TODOS/Todos.md",
+    "TODOS/Tasks manager.md",
+    "Paper-Writing/In-network computing idea.md",
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
+    "Paper-Writing/IEEE Survey.md",
+    "Paper-Writing/Idea dumps.md",
+    "Paper-Writing/Deadline - target Conf and Journals.md",
+    "collab-internal/T58.md",
+    "collab-internal/T2.md",
+    "Markwhen",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20250901133112.png",
+    "IMG-20250828-WA0003.jpg",
+    "UAV-G-Poster.pptx",
+    "1.png",
+    "TODOS",
+    "payment cycle.png",
+    "Aligning Drone Strategy 2.0 With Horizon-EU Cluste.pdf",
+    "The 5G Core Network Demystified _.pdf",
+    "shreeja-notes",
+    "shreeja-notes/siyi2.png",
+    "shreeja-notes/siyi1.png",
+    "shreeja-notes/siyi1 1.png",
+    "shreeja-notes/RF2.png",
+    "shreeja-notes/RF1.png",
+    "shreeja-notes/RF1 1.png",
+    "Untitled.canvas"
+  ]
+}
