@@ -141,8 +141,9 @@ For your project involving **VMs for UAV + 5G network + Ground Station**, the id
 
 
 ---
-VM details and VM setup from Screenshots 
+### VM details and VM setup from Screenshots 
 
+To do : Setup MobaXterm terminal
 Setup 
 UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emulator ---> Ground
                      |                                                                                                         |
@@ -153,7 +154,16 @@ UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emul
 
 
 ### Key details for each VM 
-
+1. OS
+2. Network adapters 
+3. Ports 
 UAV - normal ubuntu machine 
 ![[uav.png]]
+
+UAV OS: Ubuntu 64 bit 
+Network Adapters : 
+	- Adap 1 - Host only adapter Virtualbox Host-Only Ethernet Adapter
+	- Adap 2 - UAV to terminal - Internal Network 
+Ports: 
+	- Port 1: Serial port enabled COM1 IRQ 4 I7O Port: 03F8  Port Mode: Hostpipe 
 
