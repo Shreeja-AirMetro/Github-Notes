@@ -29,5 +29,15 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 	- Initial test with laptop 
 	- Rasp pi test 
 	- Pixhawk test 
+3. Rasp pi + LTE Dongle 
+	- Resolve the LTE dongle and SIM Card issue with Sebastian
+	- Dongle test with Laptop
+	- Dongle test with Rasp pi 
+	- Pixhawk to QGC - via dongle 
+4. VM Setup for Multi-Link simulator 
+	- Setup multi-link VM simulator  - what are key entities in each machine 
+	- Setup  and test Satlink 
+	- Setup and test Cell link 
+	- Establish Multi-link data with QGC 
 
 ### Small Tasks 
