@@ -48,6 +48,12 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 	- Mesh and other hardware idea and Status 
 	- Next steps and plan 
 	- Klagenfurt Visit 
-2. DA presentation fo Lyuqiao 
+2. DA presentation for Lyuqiao 
 3. Email Sec. of Christian Bettstetter 
 4. Find apartment 
+5. PhD rebuttal letter 
+6. dronnect paper (V1 : by 4th November) (V2: by 10th November) submission by 11th November 
+7. Support FMC Review submission 
+8. Restart Work with Roshan - Paper 
+9. Omnet++ Day with Lyuqiao 
+10. ROS2 with lyuqiao 
