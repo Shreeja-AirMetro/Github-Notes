@@ -157,6 +157,7 @@ UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emul
 1. OS
 2. Network adapters 
 3.  Serial Ports 
+4. Check USB
 UAV - normal ubuntu machine 
 ![[uav.png|1200]]
 
@@ -181,13 +182,13 @@ Adapter
 	- Adap 4 - terminal to cell internal network
 		- Adapter type: Intel Pro/1000 MT Desktop , Promiscuous Mode: Deny Mac address :  - Cable connected
 Port 
-
+port 1 and port 2
 
 ### Cell Ctrl 
 ![[cell-ctrl.png|1200]]
 Adap 3 - Internal cell to cell - Paravirtualized Network (virtio-net)
 Deny , Cable connected 
-
+ctrl no port USB and Adapters 
 ### Cell Emulator Fedora 64 bit
 
 Adapter:
@@ -202,4 +203,9 @@ Adapter
 	Adap 1 Virtual Host only ethernet adapter 
 	Adap 2 - cellto cell Intel Pro
 	Adap 3 Internal Network Satemu to ground - Intel Pro
+no port
+USB
 
+fedora 
+
+- In UAV VM build MAVlink, Pixhawk SITL
