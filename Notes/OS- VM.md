@@ -158,7 +158,8 @@ UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emul
 2. Network adapters 
 3.  Serial Ports 
 UAV - normal ubuntu machine 
-![[uav.png]]
+![[uav.png|1200]]
+
 
 ### UAV OS: Ubuntu 64 bit 
 Network Adapters : 
@@ -170,4 +171,6 @@ Ports:
 	- Port 3: COM3 IRQ 4, I/O port 03E8 Host Pipe \\.\pipe\uavterminal2
 
 
-### Terminal 
+### Terminal Ubuntu 64bit 
+![[terminal.png|1200]]
+
