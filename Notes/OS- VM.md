@@ -174,3 +174,13 @@ Ports:
 ### Terminal Ubuntu 64bit 
 ![[terminal.png|1200]]
 
+Adapter 
+	- Adap 1: Host only Adapter virtual Box Host-only Ethernet Adapter 
+	- Adap 2 - uav  to terminal internal network 
+	- Adap 3 - terminal to sat internal network
+	- Adap 4 - terminal to cell internal network
+		- Adapter type: Intel Pro/1000 MT Desktop , Promiscuous Mode: Deny Mac address :  - Cable connected
+Port 
+
+
+### Cell Ctrl 
