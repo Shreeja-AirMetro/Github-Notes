@@ -14,3 +14,4 @@ To do:
 ---
 
 Meshmerize Devices 
+The devices are used for establishing wifi based comm - C2 communication between UAV (PiXhawk) and GCS
