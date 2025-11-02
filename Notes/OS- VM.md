@@ -184,3 +184,5 @@ Port
 
 
 ### Cell Ctrl 
+![[cell-ctrl.png|1200]]
+Adap 3 - Inte
