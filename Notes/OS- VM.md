@@ -156,14 +156,18 @@ UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emul
 ### Key details for each VM 
 1. OS
 2. Network adapters 
-3. Ports 
+3.  Serial Ports 
 UAV - normal ubuntu machine 
 ![[uav.png]]
 
-UAV OS: Ubuntu 64 bit 
+### UAV OS: Ubuntu 64 bit 
 Network Adapters : 
 	- Adap 1 - Host only adapter Virtualbox Host-Only Ethernet Adapter
 	- Adap 2 - UAV to terminal - Internal Network 
 Ports: 
-	- Port 1: Serial port enabled COM1 IRQ 4 I7O Port: 03F8  Port Mode: Hostpipe 
+	- Port 1: Serial port enabled COM1 IRQ 4 I7O Port: 03F8  Port Mode: Hostpipe Path: \\.\pipe\uavusb
+	- Port 2: Serial port COM2 IRQ 3 I/o Port 02F8 Host pipe  \\.\pipe\uavterminal1
+	- Port 3: COM3 IRQ 4, I/O port 03E8 Host Pipe \\.\pipe\uavterminal2
 
+
+### Terminal 
