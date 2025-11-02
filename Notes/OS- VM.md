@@ -219,3 +219,9 @@ run router - set low latency serial link
 at terminal - link both open 
 test terminal low latency, high latency 
 ground : test cell link and satllink 
+
+
+### References 
+
+1. https://brianlinkletter.com/2019/02/build-a-network-emulator-using-libvirt/
+2. 
