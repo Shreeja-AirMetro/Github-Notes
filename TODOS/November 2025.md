@@ -22,6 +22,8 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 - New network architecture like NTN and particular to this use-case 
 
 **Big mistake is to assume:  redundancy equals reliability**
+  
+Latency is going to be your biggest problem for real time flight adjustments.
 
 ### Big Tasks 
 
