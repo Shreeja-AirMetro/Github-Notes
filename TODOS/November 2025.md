@@ -65,3 +65,8 @@ Latency is going to be your biggest problem for real time flight adjustments.
 8. Restart Work with Roshan - Paper 
 9. Omnet++ Day with Lyuqiao 
 10. ROS2 with lyuqiao 
+
+### Misc
+- We have 3 backup online
+	-  Obsidian notes - regular backup Github and Gitlab 
+	- Official backups Monthly on Gitlab- comnets

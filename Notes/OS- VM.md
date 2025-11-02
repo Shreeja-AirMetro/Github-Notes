@@ -226,4 +226,5 @@ ground : test cell link and satllink
 1. https://brianlinkletter.com/2019/02/build-a-network-emulator-using-libvirt/
 2. https://github.com/cmu-sei/welled
 3. https://brianlinkletter.com/open-source-network-simulators/
-4. 
+4. https://blog.purestorage.com/purely-technical/emulation-vs-virtualization/
+5. 
