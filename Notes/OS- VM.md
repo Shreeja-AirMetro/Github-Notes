@@ -140,3 +140,10 @@ For your project involving **VMs for UAV + 5G network + Ground Station**, the id
 - If you want an all-in-one host OS that can run VMs, containers, and has a GUI for management, consider **Proxmox VE** (Debian-based hypervisor).
 
 
+---
+VM details and VM setup from Screenshots 
+
+Setup 
+UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emulator 
+                     |
+                     

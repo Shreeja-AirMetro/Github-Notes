@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/OS- VM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "OS- VM"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/OS- VM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of OS- VM"
             }
           }
         ],
@@ -174,9 +174,12 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "Notes/open.md",
+    "Notes/Network coding - UAV Comm.md",
+    "Notes/Multi-link communication.md",
+    "TODOS/November 2025.md",
     "Basics/5G.md",
     "Basics/Basics of Networking.md",
-    "TODOS/November 2025.md",
     "TODOS/Todos.md",
     "Notes/Air-Air comm.md",
     "TODOS/Tasks manager.md",
@@ -201,9 +204,6 @@
     "phD.pdf",
     "phd.docx",
     "Progress- PhD/First TAC meeting.md",
-    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
-    "Paper-Writing/IEEE Survey.md",
-    "Paper-Writing/Idea dumps.md",
     "Markwhen",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
