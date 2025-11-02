@@ -206,6 +206,16 @@ Adapter
 no port
 USB
 
-fedora 
+### Details 
 
-- In UAV VM build MAVlink, Pixhawk SITL
+fedora add delay, packet loss 
+sat emu+ sat control is together 
+In UAV VM build aand make px4,  MAVlink, SITL
+
+commands
+make link -cell open 
+ppp@172.22.2.1
+run router - set low latency serial link 
+at terminal - link both open 
+test terminal low latency, high latency 
+ground : test cell link and satllink 
