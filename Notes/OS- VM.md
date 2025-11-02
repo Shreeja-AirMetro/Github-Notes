@@ -144,6 +144,16 @@ For your project involving **VMs for UAV + 5G network + Ground Station**, the id
 VM details and VM setup from Screenshots 
 
 Setup 
-UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emulator 
-                     |
-                     
+UAV --> terminal with Cell and Satcom net adapter --> cell Control --> Cell Emulator ---> Ground
+                     |                                                                                                         |
+                     |                                                                                                         |
+                     v                                                                                                        |
+                     Sat emu ---------------------------------------------------------------
+
+
+
+### Key details for each VM 
+
+UAV - normal ubuntu machine 
+![[uav.png]]
+
