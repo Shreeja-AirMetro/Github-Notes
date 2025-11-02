@@ -17,6 +17,8 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 - GCS and ground infrastructure 
 - New network architecture like NTN and particular to this use-case 
 
+**Big mistake is to assume:  redundancy equals reliability**
+
 ### Big Tasks 
 
 1. Literature reading and Survey article 
