@@ -185,4 +185,18 @@ Port
 
 ### Cell Ctrl 
 ![[cell-ctrl.png|1200]]
-Adap 3 - Inte
+Adap 3 - Internal cell to cell - Paravirtualized Network (virtio-net)
+Deny , Cable connected 
+
+### Cell Emulator Fedora 64 bit
+
+Adapter:
+	 Adap 1 - Paravirtualized Network Host-only- VirtualBox-Only Ethernet Adapter 
+	 Adap 2 paravirtualized Network - Internal Network Celltocell 
+	 Adap 3 - paravirtualized Network - Internal Network Cell emu to ground
+
+### Ground  ubuntu 64 bit
+USB : Usb 1.1 OHCI Controller 
+Adapter 
+	Adap 1 Virtual Host only ethernet adapter 
+	
