@@ -14,7 +14,9 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 
 3 big pillars of writing dissertation 
 - UAV side of communication 
+- GCS and ground infrastructure 
 - 
+
 
 ### Big Tasks 
 
