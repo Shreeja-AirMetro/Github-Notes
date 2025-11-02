@@ -9,6 +9,12 @@ Each month priority and todos : Deadlines and milestones and small section of th
 ### PhD Thoughts 
 The PhD research network coding and computation is mandatory for Aerial communication. How the communication and computing via coding part will exists ? 
 
+Explain the communication requirements 
+Go to the coding part - Network coding and the crucks and nooks in multi-link communication 
+
+3 big pillars of writing dissertation 
+- UAV side of communication 
+- 
 
 ### Big Tasks 
 
