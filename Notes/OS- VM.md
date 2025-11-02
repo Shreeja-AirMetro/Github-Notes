@@ -196,7 +196,10 @@ Adapter:
 	 Adap 3 - paravirtualized Network - Internal Network Cell emu to ground
 
 ### Ground  ubuntu 64 bit
+![[ground.png|1200]]
 USB : Usb 1.1 OHCI Controller 
 Adapter 
 	Adap 1 Virtual Host only ethernet adapter 
-	
+	Adap 2 - cellto cell Intel Pro
+	Adap 3 Internal Network Satemu to ground - Intel Pro
+
