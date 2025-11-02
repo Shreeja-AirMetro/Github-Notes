@@ -36,11 +36,18 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 	- Pixhawk to QGC - via dongle 
 4. VM Setup for Multi-Link simulator 
 	- Setup multi-link VM simulator  - what are key entities in each machine 
-	- Setup  and test Satlink 
+	- Setup  and test Sat link 
 	- Setup and test Cell link 
 	- Establish Multi-link data with QGC 
 
 ### Small Tasks 
 
 1. AirMetro Winter workshop 
-	- Recap on 
+	- Recap on TAC meeting - The gap and blocks of methodology 
+	- Simulation VM part 
+	- Mesh and other hardware idea and Status 
+	- Next steps and plan 
+	- Klagenfurt Visit 
+2. DA presentation fo Lyuqiao 
+3. Email Sec. of Christian Bettstetter 
+4. Find apartment 
