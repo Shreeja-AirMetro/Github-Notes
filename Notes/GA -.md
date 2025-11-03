@@ -1232,3 +1232,180 @@ It replaces the "Guidelines for Safeguarding Good Scientific Practice, Preventin
 All members and staff of TU Dresden are obliged to follow the GSP Statutes, to make them the basis of their scientific work and to actively contribute to the prevention of scientific misconduct.  
   
 The GSP Statutes also stipulate, among other things, that all academic staff at TU Dresden and all doctoral candidates are obliged to complete at least one training course on "Good Scientific Practice".
+### Supervision & support during the doctorate
+
+The supervision and support of early career researchers are key components of good scientific practice.  
+  
+The supervisory relationship should be organised in such a way that doctoral candidates receive reliable, trustworthy and transparent support during their doctorate within an appropriate time frame.  
+  
+Supervisors also have a key role to play in communicating the principles of good scientific practice.  
+  
+**In this lesson, you will learn more about important aspects when it comes to organising a successful supervisory relationship.**
+### Supervision & support during the doctorate | TU Dresden
+
+**Doctoral supervision? Excellent!**  
+  
+The supervision of early career researchers is an essential element of good scientific practice and has been part of the GSP Guidelines at TU Dresden since 2014.  
+  
+The legal provisions for doctoral supervision were significantly expanded with the new GSP Statutes.  
+  
+**Good doctoral supervision is defined as follows in the GSP Statutes of TU Dresden:**  
+
+- a balance between support and promotion of academic independence is established,  
+- appropriate career support is provided,  
+- the development of an independent academic profile is promoted,  
+- participation of doctoral candidates in specialised scientific events is enabled, and  
+- in the programmes offered by the Graduate Academy are enabled and  
+- publishing activities are supported.
+
+(Cf. GSP Statutes, § 4 (4))
+
+**Supervision of the doctorate should be organised as follows:**
+
+- Each doctoral candidate should be supported by a **supervisory team** of at least two professors. One of them can also be a habilitated or a habilitation-equivalently qualified researcher, e.g. a TUD Young Investigator (G). Other experts can be involved in the supervision.  
+- At the beginning of a doctoral project, a Supervision Agreement is concluded between the supervisors and the doctoral candidate, in which the form and scope of the supervision are defined.  
+- At the **start of the project**, the doctoral candidate must submit an application for acceptance as a doctoral candidate (G) to the Faculty.   
+- The supervisors shall support the **completion of the doctoral project** within a reasonable period of time.
+
+(Cf. GSP Statutes, § 4 (4))
+### Supervision & support during the doctorate | The Supervision Agreement
+
+**What is a Supervision Agreement for?**  
+  
+Transparency and commitment in the supervisory relationship are crucial for a successful doctorate. However, many aspects of the supervisory relationship are only very rudimentarily regulated or not regulated at all in the Doctoral Regulations (G) of the Faculties.  
+  
+You should therefore discuss your mutual expectations with your supervisors at the beginning of your doctorate and set out the most important framework conditions and agreements in writing in a Supervision Agreement.  
+  
+A Supervision Agreement thus regulates the respective rights and obligations between the doctoral candidate and the supervisors based on the current status of the doctoral project.  
+  
+Use the Graduate Academy's Sample Supervision Agreement or prepare your own version. In this case, use the DFG's "Recommendations for the drafting of supervision agreements" (www) (in German) as a guide and be sure to check the requirements of your Faculty's doctoral regulations.  
+
+**You should regulate the following topics in your Supervision Agreement:**
+
+- reciprocal rights and obligations,  
+      
+    
+- the type and frequency of supervision meetings,  
+      
+    
+- necessary qualification requirements,  
+      
+    
+- compliance with good scientific practice,  
+      
+    
+- a work schedule or timetable for the entire doctoral phase.
+
+The Supervision Agreement serves to organise the supervision relationship in a transparent and independent manner. However, no legal claims to a specific form or scope of supervision services can be derived from it.  
+  
+Consider your Supervision Agreement as a kind of "living" document that you should continually adapt and update throughout the doctoral process.  
+
+**Good to know!**  
+  
+According to the GSP Statutes, doctoral theses should be supervised by supervisory teams that include at least one experienced researcher in addition to the main supervisor.  
+  
+The supervisory teams meet at least once a year with the doctoral candidate, discuss the progress of the work and make recommendations.  
+  
+**So therefore make sure to agree early on who else should be part of your supervisory team with your main supervisor!**
+
+### upervision & support during the doctorate | Assessment
+
+**Supervision and assessment of the thesis**  
+  
+The doctoral supervisor is an expert in the subject area of the doctorate and is usually best able to assess the academic development of the doctoral candidate. For this reason, it used to be common for the supervisors to also assess and grade the dissertation at the end.  
+  
+However, such a close relationship can also result in dependencies and biases that are disadvantageous for the doctoral candidate, especially if conflicts arise in the supervisory relationship.  
+  
+The GSP Statutes of TU Dresden require that at least one **external reviewer** who was not involved in the supervision be included in the assessment of the dissertation and thus counteract a potential conflict of interest between the supervisory role and the role as reviewer:
+
+"The dissertation must be assessed by at least one external, full-time assessor from outside  
+TU Dresden, who was not involved in the supervision of the dissertation and does not work in the same institute as the main supervisor."  
+GSP Statutes § 4 (6)
+### Supervision & support during the doctorate | DFG Code of Conduct
+
+The importance of adequate supervision and support for doctoral candidates is also emphasised in the DFG Code.     
+  
+Doctoral candidates and postdocs should receive the best possible support from their supervisors in order to achieve academic independence.  
+  
+This includes, among other things
+
+- the opportunity to participate in conferences,
+- gradually being given more freedom,
+- trying out and developing themselves as researchers,
+- being openly informed about the framework conditions of their research activities,
+- taking on responsibility within the framework of projects and to be involved in project management,
+- and participating in committees.
+
+(DFG Code Guideline 4 (www))  
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P13/image.f27c6ff858e2488dab0f8a6e1dda2829.jpg?1762192425998)
+
+**Career support in the scientific community**  
+In addition to the DFG Code of Conduct, the DFG published the "Principles of Effective Career Support in Science" (www), which sets out how researchers in early career phases should be supported by supervisors, superiors and universities/research institutions. This includes:
+
+- providing independence and personal responsibility,
+- recognising and acknowledging individual achievements, e.g. with regards to teaching, publications and funding applications,
+- offering good supervision and mentoring,
+- valuing supervision services and offering further training for supervisors,
+- promoting quality assurance in research and establish an open error culture,
+- creating attractive employment conditions,
+- involving them in the scientific community and supporting them in building their own networks, and
+- establishing personnel development measures tailored to junior researchers.
+### Special forms of doctorates | Industrial doctorates
+
+**Industrial doctorate**  
+  
+In the case of a so-called industrial doctorate, you are employed by a company during the doctoral phase and conduct research on a topic that is of scientific and/or economic interest to the company.  
+  
+Of course, the TU Dresden regulations on supervision also apply to an industrial doctorate, i.e. in this case you also need two experienced scientists, usually university professors, to supervise your doctoral thesis.  
+  
+In the case of an industrial doctorate, it is particularly important to clearly regulate the cooperation of all parties involved and thus ensure confidence to act.  
+  
+So if you are doing your doctorate in co-operation  
+with a company, you should also make use of the annex to the Supervision Agreement (industrial doctorate) in addition to the Supervision Agreement.
+
+### Special forms of doctorates | Binational doctorates
+
+**Binational Doctorate / Cotutelle**  
+All Faculties of TU Dresden offer the opportunity to do a doctorate in co-operation with a foreign university. Supervision is then provided by one university lecturer from TU Dresden and one from the cooperating foreign university.  
+  
+Even in the case of a binational doctorate, only one dissertation must be written and defended. Upon successful completion, however, both universities award a doctorate. The prerequisite for doing a binational doctoral is the willingness of the supervisors and institutions concerned to cooperate as well as compatible doctoral regulations.
+
+The details of the joint supervision and the course of the procedure are regulated in a **Cooperation Agreement**. This applies in addition to the applicable doctoral regulations. A Supervision Agreement must also be concluded within the framework of such a binational doctorate.
+### Supervision & support during the doctorate | Conflicts
+
+![Junge Frau mit Brille und gelben Pullover am Tisch sitzend, schaut erschöpft in die Kamera](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P16/image.5e4a9d80f3114ab3ace4cb355f00117f.jpg?1762192426002)
+
+Wherever people work together, conflicts arise. Conflicts are also not uncommon between academics or in doctoral supervision relationships.  
+  
+Conflicts only threaten the confidence to act and inhibit performance if they are ignored in the long term or dealt with in a destructive manner.  
+  
+**Conflicts in the doctoral supervision relationship** can, but do not necessarily have to, be related to academic misconduct.   
+  
+The positive side of this is that conflicts always offer the opportunity to constructively tackle necessary changes.  
+
+Have you noticed tensions or difficulties in your relationship with your supervisor?  
+  
+**Take action:**
+
+- As a first step, try to talk to your supervisor.  
+      
+    
+- Address the difficulties you perceive.  
+      
+    
+- Try to find out together what a constructive and mutually satisfactory solution could look like.  
+      
+    
+- However, if the discussion with your supervisor is not possible or does not lead to the desired result, seek help and support!
+### Supervision & support during the doctorate | Support during conflicts
+
+**Support in conflict situations**  
+  
+The Graduate Academy offers individual conflict counselling or conflict coaching (www) in a confidential setting.  
+  
+You can also contact your Faculty's liaison officer for early career researchers (list of contacts in German) confidentially in the event of conflicts in your supervisory relationship.  
+  
+In addition to individual forms of support, the Graduate Academy also offers conflict moderation and mediation (www).  
+  
+This form of conflict resolution involves all parties to the conflict, i.e. you and your supervisor. For it to work, both parties should take part in the mediation voluntarily, be open to new perspectives and ideas for resolving the existing conflict and be willing to actively work towards an amicable solution.
