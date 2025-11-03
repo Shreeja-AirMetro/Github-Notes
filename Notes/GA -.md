@@ -821,3 +821,143 @@ If you would like to go on a plagiarism hunt yourself, you can do so with the he
 
 The older a work is, the more difficult it is to access the original data. This was shown in the following study: Vines, T. H., et al. (2014), _The availability of research data declines rapidly with article age_  ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P18/Link_extern.png) . Current Biology, 24: 94–97.
 
+### Publication Guidelines
+
+Academic publications are the endpoints of research projects and at the same time, starting points for new projects. With your dissertation and your contribution to other publications, you are part of the research process.  
+  
+At what point are you considered an author of a publication and how does the publication process work?  
+
+  
+
+These questions are the subject of the last module.
+### How to Qualify Yourself as an Author
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P2/image.b6358237e25b41d6a8b4becd3a1e7980.png?1762191196068)
+
+In the case of publications, if multiple people conduct research on a topic, the question of authorship arises. The Committee on Publication Ethics  ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P2/Link_extern.png)(COPE) specifies that **authorship is to be awarded based on** **three criteria**:
+
+Every author must  
+   
+**(1)** make a significant contribution to the research results. This includes the
+
+  
+
+- concept
+- study design
+- data collection
+- data evaluation and interpretation
+
+You must make a significant contri-  
+bution in at least one of these four areas.  
+   
+**(2)** participate in drafting the manu-  
+script (during the first draft or during a revision).  
+
+**(3)** agree to the final version and publication as well as assume responsibility for all research results.
+
+**Only a person who meets all three criteria can rightfully be considered an author.**
+
+It is therefore not sufficient to obtain third-party funds, provide research materials, instruct people in particular methods or lead a working group.  
+Among the individual disciplines, however, there are considerable differences.
+
+Example "authorship agreement" ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P2/Link_intern.png).
+### Problems in Assigning Authorship
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P4/image.a80e22d9f4854662b9579514e7a11372.png?1762191196073)
+
+In assigning authorship, there are two problem areas:        
+
+- honorary or guest authorships
+- "ghost" authorships
+
+An **honorary authorship** is one in which a person is unjustifiably named as an author, without the person having made an appreciable contribution to the publication.
+
+In the case of a **ghost authorship**, a person who meets the requirements to be an author is not listed as an author in the manuscript.
+
+Both approaches contradict the guidelines for good academic practice.
+
+To preventively counteract these authorship awarding practices, COPE recommends: (Albert & Wager, 2003 ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P4/Link_intern.png))
+
+- establishing a culture in which authorships are ethically awarded and to pay heed to it
+- discussing authorships in the planning phase and during the course of the project
+- specifying the authorships before writing        
+
+  
+
+Some journals additionally require that each individual contribution of all the authors be stated.
+### The Publication Process
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P6/image.0637bfbc93d24d4aadcb26baa95aa63d.jpg?1762191196076)
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P6/image.ef4fb4e7118541139dbab4affcbd1123.jpg?1762191196076)
+
+Once the authorships have been clarified, write the manuscript and choose an appropriate **publication medium**. In the process, there are considerable differences among the disciplines:
+
+In the **natural and life sciences**, the journal article is important for the most part. In the **humanities and social sciences**, monographs or articles in edited volumes are rather published.        
+
+When submitting the manuscript, the **corresponding author** communicates with the publisher. In the case of multiple authors, the corresponding author must not necessarily be the first author.        
+
+After you have submitted the manuscript, the editorial staff designates appropriate **reviewers**, who can judge the professional relevance and rigour of your contribution.        
+
+This so-called **peer-review process** is also applied in evaluating your dissertation.        
+
+It serves to ensure the academic quality of your work. Moreover, it increases the comparability of evaluation processes, which should lead to greater transparency in quality assessment.
+
+### Correcting Errors
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P7/image.aa3368b3c92a4f99931eab0fa6e0e8dc.png?1762191196077)
+
+With **errata** the publisher reports (printing) errors which have slipped through during the production process.
+
+Often errors occur in names, e-mail addresses or institute affiliations.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P7/image.6d9b6347317d4939b3fc303349ed72c2.png?1762191196078)
+
+If you find careless errors in a previously published contribution, you should remedy this through **corrigenda**.
+
+Often there are transposed digits, erroneous table headings or figure captions as well as obsolete figures.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P7/image.96e4c4df57ce4b9ab7df5a818c6f0fa9.png?1762191196079)
+
+If, however, the core statement can no longer be supported due to deficiencies in content, you must retract your academic publication.
+
+In practice, the work will be taken offline or no longer published in books.
+
+### The Dissertation Submission
+
+You are now at the end of your doctoral studies. Your **dissertation** has been printed. It
+- meets the academic requirements
+- makes a contribution to the advancement of academic knowledge and your dissertation
+- is an independent work (cf. [grade:text5_10_1])  
+In the case of dissertations from joint research projects or cumulative dissertations, you must always demarcate your individual contribution from the contributions of others. Only your actual contribution is evaluated.
+
+Now you make an **application** to the **opening of the doctoral examination proceedings.**  
+
+
+This includes at least
+- your CV
+- your dissertation copies
+- your written declaration about independently writing the dissertation and about previous doctoral projects
+- proof that doctoral study fees have been paid (if applicable)
+
+### The Last Hurdle: Your Disputation
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P10/image.56dac3d0bd5e439494c884303afe87ef.png?1762191196084)
+
+Once you have applied for the start of the doctoral examination process, the doctoral committee appoints two referees, who may be recommended by you.
+
+From now on, you must prepare for the disputation. It would be best to look at other disputations ahead of time! For every disputation, the doctoral committee appoints a specific examination committee. The committee members receive your dissertation and the evaluations.
+
+You should plan the date in a timely manner. Please note that your dissertation must be available for inspection in the faculty for a certain amount of time (circulation period).
+
+After the disputation has taken place, in which the language had been previously specified and the length regulated according to the particular faculty, your total doctoral performance (dissertation and disputation) will be assessed:
+
+- **summa cum laude** (with distinction)
+- **magna cum laude** (very good)
+- **cum laude** (good)
+- **rite** (satisfactory)
+- **non rite** (unsatisfactory, failed) 
+
+   
+After you have passed and published your dissertation, you will receive the doctoral diploma.
+
