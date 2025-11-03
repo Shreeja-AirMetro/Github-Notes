@@ -2296,3 +2296,22 @@ Which of these would you like me to do now? (If you want #1, paste the polygon c
 ---
 The following final version is submitted for SESAR innovation days 2025 and the paper is rejected with following feedback
 ![[paper71 Final federated multiaccess computing architecture for scalable and secure uspace traffic management in 5G enabled UAS network.pdf]]
+**Review 1**
+
+The paper tries to describe how to make use of 5g edge computing and architectures to enable U-Space services, focusing on the associated communication delays and describing at the high level a data mesh approach to implement it. There are several fundamental problems with the proposal:  
+- In different parts of the paper it is advocated to include both strategic and tactical services within the edge infrastructure, while in others it is clearly said that the proposal is focused on tactical services. So, the proposal extent is not fully clear.  
+- The roles of CISP, USSP, etc. are not clear, and as they do not follow the regulation framework the proposal is again unclear. For instance, in one of your proposal you advocate for direct connection operators/CISP. This goes directly against the USSP role and value proposition as a certified mediator.  
+- There is a requirement of 50ms delay for U-Space which comes from reference [35]. But this reference has to do with smart manufacturing ... So it is not clear what is the origin of this value. More on this next.  
+- Then, the evaluations talks about comm latencies in the order of the 15-150ms (the later value used as a worse benchmark based on regular cloud computing). It is clear this kind of latency is absolutely unnecessary for strategic iterations (typically with reaction times not problematic from the safety point of view in the order of minutes), and for tactical interventions in remotely piloted UAVs (with time buffers again in the order of several to tens of seconds).  
+- The costs and the vendor lock-in associated to moving the infrastructure to the edge are not analysed at all. If a CISP moves to an operator edge, what would it mean for USSPs? Would they need to contract computation and comm resources from this same operator? what would happen in hybrid deployments with some USSPs in the edge and other in the cloud (I imagine all of them would have the worst latency, as they need to share a common synchronised picture of situation to detect and resolve tactical conflicts).  
+  
+I think edge computing might have a role in very sort term conflict resolution (automated avoidance in detect and avoid), but for me this is not currently part of U-Space but a last barrier to be analysed independently. Focusing on this use case and on automated conflict resolution could be an interesting use case, but this paper for me tries to cover too much.
+
+**Review 2**
+
+This paper addresses a relevant problem in the U-space domain, which is about the type of architecture and connectivity technologies to support the scalable, time-responsive and reliable provision of U-space services.  
+Different architectures are analysed and benchmarked, and insightful results and conclusions are provided.  
+The paper is well written and the topic relevant for the SIDs. In some parts the paper is not fully clear or some relevant analyses are not covered (e.g. what is the overal latency for each service?)  
+Some considerations for the authors in case the paper is accepted for publication:  
+- Why the results (as in Fig 5 and 6) for centralised are not shown?  
+- Why in Fig 8 the centralised is constant?
