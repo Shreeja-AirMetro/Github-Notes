@@ -1128,3 +1128,107 @@ Due to their complexity, the following topics could only be treated rather super
 
 An overview of further interesting publications of ethics in science can be found in the publication list of the members of the "International Centre for Ethics in the Sciences and Humanities" (IZEW) of the Eberhard Karls Universität Tübingen.
 
+---
+### GSP Basics | DFG Code of Conduct and Saxon Higher Education Act
+
+**Thoughts are free**  
+  
+As a researcher, you have the great privilege and freedom to research and teach in a self-determined manner in terms of content and methodology.  
+  
+In Germany, academic freedom is enshrined in Article 5 (3) sentence 1 of the constitution - the Basic Law: "Arts and sciences, research and teaching shall be free."  
+  
+With its right and claim to freedom and autonomy, science also has a special obligation to self-regulation.  
+  
+Following a particularly dramatic case of scientific misconduct in Germany (the so-called Hermann/Brach case (www)), the German Research Foundation (DFG) (G) appointed a commission to formulate recommendations for safeguarding good scientific practice in the German scientific system.  
+  
+In 1998, this commission adopted a white paper “Safeguarding Good Scientific Practice” with 17 recommendations, which was updated and supplemented in 2013.  
+
+**DFG Code of Conduct "Guidelines for Safeguarding Good Research Practice"  
+**  
+In August 2019, the DFG white paper was replaced by the Code of Conduct "Guidelines for Safeguarding Good Research Practice“ (hereinafter referred to as DFG Code).  
+  
+
+All universities and non-university research institutions must implement this 19-guideline Code in a legally binding manner in order to receive funding from the DFG.  
+  
+A practical and subject-specific commentary on the Code as well as specific case studies and a collection of FAQs on the individual guidelines can be found on the online portal Research Integrity (www).
+
+  
+The legislation of Saxony has also recognised the universities' responsibility to protect scientific integrity.
+
+This is stated in the **Saxon Higher Education Act** that has been in force since June 2023:  
+"Universities shall promote scientific honesty, ensure compliance with the generally recognised principles of good scientific practice and counteract scientific misconduct. Academic staff are obliged to maintain academic honesty." (SächsHSG §83, unofficial translation)
+### GSP Basics | DFG Code of Conduct
+
+![Icon, blau, Doktorhut](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P5/image.5917309f9b744186b4ecc359e91c78bc.png?1762192425993)
+
+The DFG Code aims to establish a culture of scientific integrity in scientific institutions and to align internal structures, processes and actions with these guidelines for safeguarding good scientific practice.  
+  
+**The basic principles of good scientific practice are defined as follows:**  
+
+- to work "lege artis", i.e. according to the recognised rules of the relevant discipline, taking into account the current state of knowledge,  
+      
+    
+- to maintain strict honesty with regard to one's own contributions and those of third parties,  
+      
+    
+- to consistently scrutinise all results and  
+      
+    
+- allow and promote critical discourse in the scientific community.
+
+DFG Code, Guideline 1 (www)
+
+**Professional ethics in science**
+
+Orientation towards the basic principles and adherence to the rules of good scientific practice are essential to the professional ethics of scientists:  
+  
+"Researchers are responsible for putting the fundamental values and norms of research into practice and advocating for them."  
+DFG Code, Guideline 2 (www)
+
+**Good scientific practice right from the start!  
+  
+**"Education in the principles of good research begins at the earliest possible stage in academic teaching and research training. Researchers at all career levels regularly update their knowledge about the standards of good research practice and the current state of the art.“
+
+DFG Code, Guideline 2 (www)
+### GSP Basics | International agreements
+
+**International recognition**  
+  
+The basic principles of good scientific practice apply worldwide and have been set down in various international agreements:     
+  
+Singapore Statement  
+In the position paper published in 2012, common, internationally recognised basic principles and responsibilities with regard to academic integrity and good scientific practice were defined for the first time.     
+  
+Montreal Statement  
+These principles were expanded and updated in 2013 with regard to collaborative research across national, institutional and disciplinary boundaries.  
+  
+European Code of Conduct for Research Integrity  
+Adopted in 2019 by ALLEA (European Federation of Academies of Sciences and Humanities), this document defines the framework for self-regulation and self-governance of the scientific system across all disciplines and research contexts within the European research community.
+
+The basic principles of good scientific practice are defined in the European Code of Conduct for Research Integrity as follows:
+
+- **Reliability** in ensuring quality of research in terms of design, methodology, analysis and use of resources.  
+      
+    
+- **Honesty** in developing, conducting, reviewing, reporting and communicating research in a transparent, fair, complete and unbiased manner.  
+      
+    
+- **Respect** for colleagues, research participants, society, ecosystems, cultural heritage and the environment.  
+      
+    
+- **Accountability** for the research process, from idea to publication, for its management and organisation, for training, supervision and mentoring, and for its wider impact.
+
+(European Code of Conduct, p. 4)
+### Good scientific practice at TU Dresden | The GSP Statutes
+
+**GSP Statutes of TU Dresden**  
+  
+The DFG Code forms the basis for the "Statutes for Ensuring Good Scientific Practice, Avoiding Scientific Misconduct, and Handling Violations", which were adopted by the Senate of TU Dresden in 2022.  
+  
+It replaces the "Guidelines for Safeguarding Good Scientific Practice, Preventing Scientific Misconduct and Dealing with Violations", which were issued in 2014.  
+  
+**Good to know!**  
+  
+All members and staff of TU Dresden are obliged to follow the GSP Statutes, to make them the basis of their scientific work and to actively contribute to the prevention of scientific misconduct.  
+  
+The GSP Statutes also stipulate, among other things, that all academic staff at TU Dresden and all doctoral candidates are obliged to complete at least one training course on "Good Scientific Practice".
