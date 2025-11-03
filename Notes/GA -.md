@@ -1766,3 +1766,195 @@ Funding Activities, September 2023)
       
     
 - The use of generative models is not permitted in the preparation of expert reports with regard to the **confidentiality of the review process**.
+Even scientific journals (e.g. Nature) exclude the authorship of AIs such as ChatGPT.  
+ChatGPT and other AIs do not fulfil the criteria for authorship as they cannot take responsibility for the content and integrity of scientific papers.
+
+### Publishing the dissertation
+
+**Publication**  
+While journal articles are often written by several authors, dissertations are usually single-authored.  
+  
+An exception to this can be journal articles that are published jointly with co-authors as part of a cumulative doctorate.   
+  
+According to § 41 para. 6 SächsHSG, doctoral theses must be published. It is only then that the doctoral procedure is formally completed.  
+  
+In most cases, there is a deadline of one to two years after the thesis defence within which the deposit copies must be submitted to the SLUB.  
+  
+This means that **the doctoral procedure is only considered successfully completed once your dissertation has been published**. You will receive your doctoral certificate and may carry a doctoral title.  
+  
+You will find the relevant regulations in the doctoral degree regulations of your faculty.  
+
+There are various ways to publish the dissertation. These include, for example:
+
+- handing over a number of printed and bound copies of the dissertation as specified in the doctoral regulations to the faculty and to the SLUB,  
+      
+    
+- electronic publication on Qucosa (www), the SLUB's university publication server  
+      
+    
+- publication with a commercial publisher  
+      
+    
+- publication in self-publishing  
+    
+
+**  
+Publication Guideline of TU Dresden**  
+To ensure that authors of scientific publications are clearly attributed to TU Dresden, all members of TU Dresden are required to follow the TU Dresden Publication Guidelines (www).  
+  
+This primarily means that you should indicate your formal affiliation with TU Dresden in all your publications by clearly and correctly stating your university name.  
+
+**Dissertation Embargo Note**  
+In exceptional cases, there may be reasons not to publish a dissertation immediately after its submission, particularly in the case of patent law or contractual aspects, for example as part of an industrial doctorate. In these cases, it is possible to apply for a temporary embargo.  
+  
+Such an embargo note can be requested from the doctoral committee of the respective faculty. A blocking period of up to one year is permitted, with the possibility of extension for one more year if necessary.  
+  
+**Plagiarism check**  
+In future, approximately 20 per cent of all dissertations submitted to TU Dresden will be randomly checked for plagiarism.
+
+### Open Access
+
+Open Access stands for free and worldwide access to scientific publications via the Internet. OA publications are generally available online without charging a fee for access or downloading. This is intended to enable unrestricted and equal participation in scientific research.
+
+TU Dresden adopted an Open Access Resolution (www) in 2012. This includes the recommendation to all scientists at TU Dresden to publish either via the gold route (first publication) or the green route (second publication/self-archiving).  
+  
+Together with the SLUB (Saxon State and University Library) (www), TU Dresden promotes open access publishing with numerous services and an efficient open access infrastructure.  
+
+This infrastructure includes:
+
+- Open Access publication counselling and workshops,
+- Rights checks in the publication process,
+- Advice on funding opportunities for open access publications when applying for third-party funding projects by the TU Dresden Project Scouts (www),
+- a central Open Access Publication Fund (www), which, under certain conditions, pays the article processing charges for articles in scientific journals,
+- Qucosa (www), the Saxon document and publication server for open access publications.
+
+![Zwei Personen stehen lesend an einem Stehpult in einer Bibliothek, im Hintergund Bücherwände](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P41/image.e4bc9dfc884f472abf7c4c85d76525ed.jpg?1762192426020)
+
+**Good to know!**  
+As an author, you are responsible for carefully selecting the respective publication medium, taking into account its quality and visibility  
+(cf. GSP Statutes §8 (2)).  
+  
+It is not always easy to distinguish between reputable and rather dubious open access journals. You can find tips on how to check journals on the website Think.Check.Submit. (www).
+
+It is generally advisable to publish your articles in journals that are listed in the Directory of Open Access Journals (DOAJ) (www) or whose publishers are members of the Open Access Scholarly Publishers Association (OASPA) (www).  
+  
+
+In addition, the SLUB offers counselling to help you find a suitable Open Access journal.  
+  
+Further online resources on Open Access and Open Science can be found here:
+
+- Open Science Initiative (OSIP) (www)of the Faculty of Psychology of TU Dresden 
+- Principles of Transparency and Best Practice in Scholarly Publishing (www)
+- Center for Open Science (www)
+### Suspicion of scientific misconduct | Committees, contacts & procedures
+
+Scientific misconduct is as old as science itself. Unfortunately, it occurs time and again in a wide variety of research contexts.  
+  
+At TU Dresden, there are a number of points of contact you can turn to for support if you suspect scientific misconduct.  
+  
+In addition, the procedures for dealing with incidents in which the rules of good scientific practice have been violated have been clearly defined.  
+  
+**In this lesson, you will learn more about committees, contacts and procedures so that you know what to do if you suspect scientific misconduct.**
+
+### Suspicion of scientific misconduct | Committees & contacts
+
+If there is a reasonable suspicion of academic misconduct, you can contact the TU Dresden Ombudsperson (www) directly. The Ombudsperson may involve other bodies to investigate and clarify the matter.  
+  
+**Ombudsperson**  
+The Ombudsperson and their deputy are appointed for three years by the Senate on the recommendation of the Rectorate. They are the contact persons, counsellors and mediators in all suspected cases of scientific misconduct.  
+  
+**All members of TUD have the right to speak to the ombudsperson in person if required.**
+
+Contact: ombudsperson@​tu-dresden.de  
+
+Alternatively, you can contact the supra-regional body "German Research Ombudsman (www)" set up by the German Research Foundation (DFG).  
+(Cf. GSP Statutes §11).   
+
+![Person steht in Rückenansicht vor einem Poster der DFG](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P44/image.f6c8adc6563444458715dc33e474939d.jpg?1762192426021)
+
+**Office for Good Scientific Practice  
+**The Office for Good Scientific Practice (www) supports the Ombudsperson, the Investigation Committee and the regular review bodies in cases of suspected scientific misconduct.  
+  
+The Office for Good Scientific Practice accepts reports of suspected misconduct confidentially and provides information on possible procedural steps. However, you can also contact the Ombudsperson directly.
+
+**Investigative Committee**
+
+The Investigation Committee is appointed by the Rectorate for a period of three years. It is made up of four members who are former members of TU Dresden and an external chairperson.  
+  
+It investigates scientific misconduct and makes its decisions on the basis of the established facts and the evidence gathered.
+
+### Suspicion of scientific misconduct | Committees & contacts
+
+TU Dresden has a number of committees, representatives and contact points that ensure compliance with good scientific practice and can be contacted in the case of suspected scientific misconduct.  
+  
+The following easily accessible counselling and support services are available to you during your doctorate:  
+  
+**Liaison Officers for Early-Career Researchers**  
+The Liaison Officers are the first contact for early career researchers (especially doctoral candidates) at faculty level. They support and mediate in conflict situations.  
+  
+If necessary, and only with the consent of the person seeking advice, the Liaison Officers can pass on the case of conflict to the Ombudsperson, who can then inform the Office for Good Scientific Practice.  
+  
+The right to contact the Ombudsperson directly remains unaffected.  
+  
+Contact information of the liaison officers of the faculties (www) (in German)  
+
+**Counselling & training services of the Graduate Academy**  
+The GA supports doctoral candidates, postdocs and supervisors with a comprehensive range of qualification and counselling services:
+
+- online GSP basic training
+- in-depth GSP seminars
+- GSP workshops on demand
+- individual GSP counselling
+
+**Subject-specific GSP trainers at TU Dresden**  
+In addition, certified GSP trainers are available in all five departments of TUD, as well as at the cfaed, the CRTD and the Graduate School DIGS-ILS, who offer subject-specific training courses on good scientific practice.
+
+List of contact details for all contact persons and trainers (www) (in German)
+
+**BKMS® notification system at TU Dresden**  
+The anonymous electronic whistleblowing system (www) offers an opportunity to report suspected misconduct or breaches of the rules of good scientific practice at TU Dresden.
+
+### Suspicion of scientific misconduct | Procedures
+
+**What happens in the case of suspected scientific misconduct?**  
+In the case of suspected scientific misconduct, TU Dresden has established a multi-stage procedure.  
+(Cf. GWP Statutes §16-§20)  
+  
+„The investigation of accusations of scientific misconduct shall be conducted expressly with due regard for confidentiality and the fundamental principle of the presumption of innocence.“  
+(GSP Statutes §16(2))  
+  
+**Whom can I contact?**  
+If you have a specific case of suspicion, you can contact the TU Dresden Ombudsperson (www) or the German Research Ombudsman.  
+  
+The DFG can also be contacted directly in cases of suspicion against DFG applicants, grantees or reviewers.  
+
+**How is a suspicious activity report created?**  
+As a rule, a report should be in written form, stating incriminating facts and evidence.  
+(cf. GSP Statutes §16(4))  
+  
+**How are suspected cases usually investigated?**  
+In the case of a report, the Ombudsperson obtains the necessary information and statements from the persons concerned in order to clarify the case.  
+  
+If, in the opinion of the Ombudsperson, there is a well-founded suspicion of scientific misconduct, he or she can inform the Investigative Committee or the responsible regular review panel.  
+  
+The Committee then decides whether the suspicion has not been confirmed or whether a formal investigation procedure will be initiated.  
+  
+If the Committee considers academic misconduct to be proven, it submits a report to the Rector with a recommendation for further proceedings.   
+(Cf. GSP Statutes §19)  
+
+**Protection of whistleblowers  
+**„Persons who provide a specifiable indication of suspected scientific misconduct (whistle-  
+blowers) shall not suffer any disadvantages with respect to their own scientific and professional advancement as a result."  
+  
+(GSP Statutes §17(2))
+### Suspicion of scientific misconduct | German Research Ombudsman
+
+**German Research Ombudsman**  
+  
+In addition to the university's internal structures for preventing and investigating scientific misconduct, there is also the option of contacting the German Research Ombudsman and asking for support with regard to questions and conflicts concerning good scientific practice.  
+  
+The German Research Ombudsman (www) is a supra-regional body set up by the DFG to support all scientists in Germany.     
+  
+In its work, the German Research Ombudsman refers to the DFG Code and offers counselling and mediation in cases of suspicion and conflict, as well as networking and information on all aspects of good scientific practice.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P46/image.6a6495cc745a4ef5a1f293f40e74f496.png?1762192426023)
