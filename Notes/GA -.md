@@ -82,6 +82,23 @@ c) appointing the referees
 d) forming the examination committee
 
   
+Getting Started
+
+LE 1 - 1
+    
+ - 2
+    
+ - 3
+    
+ - 4
+    
+ - 5
+    
+
+## M1
+
+### On the
+  
 The doctoral committee is composed of at least
 
   
@@ -188,3 +205,89 @@ Touch-up tools is the term used for the settings in graphics programmes that, as
 
   
 Touch-up tools include, among others, cloning or healing tools. These programmes make it possible to replace one part of the image with another.
+Copyright
+
+**Course name:** “Good Academic Practice during  
+Doctoral Studies”  
+**Publication date:** 01.04.2015  
+**Author:** GRADE – Goethe Graduate Academy:  
+Dr. Alexander M. Weigand,  
+PD Dr. Heike Zimmermann-Timm  
+**Contact:** elearning@grade.uni-frankfurt.de  
+**Last changes:** 01.10.2016  
+**Author last changes:** Dr. Alexander Weigand  
+**Other changes:** -  
+**Copyright:** GRADE – Goethe Graduate Academy  
+**Funding:** The project has been supported by the  
+Hessen State Ministry of Higher Education,  
+Research and the Arts (HMWK).  
+**Contributions:** Dr. Alexander M. Weigand was  
+responsible for the project coordination, content  
+development, didactical concept and choice of content.  
+Anja Schenk oversaw the implementation of the “Ethics in Science”-module.  
+TRIO Service GmbH has proofread the content  
+and didactical concept.  
+Sarah McGee translated the content into English.  
+Bosse und Meinhard GbR have designed  
+animations, graphics and the final course design.  
+Studiumdigitale was responsible for the technical  
+implementation of the course design and for  
+adjusting the LernBar Player.  
+  
+**Graphic credits**  
+The following graphics are implemented in this eLearning programme. In case copyrights have been violated, we highly appreciate your notice to correct our mistake.  
+  
+**Module 1**  
+1H: Photocase Addicts GmbH  
+2H, 3H, 4H, 5H: A.M. Weigand  
+  
+**Module 2**  
+1H, 2H, 3H, 11H, 12H: Photocase Addicts GmbH  
+5H, 14H: Bosse und Meinhard GbR  
+7H: A.M. Weigand  
+8H-links: Kai Mörk, CC-BY 3.0 de  
+8H-mittig: Deutsche Forschungsgemeinschaft (www.dfg.de)  
+8H-rechts: Hochschulrektorenkonferenz (www.hrk.de)  
+13H: GRADE – Goethe Graduate Academy  
+  
+**Module 3**  
+1H, 2H, 3H, 4H, 9H: Photocase Addicts GmbH  
+7H, 10H: A.M. Weigand  
+8H, 11E: Bosse und Meinhard GbR  
+9E-1: Initiative Hochschulen für den Frieden ‒ Ja zur Zivilklausel!  
+9E-2: Pixabay, CC0 Public Domain  
+13H: QualitätsZirkel Promotion  
+  
+**Module 4**  
+1H: Goethe-Universität Frankfurt  
+2H, 4H, 15E: Photocase Addicts GmbH  
+3H, 5H, 6H, 7H, 8H, 10H, : A.M. Weigand  
+4E, 13H, 15H: Pixabay, CC0 Public Domain  
+13E: EMBO (www.embopress.org)  
+14H: A. Jochum (Original), A.M. Weigand (Varianten)  
+16H: Prof. Dr. Debora Weber-Wulff, Fremde Federn Finden  
+  
+**Module 5**  
+1H, 11H: Photocase Addicts GmbH  
+2H: Bosse und Meinhard GbR  
+3H, 5H, 6H, 8H, 10H: A.M. Weigand  
+7H: Pixabay, CC0 Public Domain  
+  
+**Module 6**  
+1H: Photocase Addicts GmbH  
+2H, 3H: A.M. Weigand  
+Certificate: GRADE – Goethe Graduate Academy
+You have decided to complete doctoral studies, probably your first independent research – and you want to get started right away.
+
+Before doing so, it is important to pause for a moment.
+
+**Please keep in mind that there are rules that you absolutely must follow to be successful.**
+
+This chapter informs you about the guidelines of the academic community; the ethical and technical guidelines for academic work as well as the consequences in the case of misconduct.
+### Science is Comprehensible to Others
+
+Research aims at gaining objective or intersubjective insights.
+
+Researchers test hypotheses in a systematic and revisable way in order to gain new insights. Or conclusions are drawn from observations (inductive approach).
+
+In publications, they document and publish the research results so that other researchers can comprehend their work and express their views regarding it.
