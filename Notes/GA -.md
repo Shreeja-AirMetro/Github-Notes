@@ -621,3 +621,111 @@ Rights management ![](https://bildungsportal.sachsen.de/scormruntime/course-pac
   
 
 (courses are in German)
+
+### Careful, Precise Work
+
+You have finished with the formalities and the first steps, now you can start in terms of content: You work out a detailed concept for your doctoral project, identify appropriate research approaches, research, experiment and begin to write.
+
+In this chapter, you will learn how to
+
+  
+
+- organize your literature and research work
+- correctly cite texts
+- prepare image credits
+- save your results
+- ### Reading, noting, organizing
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P2/image.fb0e66ac5ea4438ab0566fb663113e70.png?1762190595964)
+
+During your doctoral studies, you will read a lot, think and make notes.
+
+With your research, you connect to current knowledge. Speak with your supervisor about relevant literature for your topic.
+
+Use primary literature, follow interesting sources and subscribe to services that show you project-specific new publications (search alerts).
+
+Document everything carefully and organize your notes.
+
+Afterwards, you as well as others should always be able to perfectly comprehend how a research result was reached. And it should always be clear whether the result is based on your own work or on others' work.        
+
+Intellectual creations should be just as comprehensible and testable as the approaches and research data that you have gained, for example, from interviews, text interpretations, field work or laboratory studies.
+
+In this way, you can avoid accusations of plagiarism and falsification or can confront them without any problem.
+
+### Managing Literature
+
+Literature that you refer to in your dissertation is best managed with software specifically designed for this purpose, such as Citavi ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_extern.png), EndNote ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_extern.png), Mendeley ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_extern.png) or Zotero ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_extern.png).
+
+A programme comparison by the Saxon State and University Library Dresden can be found here ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_intern.png)    (in German, retrieved 07/2018).
+
+With the help of this software, you can integrate **citations** and **footnotes** in your academic works in an uncomplicated way.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/image.2ee73ecce4f740e7beedc4b78b55fe2a.png?1762190595965)
+
+The programmes are based on **reference systems**. They make it possible to
+
+- acknowledge the work of others, for instance, ideas, pictures and content
+- document results consistently
+- understand academic knowledge
+
+The **bibliography** provides an overview of the sources used. Depending on the reference system, it is arranged numerically or alphabetically (according to author with the year stated).
+
+All the citations used in the continuous text appear in your bibliography.
+
+Depending on the field of study, other reference systems are used. Therefore you should inform yourself in time about which system is relevant for you (further information ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P3/Link_intern.png)).
+
+### Order Based on Numbers or Letters
+
+IEEE and Vancouver, which are often used in the life and natural sciences, are the best known **numerical refer****ence systems**. They use numbers in the continuous text to refer to the bibliography.
+
+The sources are numerically sorted in the bibliography according to their appearance in the continuous text.
+
+Example: "It is not enough to know – one must also put it to use. It is not enough to want – one must also do" **[14]**.        
+
+APA, Harvard, MLA, Oxford and Turabian are the best known **author****date reference systems**. They differ from the numerical systems in their use of parentheses and in stating the year and page numbers. The bibliography is always alphabetically ordered.  
+
+Example: "It is not enough to know – one must also put it to use. It is not enough to want – one must also do" (**Goethe, 1854**).
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P4/image.323a6389a6e04100b7a52cc94c3a341e.jpg?1762190595967)
+
+As a footnote system, the Oxford system is widespread. It is especially used in literature, the arts and history.
+If you use text passages and images from others in your dissertation, you must mark these as citations.
+
+This way you show that this content is borrowed.
+
+Citations support your arguments and inform other authors about the use and dissemination of their own work.        
+
+- You should use citations in the case of
+- adopting a sentence word for word
+- reformulated, paraphrased statements
+- images from others
+- internet sources
+
+Citations serve as links to further information in the bibliography. Depending on the origin of the citation (book, specialist journal, internet source), this could include
+
+- author(s)
+- year of publication
+- publisher
+- name of a journal 
+- page number   
+    
+- edition   
+    
+- URL   
+    
+- retrieval date
+### Citing and Paraphrasing
+
+You can express a statement that originates from another publication in different ways.
+
+The leeway ranges from a **literal quotation** to the analogous use of a statement (**paraphrase**). No matter which means you use to express the content, you must always name the source.
+
+Avoid Text Recycling ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P6/Link_intern.png) – the use of your own previously published text passages in a new publication. Otherwise, without a reference to the source, you would be committing **selfplagiarism**.
+
+### Avoid Plagiarism
+
+The German Rectors' Conference (HRK) defines plagiarism as "adopting the text, ideas or data of another without a clear indication of the author" (from German, 14th General Meeting, 14/05/2013 ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P8/Link_extern.png)).
+
+To protect yourself from accusations of plagiarism, you should check your work for careless errors:
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P8/image.804735971d8a4359bc17115662b1a2cf.png?1762190595977)
