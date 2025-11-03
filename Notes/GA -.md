@@ -477,14 +477,147 @@ In this chapter you will learn
 With your doctoral work, you expand current knowledge.  
 You should be aware, however, that your work will be perceived and judged differently:
 
-  
-
 - For the most part, **society** requires that the knowledge provide a clearly defined benefit.
-
-  
-
 - Your **supervisors** attribute an academic relevance that is worthy of support to every doctoral research project – not just yours.
 
+- **You** focus on your project for several years and, in many respects, make connections to current knowledge.
+- ### Green Light
+
+Your doctoral studies formally begin with the "acceptance as a doctoral student" in the faculty.  
+  
+The respective requirements as well as all other formalities are regulated in the facultyspecific doctoral regulations. Please make yourself familiar with these regulations early on.  
+   
+[grade:text3_4_1]  
+
+Your doctorate is evidence of having attained a special academic qualification. You provide proof of this through your dissertation as well as an oral examination. Generally, the oral examination takes the form of a disputation and more seldomly as a rigorosum.
+
+  
+During the doctoral examination process, to ensure good academic practice, you must observe the policies of the German Research Foundation (DFG) as well as of the respective university.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P18/image.e682e958de714fe59855a7d97c91917e.png?1762190245500)
+
+**Goal**  
+You successfully complete your doctorate by receiving positive evaluations on your dissertation  
+and oral exam and publishing your work.
+### Plan Your Doctoral Studies
+
+High pressure to publish, intense competition
+
+and shortage of time can make you susceptible to (unconscious) misconduct.  
+   
+A **project plan** that you work out at the beginning of your doctoral studies helps you to prevent this. It specifies the time sequence of your activities and sets important intermediary results as milestones on your way towards reaching your project goal.  
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P3/image.dc34ac4867e64be681c3feb5c8fd9c76.png?1762190245506)
+
+Good project planning brings you unerringly to the completion of your doctoral studies.
+
+Good academic practice includes discussing your project plan regularly with your peers and supervisors and continually adapting it to the actual project progress. In this way, you avoid risks and can more easily manage your work.  
+   
+[grade:text3_7_1]  
+   
+[grade:text3_7_2]
+### Goals, Expectations and Obligations
+
+You invest much time and work in your doctoral studies. You have expectations and goals that you wish to realize, but you also enter into commitments.  
+   
+So that your project can successfully proceed and develop, you should come prepared to the meeting with your supervisors and address important issues yourself.  
+   
+Furthermore, you should be aware that you and your supervisors have to some extent different goals, expectations and obligations, which must  
+be brought together.
+
+enlarge view ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAjCAYAAAD8BaggAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAM6SURBVFiF7ZhPaBxVHMc/v7ezm7RJKiRNKB7Eq8faU3uweGl2S6tCIWh6kgb2ViG2HvQQFsHSJmtr0YMXkVJorYQeLCgF8SQ99RoUBEHwUv9UXd10Ns77ethUN/MnO86U2oPfy+z8fu995zPvvXnvx5okisoMY/HTi5gdBXYhO6/27JuFDQErBXT6s5OIdwZCHaJ7T+j8C78U9XSFaQDEoVhkAjeyUMayHBDsS0TMHS1jWBjIWi0H7ElmtLcET5kROljLSOws7lkG6Kf1LKCKNW9Xi9oWBxqvZT905M6OorbFgboEmbmRymhR2+JAtdAyc/ZnYd+yn/0D1/9Aw/TIAeU6XG3x4x0E448jmwFGABCTwGpGl2MYPxNJBK5DZD+w69b3Wlryw54VzLXmamPd6hE8NRy9P3Zu3Li2dK33N8ypG7upTKzhmc71in2tIsAZeIEJOvufAr4abLSwODfpg2ABmPG46x+eu/ylm+gGZ0xaNdMVk1bHu9XlwU5aOfIj0ASGvt02+oT2oa/jQVWDm8BZ4FWH/+LE6fn9TuKZra10INFxuX4d2cmCMGtUescltqyNZrNZlbZUC1Xv2OuAsZhB6i6r9ux7iDP/EuYu3p7X2ec68cS9sbsz8ZhJkw7YekhKmdu+2vXXMbuUEybC6UW9PftNWtIF1cSalNlUEshs+3Pot90LwNWhOKZTOte4mZV2RCkjRMoIZUzZfen9fRu06/Ogt7KaYLyi5caFbX3kEkAyppwlpmx7oL4Z0krjDaQTwMZAqof0kpbrF4d6QNoamnJKTBm5axm1Gx8gGsCvQAdxWO3GR3n6OpQEMpt0QLzQqrRaz2bXOgmo+uegA0gH+7/zyZt7LOElpgKSa4g7TI8Cv+eGWmms5W17X4bS6qnR1MN1Pcw/bQ9Y3fTTPixegpZUOpDM4rv3w1LGCJmefsgg/cca3dSvycwuvPza/GGDEBTKLHS+fxUWOlMoLJT3oTMXetFz+NA7y/3PhYkniS1rKQMImDY4vtkVE8hs8070azphZghh1t+e8+NAHGbTcf2RKmEdylhD/5GEZU5ZEXkg6l8tAkUDseifXOxedDG+w+xbiXf/Any+JrjIC25mAAAAAElFTkSuQmCC)    
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P7/image.b701ae8625e94e6cb4325edde1ce4ecd.png?1762190245507)### Legal Questions
+
+During your doctoral studies you must also deal with legal aspects.
+
+These include
+
+- your employment relationship
+- the copyright law
+
+as well as on additional pages
+
+- civil clauses ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P8/Link_intern.png)
+- patent law ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P8/Link_intern.png)
+- The Initiative Hochschulen für den Frieden – Ja zur Zivilklausel ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P9/Link_extern.png) defines
+
+"_a civil clause as a self-commitment of academic institutions, like universities, to conduct research exclusively for civil and peaceful purposes. This requires that universities not conduct research for institutions of the German armed forces or the arms industry and therefore not enter into any third-party-funding cooperation with these institutions."_
+
+(direct translation from German)
+### Patent Law
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P10/image.31d6bf8ef1c547458fcbbe029ebde9b4.jpg?1762190245509)
+
   
 
-- **You** focus on your project for several years and, in many respects, make connections to current knowledge.
+If you have invented something and wish to patent it, the Employee Inventions Act (_Arbeitnehmererfin__dungs__gesetz_; ArbnErfG ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P10/Link_extern.png)) may apply to you: It deals with "inventions and technical suggestions for improvement from employees in the private and public sectors, from civil servants and soldiers".
+
+A patent should protect innovative products and processes from unwanted imitation. Regarding the questions as to what else it is utilised for and what can be patented, the German Patent and Trade Mark Office provides answers ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P10/Link_extern.png).
+
+It is crucial that you inform ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAMbSURBVFiFzZddiFRlGMd///ecw7ipEQoVyUYFfUEERqDd6UXpxgbVRaEtBBV0IYkhq5fLgje2sEHUdTcLXgQhCtUakSRBBBHUZYgYGQWVfVA7kzPvv4sd2ZlzpnznzKj9meEMz3k+fvO8z/vOGdmmrvTyFwUbfnoLeTsxPufFx7+unQxQXRjtO72BiZV3QY92TZfAR9j4+RHPzcVrBqMDH91Cduk9xEMD7h5HmvHCY39edRgd+vBuYmcZuPM/3L4ktp/w4vSFqwajwx/cS4dPgJsT3L9HTHlh91djh9HBU5MofgpMpiYHLhDb21I7FJJA9r/fIHh5SBCALYT8pGZPrR8bDAWvYN8/JMhlbcXxmObnr1grDUbhR+A8UPMcYDu/PXzHFd2GGuBn3snYUmwka9wGehPYOcBtGfgB0cT6FnyOzGd8dOq7scL0Bb56/CaydRerN9jphd2n6+RMW6YB8utP/gqcqxs/SLVhADDfjIkDGBVG/ntMHMDInVFnTBwA5C8d3LPVITxrHB3CibePLn2WHB3cxqpd/MXZmacsnhZu2D6Rd3I9InMYhOx9M/tnJpfeWPo9KZtDu3L0dNK25/Ozex/MpGNAw4ClEELU5h6fG7OifWva9wJEq2LLlDRHQZoGGmupXIQYvKnfK6xLhsErVcBYtQ2Q0AP9BhVBVh9McGiQqqhq4Zg3k2Dke/oMpghAqTNK74xcLdyJSTA25V/yIlDqDOqMtkxFIkzPvKwaVATkzX3GyBAwOl8yRNbHpJ2oMow8YJk0xDJFnQTaPRXOeG76r8To8mwWAbihHya9M17c9QvB9yH2EL2Dzh9TqbFAXobJgSb0DFMcojOAX5s6C5wdJmaQpNXO9A2h8MSoievIJq/ADDUz41UeVIahsv+vlfJgSqeove16weQQV6DnMUDseuHQ3o+Bi5Jajm6h0ERuYTcttTDN0L2a2L2q/a9lBkiiqMJIK9U/INoBYK9GgbtPCkJd37UHeV1+jao8ECszc72UB+v/A5MD84ifMXcJbjdMAFn3HXo+Z4LMEDAZWrN3/UZdqfwfe+gabwW8d7UAAAAASUVORK5CYII=) yourself in a timely manner about the correct steps, because
+
+**what has been published can** **no longer be patented!**
+
+Therefore be aware that a conference poster and a presentation are already forms of publication.
+### Employment Relationship
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P11/image.d85b2a89d27e4c4ea091abab0ed0c113.jpg?1762190245510)
+
+The doctoral regulations governs your doctoral research relationship. If you have entered into a supervision agreement at your university, this agreement governs your supervisory relationship.  
+Maybe in addition to this, you have an employment relationship with a university or a research institution.
+Depending on the nature of your employment and its financing, you have different rights and obligations, for instance, in the case of teaching courses
+The **university research position**, which includes conducting research and teaching, is the most common type of employment. Teaching can be governed by a contractual agreement in this case.
+If you have been awarded a **scholarship**, you are not contractually obligated to teach. 
+How a university research position and a doctoral scholarship differ in terms of taxes as well as unemployment insurance and health insurance can be found here
+A university research position and a doctoral scholarship differ in some important points. In the case of a scholarship, you should pay attention to whether you must to get health insurance for yourself or if the health insurance is already covered by the scholarship.
+### Copyright Law
+
+You deal intensively with a research topic, most likely over several years, and publish your results.
+
+But who does your research work belong to? You? Your supervisors? The institute or the university?  
+
+To answer this question, you must differentiate between the **work** (individual design and presentation, implementation of the content) and the **content** (hypothesis, knowledge, idea).        
+
+When you create an original artistic, literary or academic **work**, you are automatically its author.
+
+Your **work** is then protected by **copyright law** (_Urheberrecht_; UrhG ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P13/Link_extern.png)), however not the basic **content**.  
+  
+For example: OrAnGe LeAvEs ArE GreEn        
+
+The individual design of the **content** (here: upper case and lower case) is protected through the UrhG, but the statement of the content may be used – whereby quotation law must be observed: If someone uses your **content**, she or he must indicate the source.        
+
+As author, you can give other people a limited right of use for your design in terms of time, space and content.                        
+
+When supervisors, students or assistants significantly contribute to the creation of your **work**, they are coauthors. All third-party work must be identified as such.        
+
+If your **work** has been created in the course of an employment relationship, there can be contractual particularities, for example, agreed-upon usage rights (more information ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P13/Link_intern.png)).
+### Summary
+
+You have learned in this chapter what is necessary to successfully start your doctoral studies. This includes
+
+- the necessary formalities
+- planning your doctoral project and structuring your supervisory relationship
+- the legal aspects that are relevant to your doctoral studies        
+
+**Additional Literature and Links**
+
+In the handbook "Shaping Doctoral Studies Together", you learn about some first individual research projects from the point of view of the supervisors ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_intern.png) and doctoral candidates ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_intern.png). The Doctoral Studies Quality Circle (_QualitätsZirkel Promotion_; QZP) developed it and published it in 2012.        
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/image.43909b9ddcd841e49ce8d308106cee71.png?1762190245515)
+
+You can find more details about some of the fields of law in other learning programme courses that were developed within the framework of the project "New Media at the Hessen Campus" for adult education centres (_Volkshochschulen_; VHS):        
+
+  
+
+Data protection ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_extern.png)
+
+Liability ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_extern.png)
+
+Copyright law ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_extern.png)
+
+Rights management ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080051726046332220/pages/P16/Link_extern.png)     
+
+  
+
+(courses are in German)
