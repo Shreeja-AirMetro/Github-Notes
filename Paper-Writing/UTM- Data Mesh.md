@@ -2315,3 +2315,19 @@ The paper is well written and the topic relevant for the SIDs. In some parts the
 Some considerations for the authors in case the paper is accepted for publication:  
 - Why the results (as in Fig 5 and 6) for centralised are not shown?  
 - Why in Fig 8 the centralised is constant?
+
+### Improvement points 
+- Clearly define the intended scope (strategic, tactical, or both) at the beginning and maintain this focus throughout the paper.
+- Explicitly identify which U-Space service levels (U1-U4) are targeted by the architecture, and explain how delays and latency requirements differ between strategic and tactical functions.
+- Precisely frame CISP and USSP roles in line with official regulations, referencing EASA/SESAR documentation or current European policy.
+- Avoid suggesting direct connections that bypass prescribed intermediaries unless justified as a deliberate regulatory innovation, in which case discuss implications for certification, safety, and compliance.
+- Use aviation and airspace-specific references (SESAR, EASA, 3GPP) for latency requirements.
+- Justify latency values with respect to typical reaction times in the actual U-Space context (minutes for strategic, seconds for tactical) supported by cited standards.
+- - Expand your discussion on the costs (deployment, maintenance, contracts) of edge-based solutions, including hybrid or mixed models.
+- Address vendor lock-in risks, potential interoperability issues, and mitigation strategies (e.g., neutral hosting, federated governance, open standards).
+
+General Recommendations
+- Focus the paper on a specific and manageable set of use cases, especially one where edge computing is critical (e.g., automated conflict resolution, detect-and-avoid loops).
+- Strengthen the problem analysis for multi-tenant, federated deployments and the challenges (synchronization, consistency) in hybrid operations.
+- Consider a section on resilience and failure modes—how does each architecture cope with outages or inconsistent data?
+- Use real regulatory language and reference actual standards when describing actor roles and operational processes.
