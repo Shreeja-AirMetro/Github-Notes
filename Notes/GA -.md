@@ -1127,3 +1127,4 @@ Due to their complexity, the following topics could only be treated rather super
 - Animal protection
 
 An overview of further interesting publications of ethics in science can be found in the publication list of the members of the "International Centre for Ethics in the Sciences and Humanities" (IZEW) of the Eberhard Karls Universität Tübingen.
+
