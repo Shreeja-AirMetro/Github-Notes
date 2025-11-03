@@ -24,4 +24,4 @@ The last chapter describes at what point you are considered to be an author of a
 This first module "**Getting Started**" 
 - offers you an overview of the current learning programme
 - helps you to understand the navigation and the learning objective
-For completing the following modules, you will need approximately 15 minutes per module.
+For completing the following modules, you will need approximately 15 minutes per module.Navigate 
