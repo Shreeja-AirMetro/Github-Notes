@@ -728,4 +728,96 @@ The German Rectors' Conference (HRK) defines plagiarism as "adopting the text, i
 
 To protect yourself from accusations of plagiarism, you should check your work for careless errors:
 
-![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P8/image.804735971d8a4359bc17115662b1a2cf.png?1762190595977)
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P8/image.804735971d8a4359bc17115662b1a2cf.png?1762190595977)### Correct Use of Images
+
+If you use images from others in your research work, you should note the following points:
+
+- You must name the source.
+
+  
+
+- You must observe the copyright. If necessary, you need to get permission to use the image.
+
+  
+
+- Especially when you use only an excerpt of an image, the original image context must be preserved.
+
+-  Changes that are made by you to the original images have to be indicated as completely as possible.
+
+  
+
+- If your image comes from an archive, you should name the archive collection and location.
+
+Some journals have formulated principles on image editing ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P13/Link_intern.png).
+### EMBO Principles of Image Editing
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P14/image.6368c722991a429890727c69f588d90d.png?1762190595985)
+
+The EMBO Journal is one of the peer-review journals published by the European Molecular Biology Organization (EMBO) in the area of molecular and cell biology.
+
+In its ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P14/Link_extern.png) Guidelines on Image Processing, the EMBO Journal recommends **minimal image editing**.
+
+Furthermore, upon request, it should be possible to provide the unprocessed data as well as the metadata.
+
+To an appropriate extent, the following must be stated for every figure:
+
+-  recording device
+- recording software
+- device settings
+- software settings
+- image processing software and changes  
+    
+
+In the event that image processing is unavoidable, the following principles are to be followed:
+
+  
+
+- keep the original message
+- meet the standards of the community
+- indicate all changes (for example, juxtapositioning images from different times or recording devices)
+- forgoing touch-up tools
+- consistent use of the image processing tools over the entire figure (brightness and contrast) 
+
+In doing so, changes in contrast may not lead to the disappearance of data.
+
+### Obtaining and Saving Results
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P16/image.021d5906455844f99ed0ffaa7b3affe5.jpg?1762190595990)
+
+It is not only important that you carefully handle the work of others and clearly indicate where you refer to the thoughts and works of others, but you must also pay attention to some considerations in the case of your own research approach.        
+
+Always reflect on your methodological approach and make sure that your research questions are able to be revisable.  
+  
+Work transparently and thoroughly. Document when, why and how you carried out something or read and excerpted something (example: laboratory book ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P16/Link_intern.png)).  
+  
+Discuss your problems with other researchers, for instance, at conferences or in seminars. Practice restraint, however, when dealing with sensitive research questions or ideas that you still want to patent!        
+
+Additionally, you should archive your research results, which means
+
+- saving them and storing them long term (generally at least ten years)
+- clearly naming them and making them able to be found
+- ensure uncomplicated access to (for example, through online databases ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P16/Link_extern.png))
+- ### The Laboratory Book, Your Memory Aid
+
+In the natural and life sciences, you use a laboratory book to document all steps and results of your test series, indicating the date. A laboratory book is an official legal document. Therefore, you should use a permanent marker and later changes should clearly be marked as such.
+
+The laboratory book serves to make your laboratory activities (experiments, observations, measured values) understandable at a later time. You must always keep it at the institute.
+
+Doctoral candidates as well as supervisors should verify handing over the laboratory book with a signature.
+### Summary
+
+In this chapter, you have learned how you
+
+- manage your literature
+- organize your notes
+- design your work to be transparent, verifiable and free of plagiarism
+- correctly use images
+- make your research results accessible and store them  
+    
+
+**Additional Literature and Links**
+
+If you would like to go on a plagiarism hunt yourself, you can do so with the help of the learning programme "Find Foreign Feathers" (Fremde Federn Finden) of the htw-Berlin here ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P18/Link_extern.png) (in German).                 ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P18/FremdeFedernFinden.jpg)
+
+The older a work is, the more difficult it is to access the original data. This was shown in the following study: Vines, T. H., et al. (2014), _The availability of research data declines rapidly with article age_  ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080061726046375492/pages/P18/Link_extern.png) . Current Biology, 24: 94–97.
+
