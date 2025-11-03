@@ -961,3 +961,169 @@ After the disputation has taken place, in which the language had been previously
    
 After you have passed and published your dissertation, you will receive the doctoral diploma.
 
+### ummary
+
+In this last chapter you have learned
+
+  
+
+- which criteria are relevant in assigning authorships  
+    
+- what possibilities exist for correcting errors in academic publicationshow you can complete your doctoral studies  
+    
+
+**Additional Literature and Links** 
+
+With ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P11/Link_extern.png) „_How to handle authorship disputes: a guide for new researchers_“ in the COPE Report 2003, Albert & Wager explain how authorship disputes can be mediated or prevented.        
+
+In the article ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P11/Link_extern.png) „_What competencies do today's academic authors need?_“ by Braverstock (2010), you can get an overview of the requirements that today's authors must meet.        
+
+Interpersonal relationships also play a big role, as clarified by Mainous et al. (2002) in their publication ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P11/Link_extern.png) „_The importance of interpersonal relation- ship factors in decisions regarding authorship_“.
+
+On the pages of ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P11/Link_extern.png) Retraction Watch  you can inform yourself about the reasons for retracted articles.        
+
+In psychology, an exemplary venture has arisen. In order to reveal fabrications, and therefore falsifications, the Reproducibility Project ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080071726046412795/pages/P11/Link_extern.png) was established. Its goal is to repeat studies that have already been conducted.
+
+### thics in Science - What does this mean?
+
+Would you carry out research in any topic possible? Even if your research will carry conceivable risks for society?  
+  
+To address these questions and clarify dilemmas, ethics in science is employed.
+
+On the one hand, research obtaining new knowledge is not restricted (Basic Constitutional Law of the Federal Republic of Germany Article 5, para. 3), whilst on the other hand, scientific research can entail dangers for society.       
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P2/image.d468a249de8c492d84367b78801225f9.png?1762191538106)
+
+In order to keep the balance between these two viewpoints, a system of scientific self-control with ethical codes and ethics commissions have been established. Both these elements monitor the keeping of these standards and control the effect of research.
+
+  
+These self-imposed control elements are important since exactly where new knowledge is being generated, legal frameworks may be lacking.
+
+A good example ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P2/Link_intern.png) is personalized medicine.
+### Personalized medicine
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P1/image.f368d02a148a4dff9bb84529a66b1c98.png?1762191538108)
+
+Due to extremely rapid developments in molecular biology and technologies, the proportion of personalized medical therapy has greatly increased.  
+  
+In particular in the area of genetic diagnostics, personalized medicine is already very wide-spread.  
+  
+Genetic testing is often carried out, searching the genetic make-up of a patient for potential (inherited) diseases, in order to find a suitable therapy and a suitable drug.
+
+Thus, personalized medicine promises to reduce the risks and to improve assessment of side effects of treatments. In some cases it can bring about a faster recovery and can also be less expensive.  
+  
+Yet, at the same time, a large number of highly sensitive personal data are generated, a procedure with currently unpredictable societal-political consequences.  
+  
+To preclude possible discrimination due to one’s genetic make-up, a law on genetic testing (Gendiagnostikgesetz ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P1/Link_extern.png)) has been implemented in Germany.
+
+### Getting an Overview
+
+Frameworks to control ethics research are implemented on several levels.
+
+At the European level, the European Union (EU) specifies ethical directives which are to be adhered to in each grant application.        
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P4/image.ddb1a7c6ce2f4ad3af675f992e620096.png?1762191538109)
+
+You will find an overview of the procedure of the EU evaluation process and of the ethically questionable/critical research areas in the volume “Ethics for Researchers”![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P4/Link_intern.png). The editor is the European Commission.  
+  
+The EU ranks some research areas as carrying a potentially higher ethical risk, such as studies
+
+-  involving children, patients or other vulnerable groups  
+    involving animals
+- using stem cells
+- generating and using personal data and
+- in developing countries.
+
+At the national and federal level, at the level of universities or institutes, further control mechanisms can be in place.  
+  
+**Rules at Goethe-University Frankfurt:**  
+For medical research involving humans (which also comprises of research with identifiable data or body materials such as tissue), the faculty of medicine has established the Ethics Committee, which will also decide on the licensing of so-called clinical trials with drugs or medicinal products. The faculty of psychology has its own Ethics Committee to deal with research in psychology.
+### Responsible research with humans
+
+A crucial part of the ethics-code deals with research involving humans or research involving human material and data.  
+  
+The World Medical Association (WMA) passed the “Declaration of Helsinki” ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P3/Link_extern.png) for the first time in 1964, which is a valid convention for medical research in humans worldwide.
+
+The declaration has since been revised several times and includes the following points:
+
+- Risks, liabilities and benefits
+- Vulnerable groups and individuals  
+    
+- Scientific standards and research protocols
+- Research-ethics commissions
+- Privacy and confidentiality
+- Informed consent
+- The use of placebos
+- Measures after the end of the trial
+
+Registration of research and publication and distribution of results
+
+The infringement of these conventions can ultimately mean the end of your doctoral or research project.
+
+You will need **approval from the ethics committee**, for example, if you expect more serious physical stress or emotional strain in your test subjects. If this is missing, your on-going doctoral project can be terminated or you will not be able to register as a PhD student at the faculty with such a project.  
+  
+Here ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P3/Link_intern.png) you can read about obtaining approval at the Goethe University.
+### Applying for approval by the Ethics Committee
+
+Before you start your trial, you should ensure that you have applied for all approvals you need and that you are within the bounds of the Declaration of Helsinki.  
+  
+Guidance on how to decide is given in the diagram to the right.  
+  
+Website ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P12/Link_extern.png)  of the Ethics Committee of the faculty of medicine (Goethe-University).  
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P12/image.78ad2c6b0ab2437ab8a4b1878a3c7637.png?1762191538111)### Obtaining Informed Consent
+
+In case of using personal data in your research project or generating such personal data, you will need to obtain **informed consent** of the people involved.  
+  
+“Informed” here means that   _"[...] each potential subject must be adequately informed of the aims, methods, sources of funding, any possible conflicts of interest, institutional affiliations of the researcher, the anticipated benefits and potential risks of the study and the discomfort it may entail, post-study provisions and any other_        
+
+_relevant aspects of the study. The_ _potential subject must be informed of the right to refuse to participate in the study or to withdraw consent to participate at any time without reprisal. Special attention should be given to the specific information needs of individual potential subjects as well as to the methods used to deliver the information_."
+
+Declaration of Helsinki, version Oct. 2013, point 26
+
+### Protecting Nature and the Environment
+
+Humans benefit much from the ecological environment and nature in general:
+
+- Supply of naturally filtered drinking water
+- Natural reproduction of fish populations as a food source
+- Fresh air for breathing
+- Attractive places for leisure and relaxation          
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P10/image.d3d01c30033549f9979b7b55ceaf412b.png?1762191538119)
+
+In order to safeguard these and other natural benefits, but in particular to protect nature and the environment in a sustainable manner, biologically intact ecosystems are required.  
+  
+Therefore, the global community has agreed on general values and virtues as well as behaviour, such as the regulation of global climate change due to human interference (Kyoto protocol ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080081726046482821/pages/P10/Link_extern.png)) or to protect ecosystems from biological exploitation (Convention on Biological Diversity).
+
+### Respect the "3 R"
+
+When doing research using animals, you should always heed the following principles – **replacement, reduction, refinement.**  
+  
+They comprise all those measures required to lessen the distress and suffering of animals or even to eliminate the need for animals in research.  
+   
+This widely used concept today goes back to _“The Principles of Humane Experimental Technique”_ by Russell & Burch (1959).  
+  
+_Reduction_ and _refinement_ should be seen as steps to _replacement_.
+
+### Summary
+
+This additional module at hand has provided you with an introduction to the complex subject of ethics in science.  
+  
+Due to their complexity, the following topics could only be treated rather superficially
+
+- General principles and behaviour
+- Research involving humans  
+    
+- Ethics approval
+- Personal data and data protection  
+    
+- Informed consent  
+    
+- Research in developing countries  
+    
+- Dual-use technologies  
+    
+- Animal protection
+
+An overview of further interesting publications of ethics in science can be found in the publication list of the members of the "International Centre for Ethics in the Sciences and Humanities" (IZEW) of the Eberhard Karls Universität Tübingen.
