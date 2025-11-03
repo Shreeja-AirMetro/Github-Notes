@@ -1409,3 +1409,227 @@ You can also contact your Faculty's liaison officer for early career researcher
 In addition to individual forms of support, the Graduate Academy also offers conflict moderation and mediation (www).  
   
 This form of conflict resolution involves all parties to the conflict, i.e. you and your supervisor. For it to work, both parties should take part in the mediation voluntarily, be open to new perspectives and ideas for resolving the existing conflict and be willing to actively work towards an amicable solution.
+
+### Quality assurance throughout the research process
+
+The principles of good scientific practice must be observed and adhered to throughout the entire research process.  
+  
+This applies in particular to the collection, documentation and management or storage of research data.  
+  
+However, the creation and publication of scientific texts also require particular care in compliance with GSP requirements.
+
+**In this lesson, you will learn more about what it means to conduct each step of your research according to good scientific practice.**
+
+### Quality assurance throughout the research process
+
+**Lege artis  
+**Scientists carry out every step of the research process according to lege artis, i.e. according to the recognised rules of the relevant discipline, taking into account the current state of knowledge in their field.
+
+Continuous quality assurance must be guaranteed throughout the entire research process.  
+(Cf. GSP Statutes, § 7 and the DFG Code, Guideline 7 (www))
+
+In the comments on the DFG Code you will find, among other things:
+
+- a guideline on "Overarching quality assurance in the life sciences" (www)  
+- Advice on "Quality assurance in experimental chemistry" (www)  
+- Explanations on  "Replication as a component of quality assurance in the humanities and social sciences" (www) or the  
+- "Guidelines for quality-promoting aspects in medicine and biomedicine" (www) .
+
+### Research design, methods & standards
+
+**In search of the research gap...**  
+  
+In the early phases of the research process, planning the research project and defining a research design in particular require careful work in accordance with the principles of good scientific practice.  
+  
+It is essential to recognise and fully consider the current state of research and to build your own research project on this.  
+  
+In order to identify relevant and suitable research questions, published research in the relevant field must be carefully researched.  
+DFG Code, Guideline 9 (www) and GSP Statutes §7(2)  
+  
+The Saxon State and University Library Dresden (SLUB) (www) for example, offers an appropriate infrastructure for in-depth literature research.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P22/image.91c5a07f96574e27b294735f20718b52.jpg?1762192426006)
+
+**There's a method to it!**  
+  
+Research methods are a researcher's tools; they are used to answer the respective research question and are based on established standards.     
+  
+The methodological approach requires specific methodological competences. The approach should be well-founded and comprehensible and must be accompanied by quality assurance measures.  
+  
+This ensures that research results are comparable and transferable.  
+  
+DFG Code, Guideline 11 (www) and GSP Statutes §7(3)
+
+### Research design, methods & standards
+
+**By all that is right and fair...**
+
+Familiarise yourself with the rights and obligations resulting from legal requirements or contracts with third parties as early as possible. Check whether any authorisations and ethics votes need to be obtained.  
+  
+As a researcher, you are expected not only to comply with the principles of good scientific practice and the legal requirements for your research, but also to use your knowledge, experience and skills to recognise, assess and evaluate potential risks.  
+  
+In doing so, you should pay particular attention to the aspects and ethical principles associated with safety-relevant research (dual use).  
+  
+GSP Statutes §7 (4) & DFG Code, Guideline 10 (www)
+
+### Research ethics
+
+**Research ethics** deal with the tension between academic freedom and the social responsibility of researchers. Scientists are obliged to use the freedom of research granted by the constitution responsibly.  
+  
+In addition to complying with legal regulations and obtaining the necessary authorisations and ethical votes, this responsibility also includes weighing up the risks and benefits of their research in order to avoid or minimise direct and indirect harm to people, property and the environment as far as possible:  
+  
+"Scientists are continuously aware of the danger of misuse of research results. They take into  
+account rights and obligations, in particular those resulting from legal requirements but also from  
+contracts with third parties, and obtain and submit approvals and ethics votes where necessary. Their responsibility is not limited to the compliance with legal requirements, but it also includes the obligation to apply their knowledge, experience, and skills in such a way that risks can be identified, assessed, and evaluated."   
+GWP Statutes §7 and DFG Code, Guideline 10 (www)  
+
+In order to support researchers in this, there are various **points of contact and counselling options** both throughout Germany and at TU Dresden.  
+  
+In order to ensure compliance with ethical and legal standards and the scientific integrity of research projects on and with humans, TU Dresden has established the TU Dresden Ethics Committee (www).  
+  
+This independent, interdisciplinary committee issues ethical judgements and advises researchers on ethical and legal aspects.  
+  
+The Commission for Responsibility in Science at TU Dresden gives advice on potentially safety-relevant risks and conflicts of values in planned research projects.  
+  
+In the case of projects whose research and results touch on questions of **dual use** (i.e. both civilian and military usability), researchers at TU Dresden are obliged to indicate this in the notification of third-party funding (www).
+
+### Research ethics | Provisions
+
+Anyone conducting research with **genetic resources**, i.e. with any biological material, may fall under the regulations of the Nagoya Protocol (www) and must comply with its provisions.   
+  
+The "**Nagoya Protocol**" is an international agreement to implement the goals of the UN Convention on Biological Diversity and an instrument for safeguarding international nature conservation. It regulates access to genetic resources and the fair and equitable sharing of the benefits arising out of their utilisation under the Convention on Biological Diversity.  
+  
+The **Federal Agency for Nature Conservation (BfN)** is the point of contact and advice centre for users of genetic resources and collections in Germany. An example of this at the TU Dresden is the Botanical Garden (www).
+
+Also with regard to **export controls**, researchers must take responsibility and comply with the applicable control regulations.  
+  
+The Export Control and Academia Manual published by the **Federal Office for Economic Affairs and Export Control (BAFA)** is aimed at scientists and research institutions with the aim of sensitising them to the topic of export control and supporting them in the application of foreign trade law.   
+  
+In the Export Control and Academia Manual is stated: "The focus of German and European export controls is on preventing the proliferation of weapons of mass destruction and the uncontrolled transfer of conventional military items. At the same time, sensitive items are to be prevented from being used for internal repression or other serious human rights violations, or from being supplied or otherwise made available abroad for the promotion of terrorism."  
+   
+BAFA (2022): Export Control and Academia Manual , p. 17  
+
+At TU Dresden, the Compliance Officer in the Chancellor's Office is the contact person for questions relating to export controls.  
+  
+Further information can be found on the internal web pages on compliance at TU Dresden (www).
+
+### Handling of research data | TU Dresden guidelines
+
+**Save the data  
+**  
+In every scientific discipline, research data is collected and analysed in different forms and formats.  
+  
+Long-term archiving of research data is a prerequisite for the reproducibility of scientific results.  
+  
+The data obtained is also of interest for possible subsequent usage. On the one hand, new insights can be gained, and on the other, the reuse of the data increases the recognition of the scientific work.  
+  
+The traceability of research results is therefore a central component of good scientific practice and the responsible handling of research data is a fundamental tool for all scientists.  
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P26/image.b8419ccfe04242f3bd75ce9d26cbbe0d.jpg?1762192426009)
+
+**Guidelines for the handling of research data at TU Dresden**  
+   
+TU Dresden has formulated binding Guidelines for the handling of research data (in German).  
+  
+For research projects in which research data is collected and processed, a data management plan documenting the handling of research data should be set up as early as possible in the project conception phase.  
+  
+The Service Center Research Data at TU Dresden (www) supports researchers in research data management, such as the creation of a data management plan.  
+  
+**Good to know!**  
+  
+The Graduate Academy offers numerous workshops on research data management as part of the qualification programme.
+
+### Handling of research data | Research data management
+
+While the numerous guidelines and recommendations on the topic of research data management provide a helpful framework for orientation, there is one question that always arises from the researchers' perspective:  
+  
+**How can research data management be implemented efficiently and successfully in my own day-to-day research?**  
+  
+The Service Center Research Data at TU Dresden (www) recommends the following step-by-step model for the systematic establishment of research data management:  
+  
+**1. Develop awareness of your own data situation**  
+Which data is generated in which phase of the project? How should this data be processed? Where is the data stored and where is it processed? Who is involved in this?  
+  
+**2. Formulate rules for data management**  
+What categories can the data be divided into (folder structure)? How should the files be named in a self-explanatory way (file naming convention)? What information must be available so that the data can be traced (documentation)?  
+
+**3. Apply and evaluate rules**  
+The rules defined are initially applied to a small portion of the data. After having been successfully evaluated and, if necessary, adjusted, these rules can be integrated into the daily work routines step by step .  
+  
+**4. Develop technology**  
+With the knowledge gained in this way, requirements for supporting technologies can now be formulated. These technologies support researchers in recurring tasks, such as assigning keywords, extracting metadata or moving and packaging data sets.  
+  
+**5. Use technology**  
+A technology-based solution for research data management is currently being established.
+
+Source: https://www.forschung-und-lehre.de/forschung/forschungsdaten-erfolgreich-managen-3213/ (www)
+### Handling of research data | Terms & rights
+
+Scientific data can prove to be very valuable for new research approaches long after it was collected. Long-term storage and easy access are essential for this. In addition, such an approach to storing data avoids unnecessary duplication and can increase the quality and reliability of future research work (e.g. comparative studies, time series analyses).
+
+![Tastatur, blaues Ausrufezeichen auf einer Taste](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P28/image.f7f75353ef39415c842ab5d4f5ce5a90.jpg?1762192426011)
+
+**What data should be stored?**
+
+"As a matter of principle, all information relevant to the generation of research results must  
+be documented, including individual results that do not support the research hypothesis.[...]"  
+GSP Statutes §7(5)
+
+**Where should primary data be stored?**
+
+"Primary data as a basis for publications shall be stored on durable and secured data storage  
+devices in the institution in which they were created.[...]"  
+GSP Statutes §7(6)  
+  
+**How long should primary data be stored?**
+
+"If scientific findings are made publicly available, the primary data must generally remain accessible at the institution for ten years. [...]"  
+GSP Statutes §7(9)  
+
+**How should research data be stored?**  
+  
+In order to ensure the traceability and accessibility of their own research, scientists should, if possible, store their research data in recognised archives and repositories in accordance with the **FAIR principles** ("Findable, Accessible, Interoperable, Re-Usable").
+
+  
+In the FAIR Guiding Principles for scientific data management and stewardship (www)  you will find a detailed explanation of the FAIR principles.
+
+In 2018, the federal and state governments decided to set up the German National Research Data Infrastructure (NFDI) in order to systematically tap into the currently often decentralised and project-based databases of science and research.
+
+TU Dresden is involved in 14 of the 27 currently funded NFDI consortia (www) (as of 11/22) and is the leading coordinator of the two consortia NFDI4Earth and Base4NFDI.
+### Handling of research data | Usage rights
+
+**Who owns research data?  
+  
+**This question is not always easy to answer. Research data can be subject to copyright, data protection (in the case of personal data) or contractual agreements, in particular regarding the right of use, as is the case with industrial doctorates, for example.  
+  
+**Good to know!  
+**"Even in the case of research data that is neither personal nor covered by copyright or related rights, it is advisable to make contractual arrangements regarding the right of use. This not only avoids claims for damages, but also ensures harmonious and trusting research collaboration."
+
+(Source: Forschung & Lehre: Wem "gehören" Forschungsdaten?, 12.09.2018 (www), translated with DeepL)
+
+### Handling of research data | Usage rights
+
+**Who may use the data?**  
+  
+Research data generated by academic staff in the course of their work generally "belong" to the employer.  
+  
+If you are employed as an academic staff member at an institution of TU Dresden, the university is usually your employer.   
+  
+As a rule, doctoral candidates usually have the right to use the research data they have collected for their doctoral project, the so-called right of usage.  
+  
+However, whether this right still exists even after a change of position to another institution depends on the individual case, e.g. if the use is necessary to complete the dissertation project.
+
+The TUD|Excellence Centre for Innovation, Transfer and Entrepreneurship (TUD|excite) (www) can advise you on questions regarding intellectual property issues in connection with your doctorate. 
+
+![mit einfachen Stichen stilisierte Glühbirne, umgeben von gelben zerknüllten Zetteln](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P30/image.6edc2b964ade4eefbc187c65510b71d2.jpg?1762192426012)
+
+**Good to know!**  
+  
+Talk to your supervisor about the topic of usage rights as early as possible and record this in a written agreement.  
+  
+The GSP Statutes stipulate:  
+  
+"The researchers involved in a research project shall, as far as possible and reasonable, reach  
+documented agreements at the earliest possible point in time on who is entitled to access rights  
+and use rights to the research data. The use of research data is available in particular to the scientists who collect them."  
+GSP Statutes §7 (8)
