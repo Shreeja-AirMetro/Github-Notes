@@ -1633,3 +1633,136 @@ The GSP Statutes stipulate:
 documented agreements at the earliest possible point in time on who is entitled to access rights  
 and use rights to the research data. The use of research data is available in particular to the scientists who collect them."  
 GSP Statutes §7 (8)
+
+### Scientific writing
+
+**Writing**  
+Anyone working scientifically has to write a lot. For doctoral candidates, writing is often one of the biggest challenges in the doctoral process.  
+  
+How can you manage your own writing process in such a way that you produce high-quality scientific texts within the time available and adhere to the rules of good scientific practice?  
+  
+**Structuring**  
+In order to avoid plagiarism, it is important to structure the writing process well right from the get-go, document the sources used (literature, but also data series or research results), manage them sensibly and cite them correctly.  
+  
+It is advisable to use a suitable literature management programme right from the beginning and to familiarise yourself with the citation rules of your own subject area. You should also clearly explain how your own research results have been generated.
+
+**Citation**  
+Handling of sources carefully is essential at every stage of the research process.  
+  
+In order to refer to scientific contributions by other authors correctly, it should be clearly labelled in the text whether these are your own ideas or someone else's. Passages in which content from other authors has been adopted need to be clearly marked.   
+  
+Your own publications that serve as sources for your current text should also be marked accordingly, as the unmarked reuse of your own texts ("text recycling"), for example in a dissertation, contradicts the principles of good scientific practice.  
+  
+(cf. commentary on Guideline 13 of the DFG Code (www))
+
+### The phases of the writing process
+
+The writing of an academic text, such as a dissertation, can be understood as a process taking place in several phases, regardless of the respective discipline:  
+  
+1. in the **orientation and planning phase**, the topic is defined and narrowed down. The state of research on the topic is surveyed and the research question and objectives are concretised. A time and work schedule is also set up.  
+  
+2. In the **material phase**, data is collected and analysed, a comprehensive literature search is conducted and an outline for the final text is gradually developed.
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P51/image.a4027a366db64179b7083e4e7eafdcca.jpg?1762192426014)
+
+3. In the **phase of first draft writing**, the aim is to create a first complete version of the text, bringing together all the ideas that have come up so far and working out a common thread in the text.
+
+4. In the **text revision phase**, the first draft is revised in several revision loops with regard to content, structure, language and style and finally concerning spelling and grammar (proofreading).  
+  
+5. In the **concluding phase**, the text's formatting is adjusted, lists are created, a final correction is made and the text is submitted for the review process.        
+  
+The principles of good scientific practice must be adhered by throughout the **entire writing process**.
+
+### services
+
+![Junger Mann mit rot/weiß gestreiftem T-Shirt steht inmitten von Bücherreihen einer Bibliothek und liest](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P35/image.44ef1ef9d9c54f1f8e5ad73a011b7e91.jpg?1762192426015)
+
+**The Saxon State and University Library (SLUB)**  
+The Saxon State and University Library (SLUB) (www) offers you a wide range of support for academic writing and publishing:
+
+- a guideline on citation (in German) Zitierleitfaden „Zitieren – Eine Handreichung zum wissenschaftlichen Arbeiten“,
+- short videos on writing and citing (in German) available on the YouTube channel of the SLUB (www),
+- individual advice on many writing-related topics via the knowledge bar (www),
+- workshops and seminars on literature management
+
+**The Writing Lab of the Graduate Academy  
+**The Writing Lab of the Graduate Academy (www) offers doctoral candidates and postdocs a wide range of services relating to academic writing:
+
+- individual writing advisory sessions,
+- writing groups,
+- writing workshops,
+- writing weeks,
+- a Writing Retreat
+- and a Grant Writing Boot Camp.
+
+Questions regarding compliance with good scientific practice in the writing process are also addressed and discussed.
+### Publishing & authorship
+
+Scientific writing is an essential part of your research activities and requires a great deal of care with regard to compliance with the rules of good scientific practice.   
+  
+When publishing research results, a question that often arises is who is authorised to appear as an author in a publication. **Authorship issues** are handled very differently in different disciplines.  
+  
+The DFG Code and the GSP Statutes of TU Dresden define minimum requirements that apply to decisions on authorship issues in all disciplines:  
+  
+"An author is a person who has made a genuine, traceable contribution to the content of a scientific text, data, or software publication and has consented to its publication."   
+GSP Statutes § 8 (3)  
+
+**Who wrote it?**  
+  
+In connection with questions about authorship, there are three main cases in which the rules of good scientific practice are often violated:  
+
+1. People who have made only a minor or no contribution to research and publication are named as authors. This is referred to as **honorary authorship**.  
+      
+    
+2. Persons who have made a significant genuine contribution to research and publication are not named as authors. This case is also referred to as **ghost authorship**.  
+      
+    
+3. Furthermore, disputes often arise regarding the **order** in which authors are named.
+
+Information from the various disciplines on this topic can be found in the comments on Guideline 14 of the DFG Code (www).  
+
+![aus verschiedenfarbigen zerknüllten Papieren stilisierte Glühbirnen](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P36/image.64746d5d7f1d466b88b8514bce324e15.jpg?1762192426016)
+
+**Cumulative or paper-based dissertations  
+**Authorship issues are of particular importance in the context of a cumulative doctorate.  
+  
+If you are aiming to write a dissertation consisting of several journal papers, you need to clarify in advance which requirements regarding authorship and publication of the articles in question need to be taken into account.  
+  
+**Further resources on the topic:**
+
+- How to handle authorship disputes: a guide for new researchers (www)
+- Ehrenautorschaften als Fehlverhalten (www)
+- COPE (Committee on Publication Ethics) (www)
+### How to use ChatGPT and other generative models for text and image creation
+
+![Kleiner Computer sitzt am Schreibtisch und schreibt mit einem Stift](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P37/image.85359fdd43204f80bc178b3859046da5.jpg?1762192426016)
+
+**Who is the author?**  
+Chat GPT and other generative models for text and image creation can be used throughout the entire scientific work process. For example, they can be used to generate texts on almost any topic in a very short time.  
+  
+The question of how Chat GPT & Co. can be used without violating the basic principles of scientific integrity is a subject of debate in the scientific community.  
+  
+The German Research Foundation (DFG) has formulated initial framework conditions (www) for the use of generative models for text and image creation in order to ensure good scientific practice and the quality of scientific results:
+
+  
+(Source: Statement by the Executive Committee  
+of the Deutsche Forschungsgemeinschaft (DFG,  
+German Research Foundation) on the Influence of Generative Models of Text and Image Creation on Science and the Humanities and on the DFG’s  
+Funding Activities, September 2023)  
+
+- **Transparency and traceability** must also be guaranteed when using Chat GPT & Co.  
+      
+    
+- The use of AI does not exempt scientists from their responsibility to **comply with the basic principles of scientific integrity**.  
+      
+    
+- When publishing their results, researchers should **disclose** whether and which AI they have used, for what purpose and to what extent.  
+      
+    
+- Only the **responsible natural persons** can be authors of scientific publications.  
+      
+    
+- The use of AI when **submitting grant applications** should be evaluated neither positively nor negatively in the review, assessment and decision-making process.  
+      
+    
+- The use of generative models is not permitted in the preparation of expert reports with regard to the **confidentiality of the review process**.
