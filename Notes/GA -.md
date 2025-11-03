@@ -291,3 +291,68 @@ Research aims at gaining objective or intersubjective insights.
 Researchers test hypotheses in a systematic and revisable way in order to gain new insights. Or conclusions are drawn from observations (inductive approach).
 
 In publications, they document and publish the research results so that other researchers can comprehend their work and express their views regarding it.
+### Research Findings Build up on Each Other
+
+Research begins with an innovative question. Based on the current state of knowledge, expectations are formulated and tested. The research methods depend on the type of question and the discipline.
+
+All research is integrated within an existing academic context and is part of a continuing process. In the course of this, every discovery is tied to the knowledge gained from previous work. This was already pointed out in the year 1120 by Bernard of Chartres in a parable about giants and dwarves (quote ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P4/Link_intern.png)):        
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P4/image.3999451989554f5caddfc3383d7cb0af.png?1762188814587)
+
+Dwarves can see further, because they are standing on the shoulders of giants.
+### Good Academic Practice
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P6/image.e767d130a78d4153b0f20933118bbd03.png?1762188814589)
+
+Academic research is only successful when society trusts those doing the research. This in turn requires good academic practice.  
+   
+During your doctoral studies, you must therefore
+
+  
+
+- honestly describe where and how you refer to other works
+- document your results
+- save your results and store them  
+
+You should reflect on 
+
+  
+
+- how research results are collected and how theses are formulated and discussed in a way that others can understand 
+- how to save and publish results
+- when an authorship is justified
+- how to cite correctly
+- what is protected by copyright
+- ### System of Self-monitoring
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/image.19db40bbab194ada8601924af9d15428.png?1762188814589)
+
+Through individual misconduct, you not only damage your own reputation but also the reputation of your supervisors, the institute, the university, the discipline and the entire field of academic research. An example of this is the plagiarism case of Karl-Theodor zu Guttenberg ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/Link_intern.png).        
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/image.beedeacc1b0c421b885f2e6b7ea55129.png?1762188814590)
+
+The fraud case of Herrmann/Brach ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/Link_extern.png)prompted the German Research Foundation (the DFG) in 1998 to formulate recommendations for "Saveguarding Good Scientific Practice" ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/Link_intern.png).
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P7/image.4dadde13d5d84f41a3afd362da60fcda.png?1762188814591)
+
+Under these recommendations, institutions as well as academic researchers commit to selfmonitoring.  
+   
+In reaction to this fraud case, the German Rectors' Conference (HRK) also dealt with
+
+academic misconduct in 1998 and defined it.
+### Saveguarding Good Scientific Practice
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKZSURBVEiJvZc9iBVXFMd//zt3zPrNxo9CA2mEQFo/IkljEfwAUVCzYCKBqCGFnbqukCI8QVJkY2clgjYiYmFhsmJjII2bkCYpLEKaBRFEkKyi7+3uu3+Lffhmn8vMm2zWAxfmnnvO/3funTMzjGxT13R67DxoP/Zx/7jnfu38OlA1fok8b13G/rLjSuCGR/ecWxSohu8uh3QTs3ue5eusHPjK3+1o/m9QDd9djtM9YGtJ1DjSPv+w83GVXuinMpyulAMB/BFOP6txe9mCoTo19i1wqK/iYDOT8ZoajVLd0kWN3PkAqVaTIPbzbNv3ZSGxVGDZ+N9Mbh8ipE2YVaBtwKc9UQamgBngETAB/qm0rrrPqYbvjM3tYI17dNf2Ohr9NVLRrF9r5ywcmv55+1BpeqHQePzk0LtkAxum23p69cLVh9VQT2PVBh0bObzFKWxsp/aD4Cw/kdT+K4szE0fPHv64MtvM9DgqO/HYmc8P2uF3xK0syy4GizWdteCkzZVQ0eopovK4jQ4UpnkwrO3q6Z1KKHrZ4+idz2fruxUoD3IXCgxUM9NciKj+stjruvHOg0IBKlVDU+yFVEOldYVZHlzcqVM1lKknzL76OoI8rc6hAHUMFO6pqd6pR/c+Af32OsXhUln8N2eHVgN516M8AN3mUR/3FGBi8hPa7Q+JcdCjO/8oC51KLO1x5ZHZ7lsJIL8RMK/5xmdt4EFfBb5peQBedNX63OkCzCIGF6AWKxYbKhODClDBjq9Hjry3qFCIkeLxwpJk/3n0zBf/Ai3spqUWoinTAprYLRSa4CaoXQ3J5/SJ54FiGGR2gIQ6zq6KCo76fwdADGgu9C1YjCGli0maxryPNAjOLAWZDMgEwcxed0YoXP8n6Cvxz+UDhfSUlgAAAABJRU5ErkJggg==) Good Scientific Practice – Report from the DFG (accessed 29 June 2020)
+
+"The aim of the Code is to enable the intended audience – researchers and heads of universities and non-university research institutions – to align their internal structures, processes and actions with the guidelines for good research practice. This is intended to create a deeply rooted culture of research integrity at higher education institutions, focusing less on breaches of good scientific practice and more on the professional ethics of researchers.
+
+As of 1 August 2019, all universities and non-university research institutions will be required to implement the 19 guidelines in a legally binding manner to be eligible to receive DFG funding. For those universities and non-university research institutions that have already implemented the relevant requirements in the DFG white paper “Safeguarding Good Scientific Practice” in a binding manner, there is a two-year transition period for implementing the guidelines in the Code.”
+
+Guidelines for Safeguarding Good Research Practice - Code of Conduct ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P8/Link_intern.png) (PDF)  
+       
+
+DFG: ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P8/Link_extern.png) Research Ombudsman
+
+![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461742080041726046279124/pages/P8/Link_extern.png) Details regarding the procedures of the DFG        
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKZSURBVEiJvZc9iBVXFMd//zt3zPrNxo9CA2mEQFo/IkljEfwAUVCzYCKBqCGFnbqukCI8QVJkY2clgjYiYmFhsmJjII2bkCYpLEKaBRFEkKyi7+3uu3+Lffhmn8vMm2zWAxfmnnvO/3funTMzjGxT13R67DxoP/Zx/7jnfu38OlA1fok8b13G/rLjSuCGR/ecWxSohu8uh3QTs3ue5eusHPjK3+1o/m9QDd9djtM9YGtJ1DjSPv+w83GVXuinMpyulAMB/BFOP6txe9mCoTo19i1wqK/iYDOT8ZoajVLd0kWN3PkAqVaTIPbzbNv3ZSGxVGDZ+N9Mbh8ipE2YVaBtwKc9UQamgBngETAB/qm0rrrPqYbvjM3tYI17dNf2Ohr9NVLRrF9r5ywcmv55+1BpeqHQePzk0LtkAxum23p69cLVh9VQT2PVBh0bObzFKWxsp/aD4Cw/kdT+K4szE0fPHv64MtvM9DgqO/HYmc8P2uF3xK0syy4GizWdteCkzZVQ0eopovK4jQ4UpnkwrO3q6Z1KKHrZ4+idz2fruxUoD3IXCgxUM9NciKj+stjruvHOg0IBKlVDU+yFVEOldYVZHlzcqVM1lKknzL76OoI8rc6hAHUMFO6pqd6pR/c+Af32OsXhUln8N2eHVgN516M8AN3mUR/3FGBi8hPa7Q+JcdCjO/8oC51KLO1x5ZHZ7lsJIL8RMK/5xmdt4EFfBb5peQBedNX63OkCzCIGF6AWKxYbKhODClDBjq9Hjry3qFCIkeLxwpJk/3n0zBf/Ai3spqUWoinTAprYLRSa4CaoXQ3J5/SJ54FiGGR2gIQ6zq6KCo76fwdADGgu9C1YjCGli0maxryPNAjOLAWZDMgEwcxed0YoXP8n6Cvxz+UDhfSUlgAAAABJRU5ErkJggg==) Symposium of the Alliance of German Science Organisations on "Good Scientific Practice" (in German)
