@@ -2331,3 +2331,37 @@ General Recommendations
 - Strengthen the problem analysis for multi-tenant, federated deployments and the challenges (synchronization, consistency) in hybrid operations.
 - Consider a section on resilience and failure modes—how does each architecture cope with outages or inconsistent data?
 - Use real regulatory language and reference actual standards when describing actor roles and operational processes.
+
+Defense: 
+1. Scope: Strategic vs Tactical Services
+
+- Your architecture recognizes that U-Space demands a continuum from strategic to tactical services, and the high-level design deliberately makes provisions for both, while your simulation and technical analysis center on tactical (latency-critical) services.
+- U-Space standards and recent SESAR/EASA guidance expect architectural flexibility so that future multi-level deployments (U1-U4) can be realized using shared telecommunication infrastructure.[](https://www.sesarju.eu/sites/default/files/documents/u-space/SESAR%20principles%20for%20U-space%20architecture.pdf)​​
+- Emphasize that your models can support both service types, but that the quantitative focus is on tactical services, as demanded by market and regulatory trends in dense UAS environments.[](https://www.sesarju.eu/sites/default/files/documents/reports/U-space%20CONOPS%204th%20edition.pdf)​​
+
+2. Roles: CISP/USSP Clarity and Direct Connections
+
+- Your paper frames CISP and USSP roles based on SESAR/EASA frameworks and recent project reports, proposing federated data mesh governance precisely to reconcile the need for multi-actor interoperability with regulatory boundaries.​[](https://www.sesarju.eu/sites/default/files/documents/u-space/SESAR%20principles%20for%20U-space%20architecture.pdf)​
+- Direct operator/CISP interfaces are not meant to bypass USSP mediation for certified functions, but to allow low-latency tactical updates through governed event buses—consistent with evolving U-Space concepts for high-density tactical separation and collaborative services.[](https://www.eurocontrol.int/sites/default/files/2022-11/eurocontrol-u-space-services-implementation-monitoring-report-2022.pdf)​​
+- There is flexibility in the regulatory ecosystem for technical pilots and prototypes that prealign with future anticipated standards; your architecture anticipates this evolution without undermining current safety principles.[](https://www.sesarju.eu/sites/default/files/documents/reports/U-space%20CONOPS%204th%20edition.pdf)​​
+
+3. Latency Values and Requirements
+
+- The paper uses a “50 ms” threshold as a conservative upper bound for low-latency tactical operations, aligned with several SESAR studies and bounded by aviation-specific requirements and best practices (see SESAR, EASA, NASA, DLR docs: execution times for tactical conflict services are typically well under 100 ms, often between 10–50 ms).[](https://www.sesarju.eu/sites/default/files/documents/sid/2024/papers/SIDs_2024_paper_094%20final.pdf)​​
+- Reference and revise to aviation sources (EASA, SESAR, DLR, NASA) as part of your response, but emphasize that real operational needs call for architectures to support single-digit-to-50 ms responsiveness, especially as automation and airspace density rise.[](https://ntrs.nasa.gov/api/citations/20170005659/downloads/20170005659.pdf)​​
+
+4. Edge Computing Cost, Governance, and Hybrid Models
+
+- Your qualitative and tabular results already hint at trade-offs: MEC and edge deployments can lower latency and improve safety but require governance and cost balancing, which is acknowledged in your discussion.[](https://www.sesarju.eu/sites/default/files/documents/u-space/SESAR%20principles%20for%20U-space%20architecture.pdf)​​
+- Vendor lock-in and multi-tenant orchestration are exactly the problems data mesh and federation are designed to address; these concepts are already in pilot in leading telecom and airspace projects, so your proposal is at the research frontier (and you suggest future work for more detailed cost/benefit/risk analysis).
+
+5. Simulation Figures and Service Latency Transparency
+
+- Simulation figures (Figs. 5–8) show comparative results for all proposed architectures, and analysis explains key trends: e.g., why the centralized line is constant (reflecting central compute bottleneck and lack of edge handover events), and why results focus on USSP/CISP-centric variants in the most relevant tactical scenarios.[](https://www.sesarju.eu/sites/default/files/documents/sid/2024/papers/SIDs_2024_paper_094%20final.pdf)​​
+- All service-level latency assumptions (from RAN to processing and handover) are justified based on current standards and corroborated with real-world projects, with results cross-validated through multiple performance metrics.[](https://ntrs.nasa.gov/api/citations/20170005659/downloads/20170005659.pdf)​​
+
+6. Novelty and Urgency
+
+- Stress that current U-Space roll-out is hindered by unclear architectural reference models for federated tactical service delivery; your proposal fills a critical research gap in the literature by offering a 5G/MEC-aligned federation strategy—tailored to next-gen air traffic.​[](https://www.sesarju.eu/sites/default/files/documents/u-space/SESAR%20principles%20for%20U-space%20architecture.pdf)​
+- Invite the committee to acknowledge the research value of providing end-to-end, standards-based, telecom-enabled U-Space solutions before full regulatory alignment becomes available.
+
