@@ -2291,4 +2291,8 @@ Which of these would you like me to do now? (If you want #1, paste the polygon c
 - Pg 4 , 5 datamesh and architecture 
 - Pg 6 results 
 - Page 7 - 7.5 discussion and conclusion and references
-- 
+-
+
+---
+The following final version is submitted for SESAR innovation days 2025 and the paper is rejected with following feedback
+![[paper71 Final federated multiaccess computing architecture for scalable and secure uspace traffic management in 5G enabled UAS network.pdf]]

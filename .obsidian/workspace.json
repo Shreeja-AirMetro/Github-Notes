@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Paper-Writing/UTM- Data Mesh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "UTM- Data Mesh"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Paper-Writing/UTM- Data Mesh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of UTM- Data Mesh"
             }
           }
         ],
@@ -174,22 +174,23 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "paper71 Final federated multiaccess computing architecture for scalable and secure uspace traffic management in 5G enabled UAS network.pdf",
+    "Notes/UTM.md",
+    "Notes/Network coding - UAV Comm.md",
+    "Notes/Multi-link communication.md",
+    "TODOS/November 2025.md",
     "Notes/OS- VM.md",
     "ground.png",
     "cell-ctrl.png",
     "terminal.png",
     "uav.png",
     "Notes/open.md",
-    "Notes/Network coding - UAV Comm.md",
-    "Notes/Multi-link communication.md",
-    "TODOS/November 2025.md",
     "Basics/5G.md",
     "Basics/Basics of Networking.md",
     "TODOS/Todos.md",
     "Notes/Air-Air comm.md",
     "TODOS/Tasks manager.md",
     "Paper-Writing/In-network computing idea.md",
-    "Notes/UTM.md",
     "Notes/UAM-AAM.md",
     "Notes/RDM workshop.md",
     "Notes/NTN.md",
@@ -204,7 +205,6 @@
     "collab-external/EU call.md",
     "collab-external/C2 group.md",
     "collab-external/Anywi.md",
-    "Progress- PhD/Monograph.md",
     "~$phd.docx",
     "phD.pdf",
     "phd.docx",
