@@ -2177,6 +2177,7 @@ ETSI's Industry Specification Group on Experiential Networked Intelligence (ENI)
 Ref : https://www.etsi.org/deliver/etsi_gr/ENI/001_099/008/02.01.01_60/gr_ENI008v020101p.pdf
 https://www.etsi.org/deliver/etsi_gr/ENI/001_099/051/04.01.01_60/gr_ENI051v040101p.pdf
 
+ETSI GR ENI 008 - 
 References 
 1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
 2. ITU Documents
