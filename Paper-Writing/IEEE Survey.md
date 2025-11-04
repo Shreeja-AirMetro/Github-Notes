@@ -828,7 +828,9 @@ What is the structure:
 	- previous work and contribution of this paper 
 	- Fundamentals of the goal 
 	- All issues and challenges 
-	- 
+	- new concepts and solutions 
+	- Future direction
+	- Conclusion
 
 Plan of Action: 
 
