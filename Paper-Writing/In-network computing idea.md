@@ -2146,11 +2146,11 @@ Its regulatory or standardization efforts are focused for the following applicat
 3GPP focuses primarily on bit-level communication and radio access protocols with limited support for semantic metrics. 
 ITU have formed a working group SG13 and  ITU-T SG13 has established liaisons with ETSI, ISO, ITU-T SG16, ITU-T SG17, ITU-T SG20, GSMA, W3C, and OMA to coordinate semantic communication standardization efforts.
 
-With the take off of 3GPP 6G technical specifications and ETSI's semantic interoperability standards are expected to converge with the ITU-T semantic aware networking framework. 
+With the take off of 3GPP 6G technical specifications and ETSI's semantic interoperability standards are expected to converge with the ITU-T semantic aware networking framework. [Ref 1]
 
 **ITU-T Study Group 13 - Semantic-Aware Networking** (SAN)
 ITU-T SG13, designated as the lead study group on AI/ML for future networks, has been developing comprehensive specifications for semantic-aware networking since 2023:
-  **ITU-T TR.Reqts-SAN**  [2.1] is an informative technical report that identifies potential requirements for **semantic-aware networking (SAN)** in future networks including IMT-2020 and beyond.
+  **ITU-T TR.Reqts-SAN**  [Ref 2] is an informative technical report that identifies potential requirements for **semantic-aware networking (SAN)** in future networks including IMT-2020 and beyond.
 
 **General Requirements:**  
 Eight fundamental capabilities including domain-specific semantic ontology, semantic annotation, semantic interpretation, semantic translation, semantic cognition, semantic rationality discovery, and self-description/auto-correction​
@@ -2177,7 +2177,12 @@ ETSI's Industry Specification Group on Experiential Networked Intelligence (ENI)
 Ref : https://www.etsi.org/deliver/etsi_gr/ENI/001_099/008/02.01.01_60/gr_ENI008v020101p.pdf
 https://www.etsi.org/deliver/etsi_gr/ENI/001_099/051/04.01.01_60/gr_ENI051v040101p.pdf
 
-ETSI GR ENI 008 - 
+In ETSI GR ENI 008 - Experiential Networked Intelligence (ENI); InTent Aware Network Autonomicity (ITANA) , highlights semantic bus enables normalized policy exchange between functional blocks (Data Ingestion, Knowledge Management, Context Awareness, Situation Awareness, and Model-Driven Engineering), ensuring semantic consistency and supporting ontology-based reasoning for component interactions. Then Abstraction and Cross-vendor integration layer . https://www.etsi.org/deliver/etsi_gr/ENI/001_099/008/02.01.01_60/gr_ENI008v020101p.pdf 
+
+
+
+
+
 References 
 1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
 2. ITU Documents
