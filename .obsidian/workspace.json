@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper-Writing/In-network computing idea.md",
+                "file": "Paper-Writing/IEEE Survey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "In-network computing idea"
+              "title": "IEEE Survey"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper-Writing/In-network computing idea.md",
+                "file": "Paper-Writing/IEEE Survey.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of In-network computing idea"
+              "title": "Outline of IEEE Survey"
             }
           }
         ],
@@ -174,6 +174,11 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "Paper-Writing/Deadline - target Conf and Journals.md",
+    "Paper-Writing/Idea dumps.md",
+    "Paper-Writing/IEEE Survey.md",
+    "Paper-Writing/Untitled.md",
+    "Paper-Writing/In-network computing idea.md",
     "Paper-Writing/NTN- Jiajing Journal.md",
     "Notes/GA -GSC Modules.md",
     "Pasted image 20251103192031.png",
@@ -195,7 +200,6 @@
     "TODOS/Todos.md",
     "Notes/Air-Air comm.md",
     "TODOS/Tasks manager.md",
-    "Paper-Writing/In-network computing idea.md",
     "Notes/UAM-AAM.md",
     "Notes/RDM workshop.md",
     "Notes/NTN.md",
@@ -204,10 +208,6 @@
     "Markwhen/PhD Project management.mw",
     "Progress- PhD/Progress and Tasks - topic.md",
     "Progress- PhD/Milestones.md",
-    "Progress- PhD/Workshops.md",
-    "Implementation/Topics.md",
-    "collab-external/EU call.md",
-    "collab-external/C2 group.md",
     "~$phd.docx",
     "phD.pdf",
     "phd.docx",

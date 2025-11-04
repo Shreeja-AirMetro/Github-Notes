@@ -818,7 +818,10 @@ If you want, I’ll immediately:
     
 - (B) prepare the three master tables (regulatory KPIs, technologies @ VLL, experimental evidence summary) using public sources.
     
+---
 
-Or, run the IEEE Xplore queries above and paste any COMST hits here and I’ll analyze them for overlap. Which would you like me to do now?
+4/11
+### IEEE Survey
+What is the goal: 
+What is the structure
 
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
