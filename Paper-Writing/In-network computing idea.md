@@ -2135,3 +2135,14 @@ Standardization semantic and trustworthiness
 
 
 Semantic Communication Current standards and regulation 
+Semantic communication represents a fundamental paradigm shift from traditional bit-level transmission toward meaning-aware, task-oriented information exchange for 6G networks.
+Today, semantic communication is considered as "application requirement" and not a base-line of the 6G network. 
+Its regulatory or standardization efforts are focused for the following applications 
+- Integrated Sensing and Communication (ISAC)
+- Native AI/ML integration for network optimization
+- Immersive communication and extended reality
+- Ubiquitous connectivity
+- System and operational aspects including CAPEX/OPEX reduction
+3GPP focuses primarily on bit-level communication and radio access protocols with limited support for semantic metrics. 
+ITU have formed a working group SG
+ITU-T SG13 has established liaisons with ETSI, ISO, ITU-T SG16, ITU-T SG17, ITU-T SG20, GSMA, W3C, and OMA to coordinate semantic communication standardization efforts.
