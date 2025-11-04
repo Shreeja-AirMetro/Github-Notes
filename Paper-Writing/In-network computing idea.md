@@ -2203,3 +2203,4 @@ idea is to adopt machine and human-shared semantic terms and syntax to represent
  unknown semantics and automatically infer the possible relations between the unknown data
  combination, patterns, and behavior with existing semantics.
  - Network abnormal/disaster discovery and recovery: in SAN, the network is able to identify unusual data traffic patterns, relations, syntax, and rules and can therefore support automatic discover and alarm of network abnormality and disaster. SAN also allows network operators to automatically correct the abnormal data traffic or routing paths based on the pre-identified or pre-trained rules.
+ 
