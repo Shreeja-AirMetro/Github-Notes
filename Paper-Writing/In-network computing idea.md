@@ -2144,5 +2144,16 @@ Its regulatory or standardization efforts are focused for the following applicat
 - Ubiquitous connectivity
 - System and operational aspects including CAPEX/OPEX reduction
 3GPP focuses primarily on bit-level communication and radio access protocols with limited support for semantic metrics. 
-ITU have formed a working group SG
-ITU-T SG13 has established liaisons with ETSI, ISO, ITU-T SG16, ITU-T SG17, ITU-T SG20, GSMA, W3C, and OMA to coordinate semantic communication standardization efforts.
+ITU have formed a working group SG13 and  ITU-T SG13 has established liaisons with ETSI, ISO, ITU-T SG16, ITU-T SG17, ITU-T SG20, GSMA, W3C, and OMA to coordinate semantic communication standardization efforts.
+
+With the take off of 3GPP 6G technical specifications and ETSI's semantic interoperability standards are expected to converge with the ITU-T semantic aware networking framework. 
+
+**ITU-T Study Group 13 - Semantic-Aware Networking** (SAN)
+ITU-T SG13, designated as the lead study group on AI/ML for future networks, has been developing comprehensive specifications for semantic-aware networking since 2023:
+
+
+References 
+1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
+2. ITU Documents - inaccessible : 
+	1. Requirements of semantic-aware networking for future networks - https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=18431
+	2. |   ||Requirements and reference architecture of semantic-aware networking in future networks|
