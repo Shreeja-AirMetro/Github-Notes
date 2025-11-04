@@ -2153,24 +2153,19 @@ ITU-T SG13, designated as the lead study group on AI/ML for future networks, has
   **ITU-T TR.Reqts-SAN**  [2.1] is an informative technical report that identifies potential requirements for **semantic-aware networking (SAN)** in future networks including IMT-2020 and beyond.
 
 **General Requirements:**  
-Eight fundamental capabilities including domain-specific semantic ontology, semantic annotation, semantic interpretation, semantic translation, semantic cognition, semantic rationality discovery, and self-description/auto-correction.[](https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf)​
+Eight fundamental capabilities including domain-specific semantic ontology, semantic annotation, semantic interpretation, semantic translation, semantic cognition, semantic rationality discovery, and self-description/auto-correction​
 **Service-Level Requirements:**  
-Support for diverse services, QoS/QoE assurance, interoperability with legacy systems, and cross/intra-domain semantic model adaptation.[](https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf)​
+Support for diverse services, QoS/QoE assurance, interoperability with legacy systems, and cross/intra-domain semantic model adaptation.
 **Network Operation Requirements:**  
-Distributed semantic resource provisioning, semantic capability exposure, intra-network and inter-network operations with standardized semantic annotation formats.[](https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf)​
+Distributed semantic resource provisioning, semantic capability exposure, intra-network and inter-network operations with standardized semantic annotation formats.​
 **Data Processing Requirements:**  
-Semantic autocorrection, semantic identification and representation, semantic knowledge tracking/updating, and robust security/privacy protection.[](https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf)​
+Semantic autocorrection, semantic identification and representation, semantic knowledge tracking/updating, and robust security/privacy protection.​
 
-## Key Capabilities Enabled
-
+Identified key capabilities
 - **Cost-effective auto-data processing**: Automatic discovery, classification, and annotation of network data
-    
 - **Enhanced interoperability**: Cross-domain and cross-system semantic translation
-    
 - **Self-learning**: Automatic ML model training on semantically-annotated data
-    
 - **Network resilience**: Anomaly detection and disaster recovery
-    
 - **Self-evolution**: Adaptation to unknown and emerging semantics
 
 
@@ -2180,6 +2175,9 @@ References
 	1. Requirements of semantic-aware networking for future networks - website link:  https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=18431 | publication link:  https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf
 	2. Requirements and reference architecture of semantic-aware networking in future networks - Release 2026 - https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=19137
 	3. Most data presented above collected from here : ITU -T SG 13 - https://docbox.etsi.org/Workshop/2025/02_AICONFERENCE/SESSION07/ITU-T%20SG13_CARUGI_MARCO.pdf
+	4. SG16 - Multimedia and related digital technologies - https://www.itu.int/en/ITU-T/studygroups/2022-2024/16/Pages/default.aspx
+	5. SG 16 also connected to SG21 -  Technologies for multimedia, content delivery and cable television
+	6. 
 
 Key information in Ref 2.1
 Recent developments of communication and networking technologies have witnessed a growing
