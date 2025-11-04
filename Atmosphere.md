@@ -15,3 +15,6 @@ Boot on power
 Static - 192. 168.1.2 Ethernet IP 
 Class 2 Wifi- access point  -  remotely can be turned down
 
+
+
+
