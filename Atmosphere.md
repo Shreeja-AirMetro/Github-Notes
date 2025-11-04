@@ -3,3 +3,8 @@ Serial port level
 RS232 - 15 volts 
 
 2 of same brank 
+![[Pasted image 20251104154826.png]]
+
+4G VPN -VPN server 
+Both streams simultaneously 
+Camera over cellular 
