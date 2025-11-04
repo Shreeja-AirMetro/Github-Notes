@@ -2179,7 +2179,7 @@ https://www.etsi.org/deliver/etsi_gr/ENI/001_099/051/04.01.01_60/gr_ENI051v04010
 
 In ETSI GR ENI 008 - Experiential Networked Intelligence (ENI); InTent Aware Network Autonomicity (ITANA) , highlights semantic bus enables normalized policy exchange between functional blocks (Data Ingestion, Knowledge Management, Context Awareness, Situation Awareness, and Model-Driven Engineering), ensuring semantic consistency and supporting ontology-based reasoning for component interactions. Then Abstraction and Cross-vendor integration layer . https://www.etsi.org/deliver/etsi_gr/ENI/001_099/008/02.01.01_60/gr_ENI008v020101p.pdf 
 
-The other set of applications where sematic aware networking and semantic communication is of focus is 
+The other set of applications where sematic aware networking and semantic communication is of focus issmart machine-2-machine 
 
 
 
