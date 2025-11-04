@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper-Writing/IEEE Survey.md",
+                "file": "Paper-Writing/In-network computing idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IEEE Survey"
+              "title": "In-network computing idea"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper-Writing/IEEE Survey.md",
+                "file": "Paper-Writing/In-network computing idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IEEE Survey"
+              "title": "Outline of In-network computing idea"
             }
           }
         ],
@@ -174,9 +174,9 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Paper-Writing/Idea dumps.md",
-    "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/Untitled.md",
     "Paper-Writing/In-network computing idea.md",
     "Paper-Writing/NTN- Jiajing Journal.md",
