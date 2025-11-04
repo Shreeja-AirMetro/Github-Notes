@@ -2172,8 +2172,8 @@ Based on the above requirements the new architectural framework [Ref 3] mentions
 ![[archi-SAN.png]]
 
 ETSI 
-
-
+ETSI's Industry Specification Group on Experiential Networked Intelligence (ENI) is developing context-aware AI models and edge intelligence alignment mechanisms. In these specifications the key challenges, goal and requirements of semantic aware communication is mentioned. 
+1. Intent Translation Functional Block: a Functional Block recommended to be added within the Policy Management Functional Block that takes part in the process of Intent Translation. It performs lexical analysis, syntactic analysis, semantic analysis and augmentation, either parsing or compiling and, optionally, interpretation of the Intent Policy.  This involves 
 
 References 
 1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
