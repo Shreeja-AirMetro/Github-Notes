@@ -2150,10 +2150,14 @@ With the take off of 3GPP 6G technical specifications and ETSI's semantic intero
 
 **ITU-T Study Group 13 - Semantic-Aware Networking** (SAN)
 ITU-T SG13, designated as the lead study group on AI/ML for future networks, has been developing comprehensive specifications for semantic-aware networking since 2023:
+	- **ITU-T TR.Reqts-SAN**  [1] is an informative technical report that identifies potential requirements for **semantic-aware networking (SAN)** in future networks including IMT-2020 and beyond.
 
 
 References 
 1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
-2. ITU Documents - inaccessible : 
-	1. Requirements of semantic-aware networking for future networks - https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=18431
-	2. |   ||Requirements and reference architecture of semantic-aware networking in future networks|
+2. ITU Documents
+	1. Requirements of semantic-aware networking for future networks - website link:  https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=18431 | publication link:  https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf
+	2. Requirements and reference architecture of semantic-aware networking in future networks - Release 2026 - https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=19137
+	3. Most data presented above collected from here : ITU -T SG 13 - https://docbox.etsi.org/Workshop/2025/02_AICONFERENCE/SESSION07/ITU-T%20SG13_CARUGI_MARCO.pdf
+
+Key information in 
