@@ -2181,7 +2181,8 @@ In ETSI GR ENI 008 - Experiential Networked Intelligence (ENI); InTent Aware Net
 
 The other set of applications where sematic aware networking and semantic communication is of focus is smart machine-2-machine (M2M) communication while maintaining semantic consistency across heterogeneous systems and vendors. This standardization series called as Smart Applications REFerence (SAREF) ontology -  foundational effort to establish domain-agnostic semantic interoperability across diverse application sectors.
 
-
+- **TS 103 264**: Mapping Specification requirement - semantic interoperability across IoT domains
+- **TS 103 267** : SAREF communication framework specification operationalizes semantic communication by defining standardized mechanisms for semantic data exchange, ensuring that meaning preservation is maintained throughout network transmission rather than merely transmitting raw bits. Additionally, TS 103 780 provides practical deployment guidelines for SAREF usage over oneM2M infrastructure, establishing standardized approaches for semantic annotation procedures and semantic discovery mechanisms that enable network entities to autonomously identify and interpret semantic resources.
 
 
 References 
