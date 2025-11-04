@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atmosphere.md",
+                "file": "Paper-Writing/In-network computing idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atmosphere"
+              "title": "In-network computing idea"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atmosphere.md",
+                "file": "Paper-Writing/In-network computing idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Atmosphere"
+              "title": "Outline of In-network computing idea"
             }
           }
         ],
@@ -189,9 +189,9 @@
   },
   "active": "e8cd18b7d795eda6",
   "lastOpenFiles": [
+    "Atmosphere.md",
     "Pasted image 20251104154826.png",
     "Paper-Writing/In-network computing idea.md",
-    "Atmosphere.md",
     "archi-SAN.png",
     "Pasted image 20251104094423.png",
     "Paper-Writing/IEEE Survey.md",
@@ -233,7 +233,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20250901133112.png",
-    "IMG-20250828-WA0003.jpg",
     "UAV-G-Poster.pptx",
     "TODOS",
     "Aligning Drone Strategy 2.0 With Horizon-EU Cluste.pdf",
