@@ -2134,4 +2134,4 @@ ITU-T , Y.305x - trust and trustworthiness
 Standardization semantic and trustworthiness
 
 
-Scemantic Communication Current standards and regulation 
+Semantic Communication Current standards and regulation 
