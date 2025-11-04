@@ -832,6 +832,14 @@ What is the structure:
 	- Future direction
 	- Conclusion
 
+**PRISMA**  -
+	Identifying relevant studies.
+	Screening and filtering them systematically.
+	Reporting which studies were included or excluded — and why.
+**Systematic Mapping**
+	Identify **research trends** (by year, venue, topic, or method).
+	 Classify studies by **taxonomy** (e.g., by application layer, algorithm type).
+	 Highlight **gaps** (e.g., “few studies address cross-layer AI optimization”).
 Plan of Action: 
 
 
