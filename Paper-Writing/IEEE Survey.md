@@ -823,5 +823,13 @@ If you want, I’ll immediately:
 4/11
 ### IEEE Survey
 What is the goal: 
-What is the structure
+What is the structure: 
+	- Introduction 
+	- previous work and contribution of this paper 
+	- Fundamentals of the goal 
+	- All issues and challenges 
+	- 
+
+Plan of Action: 
+
 
