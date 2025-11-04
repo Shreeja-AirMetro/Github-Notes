@@ -1959,3 +1959,4 @@ In its work, the German Research Ombudsman refers to the DFG Code and offers cou
 
 ![](https://bildungsportal.sachsen.de/scormruntime/course-packages/HOT_OPAL-461179781121725609078194/pages/P46/image.6a6495cc745a4ef5a1f293f40e74f496.png?1762192426023)
 ![[Pasted image 20251103192031.png]]
+

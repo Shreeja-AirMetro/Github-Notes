@@ -2132,3 +2132,4 @@ ITU-T , Y.305x - trust and trustworthiness
 
 3GPP and ETSI 
 Standardization semantic and trustworthiness
+
