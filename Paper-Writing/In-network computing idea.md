@@ -2168,16 +2168,20 @@ Identified key capabilities
 - **Network resilience**: Anomaly detection and disaster recovery
 - **Self-evolution**: Adaptation to unknown and emerging semantics
 
+ETSI 
+
+
 
 References 
 1. Recent 6G RAN Meeting - https://summit2025.one6g.org/wp-content/uploads/Session-1_Buracchini-Enrico_6G-Roadmap-and-Status-in-3GPP-RAN.pdf
 2. ITU Documents
 	1. Requirements of semantic-aware networking for future networks - website link:  https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=18431 | publication link:  https://www.itu.int/dms_pub/itu-t/opb/tut/T-TUT-SEMANTIC.AWARE%20C-2023-PDF-E.pdf
 	2. Requirements and reference architecture of semantic-aware networking in future networks - Release 2026 - https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=19137
-	3. Most data presented above collected from here : ITU -T SG 13 - https://docbox.etsi.org/Workshop/2025/02_AICONFERENCE/SESSION07/ITU-T%20SG13_CARUGI_MARCO.pdf
-	4. SG16 - Multimedia and related digital technologies - https://www.itu.int/en/ITU-T/studygroups/2022-2024/16/Pages/default.aspx
-	5. SG 16 also connected to SG21 -  Technologies for multimedia, content delivery and cable television
-	6. 
+	3. Architectural Framework for knowledge-based semantic communications over Public IMT Networks - Yet to be released - ITU Draft https://www.ietf.org/lib/dt/documents/LIAISON/liaison-2025-09-03-itu-t-sg-13-opsawg-new-technical-reports-itu-t-ystraf-kbsc-architectural-framework-for-knowledge-based-semantic-communication-over-p-attachment-2.pdf 
+	4. Most data presented above collected from here : ITU -T SG 13 - https://docbox.etsi.org/Workshop/2025/02_AICONFERENCE/SESSION07/ITU-T%20SG13_CARUGI_MARCO.pdf
+	5. SG16 - Multimedia and related digital technologies - https://www.itu.int/en/ITU-T/studygroups/2022-2024/16/Pages/default.aspx
+	6. SG 16 also connected to SG21 -  Technologies for multimedia, content delivery and cable television
+	7. 
 
 Key information in Ref 2.1
 Recent developments of communication and networking technologies have witnessed a growing
@@ -2194,5 +2198,5 @@ idea is to adopt machine and human-shared semantic terms and syntax to represent
 - Self-learning and inferencing: in SAN, both the network and/or user UE can utilize semantic- annotated data arrived at the network and/or received by the user equipment to automatically train suitable ML models. The network and/or UE can also infer possible (causal or logical) relations between different semantic annotations as well as syntax in different network systems and protocols.
 - Self-evolving and adapting: SAN allows network and UE to identify unrecognizable and/or
  unknown semantics and automatically infer the possible relations between the unknown data
- combination, patterns, and behaviour with existing semantics.
+ combination, patterns, and behavior with existing semantics.
  - Network abnormal/disaster discovery and recovery: in SAN, the network is able to identify unusual data traffic patterns, relations, syntax, and rules and can therefore support automatic discover and alarm of network abnormality and disaster. SAN also allows network operators to automatically correct the abnormal data traffic or routing paths based on the pre-identified or pre-trained rules.
