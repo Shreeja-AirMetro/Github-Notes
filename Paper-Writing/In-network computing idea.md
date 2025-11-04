@@ -2168,6 +2168,9 @@ Identified key capabilities
 - **Network resilience**: Anomaly detection and disaster recovery
 - **Self-evolution**: Adaptation to unknown and emerging semantics
 
+Based on the above requirements the new architectural framework [Ref 3] mentions Semantic Knowledge Management Function (SKMF): a network-resident orchestration entity that provides the “knowledge plane” for future semantic-aware communications. which in charge of Life-cycle management of three knowledge bases – source (SKB), channel (CKB) and task (TKB) – covering data ingestion, model training/validation, versioning, upgrade and retirement.
+![[archi-SAN.png]]
+
 ETSI 
 
 
@@ -2183,7 +2186,7 @@ References
 	6. SG 16 also connected to SG21 -  Technologies for multimedia, content delivery and cable television
 	7. 
 
-Key information in Ref 2.1
+Key information in Ref 2
 Recent developments of communication and networking technologies have witnessed a growing
 interest on services such as Tactile Internet and virtual reality (VR)/augmented reality (AR)/extended
 reality (XR), most of which are data-hungry and can constantly generate a huge volume of data at a
