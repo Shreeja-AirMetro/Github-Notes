@@ -836,3 +836,7 @@ Plot
 
 --- 
 Post about Midterm presentation
+
+5/11
+Meeting on DA presentation
+
