@@ -840,3 +840,18 @@ Post about Midterm presentation
 5/11
 Meeting on DA presentation
 
+Presentation 15-20 minutes
+
+Without interworking of TN and NTN 
+Interhandover 
+then passivily disconnected 
+Then sniffing for NTN 
+Inter NTN handover 
+Hard handover 
+Smart cross handover  - how 
+
+TBD is Motivation 
+Design cross handover 
+
+SIB 19, 25 message note Marking on the slides - legends 
+interval of updating the message higher and higher 
