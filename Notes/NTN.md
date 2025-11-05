@@ -863,7 +863,7 @@ What is application server doing here?
 What is the the goal of Slides from 29 - 34
 
 How to simulator is used 
-whats the goal 
+what's the goal 
 What have you built as a part of Thesis 
 Working on hard handover plot 
 Create the progress graph 
