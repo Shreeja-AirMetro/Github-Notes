@@ -855,3 +855,15 @@ Design cross handover
 
 SIB 19, 25 message note Marking on the slides - legends 
 interval of updating the message higher and higher 
+Slide 29 - NTN core and TN core 
+Seamless service 
+NTN 
+What is application server doing here?
+
+What is the the goal of Slides from 29 - 34
+
+How to simulator is used 
+whats the goal 
+What have you built as a part of Thesis 
+Working on hard handover plot 
+Create 
