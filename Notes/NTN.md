@@ -833,3 +833,6 @@ Diagram
 Structure of the simulator 
 
 Plot 
+
+--- 
+Post about Midterm presentation
