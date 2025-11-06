@@ -23,3 +23,6 @@
 
 ### Notes
  ![[phD.pdf]]
+
+Treat PhD as own project 
+create work packages
