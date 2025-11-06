@@ -43,3 +43,4 @@ mm wave and the
 - ideal RIS parameters
 - multi-physics based 
 https://nvlabs.github.io/sionna/rt/index.html 
+https://ieee-aess.org/technical-committee/low-altitude-wireless-networks-technical-working-group
