@@ -38,8 +38,8 @@ mmwave for drone operatoin
 Ray tracing
 
 - Latex - write about our goal and discussed
-- CEONA at different heights coverage map 
-mmwave and the 
+- Sienna at different heights coverage map 
+mm wave and the 
 - ideal RIS parameters
 - multi-physics based 
 https://nvlabs.github.io/sionna/rt/index.html 
