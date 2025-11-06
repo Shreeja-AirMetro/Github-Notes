@@ -56,3 +56,6 @@ https://www.geoportal.de/info/tk_03-netzabdeckung_mobilfunk
 
 Openmap
 https://opencellid.org/#zoom=14&lat=51.03984&lon=13.73236
+https://www.reddit.com/r/cellmapper/comments/hnvqqh/noob_reading_cellmapper_map/
+
+https://www.cellmapper.net/map?MCC=262&MNC=1&type=LTE&latitude=51.05278891249753&longitude=13.23739078683101&zoom=13.861113944109777&showTowers=true&showIcons=true&showTowerLabels=true&clusterEnabled=true&tilesEnabled=true&showOrphans=false&showNoFrequencyOnly=false&showFrequencyOnly=false&showBandwidthOnly=false&DateFilterType=Last&showHex=false&showVerifiedOnly=false&showUnverifiedOnly=false&showLTECAOnly=false&showENDCOnly=false&showBand=0&showSectorColours=true&mapType=roadmap&darkMode=false&imperialUnits=false
