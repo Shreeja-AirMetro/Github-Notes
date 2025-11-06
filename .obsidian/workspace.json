@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NTN"
+              "title": "Outline of IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
             }
           }
         ],
@@ -189,9 +189,14 @@
   },
   "active": "e8cd18b7d795eda6",
   "lastOpenFiles": [
+    "Notes/RF propogation (T2).md",
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
+    "Paper-Writing/REVIEW.md",
+    "Paper-Writing/WCNC.md",
+    "Paper-Writing/VTC - Conf.md",
+    "Notes/NTN.md",
     "Paper-Writing/In-network computing idea.md",
     "Semantic Communication Current standards and regulation.docx",
-    "Notes/NTN.md",
     "Notes/Klagenfurt visit.md",
     "Atmosphere.md",
     "Pasted image 20251104154826.png",
@@ -221,10 +226,6 @@
     "Basics/Basics of Networking.md",
     "TODOS/Todos.md",
     "Notes/Air-Air comm.md",
-    "TODOS/Tasks manager.md",
-    "Notes/UAM-AAM.md",
-    "Notes/RDM workshop.md",
-    "Progress- PhD/Application.md",
     "Markwhen/PhD Project management.mw",
     "~$phd.docx",
     "phD.pdf",
