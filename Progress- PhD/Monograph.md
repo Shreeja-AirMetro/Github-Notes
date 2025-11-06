@@ -25,4 +25,10 @@
  ![[phD.pdf]]
 
 Treat PhD as own project 
+- A **central aim** (main research question or hypothesis)
+- **Objectives** (what you must achieve to answer that question)
+- **Work Packages (WPs)** (logical groups of tasks that deliver specific outputs)
+- A **timeline** (what happens when)
+- **Deliverables** (papers, datasets, models, chapters, etc.)
+
 create work packages
