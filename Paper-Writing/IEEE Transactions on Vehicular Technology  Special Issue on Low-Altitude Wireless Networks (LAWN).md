@@ -44,3 +44,5 @@ mm wave and the
 - multi-physics based 
 https://nvlabs.github.io/sionna/rt/index.html 
 https://ieee-aess.org/technical-committee/low-altitude-wireless-networks-technical-working-group
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424177
