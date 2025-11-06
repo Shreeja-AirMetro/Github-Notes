@@ -12,3 +12,13 @@ Potential Topic
 - Air-to-Ground and Air-to-Air Channel Modeling and Measurement for LAWN
 
 
+Roshan's direction 
+
+RIS material simulator start with near-field 
+Implementation Near-field simulator for FEM - EM scattering 
+that can be moved to far-field parameters - by far-field transformers 
+
+Far-field - Antenna gain , reflector 
+Ray tracing get RSSI and RSRP 
+
+3D environemnt 
