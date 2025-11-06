@@ -39,6 +39,8 @@ Challenges emerge because this **low-altitude environment** is complex:
 **Big mistake is to assume:  redundancy equals reliability**
   
 Latency is going to be your biggest problem for real time flight adjustments.
+DTU (Technical University of Denmark) executed extensive 3D measurement campaigns at HCA Airport.  - https://genius.aero/index.php/work-package-1/ 
+
 
 ### Big Tasks 
 
