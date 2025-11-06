@@ -70,3 +70,6 @@ Latency is going to be your biggest problem for real time flight adjustments.
 - We have 3 backup online
 	-  Obsidian notes - regular backup Github and Gitlab 
 	- Official backups Monthly on Gitlab- comnets
+
+- Write project plan with Wps
+- 
