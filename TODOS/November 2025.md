@@ -21,6 +21,21 @@ Go to the coding part - Network coding and the crucks and nooks in multi-link co
 - GCS and ground infrastructure 
 - New network architecture like NTN and particular to this use-case 
 
+
+Key challenges: In **Advanced Air Mobility (AAM)** — especially low-altitude operations (0–120 m AGL) — drones (UAVs/UAS) must rely on robust, low-latency, and safe communication links for:
+- Command and Control (C2/C3)
+- Detect and Avoid (DAA)
+- Navigation and cooperative behavior
+- Integration with U-space / UTM (Unmanned Traffic Management) system
+
+Challenges emerge because this **low-altitude environment** is complex:
+
+- High interference from buildings and ground clutter
+- Variable LOS/NLOS conditions
+- Limited cellular coverage at 120 m (not optimized for aerial users)
+- Spectrum sharing and regulatory issues
+- Multi-operator coordination in AAM corridors 
+
 **Big mistake is to assume:  redundancy equals reliability**
   
 Latency is going to be your biggest problem for real time flight adjustments.
