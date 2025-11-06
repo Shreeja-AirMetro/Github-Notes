@@ -29,8 +29,17 @@ Circuit modeling - cannot  work for physics based flying
 
 MMwave and RSSI and how it used 
 MMwave for drone 
-Database of current antennas
+Database of current antennas - geospatial map
 
-
-- Send base station link
 HW 
+SoA - RSSSI and RSRP of ray tracing from Mmm wave
+mmwave for drone operatoin 
+
+Ray tracing
+
+- Latex - write about our goal and discussed
+- CEONA at different heights coverage map 
+mmwave and the 
+- ideal RIS parameters
+- multi-physics based 
+https://nvlabs.github.io/sionna/rt/index.html 
