@@ -23,4 +23,12 @@ Ray tracing get RSSI and RSRP
 
 3D environemnt 
 
+Check 
 Ray tracing simulator 
+Circuit modeling - cannot  work for physics based flying 
+
+MMwave and RSSI and how it used 
+MMwave for drone 
+Database of current antennas
+
+
