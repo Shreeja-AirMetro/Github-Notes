@@ -46,3 +46,13 @@ https://nvlabs.github.io/sionna/rt/index.html
 https://ieee-aess.org/technical-committee/low-altitude-wireless-networks-technical-working-group
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9424177
+
+Germany government link 
+https://gigabitgrundbuch.bund.de/GIGA/DE/Roadmap/start.html
+https://gigabitgrundbuch.bund.de/GIGA/DE/_Home/start.html
+https://gigabitgrundbuch.bund.de/GIGA/DE/Funklochkarte/start.html
+https://gigabitgrundbuch.bund.de/GIGA/DE/Downloads_Suche/Formular.html#searchResult
+https://www.geoportal.de/info/tk_03-netzabdeckung_mobilfunk
+
+Openmap
+https://opencellid.org/#zoom=14&lat=51.03984&lon=13.73236
