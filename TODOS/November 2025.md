@@ -88,5 +88,5 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 	-  Obsidian notes - regular backup Github and Gitlab 
 	- Official backups Monthly on Gitlab- comnets
 
-- Write project plan with Wps
+- Write project plan with WPs
 - 
