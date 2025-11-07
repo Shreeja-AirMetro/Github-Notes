@@ -111,6 +111,7 @@ to dos:
 - [ ] Report submission
 	- [x] review with stan 
 
+- [ ] Mail Morten and Rodney
 Sat 8/11
 - [ ] Dronnect paper
 Sun 9/11
