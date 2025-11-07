@@ -108,6 +108,7 @@ to dos:
 - [ ] Tushar Bestellung document 
 - [ ] Martin CNS group message 
 - [ ] DA midterm presentation email
+- [ ] Report submission
 
 Sat 8/11
 - [ ] Dronnect paper
