@@ -106,7 +106,7 @@ to dos:
 - [ ] Plan next week 
 - [ ] Weekend - work on paper 
 - [ ] Tushar Bestellung document 
-- [ ] Martin CNS group message 
+- [x] Martin CNS group message 
 - [ ] DA midterm presentation email
 - [ ] Report submission
 
