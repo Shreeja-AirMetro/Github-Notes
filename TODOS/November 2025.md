@@ -107,3 +107,13 @@ to dos:
 - [ ] Weekend - work on paper 
 - [ ] Tushar Bestellung document 
 - [ ] Martin CNS group message 
+
+Sat 8/11
+- [ ] Dronnect paper
+Sun 9/11
+- [ ] Dronnect paper
+
+Monday 10/11
+
+
+Tuesday 12/11
