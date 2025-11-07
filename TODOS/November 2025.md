@@ -109,6 +109,7 @@ to dos:
 - [x] Martin CNS group message 
 - [x] DA midterm presentation email
 - [ ] Report submission
+	- [x] review with stan 
 
 Sat 8/11
 - [ ] Dronnect paper
