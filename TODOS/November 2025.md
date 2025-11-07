@@ -94,4 +94,11 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 
 ### Remarks
 Week one was less efficient and not really productive 
-the planned tasks are pending  - Dronnect paper 
+the planned tasks are pending  - Dronnect paper, Mesh nodes aren't done well
+
+So Friday - 7th Redemption Day 
+
+to dos:
+
+- [ ] Create a WP and Milestones 
+- [ ] 
