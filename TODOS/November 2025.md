@@ -89,4 +89,9 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 	- Official backups Monthly on Gitlab- comnets
 
 - Write project plan with WPs
-- 
+
+
+
+### Remarks
+Week one was less efficient and not really productive 
+the planned tasks are pending  - Dronnect paper 
