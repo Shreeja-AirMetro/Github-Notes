@@ -101,13 +101,13 @@ So Friday - 7th Redemption Day
 to dos:
 
 - [ ] Create a WP and Milestones 
-- [ ] Work on Literature Pipeline and table - What is story to bild
+- [ ] Work on Literature Pipeline and table - What is story to build
 - [ ] meeting for FMC paper
 - [ ] Plan next week 
 - [ ] Weekend - work on paper 
 - [ ] Tushar Bestellung document 
 - [x] Martin CNS group message 
-- [ ] DA midterm presentation email
+- [x] DA midterm presentation email
 - [ ] Report submission
 
 Sat 8/11
