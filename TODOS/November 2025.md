@@ -107,13 +107,20 @@ to dos:
 - [ ] Weekend - work on paper 
 - [ ] Tushar Bestellung document 
 - [ ] Martin CNS group message 
+- [ ] DA midterm presentation email
 
 Sat 8/11
 - [ ] Dronnect paper
 Sun 9/11
 - [ ] Dronnect paper
+- [ ] Finalize DA slides - Lyuqiao
 
 Monday 10/11
+- [ ] 
+- [ ] DA mid-term presentation 
+- [ ] AirMetro Meeting 
+- [ ] Meeting for CNS group 
 
 
 Tuesday 12/11
+- [ ] Falling prize winner meeting 
