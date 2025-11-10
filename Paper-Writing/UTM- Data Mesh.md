@@ -2366,3 +2366,4 @@ Defense:
 - Invite the committee to acknowledge the research value of providing end-to-end, standards-based, telecom-enabled U-Space solutions before full regulatory alignment becomes available.
 
 ----
+
