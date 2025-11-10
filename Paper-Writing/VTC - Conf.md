@@ -27,4 +27,4 @@ UAV Networking
 - We try with datamesh U-Space paper - as conf in nice - will be relavnat 
 - Talk from communication perspective 
 - Redo the results 
-- 
+- Vehicular coordination  - 5 page 
