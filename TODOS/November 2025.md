@@ -131,5 +131,9 @@ Tuesday 12/11
 
 
 ----
-Week 
+Week 46
 
+- [ ] Dronnect paper
+- [ ] Literature organize and reading 
+- [ ] Mesh devices Stage 1
+- [ ] 
