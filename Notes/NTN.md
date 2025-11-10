@@ -880,4 +880,9 @@ References slide
  - Mention of standards - ETSI 
  - Mention what's the threshold 
  - Buffering at base station ? 
- - ITS : Intelligent transport
+ - ITS : Intelligent transportation system 
+ - Integrated mobility 
+ - What's x-ho orchestration
+ - what's jittering and why significant in NTN
+ - ISL routing 
+ - 
