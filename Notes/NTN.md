@@ -872,10 +872,12 @@ References slide
 
 ---
 
-10/11 
+10/11  Mid-term presentation Lyuqiao 
  - Coverage 
  - cost-efficient NTN 
  - NTN interworking
  - System information block 
  - Mention of standards - ETSI 
- - Mention what's the thres
+ - Mention what's the threshold 
+ - Buffering at base station ? 
+ - ITS : Intelligent transport
