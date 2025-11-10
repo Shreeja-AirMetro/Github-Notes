@@ -20,3 +20,11 @@ UAV Networking
 7 Robust Multi-Agent Collaborative Perception via TripleAttention and Dynamic Gating Wei Li, Lin Ma, Harbin Institute of Technology; Andrea Sciarrone, University of Genoa 
 8 Robust Vehicle Control with Smoothing and Prediction under Delayed Communication I-Ching Tseng, Yi-H
 
+
+---
+10/11
+
+- We try with datamesh U-Space paper - as conf in nice - will be relavnat 
+- Talk from communication perspective 
+- Redo the results 
+- 
