@@ -32,4 +32,7 @@ UAV Networking
 ---
 Timeline 
 - [ ] Idea, concept and initial research 17th Monday
-- [ ] 
+- [ ] Coding and work on 18th Tuesday 
+- [ ] Wed - Paper writing - 19th 
+- [ ] Stan , Jiajing stage 1 review on 26th
+- [ ] Tung review on 26th
