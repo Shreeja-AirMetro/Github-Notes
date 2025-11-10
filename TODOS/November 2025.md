@@ -136,4 +136,11 @@ Week 46
 - [ ] Dronnect paper
 - [ ] Literature organize and reading 
 - [ ] Mesh devices Stage 1
-- [ ] 
+
+
+
+---
+Takeaway from RTG review 
+- More women 
+- Post-Doc 
+- diversity m
