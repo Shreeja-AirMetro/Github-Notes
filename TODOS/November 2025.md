@@ -41,7 +41,8 @@ Challenges emerge because this **low-altitude environment** is complex:
 Latency is going to be your biggest problem for real time flight adjustments.
 DTU (Technical University of Denmark) executed extensive 3D measurement campaigns at HCA Airport.  - https://genius.aero/index.php/work-package-1/ 
 
-
+- NetworkX python package 
+- 
 ### Big Tasks 
 
 1. Literature reading and Survey article 
@@ -127,3 +128,7 @@ Monday 10/11
 
 Tuesday 12/11
 - [ ] Falling prize winner meeting 
+
+
+----
+Week 10th 11th 
