@@ -873,4 +873,6 @@ References slide
 ---
 
 10/11 
- - C
+ - Coverage 
+ - cost-efficient NTN 
+ - NTN interworking
