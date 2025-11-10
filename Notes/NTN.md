@@ -876,3 +876,6 @@ References slide
  - Coverage 
  - cost-efficient NTN 
  - NTN interworking
+ - System information block 
+ - Mention of standards - ETSI 
+ - Mention what's the thres
