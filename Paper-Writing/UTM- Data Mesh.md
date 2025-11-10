@@ -2365,3 +2365,4 @@ Defense:
 - Stress that current U-Space roll-out is hindered by unclear architectural reference models for federated tactical service delivery; your proposal fills a critical research gap in the literature by offering a 5G/MEC-aligned federation strategy—tailored to next-gen air traffic.​[](https://www.sesarju.eu/sites/default/files/documents/u-space/SESAR%20principles%20for%20U-space%20architecture.pdf)​
 - Invite the committee to acknowledge the research value of providing end-to-end, standards-based, telecom-enabled U-Space solutions before full regulatory alignment becomes available.
 
+----
