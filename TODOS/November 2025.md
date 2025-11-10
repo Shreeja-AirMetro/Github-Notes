@@ -145,3 +145,5 @@ Takeaway from RTG review
 - Post-Doc 
 -  elect care person /  diversity manager 
 - 4 year contract for second cohort 
+
+Jacob - Prague university UTM , infrastructure AAM - small workshop 
