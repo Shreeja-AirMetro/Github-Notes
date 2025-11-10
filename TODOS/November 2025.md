@@ -147,3 +147,4 @@ Takeaway from RTG review
 - 4 year contract for second cohort 
 
 Jacob - Prague university UTM , infrastructure AAM - small workshop 
+Send the post to Elif 
