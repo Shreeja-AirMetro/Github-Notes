@@ -28,3 +28,8 @@ UAV Networking
 - Talk from communication perspective 
 - Redo the results 
 - Vehicular coordination  - 5 page 
+- Focus from vehicular coordination, UTM and U-SPace , the idea about Edge commuting and take the reviews from SESAR 
+---
+Timeline 
+- [ ] Idea, concept and initial research 17th Monday
+- [ ] 
