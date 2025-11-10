@@ -143,4 +143,5 @@ Week 46
 Takeaway from RTG review 
 - More women 
 - Post-Doc 
-- diversity m
+-  elect care person /  diversity manager 
+- 4 year contract for second cohort 
