@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/NTN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "NTN"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/NTN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of NTN"
             }
           }
         ],
@@ -189,9 +189,10 @@
   },
   "active": "e8cd18b7d795eda6",
   "lastOpenFiles": [
+    "Paper-Writing/NTN- Jiajing Journal.md",
+    "TODOS/November 2025.md",
     "Paper-Writing/VTC - Conf.md",
     "Paper-Writing/WCNC.md",
-    "TODOS/November 2025.md",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Milestones.md",
     "Progress- PhD/First TAC meeting.md",
@@ -211,7 +212,6 @@
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Paper-Writing/Idea dumps.md",
     "Paper-Writing/Untitled.md",
-    "Paper-Writing/NTN- Jiajing Journal.md",
     "Notes/GA -GSC Modules.md",
     "Pasted image 20251103192031.png",
     "Pasted image 20251103181320.png",
