@@ -17,3 +17,9 @@ Experiment with hardware -
 What's next 
 - Research visit - topic planned 
 - milestones of my project 
+
+---
+10/11
+- Introduction of CNS cluster from summer school 
+- T2 raytracing with T5, T8 (navigation) , T9 and T10 
+- 

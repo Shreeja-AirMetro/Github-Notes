@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Progress- PhD/Workshops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "Workshops"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Progress- PhD/Workshops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of Workshops"
             }
           }
         ],
@@ -189,9 +189,9 @@
   },
   "active": "e8cd18b7d795eda6",
   "lastOpenFiles": [
+    "TODOS/November 2025.md",
     "Notes/NTN.md",
     "Paper-Writing/NTN- Jiajing Journal.md",
-    "TODOS/November 2025.md",
     "Paper-Writing/VTC - Conf.md",
     "Paper-Writing/WCNC.md",
     "Progress- PhD/Monograph.md",
