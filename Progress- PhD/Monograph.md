@@ -31,5 +31,7 @@ Treat PhD as own project
 - A **timeline** (what happens when)
 - **Deliverables** (papers, datasets, models, chapters, etc.)
 
-create work packages
+###  work packages and Gantt chart 
 
+To dos:
+- [ ] 
