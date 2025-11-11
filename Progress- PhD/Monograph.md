@@ -34,4 +34,5 @@ Treat PhD as own project
 ###  work packages and Gantt chart 
 
 To dos:
-- [ ] 
+We are doing this from monograph and publication perspective
+
