@@ -39,4 +39,4 @@ We are doing this from monograph and publication perspective and to help with
 - [ ] Research content and gap 
 - [ ] Literature and clear Research hypothesis and questions 
 - [ ]  Exact To dos and avoid distractions 
-- [ ] 
+- [ ] Classification on type of workloads - Read, write, Implement , Debug and testing, 
