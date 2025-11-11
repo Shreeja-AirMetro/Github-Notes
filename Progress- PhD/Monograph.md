@@ -34,5 +34,8 @@ Treat PhD as own project
 ###  work packages and Gantt chart 
 
 To dos:
-We are doing this from monograph and publication perspective
+We are doing this from monograph and publication perspective and to help with 
 
+- [ ] Research content and gap 
+- [ ] Literature and clear Research hypothesis and questions 
+- [ ] 
