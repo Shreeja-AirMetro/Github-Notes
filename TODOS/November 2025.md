@@ -144,8 +144,6 @@ Week 46
 - [ ] Literature organize and reading 
 - [ ] Mesh devices Stage 1
 
-
-
 ---
 Takeaway from RTG review 
 - More women 
@@ -159,3 +157,4 @@ Takeaway from RTG review
 To do: 
 - [ ] Send the post to Elif 
 - [ ] Tushar Hw
+
