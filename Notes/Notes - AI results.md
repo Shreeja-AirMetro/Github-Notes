@@ -1058,4 +1058,7 @@ The path to achieving novel and practical results lies specifically in two tight
 
 By focusing on these areas and rigorously validating the performance against the stringent 40 ms latency and 99.9% reliability criteria, the research will deliver a solution that is both theoretically sophisticated and commercially viable within strict SWaP constraints.
 
-Future research extending from this work should focus on integrating this URLLC C2 backbone with distributed computing architectures. This would enable resource sharing and cooperative task execution in multi-UAV swarms, where the resilient coded backbone could support computationally intensive tasks, such as collaborative deep learning or complex networked airborne computing, directly addressing the limitations of single UAV resource capacity.32
+Future research extending from this work should focus on integrating this URLLC C2 backbone with distributed computing architectures. This would enable resource sharing and cooperative task execution in multi-UAV swarms, where the resilient coded backbone could support computationally intensive tasks, such as collaborative deep learning or complex networked airborne computing, directly addressing the limitations of single UAV resource capacity.
+
+### can the research be done without AI and ML? 
+
