@@ -42,7 +42,12 @@ Latency is going to be your biggest problem for real time flight adjustments.
 DTU (Technical University of Denmark) executed extensive 3D measurement campaigns at HCA Airport.  - https://genius.aero/index.php/work-package-1/ 
 
 - NetworkX python package 
-- 
+
+### Literature review workflow
+	- Find literature , filter and read main
+	- Reference manager - Mendeley - Litmaps - connected papers - concenses /scisppace for filtering 
+	- 
+
 ### Big Tasks 
 
 1. Literature reading and Survey article 
