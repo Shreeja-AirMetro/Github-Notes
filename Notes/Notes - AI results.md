@@ -773,44 +773,7 @@ This section summarizes other technologies cited in the corpus, noting where evi
 - Security and Authentication
     - Concerns Communication integrity and lightweight authentication are identified as open needs for UTM; surveys call for secure architectures for links such as ADS‑B and RemoteID because constrained UAS platforms cannot always run conventional crypto stacks 
         
-        17
         
-        .
-
-14
-
- 
-
-6
-
- 
-
-4
-
- 
-
-15
-
- 
-
-10
-
- 
-
-9
-
- 
-
-3
-
- 
-
-16
-
- 
-
-17
-
 ---
 
 ## Architectures, services, challenges and recent implementations
@@ -820,220 +783,68 @@ This closing section sketches typical U‑Space/UTM architecture components, lis
 - Common architectural components
     - Stakeholders and nodes Typical architectures include UAS operators, U‑Space Service Providers (USSPs), national Common Information Service Providers (CISPs), edge/MEC nodes, cloud control planes and cooperative surveillance sensors/transponders as shown in prototype integrations and testbeds 
         
-        3
-        
-         
-        
-        7
-        
-         
-        
-        4
-        
-        .
+
+    
     - Service planes Architectures described in the literature split functions into identification and registration, flight authorization, traffic information and tactical deconfliction, and orchestration/analytics layers hosted across MEC and cloud 
         
-        2
-        
-         
-        
-        6
-        
-         
-        
-        4
-        
-        .
+    
     - C2 and data links Command‑and‑control (C2) links, telemetry channels, RemoteID/ADS‑B feeds and local V2V/D2X channels are combined in multi‑channel proposals to improve resilience 
         
-        18
-        
-         
-        
-        11
-        
-         
-        
-        9
-        
-        .
+
 - Representative services and examples
     - Network Identification / RemoteID Implemented using LTE‑M in the DroneID5G prototype following EU 2021/664 mandates; flight tests measured handovers and link quality at different altitudes 
         
-        3
-        
-        .
+    
+
     - In‑flight tactical deconfliction and emergency management Implemented in open‑source UTM system prototypes and validated in simulation/remote operator tests 
         
-        2
-        
-        .
+      
     - Highly automated testbeds EuroDRONE used DroNav cloud software + hardware transponders to demonstrate distributed conflict prevention/resolution and asset management 
         
-        4
-        
-        .
+    
 - Main technical challenges
     - Communications coverage and interference Cellular networks were often not designed for aerial coverage; urban measurements show KPI degradation at altitude and interference, implying the need for planning and upgrades 
-        
-        12
-        
-        .
+     
     - Heterogeneous integration Combining ADS‑B, RemoteID, cellular, D2X and satellite links while avoiding mutual interference and ensuring consistent semantics is nontrivial 
         
-        10
-        
-         
-        
-        9
-        
-         
-        
-        11
-        
-        .
+    
     - Security and lightweight authentication Constrained UAS platforms require tailored cryptographic/authentication solutions for UTM messaging 
         
-        17
-        
-        .
+      
     - Scalability and decision‑making Centralized vs decentralized decision tradeoffs, state consistency, and real‑time guarantees under packet loss are active research areas 
         
-        2
         
-         
-        
-        19
-        
-        .
+
     - DAA for non‑cooperative targets Detecting and safely responding to non‑cooperative intruders remains a core research and testing need 
-        
-        16
-        
-         
-        
-        18
-        
-        .
+    
 - Future research directions highlighted
     - Edge/cloud orchestration algorithms placement and slicing mechanisms that jointly consider airspace use and radio resources 
         
-        6
-        
-        .
+    
     - Multi‑layer communications research combining terrestrial, aerial relays and satellites for resilience and dense urban capacity 
         
-        8
-        
-         
-        
-        12
-        
-        .
+    
     - Robust distributed decision making for decentralized UTM and resilience to imperfect data and packet loss 
-        
-        2
-        
-        .
+    
     - Edge AI pipelines and verification certifiable ML for safety‑critical perception and DAA running at the edge 
-        
-        14
-        
-        .
+ 
     - Security architectures lightweight secure protocols and authentication for RemoteID/ADS‑B/UTM APIs 
-        
-        17
-        
-        .
+ 
 - Recent developments and implementations (2022–2024 cited)
     - DroneID5G (2023) LTE‑M prototype implementing Network Identification and demonstrating RemoteID messaging and DAA relays in flight tests 
-        
-        3
-        
-        .
+
     - Edge‑driven geofencing and BVLOS case study (2023) 5G + MEC real system showing dynamic geofencing/BVLOS control for delivery drones 
-        
-        13
-        
-        .
+
     - EuroDRONE testbed demonstrations (2019–2022 reporting) distributed DroNav + transponder architecture validating automated conflict resolution in European U‑Space test activities 
         
-        4
-        
-        .
+      
     - MEC/NFV orchestration proposals ILP placement schemes and service orchestration frameworks tailored for UTM services 
         
-        6
-        
-        .
+    
     - 5G aerial coverage measurements campaigns in dense urban settings showing limitations of current networks and calling for aerial‑aware planning 
-        
-        12
-        
-        .
+    
     - Surveys and roadmaps multiple 2021–2024 surveys and roadmaps summarize UTM/U‑Space evolution, integration challenges and high‑priority research needs 
         
-        1
-        
-         
-        
-        2
-        
-         
-        
-        20
-        
-         
-        
-        19
-        
-        .
-
-3
-
- 
-
-13
-
- 
-
-4
-
- 
-
-6
-
- 
-
-12
-
- 
-
-14
-
- 
-
-17
-
- 
-
-2
-
- 
-
-11
-
- 
-
-9
-
- 
-
-8
-
- 
-
-21
 
 ---
 
@@ -1122,3 +933,5 @@ G. Singh, R. A. Pashchapur, and H. Ballal, “Recent Trends on UAS-UTM Ecosystem
 [21]
 
 A. Bera, Y. Drif, J. Querol, and M. Olivares-Mendez, “Implementation of Edge-driven Geofencing and BVLOS Control for 5G-enabled Delivery Drone,” pp. 68–73, Dec. 2023, doi: 10.1109/gcwkshps58843.2023.10464731.
+
+---
