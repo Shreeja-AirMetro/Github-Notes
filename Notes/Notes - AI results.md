@@ -935,3 +935,127 @@ G. Singh, R. A. Pashchapur, and H. Ballal, “Recent Trends on UAS-UTM Ecosystem
 A. Bera, Y. Drif, J. Querol, and M. Olivares-Mendez, “Implementation of Edge-driven Geofencing and BVLOS Control for 5G-enabled Delivery Drone,” pp. 68–73, Dec. 2023, doi: 10.1109/gcwkshps58843.2023.10464731.
 
 ---
+# Autonomous Cross-Layer Resource Orchestration for Ultra-Reliable BVLOS Communication via Coded Heterogeneous Networks
+
+## I. Strategic Context: The Regulatory and Technical Imperative for C2 Resilience
+
+The proposed research direction—combining heterogeneous multi-link communication (Wi-Fi, 5G, Satellite) with Network Coding (NC) to enhance safety and reliability for Beyond Visual Line of Sight (BVLOS) operations—is exceptionally relevant and addresses the fundamental bottleneck to commercial and regulatory acceptance of widespread unmanned aerial systems (UAS). The safe normalization of BVLOS operations, spanning critical sectors such as infrastructure inspection, emergency response, and logistics and long-distance cargo delivery 1, is entirely contingent upon demonstrating guaranteed, uninterrupted communication for Command and Control (C2) traffic.3
+
+### The Requirement for Ultra-Reliable Low-Latency Communication (URLLC)
+
+Regulatory bodies, including the FAA and organizations contributing to 3GPP standards, have established rigorous performance objectives that define the boundary between acceptable operational risk and safety non-compliance.4 These standards transform the reliability goal from a technical aspiration into a non-negotiable safety mandate. Specifically, C2 communication must meet stringent Quality of Service (QoS) requirements, which have been formalized in specifications such as 3GPP Release 18.
+
+The performance objectives vary dramatically depending on the operational mode, confirming the necessity of a flexible, adaptive communication system. For the most safety-critical functions, such as **'Direct stick steering,'** the communication system must provide an End-to-End Latency of **40 milliseconds (ms)** and an application-layer **Reliability of 99.9%**.5 Other functions, such as 'Steer to waypoints,' maintain the 99.9% reliability target but permit a longer latency of 1 second.5 Even video utilized to aid control in non-Visual Line of Sight (non-VLOS), which is synonymous with BVLOS, must achieve 99.9% reliability with a latency ceiling of 140 ms.5
+
+The attainment of the 99.9% reliability figure under all operational conditions is crucial because it directly correlates with the reduction of residual operational risk. Global aviation safety frameworks often employ a scaled approach to authorization, where certification obligations increase with the residual risk introduced by the service.6 By mathematically proving that the proposed technical solution can sustain communication reliability above the mandatory threshold, even during periods of correlated link failure or extreme interference, the research provides quantifiable evidence that the probability of C2 loss is minimized. This, in turn, facilitates the necessary reduction in residual risk required for broad regulatory approval, functioning as the key safety gate for commercial deployment.
+
+### Complexity of Traffic Differentiation
+
+The pronounced differences in required QoS metrics—ranging from ultra-low latency (40 ms for critical maneuvers) to moderately higher latency (5 seconds for ‘Automatic flight on UTM’) 5—preclude the use of a unified, statically provisioned communication policy. An efficient multi-link system must incorporate dynamic traffic differentiation. High-priority, safety-critical traffic must receive maximum resources and coded redundancy, whereas routine telemetry or less time-sensitive route updates (which can tolerate up to 30-second uplink interruptions 5) can utilize less power-intensive or lower-rate backup links. This selective application of high-cost resources, such as advanced network coding and high-power transmitters, is essential for preserving the UAV's limited battery life, ensuring operational endurance, and maximizing energy efficiency.
+
+## II. Heterogeneous Multi-Connectivity: Architecture, Limitations, and Link Constraints
+
+A multi-link architecture comprising Terrestrial-Non-Terrestrial Networks (TNTNs) is indispensable for achieving ubiquitous coverage and robust fault tolerance required for true BVLOS scalability.7 However, simply aggregating disparate links (Wi-Fi, 5G, Satellite) without intelligent management introduces complexity and efficiency challenges.
+
+### Limitations of Constituent Links
+
+Each communication technology presents unique constraints that must be overcome through intelligent system design:
+
+1. **Wi-Fi/Proprietary Links:** While robust proprietary Wi-Fi solutions exist for long-distance communication (via optimizations in the Medium Access Control layer 9), their fundamental constraint is limited range (signal strength degrades rapidly beyond 2 to 3 kilometers) and high susceptibility to interference in densely populated areas utilizing the 2.4 GHz and 5.8 GHz bands.3 Local mesh networks, such as those leveraging Dedicated Short-Range Communications (DSRC) or Cellular Vehicle-to-Everything (C-V2X) infrastructure, are valuable for specific integrated environments but remain highly sensitive to terrain, vegetation, and building obstructions.11
+    
+2. **5G/Cellular Networks:** Terrestrial cellular networks provide high bandwidth capacity but pose significant challenges for aerial platforms. Drones operate with three-dimensional mobility, experiencing unique propagation characteristics and complexities in managing handovers between multiple ground base stations.10 Ensuring consistent, low-latency communication requires dynamic spectrum, power, and handover management protocols to mitigate the risks associated with rapid, high-altitude transitions.10
+    
+3. **Satellite Communication (Satcom):** Satcom is necessary for truly global or intercontinental reach, especially when operating far beyond the range of terrestrial 5G infrastructure.12 However, Satcom introduces severe system constraints. High-orbit satellites impose problematic latency unsuitable for real-time C2 (40 ms required).5 Low-orbit (LEO) systems mitigate latency but require frequent, complex handovers and must compensate for Doppler effects.12 Critically, the hardware required for high-bandwidth streaming via satellite is often bulky, heavy (terminals enabling streaming and C2 typically weigh around 1.5 kilograms), and power-hungry, substantially reducing the drone's payload capacity and performance—the defining Size, Weight, and Power (SWaP) constraint.3
+    
+
+### The SWaP-Latency Trade-off and Edge Intelligence Necessity
+
+The combination of the strict 40 ms latency requirement for safety-critical C2 and the severe SWaP penalty associated with high-capacity satellite terminals dictates a critical design compromise. The research cannot justify utilizing the expensive, heavy satellite link purely for bulk data throughput, as this limits mission scope and range.3 Instead, the multi-link system must be optimized to reserve the satellite link almost exclusively for low-rate, safety-critical _redundancy_ of the C2 channel (as a last-resort, ultra-reliable backup), utilizing 5G/Wi-Fi for high-bandwidth telemetry and payload data whenever possible.
+
+Furthermore, managing the transition between these heterogeneous links—such as handovers between a 5G cell and a Low Earth Orbit (LEO) satellite beam—is inherently complex and highly sensitive to latency.13 Centralized control solutions are often too slow to react to the rapid 3D topology changes of a UAV network.10 This compels the implementation of onboard, distributed (edge) intelligence, such as machine learning models, to predict signal strength and optimize the handover scheduling algorithm, thereby reducing handover latency significantly and enhancing network stability.14
+
+## III. Network Coding: The Enabler of Efficient Coded Reliability
+
+The combination of heterogeneous links creates highly dynamic, intermittent, and potentially non-correlated communication paths, which is necessary for redundancy but challenging for simple link aggregation. Network Coding (NC) provides the mathematical foundation for converting this redundant architecture into Ultra-Reliable Low-Latency Communication (URLLC).
+
+### Theoretical Superiority of Network Coding
+
+NC schemes, such as Random Linear Network Coding (RLNC) or Complex Field Network Coding (CFNC) 15, enhance reliability by exploiting spatial diversity gains across multiple links or relays.15 Crucially, NC enables the destination to recover the original message from _any_ subset of coded packets, provided enough independent combinations are received. This mechanism is profoundly superior to simple packet replication or duplication (where an entire identical packet must be received via a backup link) because it efficiently uses all available bandwidth.16
+
+For a dynamic aerial channel characterized by fading, intermittent link availability, and external disturbances 17, RLNC is demonstrably more bandwidth-efficient. Quantitative analyses show that RLNC can achieve lower average redundancy per delivered packet, especially in moderate packet loss regimes, compared to simple replication.18 This efficiency gain is critical for bandwidth-constrained UAV platforms 19, where minimizing unnecessary transmission overhead directly impacts energy consumption and operational duration.
+
+Table 1: Comparative Analysis of Redundancy Techniques for BVLOS C2 Traffic
+
+|**Mechanism**|**Reliability Achieved**|**Bandwidth Overhead**|**Diversity Gain**|**Computational Complexity (Onboard)**|**Efficiency in Lossy Links**|
+|---|---|---|---|---|---|
+|Simple Packet Replication (Duplication)|High, if paths are independent|Extremely High (2x or more)|Path Diversity|Low|Inefficient (wastes capacity)|
+|Random Linear Network Coding (RLNC)|Ultra-High (Coding and Path Diversity)|Moderate (Based on dynamic $k/n$)|High|Moderate (Requires optimization)|Excellent (Optimal bandwidth use in high erasure regimes) 18|
+|Link Bonding (Non-Coded)|High (Guarantees uptime)|Low (Optimized flow control)|Link Availability|Low|Vulnerable (Fails under correlated deep fades)|
+
+### The Cross-Layer Optimization Problem
+
+While NC can be implemented at a high level—for instance, as an IP-layer module using netfilter frameworks, thus remaining invisible to the layers above and below 18—its maximum potential is only unlocked through a **Cross-Layer Design**.20 In traditional layered network architectures, the coding strategy (network layer decision) remains ignorant of the physical characteristics of the underlying links (PHY/MAC layer state). In dynamic wireless channels, this leads to sub-optimal performance.
+
+The PhD research must address this gap by establishing a formal cross-layer framework. This framework defines the specific protocol interface that allows real-time physical layer metrics—such as predicted channel fading, interference levels, Signal-to-Noise Ratio (SNR), and instantaneous packet loss probability—to dynamically adjust the Network Coding rate ($k/n$) at the network layer. Only by coordinating these layers can the system calculate the minimum required coding redundancy needed to achieve the 99.9% reliability target at that precise moment, thereby minimizing energy consumption and end-to-end latency.21 This Cross-Layer NC Optimization Problem forms the theoretical core of the novelty.
+
+## IV. Defining Novelty: The Intelligent Cross-Layer Optimization Framework
+
+The central challenge in integrated TNTN UAV networks is the dynamic management of power, bandwidth, link selection, and coding redundancy under real-time SWaP and latency constraints.23 This highly complex, time-varying environment exceeds the capability of traditional optimization techniques such as logistic regression or Support Vector Machines (SVM) due to the sheer dimensionality of the state space.23
+
+### Leveraging Deep Reinforcement Learning (DRL)
+
+Reinforcement Learning (RL) provides the ideal solution because it is designed to optimize long-term outcomes (e.g., maximizing mission duration or reliability) in environments with uncertain dynamics.24 Furthermore, the complexity of integrating terrestrial, satellite, and mobile ad hoc network (MANET) characteristics necessitates a distributed control approach. Multi-Agent Deep Deterministic Policy Gradient (MADDPG) algorithms have already demonstrated success in solving resource allocation, user association, and power control problems within integrated terrestrial-satellite networks.8
+
+### Proposed Solution: Hierarchical Multi-Agent Deep Reinforcement Learning (H-MADRL)
+
+The definitive novelty lies in the development of a **Hierarchical Multi-Agent Deep Reinforcement Learning (H-MADRL)** framework tailored specifically for the multi-link, coded UAV communication problem.25 This architecture divides control responsibilities to manage both macro-level strategic planning and micro-level packet handling.
+
+1. **High-Level Agent (Centralized/Cloud):** This agent typically resides at the Ground Control Station (GCS) or a centralized edge cloud. It is responsible for long-term strategic decisions, including overall flight trajectory optimization, non-real-time resource provisioning, and managing large-scale coordination, such as anticipating handovers between major network segments (e.g., from a 5G metropolitan area to a satellite-only region).23
+    
+2. **Low-Level Agent (Distributed/Onboard):** This agent is integrated into the UAV’s onboard communication computer, reflecting the need for edge computing capabilities.26 Its function is to perform instantaneous, real-time control actions. The low-level agent's key role is the **dynamic tuning of the Network Coding redundancy rate ($k/n$)** for each C2 packet based on immediate channel measurements received from the cross-layer interface. It also handles instantaneous power control for the active radios and high-frequency link selection decisions.25
+    
+
+The architectural advantage of the H-MADRL framework is its scalability. While centralized algorithms suffer from decision time increases as the number of access points grows (up to a 90% increase when doubling APs), distributed approaches maintain performance while offering significantly better scalability.25
+
+### Strategic Integration of Reliability and Efficiency
+
+The core intellectual contribution of the H-MADRL design centers on the reward function. The agent is trained not just to guarantee communication, but to do so _efficiently_. The reward structure must be mathematically formulated to heavily penalize any failure to maintain the 99.9% reliability threshold while simultaneously penalizing the application of excessive coding redundancy ($n/k$). By driving the system to be 'just reliable enough' to meet the non-negotiable safety criteria without wasting bandwidth or battery power, the research directly solves the dual problem of regulatory safety compliance and commercial practicality.
+
+To ensure the Low-Level Agent is practical and adheres to strict SWaP constraints, the architectural design must integrate energy-efficient AI. Implementing the learning algorithms using architectures such as Spiking Neural Networks (SNNs) can significantly reduce the power consumption of the onboard AI processor, extending operational time and enabling crucial real-time processing capabilities for critical, low-latency applications like collision avoidance and dynamic C2 management.27
+
+## V. Practical Implementation, Validation, and PhD Roadmap
+
+Transitioning this theoretical framework into a practical, demonstrable system requires a structured roadmap that addresses analytical modeling, high-fidelity simulation, and eventual field validation.
+
+### Onboard System Architecture and Constraints
+
+The physical realization of this research involves creating an integrated onboard communication module, similar to commercial platforms designed for AI and remote link aggregation.28 This module must house the heterogeneous radio interfaces, an IP-layer NC engine capable of real-time encoding/decoding, and the low-SWaP edge processor dedicated to executing the Low-Level H-MADRL agent. The design must prioritize maintaining a minimal SWaP profile while maximizing real-time processing capability, ensuring minimal latency in all C2-critical loops.27
+
+### Phased Validation Strategy
+
+#### Phase 1: Analytical and Link-Level Simulation
+
+The initial phase focuses on establishing the mathematical superiority of the Coded Multi-Link approach. This involves developing an analytical model that precisely links measurable inputs from the Physical (PHY) and Medium Access Control (MAC) layers—such as instantaneous packet erasure probability or predicted link blockage—to the required Network Coding redundancy rate ($k/n$) necessary to maintain 99.9% application-layer reliability. This phase proves the theoretical efficiency of dynamic NC against simple link aggregation or static-rate NC schemes under controlled, simulated intermittent channel conditions.15
+
+#### Phase 2: Network-Level Simulation and H-MADRL Validation
+
+The second phase employs high-fidelity network simulators (optimized for 3D mobility and dynamic topology) to validate the performance of the full H-MADRL framework. The simulations must focus on complex, realistic BVLOS scenarios involving multiple, concurrent link failures (e.g., 5G coverage dropping combined with temporary satellite occlusion). Performance must be benchmarked against standard resource allocation policies (such as simple Q-learning or static primary/backup link selection).8 Success metrics include demonstrating maximized energy efficiency, minimum necessary coding overhead, and achieving significant latency reduction compared to non-optimized handover schemes (research suggests potential reductions exceeding 21 times compared to standard Non-Terrestrial Network handover schemes are achievable through optimized scheduling).14
+
+#### Phase 3: Field Trials and Regulatory Compliance Demonstration
+
+The final validation phase involves moving from simulation to physical field trials, ideally in collaboration with established UAS research consortia or test facilities.30 The primary goal of these trials is to demonstrate the sustained performance of the Coded Multi-Link system against the mandatory 3GPP KPIs under real-world, atmospheric, and mobility challenges. The deployment must show that the system can maintain C2 reliability above $99.9\%$ and latency below $40\text{ ms}$ for safety-critical traffic, even when external environmental conditions deliberately degrade or force the failure of one or more primary communication links. This practical demonstration validates the solution’s practicality and maturity for regulatory acceptance.
+
+## VI. Conclusion and Forward Outlook
+
+The proposed PhD research trajectory is highly relevant, technically sound, and strategically positioned to deliver a novel and practical contribution to the field of communication technology for drones. The fundamental hypothesis—that a combination of heterogeneous connectivity (Wi-Fi, 5G, Satellite) and Network Coding will provide superior safety and reliability for BVLOS operations—is robust and aligns with global industry and regulatory roadmaps.
+
+The path to achieving novel and practical results lies specifically in two tightly interconnected contributions:
+
+1. **Cross-Layer Network Coding Optimization:** Developing the mathematical model and the interface necessary to dynamically adapt the NC redundancy rate based on real-time channel state information from the physical layer. This ensures that the system is _efficiently reliable_ by using the minimum necessary bandwidth to achieve the required 99.9% safety threshold.
+    
+2. **Intelligent Orchestration via H-MADRL:** Implementing a novel Hierarchical Multi-Agent Deep Reinforcement Learning framework to autonomously manage the dynamic resource allocation, link selection, power control, and NC parameters across the complex Terrestrial-Non-Terrestrial Network structure.
+    
+
+By focusing on these areas and rigorously validating the performance against the stringent 40 ms latency and 99.9% reliability criteria, the research will deliver a solution that is both theoretically sophisticated and commercially viable within strict SWaP constraints.
+
+Future research extending from this work should focus on integrating this URLLC C2 backbone with distributed computing architectures. This would enable resource sharing and cooperative task execution in multi-UAV swarms, where the resilient coded backbone could support computationally intensive tasks, such as collaborative deep learning or complex networked airborne computing, directly addressing the limitations of single UAV resource capacity.32
