@@ -87,3 +87,10 @@ This section summarizes the regulatory and operational demands that appear in th
 - Infrastructure and network planning: regulators typically expect evidence of link availability along the planned route; cellular‑aware path‑planning and extensive aerial drive tests are used to quantify reliable coverage and produce mission plans that meet link‑reliability constraints [12].  
 - Spectrum, interference and antenna configuration: for operations inside drone corridors, base station antenna uptilt and dedicated corridor antennas are proposed as technical measures to meet coverage/reliability expectations and to limit interference impacts on terrestrial users [8].  
 - Multi‑link and redundancy best practice: the literature repeatedly recommends multi‑link architectures (cellular + D2D + relay/mesh) so that loss of one link does not compromise safety‑critical control or detect‑and‑avoid data [3] [5] [6].
+
+Caveats and evidence limits:
+- The reviewed papers document operational demonstrations, datasets and simulation‑level analyses, but specific regulatory altitude cutoffs or universal performance thresholds (e.g., mandatory link availability percent at exact altitudes) are not given in the corpus; regulatory compliance is shown via case studies (SORA trials, field tests) rather than normative altitude bands [10] [13] [12].  
+- For setting compliance targets you should combine these technical studies with the applicable authority’s BVLOS guidance and SORA‑style risk assessments; the academic literature provides engineering methods and trial evidence but not finalized regulatory thresholds in the supplied set [14] [12].
+
+If you want, I can extract the quantitative KPIs reported in specific field experiments (latency, BLER, observed height ranges and coverage radii) from individual papers and present them in a concise table so you can use those numbers for risk assessments or system design.
+
