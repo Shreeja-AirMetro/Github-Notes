@@ -45,8 +45,8 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 
 ### Literature review workflow
 	- Find literature , filter and read main
-	- Reference manager - Mendeley - Litmaps - connected papers - concenses /scisppace for filtering 
-	- 
+	- Reference manager - Mendeley - Litmaps - connected papers - concenses /scispace for filtering 
+	- Notebook LM for research concept and gaps 
 
 ### Big Tasks 
 
