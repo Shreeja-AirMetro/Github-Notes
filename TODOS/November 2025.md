@@ -48,7 +48,7 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 	- Reference manager - Mendeley - Litmaps - connected papers - concenses /scispace for filtering 
 	- Notebook LM for research concept and gaps - also concenses
 	- Get a structure - suggested structure - scispace
-	- 
+	- content 
 
 ### Big Tasks 
 
