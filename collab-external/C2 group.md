@@ -326,4 +326,8 @@ Status updates
 	"right contact to the ministry"
 	- Stakeholder problems from their perspective 
 	- EGNOS Day 
+	- University as an alternative / peter 
+	- Academic Co- chair , governmental/ regulatory  and commercial co-chair 
+	- Regulatory people don't like to speak on "record" - speak freely 
+	- IT Managers - that can make open sources 
 	- 
