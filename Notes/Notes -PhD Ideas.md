@@ -805,3 +805,6 @@ The core intellectual contribution of your work is likely the **dynamic optimiza
 
 In summary, while you could build a multi-link, coded prototype without ML using rule-based or conventional mathematical optimization, that system would be energy-inefficient, prone to significant latency spikes during handovers, and likely unable to consistently meet the strict 40 ms latency and 99.9% reliability Key Performance Indicators (KPIs) in realistic, dynamic BVLOS environments. The use of AI/ML, particularly the **Hierarchical Multi-Agent DRL framework** proposed in the research plan, is the defining component that provides the **novelty** and the **practical performance** necessary for a PhD-level contribution.
 
+----
+PhD flowchart for review and organizing  v1 from 12/11
+![[PhD-Flowchart-v1.pdf]]

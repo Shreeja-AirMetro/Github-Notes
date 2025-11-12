@@ -155,6 +155,6 @@ Takeaway from RTG review
  Jacob - Prague university UTM , infrastructure AAM - small workshop 
 
 To do: 
-- [ ] Send the post to Elif 
-- [ ] Tushar Hw
+- [x] Send the post to Elif 
+- [x] Tushar Hw
 
