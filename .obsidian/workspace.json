@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/Multi-link communication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "Multi-link communication"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/Multi-link communication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of Multi-link communication"
             }
           }
         ],
@@ -174,6 +174,8 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "ANYWI_DemoPresentation.pdf",
+    "TODOS/November 2025.md",
     "Notes/Notes -PhD Ideas.md",
     "PhD-Flowchart-v1.pdf",
     "Progress- PhD/Workshops.md",
@@ -182,7 +184,6 @@
     "Progress- PhD/Milestones.md",
     "Progress- PhD/First TAC meeting.md",
     "Progress- PhD/Application.md",
-    "TODOS/November 2025.md",
     "Paper-Writing/In-network computing idea.md",
     "Paper-Writing/UTM- Data Mesh.md",
     "Notes/NTN.md",

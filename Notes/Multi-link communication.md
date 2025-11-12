@@ -183,3 +183,6 @@ ADS-L is a low-cost, low-power electronic conspicuity standard introduced by EAS
 - direction of comm defined on script
 - Mesh node detect Pi - 
 - Configure network interface 
+
+---
+Multipath - idea  ![[ANYWI_DemoPresentation.pdf]]
