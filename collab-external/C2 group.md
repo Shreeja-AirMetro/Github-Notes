@@ -317,3 +317,13 @@ Model specification and Concepts - Morten presentation
 Tasks : 
 simple scenarios and definition and models for automation 
 validate idea - real-world opüerators of BVLOS flights
+
+---
+12/11
+
+Quick updates from last meeting 
+Status updates 
+	"right contact to the ministry"
+	- Stakeholder problems from their perspective 
+	- EGNOS Day 
+	- 
