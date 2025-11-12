@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collab-external/C2 group.md",
+                "file": "collab-external/Anywi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C2 group"
+              "title": "Anywi"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collab-external/C2 group.md",
+                "file": "collab-external/Anywi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C2 group"
+              "title": "Outline of Anywi"
             }
           }
         ],
@@ -174,11 +174,11 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "collab-external/C2 group.md",
+    "collab-external/EU call.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "collab-internal/T2.md",
-    "collab-external/EU call.md",
     "dronnect_PartB_submission.pdf",
-    "collab-external/C2 group.md",
     "Implementation/Topics.md",
     "Implementation/Idea - Research Gap.md",
     "Implementation/Dissertation - Setup.md",
