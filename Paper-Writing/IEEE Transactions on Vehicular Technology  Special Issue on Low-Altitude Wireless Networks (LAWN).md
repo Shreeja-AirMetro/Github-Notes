@@ -213,12 +213,8 @@ This narrative convinces reviewers of relevance and originality.
 If you can, add one of these:
 
 - **Dataset release:** Share your RSSI↔RSRP measurements — makes your paper more citable.
-    
 - **Explainable model:** Combine physics-based modeling + AI (hybrid approach).
-    
 - **Cross-disciplinary insight:** e.g., use reinforcement learning or 6G sensing integration for LAWN signal calibration.
-    
-
 ---
 
 ## 🔬 Example Framing of a Novel Contribution
@@ -372,10 +368,7 @@ Great — below are **concrete, actionable idea directions** you can use to make
 If you want, next I can **(pick one)**:
 
 - Draft a 1-page outline (intro + contributions + experiments) tailored to TVT LAWN.
-    
 - Produce a detailed simulator setup (ns-3 / MATLAB / ray-tracer parameters) you can run.
-    
-- Draft the hybrid physics+ML RSSI→RSRP model (equations + training/calibration recipe) and sample code skeleton.
-    
 
+- Draft the hybrid physics+ML RSSI→RSRP model (equations + training/calibration recipe) and sample code skeleton.
 Which one should I do next?
