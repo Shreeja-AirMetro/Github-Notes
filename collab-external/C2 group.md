@@ -330,4 +330,9 @@ Status updates
 	- Academic Co- chair , governmental/ regulatory  and commercial co-chair 
 	- Regulatory people don't like to speak on "record" - speak freely 
 	- IT Managers - that can make open sources 
+	- EASA budget based  - based on board meeting and allocate the budget - to get things to move 
+
+How to set the date - Jop and Paul  Chair by Morten 
+
+
 	- 
