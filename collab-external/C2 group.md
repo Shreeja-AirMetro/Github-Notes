@@ -344,11 +344,33 @@ Business related regulation "productivity" logistics business
 flexibility across borders 
 ConOps development 
 
-What's real 
-
 Reality 
-
 - High margin stuff - delivery 
-- ROI 
+- ROI high 
+- Pervasive - low incremental  Revenue - min impedance and min cost of implementation
 
- 
+Professional organization that involve drone operators ?!?
+Drone safe register - UK 
+Operators club for drone pilots 
+If need to put to standards - how? Best way is EUROCAE 
+
+ (Association of Remotely Piloted Aircraft   
+Systems UK) is a prominent non-profit trade membership association that   
+represents the UK drone industry, from individuals to large   
+organizations. It serves as the unified voice of the UK drone industry,   
+driving innovation and helping to influence regulatory change while   
+ensuring the industry's needs and achievements are heard.
+
+**Drone Safe Register** is the UK's recognized professional directory of drone operators, functioning as the nation's largest drone network with over 500 fully qualified and insured CAA-approved commercial drone operators. It provides a searchable directory of trained, qualified, and insured drone pilots available for hire, and registers both pilots and their aircraft.
+
+  
+
+## International Organizations
+
+**AUVSI** (Association for Unmanned Vehicle Systems International) is a non-profit organization that represents companies and professionals from more than 60 countries. It covers unmanned systems and robotics broadly, runs annual expos, and advocates on behalf of its members.
+
+**The Academy of Model Aeronautics (AMA)** is the world's largest model aviation association with over 195,000 members, having expanded to include quadcopters and drone pilots in recent years.
+
+**Alliance for Drone Innovation (ADI)** represents drone manufacturers, software suppliers, and drone businesses operating in the U.S., including major companies like DJI and Parrot.
+
+These organizations provide networking opportunities, professional development, regulatory advocacy, and help maintain industry standards for safe and legal drone operations.
