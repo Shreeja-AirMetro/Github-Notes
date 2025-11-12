@@ -332,7 +332,23 @@ Status updates
 	- IT Managers - that can make open sources 
 	- EASA budget based  - based on board meeting and allocate the budget - to get things to move 
 
-How to set the date - Jop and Paul  Chair by Morten 
+How to set the date - Jop and Paul  Chair by Morten first Netherlands - then travel idea to rest EU
 
 
-	- 
+ EGNOS Day - Ability EU regulators on technical standards 
+
+
+
+---
+Business related regulation "productivity" logistics business
+flexibility across borders 
+ConOps development 
+
+What's real 
+
+Reality 
+
+- High margin stuff - delivery 
+- ROI 
+
+ 
