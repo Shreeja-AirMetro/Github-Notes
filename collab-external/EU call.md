@@ -403,3 +403,10 @@ Both pilots directly address the call's focus areas while incorporating UTM and 
 58. [https://webgate.ec.europa.eu/funding-tenders-opportunities/display/IT/Work+packages+and+deliverables](https://webgate.ec.europa.eu/funding-tenders-opportunities/display/IT/Work+packages+and+deliverables)
 59. [https://www.sciencedirect.com/science/article/pii/S2405844024140017](https://www.sciencedirect.com/science/article/pii/S2405844024140017)
 60. [https://www.teamwork.com/blog/pilot-project-example/](https://www.teamwork.com/blog/pilot-project-example/)
+
+
+---
+
+Final Draft of the proposal 
+
+![[dronnect_PartB_submission.pdf]]

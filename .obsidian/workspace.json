@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multi-link communication.md",
+                "file": "collab-external/EU call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-link communication"
+              "title": "EU call"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Multi-link communication.md",
+                "file": "collab-external/EU call.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multi-link communication"
+              "title": "Outline of EU call"
             }
           }
         ],
@@ -174,9 +174,20 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "dronnect_PartB_submission.pdf",
+    "collab-external/C2 group.md",
+    "Implementation/Topics.md",
+    "Implementation/Idea - Research Gap.md",
+    "Implementation/Dissertation - Setup.md",
+    "Notes/RDM workshop.md",
+    "Notes/Notes -PhD Ideas.md",
+    "Notes/Network coding - UAV Comm.md",
+    "Notes/Multi-link communication.md",
+    "Notes/MEC - Edge Computing.md",
+    "Notes/GA -GSC Modules.md",
+    "Notes/Drones.md",
     "ANYWI_DemoPresentation.pdf",
     "TODOS/November 2025.md",
-    "Notes/Notes -PhD Ideas.md",
     "PhD-Flowchart-v1.pdf",
     "Progress- PhD/Workshops.md",
     "Progress- PhD/Progress and Tasks - topic.md",
@@ -191,23 +202,13 @@
     "Paper-Writing/VTC - Conf.md",
     "Paper-Writing/WCNC.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
-    "Notes/RF propogation (T2).md",
-    "Paper-Writing/REVIEW.md",
     "Semantic Communication Current standards and regulation.docx",
-    "Notes/Klagenfurt visit.md",
-    "Atmosphere.md",
     "Pasted image 20251104154826.png",
     "archi-SAN.png",
     "Pasted image 20251104094423.png",
-    "Paper-Writing/IEEE Survey.md",
-    "Paper-Writing/Deadline - target Conf and Journals.md",
-    "Paper-Writing/Idea dumps.md",
-    "Paper-Writing/Untitled.md",
-    "Notes/GA -GSC Modules.md",
     "Pasted image 20251103192031.png",
     "Pasted image 20251103181320.png",
     "paper71 Final federated multiaccess computing architecture for scalable and secure uspace traffic management in 5G enabled UAS network.pdf",
-    "Notes/UTM.md",
     "ground.png",
     "cell-ctrl.png",
     "terminal.png",
@@ -222,7 +223,6 @@
     "Untitled 1.canvas",
     "Pasted image 20250901133112.png",
     "UAV-G-Poster.pptx",
-    "TODOS",
     "Untitled.canvas"
   ]
 }

@@ -27,3 +27,16 @@ Gap 3: Insufficient Focus on AoI in Multi-Link Communication for UAM
 - Network handwork - internal / external network handovers in Multi-path
 - Edge computing ICN -in network computing
 - With respect to UTM - external communication - DataMesh , Age of information (AoI) 
+---
+
+### Dissertation Setup 
+
+UTM- Data Mesh 
+
+Multilink Simulator VM
+
+Omnet++ NTN 
+
+Air 2 air - WiFi  Mesh setup 
+
+octomap - setup
