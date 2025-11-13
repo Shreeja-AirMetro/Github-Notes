@@ -42,3 +42,7 @@ visualization  - pictures and drawings / plots to describe the data/ instruction
 ----
 Next session: eLABFTW
 
+---
+Uncertainty optimization  talk by Niklas Schietzold 
+
+- Is this just about 
