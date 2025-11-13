@@ -35,3 +35,7 @@ Documentation template is important
 details in the documentation
 common naming convention
 establish the goal/ vision 
+3 sheets of paper 
+goal / data providence is important 
+
+
