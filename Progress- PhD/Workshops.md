@@ -98,3 +98,7 @@ ecdf - fitted cdf and data pts not exteremely low -
 pbox 
 weight - scewed "what's moving the fn - holistic sensitivity analysis"
 
+---
+Martin's session on Demonstrator 
+
+
