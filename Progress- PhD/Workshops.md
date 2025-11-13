@@ -83,4 +83,10 @@ Polymorphic - Basic soln - FEM - Stocastic analysis - fuzzy analysis - optimizza
 "affine transformation" - what is this 
 
 Steel hook example for stress  - get the variables, get type and ten assign uncertainity model 
-goal of alpha level
+goal of alpha level 
+
+Q: 
+what is performance and robustness in the steel hook example 
+when do you decide to go to this surrogate problems  - not just about mass and stress 
+
+robustne
