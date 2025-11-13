@@ -110,4 +110,9 @@ T7  - overarching goal with urban setting // micro climate - might not be fully 
 ---
 Tushar talk 
 LiDAR + event camera for 
+SWAP-C
+
+Prep for drones : mechanical assembly, electrical assembly, Software (ARM, Drivers, ROS2, PX4-ROS 2)
+Event camera - time decaying filter --> (pixel represent time)Time surface map 
+
 
