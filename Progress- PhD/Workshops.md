@@ -92,3 +92,6 @@ when do you decide to go to this surrogate problems  - not just about mass and s
 robustness and optimalilty 
 
 Monte carlo - is burst optimizer - go with stocastic problems
+
+increasing # of samples start with probabilistic model 
+
