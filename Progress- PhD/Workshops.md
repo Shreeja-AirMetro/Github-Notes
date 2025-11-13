@@ -89,4 +89,5 @@ Q:
 what is performance and robustness in the steel hook example 
 when do you decide to go to this surrogate problems  - not just about mass and stress 
 
-robustne
+robustness and optimalilty 
+
