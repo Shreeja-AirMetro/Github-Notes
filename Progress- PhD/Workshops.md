@@ -30,3 +30,5 @@ Session on Data Management
 LEGO Metadata for reproducibility
 
 Lego build plan and write description that can be reproduced by other team 
+
+Documentation template is important 
