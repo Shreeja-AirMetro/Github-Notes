@@ -76,4 +76,11 @@ deterministic optimization task
 	 width of interval - area
 	 what is optimal ? 
 	 Performance or robustness oriented
-	 Vicini
+	 Vicinity in prob of failure - high uncertainty 
+	 Low uncertainity - prob of failure is high and things fail drastically
+Polymorphic - Basic soln - FEM - Stocastic analysis - fuzzy analysis - optimizzation
+
+"affine transformation" - what is this 
+
+Steel hook example for stress  - get the variables, get type and ten assign uncertainity model 
+goal of alpha level
