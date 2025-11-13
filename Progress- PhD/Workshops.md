@@ -62,3 +62,8 @@ Limit state function - a quanti we measure
 - comparability 
 
 solving two optimization problem 
+x1  and x2 are intervals - mapping with z is a fn a 
+min and max in input interval 
+fuzzy  - stacking of multiple interval analysis 
+
+Data ( quantity, precision and assesment) based uncertainity modelling choose methods accordingly 
