@@ -22,4 +22,7 @@ What's next
 10/11
 - Introduction of CNS cluster from summer school 
 - T2 raytracing with T5, T8 (navigation) , T9 and T10 
-- 
+
+----
+MoM 13/11 Winter Workshop , Moritzburg 
+
