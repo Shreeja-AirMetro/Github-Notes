@@ -67,3 +67,11 @@ min and max in input interval
 fuzzy  - stacking of multiple interval analysis 
 
 Data ( quantity, precision and assesment) based uncertainity modelling choose methods accordingly 
+
+"comparability"
+deterministic optimization task  
+	 uncertain design parameters , apriori parameters
+	 what to do with uncertain output ? 
+	 eg 3 design  3 fuzzy intervals - get "center of mass - centroid values (mean)"--> compare them 
+	 width of interval - area
+	 what is optimal ? 
