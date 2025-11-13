@@ -94,7 +94,7 @@ robustness and optimalilty
 Monte carlo - is burst optimizer - go with stocastic problems
 
 increasing # of samples start with probabilistic model 
-ecdf - fitted cdf and data pts not exteremely low - 
+ecdf - fitted cdf and data pts not extremely low - 
 pbox 
 weight - scewed "what's moving the fn - holistic sensitivity analysis"
 
