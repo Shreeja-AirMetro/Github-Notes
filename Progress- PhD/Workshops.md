@@ -118,6 +118,9 @@ Event camera - time decaying filter --> (pixel represent time)Time surface map
 Even camera's quantum efficiency for LiDAR's wavelength is non-trivial 
 filter block IR frequency 
 
-frequencies measurement  
+frequencies measurement  with event camera 
+
+Angular and translation motions 
+
 
 
