@@ -107,4 +107,7 @@ idea 2 demonstrator : operational based
 Physical 
 T7  - overarching goal with urban setting // micro climate - might not be fully satisfied by Wind tunnel 
 
+---
+Tushar talk 
+LiDAR + event camera for 
 
