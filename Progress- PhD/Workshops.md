@@ -121,6 +121,8 @@ filter block IR frequency
 frequencies measurement  with event camera 
 
 Angular and translation motions 
-
+ Data visualization - RViz2
+ Tu
+ 
 
 
