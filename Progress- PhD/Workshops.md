@@ -75,3 +75,5 @@ deterministic optimization task
 	 eg 3 design  3 fuzzy intervals - get "center of mass - centroid values (mean)"--> compare them 
 	 width of interval - area
 	 what is optimal ? 
+	 Performance or robustness oriented
+	 Vicini
