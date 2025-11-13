@@ -115,4 +115,9 @@ SWAP-C
 Prep for drones : mechanical assembly, electrical assembly, Software (ARM, Drivers, ROS2, PX4-ROS 2)
 Event camera - time decaying filter --> (pixel represent time)Time surface map 
 
+Even camera's quantum efficiency for LiDAR's wavelength is non-trivial 
+filter block IR frequency 
+
+frequencies measurement  
+
 
