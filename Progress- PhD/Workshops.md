@@ -101,4 +101,9 @@ weight - scewed "what's moving the fn - holistic sensitivity analysis"
 ---
 Martin's session on Demonstrator 
 
+Martins demons + digi twin 
+idea 2 demonstrator : operational based 
+
+Physical 
+T7  - overarching goal with urban setting // micro climate 
 
