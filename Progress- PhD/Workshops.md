@@ -101,7 +101,7 @@ weight - scewed "what's moving the fn - holistic sensitivity analysis"
 ---
 Martin's session on Demonstrator 
 
-Martins demons + digi twin 
+Martins demons + digital twin 
 idea 2 demonstrator : operational based 
 
 Physical 
@@ -122,7 +122,10 @@ frequencies measurement  with event camera
 
 Angular and translation motions 
  Data visualization - RViz2
- Tu
+ Tushar Goal : A perception based navigation with flight controller for AAM 
+ Can IMU be removed with sensor suite 
+ 
+ 
  
 
 
