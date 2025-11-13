@@ -37,6 +37,8 @@ common naming convention
 establish the goal/ vision 
 3 sheets of paper 
 goal / data providence is important 
-pictures and drawings / plots to describe the data/ instruction 
+visualization  - pictures and drawings / plots to describe the data/ instruction 
 
+----
+Next session: eLABFTW
 
