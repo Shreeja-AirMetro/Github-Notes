@@ -45,4 +45,13 @@ Next session: eLABFTW
 ---
 Uncertainty optimization  talk by Niklas Schietzold 
 
-- Is this just about 
+- Is this just about Monto carlo 
+
+Modeling and quantification 
+Uncertainity models  - Aleotoric - measurable and not reducible 
+two major types  
+epistemic 
+systematic error  or offset - lack of knowledge - identical - theoretically reuseable and reducible 
+interval or fuzzy variable 
+
+Combined - hybrid - polymorphic uncertainity 
