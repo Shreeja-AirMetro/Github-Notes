@@ -26,3 +26,6 @@ What's next
 ----
 MoM 13/11 Winter Workshop , Moritzburg 
 
+Session on Data Management 
+LEGO Metadata for reproducibility
+
