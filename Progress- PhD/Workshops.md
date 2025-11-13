@@ -55,3 +55,10 @@ systematic error  or offset - lack of knowledge - identical - theoretically reus
 interval or fuzzy variable 
 
 Combined - hybrid - polymorphic uncertainity 
+Limit state function - a quanti we measure 
+
+"often show mean/ one scalar value pro of failure" --> why don't we show all value 
+- interpretability 
+- comparability 
+
+solving two optimization problem 
