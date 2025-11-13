@@ -29,3 +29,4 @@ MoM 13/11 Winter Workshop , Moritzburg
 Session on Data Management 
 LEGO Metadata for reproducibility
 
+Lego build plan and write description that can be reproduced by other team 
