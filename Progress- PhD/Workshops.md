@@ -134,3 +134,7 @@ Martin - Wrap up
 
 Hartmut's presentation
 
+Using Sharepoint to declare a publication intent 
+abstract / mission Statement free for commenting by ALL - lead author decides wisely 
+Team work and consistency across RTG 
+
