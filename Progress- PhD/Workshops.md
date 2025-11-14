@@ -149,5 +149,9 @@ When is SML coming - reflecting you work
 ---
 
 Computational flow dynamics 
-PALM Model sytsem
+PALM Model sytsem - roof geometry - flow parameter is different 
 Open Foam  - more case studies 
+
+
+- 3D urban model 
+- 
