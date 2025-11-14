@@ -130,4 +130,7 @@ Angular and translation motions
 14/11
 Martin - Wrap up 
 	- Lego 
-	- 
+	- Agenda 
+
+Hartmut's presentation
+
