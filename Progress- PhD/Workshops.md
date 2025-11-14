@@ -138,3 +138,6 @@ Using Sharepoint to declare a publication intent
 abstract / mission Statement free for commenting by ALL - lead author decides wisely 
 Team work and consistency across RTG 
 
+questions of basic research and questions of applied research 
+problem formation of technical research and application research
+
