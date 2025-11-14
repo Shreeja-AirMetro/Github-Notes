@@ -32,7 +32,7 @@ MMwave for drone
 Database of current antennas - geospatial map
 
 HW 
-SoA - RSSSI and RSRP of ray tracing from Mmm wave
+SoA - RSSI and RSRP of ray tracing from Mm wave
 mmwave for drone operatoin 
 
 Ray tracing

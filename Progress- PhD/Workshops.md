@@ -138,6 +138,11 @@ Using Sharepoint to declare a publication intent
 abstract / mission Statement free for commenting by ALL - lead author decides wisely 
 Team work and consistency across RTG 
 
+**comment by Aßmann**
 questions of basic research and questions of applied research 
-problem formation of technical research and application research
+problem formation of technical research and application research 
+
+Sharepoint - timely result on publication 
+
+When is SML coming - reflecting you work 
 
