@@ -44,3 +44,19 @@ We are doing this from monograph and publication perspective and to help with
 
 
 ---
+Chapter ideas for Dissertation 
+
+1. Introduction
+2. Communication technology 
+	1. 5G 
+	2. Satcom
+	3. Wi-Fi
+	4. Long range traditional aviation communication 
+	5. NTN 
+3. Data to send and Link | Link Architecture
+4. Network and Protocols 
+5. Link quality and resource aware networks 
+6. CNS Cluster 
+7. Application and setup of Multi-link commercial applications 
+8. NTN air segment - Drones for Communication
+9. Discussion and Conclusion 
