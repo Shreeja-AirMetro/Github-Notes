@@ -54,7 +54,15 @@ Chapter ideas for Dissertation
 	4. Long range traditional aviation communication 
 	5. NTN 
 3. Data to send and Link | Link Architecture
-4. Network and Protocols 
+	1. Network and Protocols  (see how to adapt)
+		1. Air to Air 
+		2. Air to Ground
+	2. Command and control | Critical comm
+		1. Telem 
+		2. Mukti-Modal Nav 
+		3. Emergency message 
+	
+4. 
 5. Link quality and resource aware networks 
 6. CNS Cluster 
 7. Application and setup of Multi-link commercial applications 
