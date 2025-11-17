@@ -74,6 +74,9 @@ Mesh tool box : https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-240
 Hardware integration :https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-24002482-mhz-wi-fi-band 
 Hardware interfaces: https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces 
 Antenna Configuration: https://techlibrary.doodlelabs.com/can-i-do-x-distance  
+RF Link : https://techlibrary.doodlelabs.com/optimizing-the-rf-link 
+Networking Modules: https://techlibrary.doodlelabs.com/supported-networking-modes 
+video guide : https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video 
 
 Pin Configuration of Mini OEM and Eval kit 
 
