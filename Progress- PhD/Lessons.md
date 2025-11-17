@@ -1,1 +1,2 @@
-Lessons from 
+Lessons from workshop 
+- Aßmann -map abstract 
