@@ -73,8 +73,23 @@ Mesh tool box : https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-240
 
 Hardware integration :https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-24002482-mhz-wi-fi-band 
 Hardware interfaces: https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces 
+Antenna Configuration: https://techlibrary.doodlelabs.com/can-i-do-x-distance  
 
 Pin Configuration of Mini OEM and Eval kit 
+
+### Component list 
+mini-OEM Mesh Rider Radio
+
+1. mini-OEM Mesh Rider Radio
+2.  Side View -- 2x MMCX Connectors
+3.  Cables
+    A) MMCX-SMA cables
+    B) LAN Ethernet cable
+    C) USB-A to USB-C cable
+4.  2x Antennas + 2x Attenuators 
+5.  Eval Kit
+    A) Evaluation test board
+    B) Heatsink & thermal pad
 
 ![[Pasted image 20251117100139.png]] 
 
@@ -83,3 +98,4 @@ Pin Configuration of Mini OEM and Eval kit
 
 Doodle labs work with Wi-Fi on file level. The go beyond IEEE specification and how wireless done over long range 
 They use their own on-board processor with wrts routing protocol  
+
