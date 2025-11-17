@@ -56,4 +56,11 @@ Command & Control channel Ultra-Reliable Low Latency Channel (URLLC). Latency 1.
 10. RF Power Control In 1 db steps with ATPC(Automatic Transmit Power Control)
 11. Integrated Antenna Port Protection Able to withstand open port, >10 KV (contact) and >15KV (open air discharge) as per IEC-61000-4-2
 12. Wireless Error Correction FEC, ARQ
-13. 
+13. Mesh Router Self-Forming/Self-Healing, Peer to Peer
+14. Custom Software Package Manager -Image Builder, OPKG, ipk
+15. Radio Management Web GUI (HTTPs), SSH and JSON-RPC,Android/Linux/Windows App
+16. Mesh tools - https://techlibrary.doodlelabs.com/product-index 
+17. Antenna : https://doodlelabs.sharepoint.com/sites/Technical/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FTechnical%2FShared%20Documents%2F2024%20%2D%2D%20Technical%20Library%2FDatasheets%2FCurrent%20Models%2FAntennas%2FOld%20%2D%2D%20Mini%2DOEM%20and%20Nano%2DOEM%2F2450%2FANT%2D2450%2D3%2DO%20Datasheet%2Epdf&parent=%2Fsites%2FTechnical%2FShared%20Documents%2F2024%20%2D%2D%20Technical%20Library%2FDatasheets%2FCurrent%20Models%2FAntennas%2FOld%20%2D%2D%20Mini%2DOEM%20and%20Nano%2DOEM%2F2450&p=true&ga=1 
+18. ![[ANT-2450-3-O Datasheet.pdf]]
+
+
