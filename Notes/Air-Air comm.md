@@ -80,4 +80,4 @@ Pin Configuration of Mini OEM and Eval kit
 ### What is doodle labs doing 
 
 Doodle labs work with Wi-Fi on file level. The go beyond IEEE specification and how wireless done over long range 
-They use their own on-board processor with wrts routing protocol 
+They use their own on-board processor with wrts routing protocol  
