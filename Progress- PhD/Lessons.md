@@ -7,3 +7,6 @@ Lessons from workshop
 Nov 2027 Begin organizing thesis and writing Dec 2027 - Submit the thesis 
 
 **Until Dec 2025** 
+
+stabilize scope & reproduce baselines
+

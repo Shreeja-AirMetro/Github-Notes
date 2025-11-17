@@ -11,3 +11,19 @@ From a drone - Message continuity through multi-link communication - Network cod
 - Types of links - Payload and non-payload 
 - Can it be an intermediate drone BS
 <span style="color:rgb(0, 0, 0)">-<span style="color:rgb(0, 0, 0)"> </span> </span><span style="color:rgb(0, 0, 0)"> </span>
+
+
+### RQ
+
+
+- Finalize thesis problem statement (one sentence) and 3 clear research questions (RQ1–RQ3). Example:  
+    RQ1: how to _optimally_ allocate telemetry/control traffic across WiFi-mesh (air-to-air), 5G (ground), and LEO fallback to maximize telemetry availability and meet latency SLAs?  
+    RQ2: what network-coding + multipath strategies provide provable reduction in control-link outage risk?  
+    RQ3: how to use edge computing to reduce decision latency for S&A under comms uncertainty?
+    
+- Reproducible baseline implementation in OMNeT++: simple round-robin path selection across links, plain UDP control, no coding. Verify you can run the scenarios you plan (urban multipath, rural sparse 5G, intermittent LEO).
+    
+- Prepare a short internal report (10 pages) with baseline results and datasets/trace format.
+    
+- Decide the 2–3 representative mission profiles (e.g., urban inspection 5–10 km; rural delivery 20–50 km; long endurance BVLOS with intermittent 5G).
+- 
