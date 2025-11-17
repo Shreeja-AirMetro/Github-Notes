@@ -36,4 +36,24 @@ command & control, telemetry, and video transport in one ultra compact OEM modul
 - Key data 
 - 2 freq bands available 2450 Mhz and 2455 Mhz
 - The Mesh Rider Radio has been designed to be **plug and play**. Only **USB and a power supply** are required for integration.
-- 
+
+
+https://learn.doodlelabs.com/throughput-estimation-tool  Throughput calculator
+
+1. Operating Modes Mesh, WDS AP, WDS Client
+Command & Control channel Ultra-Reliable Low Latency Channel (URLLC). Latency 1.5-10 ms
+2. Video Channel Optimized video streaming with Unicast and Multicast transmission
+
+3. Over the Air Data Encryption 128-bit AES (Full throughput)
+256-bit AES (12 Mbps max throughput)
+
+4. Advanced Band Filters Dedicated SAW filters for each band for high interference immunity
+5. Minimum Sensitivity UDP Throughput -101 dbm @ 3 MHz | 87 mbps@20 MHz
+6. Max RF Power at SMA port (Software control) Each radio individually calibrated 1.6W (32 dBm)
+7. Channel Sizes (Software Selectable) 3, 5, 10, 20 MHz
+8. Radio Data Rate Auto adapting Modulation Coding Scheme (MCS0-15)
+9. Antenna Signal Strength -30 to -90 dBm (Recommended), Absolute Maximum= +12 dBm
+10. RF Power Control In 1 db steps with ATPC(Automatic Transmit Power Control)
+11. Integrated Antenna Port Protection Able to withstand open port, >10 KV (contact) and >15KV (open air discharge) as per IEC-61000-4-2
+12. Wireless Error Correction FEC, ARQ
+13. 
