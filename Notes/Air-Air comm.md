@@ -76,6 +76,8 @@ Hardware interfaces: https://techlibrary.doodlelabs.com/mesh-rider-radio-hardwar
 
 Pin Configuration of Mini OEM and Eval kit 
 
+![[Pasted image 20251117100139.png]] 
+
 
 ### What is doodle labs doing 
 
