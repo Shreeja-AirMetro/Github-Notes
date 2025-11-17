@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/Idea - Research Gap.md",
+                "file": "Progress- PhD/Lessons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea - Research Gap"
+              "title": "Lessons"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress- PhD/Idea - Research Gap.md",
+                "file": "Progress- PhD/Lessons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea - Research Gap"
+              "title": "Outline of Lessons"
             }
           }
         ],
@@ -187,10 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "7392efce17d8572c",
   "lastOpenFiles": [
-    "Implementation/Topics.md",
     "Progress- PhD/Idea - Research Gap.md",
+    "Progress- PhD/Lessons.md",
+    "Progress- PhD/PhD Project management.mw",
+    "Literature - Notes/Literature - collection and topics.md",
+    "collab-internal/CNS.md",
+    "collab-internal/T58.md",
+    "collab-internal/T2.md",
+    "Implementation/Topics.md",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Progress and Tasks - topic.md",
     "Progress- PhD/Workshops.md",
@@ -208,20 +214,14 @@
     "collab-external/Anywi.md",
     "collab-external/C2 group.md",
     "collab-external/EU call.md",
-    "collab-internal/T2.md",
     "dronnect_PartB_submission.pdf",
     "Implementation/Dissertation - Setup.md",
     "Notes/RDM workshop.md",
     "Notes/Notes -PhD Ideas.md",
     "Notes/Network coding - UAV Comm.md",
     "Notes/Multi-link communication.md",
-    "Notes/MEC - Edge Computing.md",
-    "Notes/GA -GSC Modules.md",
-    "Notes/Drones.md",
     "ANYWI_DemoPresentation.pdf",
     "PhD-Flowchart-v1.pdf",
-    "Paper-Writing/In-network computing idea.md",
-    "Paper-Writing/UTM- Data Mesh.md",
     "Semantic Communication Current standards and regulation.docx",
     "Pasted image 20251104154826.png",
     "archi-SAN.png",
@@ -233,7 +233,6 @@
     "cell-ctrl.png",
     "terminal.png",
     "uav.png",
-    "Markwhen/PhD Project management.mw",
     "~$phd.docx",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
