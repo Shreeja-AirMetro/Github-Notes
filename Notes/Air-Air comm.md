@@ -64,3 +64,14 @@ Command & Control channel Ultra-Reliable Low Latency Channel (URLLC). Latency 1.
 18. ![[ANT-2450-3-O Datasheet.pdf]]
 
 
+Through the links
+
+Guide links : https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-24002482-mhz-wi-fi-band
+Pin diagram: https://techlibrary.doodlelabs.com/minioem-mesh-rider-radio-connector-descriptions-2023-update 
+Main spec details: https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHARED/%2128Nh0Ga6zDeIsEryj68zFoLHlcLbb/chPLqt08InqjdYdi#/ 
+Mesh tool box : https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-24002482-mhz-wi-fi-band 
+
+Hardware integration :https://techlibrary.doodlelabs.com/mini-oem-mesh-rider-radio-24002482-mhz-wi-fi-band 
+Hardware interfaces: https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces 
+
+Pin Configuration of Mini OEM and Eval kit 
