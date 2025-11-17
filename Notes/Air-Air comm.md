@@ -105,3 +105,41 @@ They use their own on-board processor with wrts routing protocol
 ---
 
 What is RF and optimizing the RF link 
+
+1. Include around 10-15 dB of fade margin to account for changing environmental and operating conditions
+
+2. Use the highest gain antenna that your application allows, and if possible, separate the antennas by a half-wavelength in an orthogonal arrangement.
+
+3. The objective is to operate the link with the highest SNR possible (the sweet spot for Mesh Rider Radio is around -40 dB to -70 dB RSSI).
+
+Fundamental RF link laws 
+```
+RF Link Range=f(TX Power, RX Sensitivity and Channel Bandwidth, Operating Frequency and Antenna Gain, Path Loss, Noise and Interference)
+```
+
+TX Power 
+- Higher RF transmit power makes signals go farther.
+
+The output power of the radio is not constant. It is controlled by four factors:
+
+1. The user setting :This is the number that you control in the Network Configuration -> Wireless menu.
+
+2. The MCS rate
+
+a. All power amplifiers exhibit non-linear gain as they approach their output power limits.
+
+b. This non-linearity distorts the RF signal and prevents the transmitter from operating at it's power limit when transmitting at high modulation rates.
+
+c. There is usually a power backoff of 6-7 dB when transmitting at the highest modulation rate.
+
+d. The actual backoff is detailed in your product's datasheet.
+
+3. TPC (Transmit Power Control).
+
+a. When the radios are close to one another, they will attempt to reduce their output power so that the received power stays below -30 dBm.
+
+b. This can be disabled if desired.
+
+4. The regulatory limit.
+
+a. A power limit is applied based on the regulatory domain.
