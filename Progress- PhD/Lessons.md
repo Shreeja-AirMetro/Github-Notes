@@ -76,3 +76,31 @@ You should implement a family of algorithms, structured so each incremental addi
 
 **Baseline comparisons**: ARQ-only, ARQ+MPTCP, FEC fixed rate, RLNC static, RLNC adaptive with prediction.
 
+# OMNeT++ simulation design → testbed experiments
+
+**OMNeT++ (simulation)**
+
+- Use INET/INET4/INETMANET modules for WiFi mesh, add LTE/5G modules (available extensions) and implement link models for aerial UE (altitude-dependent pathloss). Build scenarios: urban canyon, suburban open, rural long backbone.
+    
+- Run large-scale Monte-Carlo trials (≥100 runs per scenario) to produce confident CIs on percentiles. Automate with scripts.
+    
+
+**Testbed (real)**
+
+- Flight stack: PX4 or ArduPilot with companion computer (Raspberry Pi / NVIDIA Jetson) to run scheduler/encoder.
+    
+- WiFi mesh: airborne nodes use commodity WiFi modules with external antennas — measure antenna patterns at altitude. Implement air-to-air relay using ad-hoc/mesh mode.
+- 5G: use a vendor dev kit or USB modem that can attach to a test 5G cell (private 5G if available) or emulate link with traffic shaper if no real 5G accessible.
+- LEO: if no real LEO modem, emulate sat link using an isolated RTT-shaping proxy and jitter/loss profile reflecting sat contact windows. Optionally use a low-rate Iridium/Globalstar dev kit for real sat link but that’s often costly.
+- Instrumentation: synchronized timestamps (GPS time), packet capture (tcpdump), and logging of system state and S&A decisions.
+    
+
+**Validation steps**
+
+1. Lab bench tests (latency, packet loss under controlled interference).
+    
+2. Tethered flight tests (if allowed) to validate WiFi mesh handover.
+    
+3. Short BVLOS flights (use test range / waiver); collect full logs.
+    
+4. Extended pilots in collaboration with partner (if internship gives access).
