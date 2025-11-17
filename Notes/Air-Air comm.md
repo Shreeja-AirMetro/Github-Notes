@@ -122,7 +122,7 @@ TX Power
 - In [radio transmission](https://en.wikipedia.org/wiki/Radio "Radio"), **transmitter power output** (**TPO**) is the actual amount of [power](https://en.wikipedia.org/wiki/Power_\(physics\) "Power (physics)") (in [watts](https://en.wikipedia.org/wiki/Watt "Watt")) of [radio frequency](https://en.wikipedia.org/wiki/Radio_frequency "Radio frequency") (RF) energy that a [transmitter](https://en.wikipedia.org/wiki/Transmitter "Transmitter") produces at its output.
 - The difference becomes significant when you consider that your RF power is likely modulated. That means that your average power will be around 1W, but the instantaneous power will vary. In some modulation schemes, like AM, it's common to refer to the power of the carrier as the transmitter power, but what the antenna will actually see is the power of the carrier and sidebands. For antennas intended to be used with systems like this, the power rating might also refer to just the carrier power. For AM, the instantaneous transmit power (called peak envelope power) is roughly 3x the carrier power. The difference between carrier power, total transmitted power and instantaneous power greatly depends on the modulation scheme used
  - https://www.reddit.com/r/AskEngineers/comments/qgvx7m/communications_power_vs_rf_power/
- - 
+ -  signals are transmitted and received clearly and efficiently, while minimizing interference from other devices. They work with antennas, transmitters, receivers, and other electronic components to ensure that wireless communication is reliable and strong.
 The output power of the radio is not constant. It is controlled by four factors:
 
 1. The user setting :This is the number that you control in the Network Configuration -> Wireless menu.
