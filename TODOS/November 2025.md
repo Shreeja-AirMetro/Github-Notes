@@ -108,33 +108,33 @@ So Friday - 7th Redemption Day
 
 to dos:
 
-- [ ] Create a WP and Milestones 
+- [x] Create a WP and Milestones 
 - [ ] Work on Literature Pipeline and table - What is story to build
-- [ ] meeting for FMC paper
-- [ ] Plan next week 
-- [ ] Weekend - work on paper 
-- [ ] Tushar Bestellung document 
+- [x] meeting for FMC paper
+- [x] Plan next week 
+- [x] Weekend - work on paper 
+- [x] Tushar Bestellung document 
 - [x] Martin CNS group message 
 - [x] DA midterm presentation email
-- [ ] Report submission
+- [x] Report submission
 	- [x] review with stan 
 
-- [ ] Mail Morten and Rodney
+- [x] Mail Morten and Rodney
 Sat 8/11
 - [ ] Dronnect paper
 Sun 9/11
 - [ ] Dronnect paper
-- [ ] Finalize DA slides - Lyuqiao
+- [x] Finalize DA slides - Lyuqiao
 
 Monday 10/11
 - [ ] 
-- [ ] DA mid-term presentation 
-- [ ] AirMetro Meeting 
-- [ ] Meeting for CNS group 
+- [x] DA mid-term presentation 
+- [x] AirMetro Meeting 
+- [x] Meeting for CNS group 
 
 
 Tuesday 12/11
-- [ ] Falling prize winner meeting 
+- [x] Falling prize winner meeting 
 
 
 ----
@@ -158,3 +158,15 @@ To do:
 - [x] Send the post to Elif 
 - [x] Tushar Hw
 
+
+---
+
+### To learn 
+- Wireless communications theory (link budgets, fading, Doppler, MIMO, beamforming).
+- Cellular stack familiarity (4G/5G NR concepts, 3GPP specs affecting UAVs; how to read TRs/TSs)
+- RF & antenna basics (antenna patterns at altitude, ground interaction).
+- basic ML for signal/telemetry analytics.
+- Cloud & edge computing (k8s, edge orchestration, low-latency MEC patterns).
+- Satellite comms basics (LEO constellations, link budgets, latency constraints). [MDPI](https://www.mdpi.com/2078-2489/15/1/38?utm_source=chatgpt.com)
+- Security & authentication for UAV links (secure Remote ID, secure boot/firmware). [Drone as a Service](https://www.droneasaservice.com/blog/faa-remote-id-rule-for-drones/?utm_source=chatgpt.com)
+- Certification & regulatory knowledge: SORA, EASA U-Space, FAA BVLOS/Remote ID ecosystems.
