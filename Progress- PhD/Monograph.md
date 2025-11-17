@@ -59,12 +59,21 @@ Chapter ideas for Dissertation
 		2. Air to Ground
 	2. Command and control | Critical comm
 		1. Telem 
-		2. Mukti-Modal Nav 
+		2. Multi-Modal Nav 
 		3. Emergency message 
-	
-4. 
-5. Link quality and resource aware networks 
-6. CNS Cluster 
+	3. Payload and non-critical communication
+
+4. Link quality and resource aware networks
+	1. Physical and RIS
+	2. Logical 
+		1. Network coding 
+		2. Resource aware - link Telemetry monitoring 
+5. CNS Cluster 
+	1. Comm in Nav and Surveillance 
+6. UTM
+	1. Edge and data mesh 
 7. Application and setup of Multi-link commercial applications 
+	1. What combination of Multi-link for what scenario 
 8. NTN air segment - Drones for Communication
-9. Discussion and Conclusion 
+9. Regulation - 3GPP, ETSI, EASA and IEEE standards 
+10. Discussion and Conclusion 
