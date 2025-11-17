@@ -146,3 +146,11 @@ b. This can be disabled if desired.
 4. The regulatory limit.
 
 a. A power limit is applied based on the regulatory domain.
+
+
+---
+
+### To learn 
+- Wireless communications theory (link budgets, fading, Doppler, MIMO, beamforming).
+- Cellular stack familiarity (4G/5G NR concepts, 3GPP specs affecting UAVs; how to read TRs/TSs)
+- 
