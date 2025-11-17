@@ -104,3 +104,12 @@ You should implement a family of algorithms, structured so each incremental addi
 3. Short BVLOS flights (use test range / waiver); collect full logs.
     
 4. Extended pilots in collaboration with partner (if internship gives access).
+
+
+---
+
+### Some ideas 
+
+PhD is compounding on results 
+
+

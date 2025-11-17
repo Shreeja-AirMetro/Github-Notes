@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Progress- PhD/Monograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 2025"
+              "title": "Monograph"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Progress- PhD/Monograph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dec 2025"
+              "title": "Outline of Monograph"
             }
           }
         ],
@@ -189,10 +189,13 @@
   },
   "active": "7392efce17d8572c",
   "lastOpenFiles": [
-    "Notes/Air-Air comm.md",
-    "Progress- PhD/Idea - Research Gap.md",
-    "TODOS/Dec 2025.md",
     "Progress- PhD/Lessons.md",
+    "Progress- PhD/Idea - Research Gap.md",
+    "Progress- PhD/Further.md",
+    "Progress- PhD/First TAC meeting.md",
+    "Progress- PhD/Application.md",
+    "TODOS/Dec 2025.md",
+    "Notes/Air-Air comm.md",
     "Progress- PhD/Milestones.md",
     "Progress- PhD/PhD Project management.mw",
     "Literature - Notes/Literature - collection and topics.md",
@@ -203,9 +206,6 @@
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Progress and Tasks - topic.md",
     "Progress- PhD/Workshops.md",
-    "Progress- PhD/Further.md",
-    "Progress- PhD/First TAC meeting.md",
-    "Progress- PhD/Application.md",
     "TODOS/November 2025.md",
     "Pasted image 20251117100139.png",
     "ANT-2450-3-O Datasheet.pdf",
