@@ -102,3 +102,6 @@ mini-OEM Mesh Rider Radio
 Doodle labs work with Wi-Fi on file level. The go beyond IEEE specification and how wireless done over long range 
 They use their own on-board processor with wrts routing protocol  
 
+---
+
+What is RF and optimizing the RF link 
