@@ -119,6 +119,7 @@ RF Link Range=f(TX Power, RX Sensitivity and Channel Bandwidth, Operating Freque
 
 TX Power 
 - Higher RF transmit power makes signals go farther.
+- In [radio transmission](https://en.wikipedia.org/wiki/Radio "Radio"), **transmitter power output** (**TPO**) is the actual amount of [power](https://en.wikipedia.org/wiki/Power_\(physics\) "Power (physics)") (in [watts](https://en.wikipedia.org/wiki/Watt "Watt")) of [radio frequency](https://en.wikipedia.org/wiki/Radio_frequency "Radio frequency") (RF) energy that a [transmitter](https://en.wikipedia.org/wiki/Transmitter "Transmitter") produces at its output.
 
 The output power of the radio is not constant. It is controlled by four factors:
 
