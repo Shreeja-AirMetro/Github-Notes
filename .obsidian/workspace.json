@@ -35,7 +35,8 @@
               "title": "Dec 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Air-Air comm.md",
+                "file": "TODOS/Dec 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Air-Air comm"
+              "title": "Outline of Dec 2025"
             }
           }
         ],
@@ -186,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf35fb0115a60a0",
+  "active": "7392efce17d8572c",
   "lastOpenFiles": [
+    "Notes/Air-Air comm.md",
     "Progress- PhD/Idea - Research Gap.md",
     "TODOS/Dec 2025.md",
     "Progress- PhD/Lessons.md",
@@ -204,7 +206,6 @@
     "Progress- PhD/Further.md",
     "Progress- PhD/First TAC meeting.md",
     "Progress- PhD/Application.md",
-    "Notes/Air-Air comm.md",
     "TODOS/November 2025.md",
     "Pasted image 20251117100139.png",
     "ANT-2450-3-O Datasheet.pdf",
