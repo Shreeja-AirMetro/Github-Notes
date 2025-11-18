@@ -906,4 +906,5 @@ Lower packet drop and latency
 buffer - for NTN to TN 
 
 Downlink happening - uplink will be dropped 
-down 
+
+UE to NTN gateway - Core network - Server - is the uplink 
