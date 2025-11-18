@@ -896,3 +896,8 @@ Buffering internal
 SIB25 is not the criteria to trigger the handover 
 
 "trigger when to do the handover "
+Handover packet SIB message is part of LTE packet 
+LTE phy frame 
+trigger is based on distance 
+
+Can we take 
