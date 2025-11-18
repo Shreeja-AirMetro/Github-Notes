@@ -887,3 +887,7 @@ References slide
  - ISL routing 
  - UE navigation driver 
  - 
+---
+SIB 25 
+when to trigger sniffing was not decided by SIB 25
+Buffering 
