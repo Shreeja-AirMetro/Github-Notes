@@ -890,4 +890,7 @@ References slide
 ---
 SIB 25 
 when to trigger sniffing was not decided by SIB 25
-Buffering 
+Buffering from the sat to TN 
+"timing is the issue" 
+Buffering internal 
+SIB25 is not the criteria to trigger the handover 
