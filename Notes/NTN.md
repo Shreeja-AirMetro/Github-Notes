@@ -914,7 +914,7 @@ Uplink - costumer centric
 
 with sat and base station - buffering 
 
-wher eis the application server 
+where is the application server 
 send through the TN network 
 
 
