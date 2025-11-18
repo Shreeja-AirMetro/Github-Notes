@@ -911,3 +911,8 @@ UE to NTN gateway - Core network - Server - is the uplink
 
 
 Uplink - costumer centric 
+
+with sat and base station - buffering 
+
+wher eis the application server 
+send through the TN network 
