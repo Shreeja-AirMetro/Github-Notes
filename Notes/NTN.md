@@ -900,4 +900,7 @@ Handover packet SIB message is part of LTE packet
 LTE phy frame 
 trigger is based on distance 
 
-Can we take 
+"sniffing"
+
+Lower packet drop and latency 
+buffer - for NTN to TN 
