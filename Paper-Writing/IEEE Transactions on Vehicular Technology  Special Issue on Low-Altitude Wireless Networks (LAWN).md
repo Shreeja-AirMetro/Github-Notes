@@ -365,10 +365,9 @@ Great — below are **concrete, actionable idea directions** you can use to make
 
 ---
 
-If you want, next I can **(pick one)**:
 
-- Draft a 1-page outline (intro + contributions + experiments) tailored to TVT LAWN.
-- Produce a detailed simulator setup (ns-3 / MATLAB / ray-tracer parameters) you can run.
+LAWN paper - Structure - Flow - Clarity and Speed
 
-- Draft the hybrid physics+ML RSSI→RSRP model (equations + training/calibration recipe) and sample code skeleton.
-Which one should I do next?
+To dos:
+- [ ] What is the research gap , SoA, novelty 
+- [ ] 
