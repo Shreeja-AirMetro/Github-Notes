@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Progress- PhD/Lessons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 2025"
+              "title": "Lessons"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Progress- PhD/Lessons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dec 2025"
+              "title": "Outline of Lessons"
             }
           }
         ],
@@ -174,8 +174,9 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
-    "TODOS/November 2025.md",
+    "Progress- PhD/Progress and Tasks - topic.md",
     "TODOS/Dec 2025.md",
+    "TODOS/November 2025.md",
     "Notes/NTN.md",
     "Paper-Writing/NTN- Jiajing Journal.md",
     "Notes/Air-Air comm.md",
@@ -192,7 +193,6 @@
     "collab-internal/T58.md",
     "collab-internal/T2.md",
     "Implementation/Topics.md",
-    "Progress- PhD/Progress and Tasks - topic.md",
     "Progress- PhD/Workshops.md",
     "Pasted image 20251117100139.png",
     "ANT-2450-3-O Datasheet.pdf",
