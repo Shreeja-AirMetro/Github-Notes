@@ -370,4 +370,8 @@ LAWN paper - Structure - Flow - Clarity and Speed
 
 To dos:
 - [ ] What is the research gap , SoA, novelty 
-- [ ] Structure of the paper with My contribution and Roshan's contributi
+- [ ] Structure of the paper with My contribution and Roshan's contribution 
+- [ ] My hws: SoA - RSSI and RSRP of ray tracing from Mm wave
+mmwave for drone operation 
+- [ ] ray tracing for regular ghz frequency possible? 
+- [ ] Points to discuss for next meeting 
