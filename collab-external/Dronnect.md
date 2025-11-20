@@ -456,6 +456,8 @@ Final Draft of the proposal
 	    - Vision: how the technologies can drive future BVLOS UAS operations under U-space.
 - [ ] Structure and data to go in each section
 	- Introduction 
+		- critical issue: drone delivery in port integrated urban environment and urban environment with critical infrastructure 
+		- communication and traffic management 
 	- Background 
 	- Research Framework 
 	- Implementation and Integration 
@@ -468,3 +470,11 @@ Final Draft of the proposal
 		- Overall vision
 - [ ] Copy paste content from proposal 
 - [ ] Edit each part 
+
+
+Overview of topics
+The Dronnect project proposal identifies several critical gaps hindering large-scale deployment of drone-based logistics and traffic management in Europe. Despite significant technical advances, most prior efforts remain limited to lab-scale prototypes and single-link communication architectures, lacking unified, resilient, multi-link command and control solutions that can guarantee operational continuity in urban and peri-urban environments. Additionally, the integration between U-space (regulated urban drone corridors) and non-U-space airspace remains fragmented, with insufficient protocols and contingency procedures for seamless transitions and emergency scenarios such as dynamic airspace reconfiguration. Societal acceptance also lags, with limited real-world testing of public concerns around safety, privacy, noise, and a lack of effective tools for municipal authorities to actively participate in drone governance and operational oversight. These gaps are compounded by unclear economic models and ROI for large-scale, sustainable, business-to-business (B2B) drone logistics deployments.​
+
+The vision of Dronnect is to unlock the potential of drones by establishing a robust, secure, and resilient European drone ecosystem—anchored on four pillars: technological reliability, societal trust, operational governance, and economic sustainability. The project aims to deliver and validate a multi-link communication backbone (5G, LTE, RF, satellite) for resilient BVLOS (Beyond Visual Line of Sight) operations, an operational framework for seamless U-space integration, and digital governance platforms empowering municipalities with active engagement and transparent oversight. This vision is characterized by human-centered design, open science, and strong alignment with EU strategies such as the Drone Strategy 2.0 and the European Green Deal. By embedding immersive VR-based societal testing, public dialogue, and participatory governance, Dronnect seeks not only to make drone logistics technically feasible and safe, but also socially desirable and economically viable—ultimately reinforcing Europe’s competitiveness, digital sovereignty, and climate goals.​
+
+Dronnect’s ambition thus transcends pure technology demonstration; it is designed as a process-driven, multi-disciplinary pathway for scaling up drone logistics in real cities, exemplified by pilots in Rotterdam and Hamburg. The project’s integrated approach emphasizes mutual reinforcement of engineering innovation, real-world validation, stakeholder co-creation, and evidence-based public acceptance. Through testbeds, immersive surveys, and digital platforms, Dronnect will lay down harmonized protocols, standards, and governance strategies for future EU-wide deployment, closing the trust gap between authorities, citizens, and the drone industry. In doing so, it aims to deliver lasting societal and economic impact—fostering job creation, green skills, public trust, and a sustainable, market-ready drone logistics sector across Europe.
