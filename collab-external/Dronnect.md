@@ -480,6 +480,127 @@ Final Draft of the proposal
 Overview of topics
 The Dronnect project proposal identifies several critical gaps hindering large-scale deployment of drone-based logistics and traffic management in Europe. Despite significant technical advances, most prior efforts remain limited to lab-scale prototypes and single-link communication architectures, lacking unified, resilient, multi-link command and control solutions that can guarantee operational continuity in urban and peri-urban environments. Additionally, the integration between U-space (regulated urban drone corridors) and non-U-space airspace remains fragmented, with insufficient protocols and contingency procedures for seamless transitions and emergency scenarios such as dynamic airspace reconfiguration. Societal acceptance also lags, with limited real-world testing of public concerns around safety, privacy, noise, and a lack of effective tools for municipal authorities to actively participate in drone governance and operational oversight. These gaps are compounded by unclear economic models and ROI for large-scale, sustainable, business-to-business (B2B) drone logistics deployments.​
 
-The vision of Dronnect is to unlock the potential of drones by establishing a robust, secure, and resilient European drone ecosystem—anchored on four pillars: technological reliability, societal trust, operational governance, and economic sustainability. The project aims to deliver and validate a multi-link communication backbone (5G, LTE, RF, satellite) for resilient BVLOS (Beyond Visual Line of Sight) operations, an operational framework for seamless U-space integration, and digital governance platforms empowering municipalities with active engagement and transparent oversight. This vision is characterized by human-centered design, open science, and strong alignment with EU strategies such as the Drone Strategy 2.0 and the European Green Deal. By embedding immersive VR-based societal testing, public dialogue, and participatory governance, Dronnect seeks not only to make drone logistics technically feasible and safe, but also socially desirable and economically viable—ultimately reinforcing Europe’s competitiveness, digital sovereignty, and climate goals.​
+The vision of Dronnect is to unlock the potential of drones by establishing a robust, secure, and resilient European drone ecosystem—anchored on four pillars: technological reliability, societal trust, operational governance, and economic sustainability. The project aims to deliver and validate a multi-link communication backbone (5G, LTE, RF, satellite) for resilient BVLOS (Beyond Visual Line of Sight) operations, an operational framework for seamless U-space integration, and digital governance platforms empowering municipalities with active engagement and transparent oversight. This vision is characterized by human-centered design, open science, and strong alignment with EU strategies such as the Drone Strategy 2.0 and the European Green Deal. By embedding immersive VR-based societal testing, public dialogue, and participatory governance, Dronnect seeks not only to make drone logistics technically feasible and safe, but also socially desirable and economically viable—ultimately reinforcing Europe’s competitiveness, digital sovereignty, and climate goals.​ 
 
 Dronnect’s ambition thus transcends pure technology demonstration; it is designed as a process-driven, multi-disciplinary pathway for scaling up drone logistics in real cities, exemplified by pilots in Rotterdam and Hamburg. The project’s integrated approach emphasizes mutual reinforcement of engineering innovation, real-world validation, stakeholder co-creation, and evidence-based public acceptance. Through testbeds, immersive surveys, and digital platforms, Dronnect will lay down harmonized protocols, standards, and governance strategies for future EU-wide deployment, closing the trust gap between authorities, citizens, and the drone industry. In doing so, it aims to deliver lasting societal and economic impact—fostering job creation, green skills, public trust, and a sustainable, market-ready drone logistics sector across Europe.
+
+
+---
+
+To convert your Dronnect project proposal into a whitepaper suitable for submission to the MDPI Drones journal, use a structured approach that highlights both scientific rigor and practical relevance. Below is a recommended outline with key section ideas, relevant subsections based on project pillars and objectives, and a mapping from proposal sections to the whitepaper structure.dronnect_PartB_submission.pdf​
+
+---
+
+## 1. Introduction
+
+- **Context and Motivation:** Summarize the urgent need for resilient, scalable drone integration in European urban airspaces, referencing gaps in existing infrastructure, societal acceptance, and governance as laid out at the beginning of the project proposal.dronnect_PartB_submission.pdf​
+    
+- **Strategic Relevance:** Connect the work to EU strategies (e.g., Drone Strategy 2.0, European Green Deal) and emphasize the broader implications for city livability, competitiveness, and sustainability.dronnect_PartB_submission.pdf​
+    
+- **Aims and Structure of the Paper:** Briefly outline the aim (presenting Dronnect’s integrated approach) and the paper’s organization.
+    
+    **Mapping:** Project proposal’s “Excellence”/“Ambition” section and high-level project goals.
+    
+
+---
+
+## 2. Background
+
+- **State of the Art in Drone Logistics:** Consolidate and condense review of related EU projects; focus on what’s been achieved and core limitations—e.g., lab-scale pilots, fragmented airspace integration, lack of resilient multi-link systems.
+    
+- **Regulatory Landscape:** Key policies (EASA U-Space, SESAR, standards for urban air mobility).
+    
+- **Identification of Key Gaps:** Use summary tables/figures to clarify persistent gaps—technical, societal, governance, and economic.
+    
+    **Mapping:** Project proposal’s reviews in the “Ambition,” “Summary of Project Ambition Table 1.1,” and gap analysis content.
+    
+
+---
+
+## 3. Research Framework
+
+- **Conceptual Model:** Visual and textual description of the Dronnect multi-pillar methodology.
+    
+- **Project Pillars and Objectives:**
+    
+    - _Technological Reliability and Safety_ (multi-link comms, contingency landing, traffic management).
+        
+    - _Societal Trust_ (immersive public engagement, VR studies, acceptance frameworks).
+        
+    - _Operational Governance_ (digital municipal platforms, participatory monitoring).
+        
+    - _Economic Sustainability_ (B2B business models, market uptake, logistics efficiency).
+        
+- **Strategic Research Questions and Objectives:** List and discuss how each pillar directly tackles open research and societal questions.
+    
+- **Methodological Innovations:** Interdisciplinary integration, open science practices, citizen engagement, and human-centered design.
+    
+    **Mapping:** Proposal “Objectives and Ambition,” “Pillars,” “Methodology,” “Objectives Table,” and pillar-specific work package descriptions.
+    
+
+---
+
+## 4. Integration and Implementation
+
+- **System Architecture:** From multi-link comms backbone to digital governance platforms—illustrated with adapted proposal diagrams.
+    
+- **Processes and Workflows:** Safe transitions in/out of U-space, contingency management, co-creation with city authorities.
+    
+- **Pilot Actions:** Summary of Hamburg and Rotterdam testbeds, demonstration scenarios, validation measures (mapping to work packages and KPIs).
+    
+- **Data Management and Open Science:** Datasets generated, FAIR compliance, data privacy/EU GDPR, open access policy.
+    
+    **Mapping:** Proposal “Work Plan,” “Pilot Demonstrations,” “Methodology,” and “Open Science/Data Management.”
+    
+
+---
+
+## 5. Discussion
+
+- **Impact and Lessons Learned:** Societal, technological, and economic—bridge pilot learnings to EU-scale roadmaps.
+    
+- **Barriers and Next Steps:** Risks (technical, public acceptance), regulatory/standardization challenges, cross-city/cross-border replication, gender dimensions.
+    
+- **Policy Implications and Recommendations:** Governance models, requirements for harmonization, supporting digital and green transition in EU urban logistics.
+    
+    **Mapping:** Proposal “Impact,” “Evaluation,” “Lessons Learned,” “Replication/Training Packages,” “Policy Recommendations.”
+    
+
+---
+
+## Subsection Planning Based on Pillars and Objectives
+
+Within major sections (especially Framework, Implementation, and Discussion), introduce subsections such as:
+
+- Multi-Link Communication Backbone,
+    
+- Societal Acceptance and VR-Based Testing,
+    
+- Digital Municipal Governance Platforms,
+    
+- B2B Model and Stakeholder Engagement,
+    
+- Pilot City Case Studies: Hamburg and Rotterdam,
+    
+- Data Management and FAIR Principles,
+    
+- Gender and Diversity in Urban Air Mobility.
+    
+
+---
+
+## Mapping Table Example
+
+|Proposal Section|Whitepaper Section|
+|---|---|
+|Project Ambition and Excellence (p.2-6)|Introduction, Background|
+|Objectives and Pillars (p.4-11)|Research Framework, Pillar-based Subsections|
+|Methodology and Work Plan (p.7-34)|Framework, Implementation|
+|Pilot Demonstrations (Hamburg, Rotter.)|Integration & Implementation, Pilots|
+|Impact/Evaluation/Dissemination (p.15+)|Discussion, Lessons Learned, Policy Implications|
+
+---
+
+This structure ensures transparent traceability from proposal to whitepaper, matches MDPI Drones' expectations for conceptual clarity, and provides detailed, actionable content for each part based directly on the strengths of the submitted proposal.dronnect_PartB_submission.pdf​
+
+1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf)
