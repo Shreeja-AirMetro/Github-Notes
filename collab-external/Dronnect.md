@@ -425,7 +425,7 @@ Final Draft of the proposal
 	- **Propose a reference architecture**: They develop a logical architecture (using modeling tools) to map the required functions, subsystems, and interrelations for a reliable, multi-link communication and navigation system. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	- **Demonstrate integration feasibility**: They show how to integrate components such as communication gateways, QoS prediction, safety/security layers, and navigation algorithms on low-power hardware, to make autonomous BVLOS flights more achievable. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	- **Highlight challenges & future research**: They identify open issues (technical, regulatory, integration) and propose directions for further work.
-- Idea for structure 
+- **==Idea for structure==** 
 	- **Introduction**
 	    - Motivation: Why BVLOS UAS matter, market potential, challenges. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Opportunities and challenges (technical, regulatory, economic). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
@@ -436,7 +436,6 @@ Final Draft of the proposal
 	    - Autonomous navigation: path planning (graph-based, sampling, AI/ML, reinforcement learning), sensor fusion, mapping, obstacle detection. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Use cases: e.g., search & rescue, inspection, remote sensing. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	- **Architecture and Functionalities**
-    
 	    - A **logical architecture** for command & control (C3) link: link-agnostic, internet-based, multi-link, QoS-aware. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Interfaces: how to manage UDP-based connections, link-availability monitoring, QoS estimation. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Sensor subsystem: DAA sensors (radar, LiDAR, cameras), sensor fusion, filtering (e.g., Kalman). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
@@ -444,28 +443,27 @@ Final Draft of the proposal
 	    - Wireless Safety and Security Layer (WSSL): a layer to detect communication anomalies (packet loss, delays), message signing to ensure integrity, agnostic to protocol. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Spatio-temporal awareness & swarm tracking: using ADS-B, model-based tracking, neural nets, distributed filtering. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
 	    - Autonomous navigation / scene perception: path planning in dynamic environments using reinforcement learning (PPO, A2C), comparisons with classical methods. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-- **Implementation & Integration**
-    
-    - How modules (QoS prediction, WSSL, navigation) are deployed on lightweight hardware (e.g., NXP board + Intel Neural Compute Stick). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-    - Interfaces and software integration: combining communication and navigation subsystems into one cohesive system. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-    - Challenges: computational constraints, power, real-time processing, balancing tradeoffs (safety, latency, weight). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-- **Open Issues and Future Directions**
-    
-    - Technical gaps: e.g., more robust ML models, more efficient algorithms, sensor limitations. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-    - Integration challenges: combining all subsystems into a unified platform. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-    - Regulatory and societal aspects: U-space, airspace management, privacy, security. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-- **Conclusion**
-    
-    - Recap of contributions (risk-based approach, architecture, prototypes). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
-        
-    - Vision: how the technologies can drive future BVLOS UAS operations under U-space.
+	- **Implementation & Integration**
+	    - How modules (QoS prediction, WSSL, navigation) are deployed on lightweight hardware (e.g., NXP board + Intel Neural Compute Stick). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	    - Interfaces and software integration: combining communication and navigation subsystems into one cohesive system. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	    - Challenges: computational constraints, power, real-time processing, balancing tradeoffs (safety, latency, weight). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	- **Open Issues and Future Directions**
+	    - Technical gaps: e.g., more robust ML models, more efficient algorithms, sensor limitations. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	    - Integration challenges: combining all subsystems into a unified platform. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	    - Regulatory and societal aspects: U-space, airspace management, privacy, security. [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	- **Conclusion**
+	    - Recap of contributions (risk-based approach, architecture, prototypes). [MDPI](https://www.mdpi.com/2079-9292/13/2/340?utm_source=chatgpt.com)
+	    - Vision: how the technologies can drive future BVLOS UAS operations under U-space.
 - [ ] Structure and data to go in each section
+	- Introduction 
+	- Background 
+	- Research Framework 
+	- Implementation and Integration 
+	- Discussion an outlook 
+		- Technical, regulatory and social gaps - That drive economic background 
+		- The "big talk"
+	- Conclusion 
+		- Summary of what is the contribution 
+		- Overall vision
 - [ ] Copy paste content from proposal 
 - [ ] Edit each part 
