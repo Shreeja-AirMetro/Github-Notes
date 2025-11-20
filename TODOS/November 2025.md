@@ -175,5 +175,10 @@ To do:
 
 ## week 20th - 1st December 
 
-- [ ] Dronnect paper  Draft 1
-- [ ] ROS initial 
+- [ ] Dronnect paper  
+	- [ ] Draft 1
+	- [ ] Review and finalize figures
+	- [ ] Emails and approval 
+- [ ] ROS initial steup reading 
+	- [ ] Meeting with Tushar 
+- [ ] Omnet++ Setup and initial tutorial with
