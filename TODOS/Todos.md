@@ -11,7 +11,7 @@
 	- [ ] fix the chapters and write about each part  with small note or intro 
 	- [ ] After reading the papers -  write the outline of research hypothesis and research question 
 	- [ ] How my results look like 
-	- [ ] Grid / map 
+	- [ ] Grid / map of my result will look like
 - [ ] Research visit 
 	- [ ] What data I take 
 	- [ ] Key details of the Proposal 
@@ -20,8 +20,16 @@
 	- [ ] Simulation part 
 	- [ ] What are the open questions that will be worked there 
 	- [ ] ROS2 and preparation to meet Lakeside Labs
-- [ ] PhD talk 
-	- [ ] 
+- [ ] PhD talk  - Dec 4th
+	- [ ] Mesh hardware with Pixhawk 
+	- [ ] Research visit topic
+	- [ ] Network coding - SoA and next steps - Research gap
+- [ ] Hardware setup and data collection 
+	- [ ] Mesh hardware 
+		- [ ] Goal of Ai-to-Air algorithm 
+		- [ ] IEEE 802.11p comparison 
+		- [ ] 
+	
 	
 
 
