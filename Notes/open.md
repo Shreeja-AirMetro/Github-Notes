@@ -44,4 +44,5 @@ Datagram Transport Layer Security (DTLS) and Secure Real-Time Protocol (SRTP)
 Christian Vielhaus defense
 - ccperf and experiments in ccperf
 - Steady state single flow experiment from Linux, google etc
+- Cellular network is best effort network 
 - 
