@@ -59,7 +59,8 @@
 	- [ ] Journal paper  (March 2027)
 	- [ ] Journal paper (Sept 2027)
 	- [ ] Tutorial / poster / workshop paper
-		
+- [ ] Switch to Linux machine /laptop completely
+
 **Administrative Stuff**
 - [ ] Klagenfurt visit 
 	- [ ] Airbnb 
