@@ -1,4 +1,189 @@
-**<span style="color:rgb(0, 176, 80)">Topic I:  Multi-Link Communication for UAV in BVLOS and its Integration with Data Mesh and Age of Information for UAM Networks</span>**
+Short answer: **Your topic is NOT too broad — but your _current framing_ is.**  
+You have _all the ingredients_ for a strong, novel PhD, but you need a **sharp, unifying problem statement** and **one core contribution** that everything else (Wi-Fi mesh, 5G, LEO, network coding, resource-aware switching, simulations + testbed) supports.
+
+Below is a clear breakdown to help you understand where the novelty is and how to sharpen focus.
+
+---
+
+# ✅ **1. Is your research topic too broad?**
+
+Right now, your topic spans:
+
+- A2A mesh links (Wi-Fi)
+- A2G links (5G)
+- LEO satcom
+- Network coding & computing
+- Real-time adaptive link optimization
+- Simulations + real testbed
+
+This is a **system of systems**. It is _broad_, but **PhDs in communication systems are often broad** — if they converge into one main idea.
+
+Broad is **not a problem**.  
+**Unfocused is.**
+
+Right now, your novelty isn’t obvious because you are describing _technologies_, not a _problem_.
+
+You need to turn this:
+
+> “I work on mesh Wi-Fi, 5G, LEO, network coding…”
+
+into this:
+
+> “I propose a unified real-time multi-link communication architecture that guarantees reliable UAV BVLOS telemetry by optimally switching and combining Wi-Fi mesh, 5G, and LEO links through adaptive network coding and cross-layer scheduling.”
+
+Now it is clear, and the novelty emerges.
+
+---
+
+# ✅ **2. What novelty do you _already_ have?**
+
+You already have excellent novelty potential in multiple areas:
+
+### **Novelty 1: Multi-link UAV BVLOS Telemetry Optimizer**
+
+A real-time algorithm that:
+
+- _predicts_ link quality
+- _combines_ links with coding
+- _switches_ links using availability + priority
+- _allocates_ bandwidth to telemetry vs. payload
+
+This is highly publishable.
+
+---
+
+### **Novelty 2: Cross-technology convergence**
+
+No one in academia has fully integrated:
+
+- UAV Wi-Fi mesh (A2A)
+- 5G (A2G)
+- LEO satcom (global coverage)
+
+Especially with **non-payload critical data (C2 telemetry)** where reliability is much stricter than video.
+
+---
+
+### **Novelty 3: Network coding in UAV multi-connectivity**
+
+You can propose:
+
+- RLNC for redundancy
+- Fountain codes for LEO fallback
+- Predictive coding based on link disruption
+
+This alone is enough for a **first-author IEEE paper**.
+
+---
+
+### **Novelty 4: Simulation + real testbed validation**
+
+90% of researchers ONLY simulate.
+Adding real flight or hardware testbed gives HUGE novelty.
+
+---
+
+# ✅ **3. What you still need to do (to avoid “too broad”)**
+
+Define **one central research question**, e.g.:
+
+> “How can a UAV maintain ultra-reliable telemetry communication for BVLOS operations using a dynamic multi-link architecture across Wi-Fi mesh, 5G, and LEO satellite networks?”
+
+Then define **three technical objectives** that feed into this question:
+
+---
+
+## Objective 1 — _Characterize link availability & reliability_
+
+- Measure Wi-Fi A2A ranges
+- Evaluate 5G cell-edge performance for UAVs
+- Evaluate LEO RTT + jitter patterns
+
+**Output:** A unified probabilistic link model for UAVs.
+
+---
+
+## Objective 2 — _Develop the adaptive telemetry communication algorithm_
+
+This includes:
+
+- Link selection
+- Traffic prioritization
+- Network coding
+- Detour routing across mesh
+
+**Output:** A real-time multi-link controller.
+
+---
+
+## Objective 3 — _Validate on OMNeT++ + testbed_
+
+- Implement your algorithm in OMNeT++
+- Integrate with hardware testbed
+- Show reliability improvements
+
+
+**Output:** Real-world proof and performance benchmarks.
+
+---
+
+# ✅ **4. What is missing now (and why it seems “broad”)**
+
+You are missing a **flagship algorithm** with a name.
+
+Every strong PhD needs a “hero contribution”:
+
+- A scheduling algorithm
+- A coding scheme
+- A multi-link controller
+- A distributed routing algorithm
+    
+
+Example names:
+
+- **AeroLink-MC**: Multi-Connectivity Link Optimizer
+- **SkyCode**: UAV-adaptive network coding
+- **FlyRoute**: Mobility-aware mesh routing
+- **AeroSwitch**: Predictive link switching
+    
+
+We can design such an algorithm together.
+
+---
+
+# ✅ **5. How to reshape your PhD into a focused, novel project**
+
+Here is the formula:
+
+### **Unified Theme**
+
+> _Reliable multi-link telemetry communication for BVLOS UAVs._
+
+### **Primary Novelty**
+
+> _A real-time adaptive communication controller integrating Wi-Fi mesh, 5G, and LEO satcom with network coding to guarantee telemetry reliability._
+
+### **Supporting Components**
+
+- OMNeT++ modelling
+- Testbed measurements
+- Coding optimization
+- Multi-link scheduling
+
+### **Expected Deliverables**
+
+- 3–5 conference papers
+- 1–2 journal papers
+- 1 tutorial workshop/panel
+- A named flagship algorithm
+- A dissertation with validations
+
+
+---
+
+
+
+**
 Gap 1: Limited Exploration of Multi-Link Communication for UAV BVLOS Operations
 - Existing research focuses on single-link communication or dual-link failover mechanisms. There is a lack of frameworks for integrating multiple communication links (e.g., 5G, satellite, and RF) to enhance reliability, coverage, and performance.
 - Challenges in link prioritization, switching, and bandwidth allocation in dynamic UAV environments are not adequately addressed.
