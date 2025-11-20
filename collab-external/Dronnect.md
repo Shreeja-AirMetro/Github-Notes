@@ -461,7 +461,8 @@ Final Draft of the proposal
 	- Implementation and Integration 
 	- Discussion an outlook 
 		- Technical, regulatory and social gaps - That drive economic background 
-		- The "big talk"
+		- The "big talk" 
+		- What to yield from small tests/ demonstrations 
 	- Conclusion 
 		- Summary of what is the contribution 
 		- Overall vision
