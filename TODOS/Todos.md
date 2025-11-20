@@ -44,6 +44,12 @@
 	- [ ] Justify the boundaries of Network coding
 	- [ ] Why we use network coding and how far we go 
 	- [ ] Test setup scenarios
+- [ ] PhD TAC meeting - July 2026 
+	- [ ] Algorithm 
+	- [ ] Current progress
+	- [ ] Lessons from Intl visit 
+	- [ ] Next steps from here 
+	- [ ] Publications
 - [ ] Publication  (Submission deadlines - by end 2026)
 	- [ ] Survey paper for AAM  (Jan 2026- ?!)
 	- [ ] LAWN paper with Roshan (Feb 2026)
@@ -52,7 +58,18 @@
 	- [ ] Conf paper 2 on Network coding with 5G and Satcom - initial results (Dec 2026)
 		
 **Administrative Stuff**
-- [ ] 
+- [ ] Klagenfurt visit 
+	- [ ] Airbnb 
+		- [ ] Meet and get details 
+		- [ ] Book confirm
+	- [ ] Dienstreise confirm 
+	- [ ] A1 document 
+- [ ] Question to Stan on open topic - PhD letter 
+- [ ] Dronnect paper 
+	- [ ] Draft 1 and review with Jiajing  - finalize figures 
+	- [ ] Morten email 
+	- [ ] Rodney, Vaishnavi email 
+	- [ ] Others email  review 2 version and a deadline 
 
 
 
