@@ -179,6 +179,11 @@ To do:
 	- [ ] Draft 1
 	- [ ] Review and finalize figures
 	- [ ] Emails and approval 
-- [ ] ROS initial steup reading 
+- [ ] ROS initial setup reading 
 	- [ ] Meeting with Tushar 
-- [ ] Omnet++ Setup and initial tutorial with
+- [ ] Omnet++ Setup and initial tutorial with Lyuqiao 
+- [ ] Mesh hardware initial setup 
+- [ ] Trip dienstreise
+- [ ] LAWN paper 
+	- [ ] reading SOA, Research gap
+	- [ ] Meeting and tasks 
