@@ -50,3 +50,5 @@ Christian Vielhaus defense
 - Throughput proportional to spectral efficiency and bw 
 - ![[Pasted image 20251120144703.png]]
 - ![[Pasted image 20251120144902.png]]
+- BS and GPS make prediction better in dataset cases
+- 
