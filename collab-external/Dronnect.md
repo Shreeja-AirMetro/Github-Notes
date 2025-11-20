@@ -458,6 +458,11 @@ Final Draft of the proposal
 	- Introduction 
 		- critical issue: drone delivery in port integrated urban environment and urban environment with critical infrastructure 
 		- communication and traffic management 
+	- Gaps 
+		- Despite significant technical advances, most prior efforts remain limited to lab-scale prototypes and single-link communication architectures, lacking unified, resilient, multi-link command and control solutions that can guarantee operational continuity in urban and peri-urban environments. 
+		- Additionally, the integration between U-space (regulated urban drone corridors) and non-U-space airspace remains fragmented, with insufficient protocols and contingency procedures for seamless transitions and emergency scenarios such as dynamic airspace reconfiguration. 
+		- Societal acceptance also lags, with limited real-world testing of public concerns around safety, privacy, noise, and a lack of effective tools for municipal authorities to actively participate in drone governance and operational oversight. 
+		- These gaps are compounded by unclear economic models and ROI for large-scale, sustainable, business-to-business (B2B) drone logistics deployments.
 	- Background 
 	- Research Framework 
 	- Implementation and Integration 
