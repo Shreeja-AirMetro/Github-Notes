@@ -418,6 +418,7 @@ Final Draft of the proposal
 ### Dronnect paper
 
 - [ ] Dronnect Reference Morten read and notes 
+	- [ ] 
 - [ ] Structure and data to go in each section
 - [ ] Copy paste content from proposal 
 - [ ] Edit each part 
