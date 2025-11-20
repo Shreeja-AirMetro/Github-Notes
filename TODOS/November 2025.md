@@ -183,7 +183,7 @@ To do:
 	- [ ] Meeting with Tushar 
 - [ ] Omnet++ Setup and initial tutorial with Lyuqiao 
 - [ ] Mesh hardware initial setup 
-- [ ] Trip dienstreise
+- [ ] Klagenfurt - dienstreise
 - [ ] LAWN paper 
 	- [ ] reading SOA, Research gap
-	- [ ] Meeting and tasks 
+	- [ ] Meeting and tasks with Roshan 

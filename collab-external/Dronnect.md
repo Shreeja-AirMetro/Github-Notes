@@ -410,3 +410,14 @@ Both pilots directly address the call's focus areas while incorporating UTM and 
 Final Draft of the proposal 
 
 ![[dronnect_PartB_submission.pdf]]
+
+----
+
+20/11
+
+### Dronnect paper
+
+- [ ] Dronnect Reference Morten read and notes 
+- [ ] Structure and data to go in each section
+- [ ] Copy paste content from proposal 
+- [ ] Edit each part 
