@@ -9,7 +9,7 @@
 - [ ] Thesis - Monograph 
 	- [ ] Start a Latex file and have a gitlab backup - monthly branches 
 	- [ ] fix the chapters and write about each part  with small note or intro 
-	- [ ] 
+	- [ ] After reading the papers -  write the outline of 
 
 
 
