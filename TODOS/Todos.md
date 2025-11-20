@@ -8,6 +8,7 @@
 	- [ ] Manage the regulation - current regulation and regulatory structure 
 - [ ] Thesis - Monograph 
 	- [ ] Start a Latex file and have a gitlab backup - monthly branches 
+	- [ ] What wouldn't be possible 10 years ago what wouldn't be 
 	- [ ] fix the chapters and write about each part  with small note or intro 
 	- [ ] After reading the papers -  write the outline of research hypothesis and research question 
 	- [ ] How my results look like 
@@ -33,7 +34,16 @@
 		- [ ] Third test setup directly with pixhawk 
 	- [ ] 5G dongle 
 		- [ ] Fix the SIM Card issue 
-		- [ ] 
+		- [ ] Rasp pi to dongle setup 
+		- [ ] Pixhawk - rasp pi to dongle 
+	- [ ] 5G and Satcom terminal 
+		- [ ] Try using 5G terminal 
+		- [ ] Mention quotation for satcom usage 
+		- [ ] Plan the test from April 
+- [ ] Algorithm 
+	- [ ] Justify the boundaries of Network coding
+	- [ ] Why we use network coding and how far we go 
+	- [ ] Test setup scenarios
 		
 	
 	
