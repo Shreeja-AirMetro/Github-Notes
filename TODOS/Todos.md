@@ -26,9 +26,15 @@
 	- [ ] Network coding - SoA and next steps - Research gap
 - [ ] Hardware setup and data collection 
 	- [ ] Mesh hardware 
-		- [ ] Goal of Ai-to-Air algorithm 
+		- [ ] Goal of Air-to-Air algorithm 
 		- [ ] IEEE 802.11p comparison 
+		- [ ] first round test setup 
+		- [ ] Second test setup with Rasp pi and pixhawk 
+		- [ ] Third test setup directly with pixhawk 
+	- [ ] 5G dongle 
+		- [ ] Fix the SIM Card issue 
 		- [ ] 
+		
 	
 	
 
