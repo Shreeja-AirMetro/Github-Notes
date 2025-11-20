@@ -51,4 +51,6 @@ Christian Vielhaus defense
 - ![[Pasted image 20251120144703.png]]
 - ![[Pasted image 20251120144902.png]]
 - BS and GPS make prediction better in dataset cases
-- 
+- ![[Pasted image 20251120145437.png]]
+- scheduler , resource blocks - transmitted and lost - automatic RRQ, FEC - influence the delay 
+- **Be careful of data collection camp
