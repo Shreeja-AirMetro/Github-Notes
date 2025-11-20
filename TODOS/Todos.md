@@ -50,12 +50,15 @@
 	- [ ] Lessons from Intl visit 
 	- [ ] Next steps from here 
 	- [ ] Publications
-- [ ] Publication  (Submission deadlines - by end 2026)
+- [ ] Publication  (Submission deadlines )
 	- [ ] Survey paper for AAM  (Jan 2026- ?!)
 	- [ ] LAWN paper with Roshan (Feb 2026)
 	- [ ] Air-to-Air - WiFi mesh - conference paper (May 2026)
 	- [ ] Journal paper from Klagenfurt research stay (July 2026)
 	- [ ] Conf paper 2 on Network coding with 5G and Satcom - initial results (Dec 2026)
+	- [ ] Journal paper  (March 2027)
+	- [ ] Journal paper (Sept 2027)
+	- [ ] Tutorial / poster / workshop paper
 		
 **Administrative Stuff**
 - [ ] Klagenfurt visit 
@@ -69,7 +72,7 @@
 	- [ ] Draft 1 and review with Jiajing  - finalize figures 
 	- [ ] Morten email 
 	- [ ] Rodney, Vaishnavi email 
-	- [ ] Others email  review 2 version and a deadline 
+	- [ ] Others email  review 2 version and a deadline to finalize 
 
 
 

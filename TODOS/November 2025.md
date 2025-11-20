@@ -170,3 +170,10 @@ To do:
 - Satellite comms basics (LEO constellations, link budgets, latency constraints). [MDPI](https://www.mdpi.com/2078-2489/15/1/38?utm_source=chatgpt.com)
 - Security & authentication for UAV links (secure Remote ID, secure boot/firmware). [Drone as a Service](https://www.droneasaservice.com/blog/faa-remote-id-rule-for-drones/?utm_source=chatgpt.com)
 - Certification & regulatory knowledge: SORA, EASA U-Space, FAA BVLOS/Remote ID ecosystems.
+
+---
+
+## week 20th - 1st December 
+
+- [ ] Dronnect paper  Draft 1
+- [ ] ROS initial 
