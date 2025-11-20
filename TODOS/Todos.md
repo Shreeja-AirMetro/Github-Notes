@@ -8,7 +8,7 @@
 	- [ ] Manage the regulation - current regulation and regulatory structure 
 - [ ] Thesis - Monograph 
 	- [ ] Start a Latex file and have a gitlab backup - monthly branches 
-	- [ ] What wouldn't be possible 10 years ago what wouldn't be 
+	- [ ] What wouldn't be possible 10 years ago , that is now and what might get harder in 10 years - irrelevant from now
 	- [ ] fix the chapters and write about each part  with small note or intro 
 	- [ ] After reading the papers -  write the outline of research hypothesis and research question 
 	- [ ] How my results look like 
@@ -44,6 +44,8 @@
 	- [ ] Justify the boundaries of Network coding
 	- [ ] Why we use network coding and how far we go 
 	- [ ] Test setup scenarios
+- [ ] Publication 
+	- [ ] LAWN paper wi
 		
 	
 	
