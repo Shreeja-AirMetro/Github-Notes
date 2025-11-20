@@ -44,11 +44,15 @@
 	- [ ] Justify the boundaries of Network coding
 	- [ ] Why we use network coding and how far we go 
 	- [ ] Test setup scenarios
-- [ ] Publication 
-	- [ ] LAWN paper wi
+- [ ] Publication  (Submission deadlines - by end 2026)
+	- [ ] Survey paper for AAM  (Jan 2026- ?!)
+	- [ ] LAWN paper with Roshan (Feb 2026)
+	- [ ] Air-to-Air - WiFi mesh - conference paper (May 2026)
+	- [ ] Journal paper from Klagenfurt research stay (July 2026)
+	- [ ] Conf paper 2 on Network coding with 5G and Satcom - initial results (Dec 2026)
 		
-	
-	
+**Administrative Stuff**
+- [ ] 
 
 
 
