@@ -1,6 +1,12 @@
 ### Open and big tasks 
 
-
+**PhD** 
+- [ ] Background for each topic 
+	- [ ] tackle each file group and mendeley
+	- [ ] Write the relevant to least relevant as para and maintain a excel sheet list 
+	- [ ] manage the website links and notes on it 
+	- [ ] Manage the regulation - current regulation and regulatory structure 
+	- [ ] 
 
 
 
