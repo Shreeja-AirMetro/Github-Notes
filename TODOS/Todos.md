@@ -1,3 +1,29 @@
+### Open and big tasks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 16/8/25
 - [ ] HW purchase list 
 - [ ] Topic discussion with Roshan 
@@ -166,12 +192,15 @@ Logical and Simulation part
 - [ ] Trial talk in team meeting 
 
 Other open tasks
-- [ ] Research proposal
-- [ ] Meeting with Enrique
-- [ ] Frank - PhD admission 
-- [ ] Atmosphere description email
-- [ ] Discussion continue with Tung
-- [ ] Discussion with Roshan on paper 
+- [x] Research proposal
+- [x] Meeting with Enrique
+- [x] Frank - PhD admission 
+- [x] Atmosphere description email
+- [x] Discussion continue with Tung
+- [x] Discussion with Roshan on paper 
 - [ ] Dronnect paper 
-- [ ] backup 
+- [x] backup 
 - [ ] Clean links and storage 
+
+---
+
