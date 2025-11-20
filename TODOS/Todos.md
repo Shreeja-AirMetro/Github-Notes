@@ -9,8 +9,20 @@
 - [ ] Thesis - Monograph 
 	- [ ] Start a Latex file and have a gitlab backup - monthly branches 
 	- [ ] fix the chapters and write about each part  with small note or intro 
-	- [ ] After reading the papers -  write the outline of 
-
+	- [ ] After reading the papers -  write the outline of research hypothesis and research question 
+	- [ ] How my results look like 
+	- [ ] Grid / map 
+- [ ] Research visit 
+	- [ ] What data I take 
+	- [ ] Key details of the Proposal 
+	- [ ] Simulation setup - Share Gitlab to Enrique 
+	- [ ] Data collection 
+	- [ ] Simulation part 
+	- [ ] What are the open questions that will be worked there 
+	- [ ] ROS2 and preparation to meet Lakeside Labs
+- [ ] PhD talk 
+	- [ ] 
+	
 
 
 
