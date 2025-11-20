@@ -60,6 +60,9 @@
 	- [ ] Journal paper (Sept 2027)
 	- [ ] Tutorial / poster / workshop paper
 - [ ] Switch to Linux machine /laptop completely
+- [ ]  **Be careful of data collection campaign 
+	- [ ] What are the error margin 
+	- [ ] How do I defend them 
 
 **Administrative Stuff**
 - [ ] Klagenfurt visit 
