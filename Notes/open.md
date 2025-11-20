@@ -45,4 +45,8 @@ Christian Vielhaus defense
 - ccperf and experiments in ccperf
 - Steady state single flow experiment from Linux, google etc
 - Cellular network is best effort network 
-- 
+- ![[Pasted image 20251120144617.png]]
+- Information about BS aggregated from group of devices
+- Throughput proportional to spectral efficiency and bw 
+- ![[Pasted image 20251120144703.png]]
+- ![[Pasted image 20251120144902.png]]
