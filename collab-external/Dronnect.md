@@ -573,19 +573,12 @@ To convert your Dronnect project proposal into a whitepaper suitable for submiss
 Within major sections (especially Framework, Implementation, and Discussion), introduce subsections such as:
 
 - Multi-Link Communication Backbone,
-    
 - Societal Acceptance and VR-Based Testing,
-    
 - Digital Municipal Governance Platforms,
-    
 - B2B Model and Stakeholder Engagement,
-    
 - Pilot City Case Studies: Hamburg and Rotterdam,
-    
 - Data Management and FAIR Principles,
-    
 - Gender and Diversity in Urban Air Mobility.
-    
 
 ---
 
@@ -604,3 +597,4 @@ Within major sections (especially Framework, Implementation, and Discussion), in
 This structure ensures transparent traceability from proposal to whitepaper, matches MDPI Drones' expectations for conceptual clarity, and provides detailed, actionable content for each part based directly on the strengths of the submitted proposal.dronnect_PartB_submission.pdf​
 
 1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf)
+
