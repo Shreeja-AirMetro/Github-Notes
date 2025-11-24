@@ -603,5 +603,21 @@ This structure ensures transparent traceability from proposal to whitepaper, mat
 
 ### Publishing options 
 
-1. Spl issue:  
+1. Spl issue:  https://www.mdpi.com/journal/drones/special_issues/4AXW065XBE 
 2. Spl issue:  https://www.mdpi.com/journal/drones/special_issues/88VO4007MI
+The rapid advancement of autonomous vehicles, unmanned aerial vehicles (UAV), electric Vertical Take-off and Landing (eVTOL), advanced air mobility (AAM), and drone taxis, along with the increasing demand for efficient urban mobility solutions, are opening new frontiers in urban planning and logistics, promising to reshape our transportation systems as part of smart cities. This Special Issue aims to explore the cutting-edge developments in advanced autonomous mobility, with a particular focus on low-altitude economic activities and three-dimensional (3D) transportation systems.
+
+We invite original research papers, comprehensive reviews, and visionary perspectives that address the technological challenges of this emerging field. Topics of interest include, but are not limited to:
+
+1. Autonomous aerial vehicles for urban air mobility;
+2. Autonomous ground vehicles for smart cities;
+3. Intelligent planning and control technologies for drones;
+4. End-to-end autonomous ground and aerial vehicle technologies;
+5. AI and machine learning applications in 3D traffic management;
+6. Cybersecurity and privacy concerns in connected aerial and ground mobility;
+7. 3D Transportation Infrastructure planning and design;
+8. Sensor technologies and perception systems for 3D transportation navigation;
+9. Energy-efficient propulsion systems for aerial vehicles;
+10. Human factors for aerial autonomous mobility.
+
+This Special Issue aims to provide a comprehensive overview of the current state-of-the-art, challenges, and future directions in advanced autonomous mobility within the low-altitude economic sphere. We welcome contributions from academia, and industry to foster interdisciplinary dialogue and accelerate the development of safe, efficient, and sustainable 3D transportation systems.
