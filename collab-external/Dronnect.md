@@ -598,3 +598,10 @@ This structure ensures transparent traceability from proposal to whitepaper, mat
 
 1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/58228666/5213e0a9-b156-420e-834b-aa6c94b837ca/dronnect_PartB_submission.pdf)
 
+
+---
+
+### Publishing options 
+
+1. Spl issue:  
+2. Spl issue:  https://www.mdpi.com/journal/drones/special_issues/88VO4007MI
