@@ -924,4 +924,9 @@ burst
 25/11
 
 - Mobility module of the sat and UE can run in one scenario and two GUI (SUMO and Omnet++)
+- 3 lanes with 3 lanes - cross handover - inter handover 
+- link between NTN gateway and satellite - carrier freq is same (2 Ghz) - no separated - 2 Ghz uE to Sat and 30 Ghz sat - gateway 
+- 6 gnb from point A to point B 
+- Location and testing cross handover from physical layer 
+- Now debugging 
 - 
