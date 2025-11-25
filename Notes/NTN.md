@@ -910,7 +910,8 @@ definition of the dynamic / static and ISL  - Inter and cross orbit ISL
 
 ---
 To read
- BBU  - 
+ BBU  - RRH separate 
+ What are the components of RAN
 
 
 
