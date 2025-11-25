@@ -77,25 +77,25 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 1. AirMetro Winter workshop 
 	- ~~Recap on TAC meeting - The gap and blocks of methodology~~ 
 	- Simulation VM part 
-	- Mesh and other hardware idea and Status 
-	- Next steps and plan 
-	- Klagenfurt Visit 
-2. DA presentation for Lyuqiao 
-3. Email Sec. of Christian Bettstetter 
-4. Find apartment 
-5. PhD rebuttal letter 
-6. dronnect paper (V1 : by 4th November) (V2: by 10th November) submission by 11th November 
-7. Support FMC Review submission 
+	- ~~Mesh and other hardware idea and Status~~ 
+	- ~~Next steps and plan~~ 
+	- ~~Klagenfurt Visit~~ 
+2. ~~DA presentation for Lyuqiao~~ 
+3. ~~Email Sec. of Christian Bettstetter~~ 
+4. ~~Find apartment~~ 
+5. ~~PhD rebuttal letter~~ 
+6. dronnect paper (V1 : by 27th November) (V2: by 3rd Dec)
+7. ~~Support FMC Review submission~~ 
 8. Restart Work with Roshan - Paper 
 9. Omnet++ Day with Lyuqiao 
-10. ROS2 with lyuqiao 
+10. ROS2 with Tushar (3 points task)
 
 ### Misc
 - We have 3 backup online
 	-  Obsidian notes - regular backup Github and Gitlab 
 	- Official backups Monthly on Gitlab- comnets
 
-- Write project plan with WPs
+- ~~Write project plan with WPs~~
 
 
 
@@ -182,7 +182,7 @@ To do:
 	- [ ] Meeting with Tushar 
 - [ ] Omnet++ Setup and initial tutorial with Lyuqiao 
 - [ ] Mesh hardware initial setup 
-- [ ] Klagenfurt - dienstreise
+- [x] Klagenfurt - dienstreise
 - [ ] LAWN paper 
 	- [ ] reading SOA, Research gap
 	- [ ] Meeting and tasks with Roshan 
