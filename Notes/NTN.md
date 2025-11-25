@@ -929,4 +929,7 @@ burst
 - 6 gnb from point A to point B 
 - Location and testing cross handover from physical layer 
 - Now debugging 
-- 
+
+Student job
+Static link as ISL exists 
+dynamic link 
