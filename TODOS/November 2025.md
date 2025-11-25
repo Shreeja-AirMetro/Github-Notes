@@ -10,10 +10,9 @@ https://www.ldacs.com/
 
 ### Goals and Milestones
 
-1. Complete Literature review and Start with Survey paper 
-2. Dronnect Journal paper 
-3. mesh device setup 
-4. VM phase 1 complete 
+1. Dronnect Journal paper 
+2. mesh device setup 
+3. VM phase 1 complete 
 ### PhD Thoughts 
 The PhD research network coding and computation is mandatory for Aerial communication. How the communication and computing via coding part will exists ? 
 
@@ -56,22 +55,18 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 **==read from back for review==**
 ### Big Tasks 
 
-1. Literature reading and Survey article 
-	- Group priority of the article based on citation and relevance within my scope of research 
-	- Create excel sheet and organize the scope of research topic and highlight the research gaps 
-	- How my idea of coding and computing will address the research gap and what is the path 
-	- What are the type of articles I must read for the scope of my research 
-2. Mesh devices 
+
+1. Mesh devices 
 	- Technical specification of Hardware and figure out the power 
 	- Initial test with laptop 
 	- Rasp pi test 
 	- Pixhawk test 
-3. Rasp pi + LTE Dongle 
+2. Rasp pi + LTE Dongle 
 	- Resolve the LTE dongle and SIM Card issue with Sebastian
 	- Dongle test with Laptop
 	- Dongle test with Rasp pi 
 	- Pixhawk to QGC - via dongle 
-4. VM Setup for Multi-Link simulator 
+3. VM Setup for Multi-Link simulator 
 	- Setup multi-link VM simulator  - what are key entities in each machine 
 	- Setup  and test Sat link 
 	- Setup and test Cell link 
@@ -80,7 +75,7 @@ DTU (Technical University of Denmark) executed extensive 3D measurement campaign
 ### Small Tasks 
 
 1. AirMetro Winter workshop 
-	- Recap on TAC meeting - The gap and blocks of methodology 
+	- ~~Recap on TAC meeting - The gap and blocks of methodology~~ 
 	- Simulation VM part 
 	- Mesh and other hardware idea and Status 
 	- Next steps and plan 

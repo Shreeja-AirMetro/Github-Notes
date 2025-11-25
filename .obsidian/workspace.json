@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "TODOS/November 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 2025"
+              "title": "November 2025"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "TODOS/November 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dec 2025"
+              "title": "Outline of November 2025"
             }
           }
         ],
@@ -174,9 +174,9 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
-    "Notes/Air-Air comm.md",
-    "TODOS/November 2025.md",
     "TODOS/Dec 2025.md",
+    "TODOS/November 2025.md",
+    "Notes/Air-Air comm.md",
     "collab-external/Dronnect.md",
     "Notes/open.md",
     "Progress- PhD/Idea - Research Gap.md",
