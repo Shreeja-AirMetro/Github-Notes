@@ -621,3 +621,8 @@ We invite original research papers, comprehensive reviews, and visionary perspec
 10. Human factors for aerial autonomous mobility.
 
 This Special Issue aims to provide a comprehensive overview of the current state-of-the-art, challenges, and future directions in advanced autonomous mobility within the low-altitude economic sphere. We welcome contributions from academia, and industry to foster interdisciplinary dialogue and accelerate the development of safe, efficient, and sustainable 3D transportation systems.
+
+---
+
+Safety perspective and social acceptance
+Privacy of the user / passerby 
