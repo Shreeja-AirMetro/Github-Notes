@@ -353,15 +353,13 @@ Steps to implement in ISL
 - Satellite is compound module  - gnb - upf - server
 - Sat node has - Gnb and Distributed unit functions 
 
-
-
 - <span style="color:rgb(255, 0, 0)">gateway in UPF (5G)
 - intermediate user plane
 - filter gate 
 - simu 5g 
 - </span>
 - Ground gateway is just a hub - receives the sat RF signals  - convert it to IP 
-- 
+
 - Questions 
 	- Sat compound module is fine? do we need changes? 
 	- Propagation delays and Timing synchronizations
@@ -641,7 +639,6 @@ There are **two main categories** in 5G NR:
 - **Sent via:** PBCH (Physical Broadcast Channel).
     
 - **Contents:**
-    
     - System frame number (SFN)
     - Subcarrier spacing for SIB1
     - Reference signal power, etc.
@@ -688,7 +685,6 @@ A UE uses System Information to:
 3. **Configure random access (RACH)**.
 4. **Handle mobility and inter-RAT measurements**.
 5. **Learn NTN or TN coverage information (e.g., via SIB25).**
-    
 
 ---
 
