@@ -4,6 +4,10 @@ Weekends: Work on this https://www.cisco.com/c/en/us/tech/index.html and https:/
 on Networking protocol 
 5G , LTE and WiFi 
 
+Read: 
+https://www.dlr.de/en/kn/about-us/departments/communications-systems/aeronautical-communications-group
+https://www.ldacs.com/ 
+
 ### Goals and Milestones
 
 1. Complete Literature review and Start with Survey paper 

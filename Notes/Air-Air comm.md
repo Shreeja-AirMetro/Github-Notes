@@ -152,3 +152,11 @@ a. A power limit is applied based on the regulatory domain.
 
 ---
 
+To read 
+
+- [ ] https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces
+- [ ] https://techlibrary.doodlelabs.com/hardware-integration-guidelines
+- [ ] https://techlibrary.doodlelabs.com/mini-oem-and-helix-mesh-rider-radio-eval-kit-connector-descriptions
+- [ ] https://techlibrary.doodlelabs.com/optimizing-the-rf-link
+- [ ] https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video
+- [ ] 
