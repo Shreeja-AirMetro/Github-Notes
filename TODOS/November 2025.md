@@ -8,6 +8,8 @@ Read:
 https://www.dlr.de/en/kn/about-us/departments/communications-systems/aeronautical-communications-group
 https://www.ldacs.com/ 
 
+**test at difference scenarios and results** 
+
 ### Goals and Milestones
 
 1. Dronnect Journal paper 

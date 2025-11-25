@@ -913,5 +913,7 @@ To read
  BBU  - RRH separate 
  What are the components of RAN
 
+Goal for DA - test at difference scenarios and results 
+
 
 
