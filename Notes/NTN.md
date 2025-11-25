@@ -934,3 +934,8 @@ Student job
 Static link as ISL exists 
 dynamic link  - what's the distance based idea to form the link 
 
+// dynamic link - packet routing 
+conf the topology - update the table
+Mesh network in Omnet++
+
+What current ISL topology question 
