@@ -365,15 +365,6 @@ Steps to implement in ISL
 - Questions 
 	- Sat compound module is fine? do we need changes? 
 	- Propagation delays and Timing synchronizations
-- 
-
-
----
-
-
-
-
-
 
 
 ---
@@ -945,5 +936,7 @@ Mechanism (Markov chain based routing - care about next hop only?!)
 Does the destination 
 What current ISL topology question 
 How many ISL links can one satellite have 
-WIfi- Mesh / other -INET 
+Wifi- Mesh / other -INET  - OSPF v3 802.11
+
+
 
