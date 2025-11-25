@@ -919,3 +919,9 @@ send through the TN network
 
 
 burst 
+
+---
+25/11
+
+- Mobility module of the sat and UE can run in one scenario and two GUI (SUMO and Omnet++)
+- 

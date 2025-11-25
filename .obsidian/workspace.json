@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/NTN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "November 2025"
+              "title": "NTN"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/November 2025.md",
+                "file": "Notes/NTN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of November 2025"
+              "title": "Outline of NTN"
             }
           }
         ],
@@ -174,8 +174,8 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
-    "TODOS/Dec 2025.md",
     "TODOS/November 2025.md",
+    "TODOS/Dec 2025.md",
     "Notes/Air-Air comm.md",
     "collab-external/Dronnect.md",
     "Notes/open.md",
