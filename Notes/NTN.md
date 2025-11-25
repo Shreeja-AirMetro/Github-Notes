@@ -932,4 +932,5 @@ burst
 
 Student job
 Static link as ISL exists 
-dynamic link 
+dynamic link  - what's the distance based idea to form the link 
+
