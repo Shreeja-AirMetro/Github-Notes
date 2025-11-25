@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collab-external/Dronnect.md",
+                "file": "TODOS/Dec 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dronnect"
+              "title": "Dec 2025"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collab-external/Dronnect.md",
+                "file": "TODOS/Dec 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dronnect"
+              "title": "Outline of Dec 2025"
             }
           }
         ],
@@ -174,6 +174,7 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "collab-external/Dronnect.md",
     "Notes/open.md",
     "Progress- PhD/Idea - Research Gap.md",
     "TODOS/Todos.md",
@@ -184,7 +185,6 @@
     "Pasted image 20251120143700.png",
     "Notes/GA -GSC Modules.md",
     "Notes/Notes -PhD Ideas.md",
-    "collab-external/Dronnect.md",
     "Ex-for dronnect-whitepaper.pdf",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Presentations.md",
