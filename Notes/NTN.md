@@ -870,14 +870,12 @@ Downlink happening - uplink will be dropped
 
 UE to NTN gateway - Core network - Server - is the uplink 
 
-
 Uplink - costumer centric 
 
 with sat and base station - buffering 
 
 where is the application server 
 send through the TN network 
-
 
 burst 
 
@@ -910,7 +908,9 @@ Wi-Fi- Mesh / other -INET  - OSPF v3 802.11
 
 definition of the dynamic / static and ISL  - Inter and cross orbit ISL 
 
-
+---
+To read
+ BBU  - 
 
 
 
