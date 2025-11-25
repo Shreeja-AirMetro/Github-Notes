@@ -614,24 +614,17 @@ The **System Information (SI)** in 5G (and earlier generations like LTE) provide
 In essence, **SI acts as the “network handbook”** broadcast by each base station (gNB), allowing UEs to learn:
 
 - How to connect,
-    
 - What frequencies or carriers exist,
-    
 - What system features are supported,
-    
 - Which services or restrictions apply.
-    
 
 ---
 
 ## 🏗️ **2. Where SI Fits — RAN & RRC Context**
 
 - **RAN (Radio Access Network)**: Responsible for the air interface — radio transmission, scheduling, and resource allocation.
-    
 - **RRC (Radio Resource Control)**: A protocol layer (part of Layer 3) managing signaling between UE and gNB.
-    
 - **System Information** is broadcast by the gNB using **RRC messages**.
-    
 
 So, the **RRC layer** carries **SI messages** over the **broadcast control channel (BCCH)**.
 
@@ -650,11 +643,9 @@ There are **two main categories** in 5G NR:
 - **Contents:**
     
     - System frame number (SFN)
-        
     - Subcarrier spacing for SIB1
-        
     - Reference signal power, etc.
-        
+
 
 > Think of MIB as the “doorway” — it gives the UE just enough info to read the next message.
 
@@ -680,11 +671,9 @@ Each **SIB (System Information Block)** contains a specific set of parameters.
 ## 🛰️ **4. Transmission Mechanism**
 
 - **MIB** → Sent periodically in every cell.
-    
 - **SIB1** → Broadcast on BCCH via DL-SCH; scheduling info for other SIBs.
-    
 - **Other SIBs** → Can be on-demand in NR (i.e., UE requests them via RRC once connected), unlike LTE where all were periodically broadcast.
-    
+
 
 This improves **spectral efficiency** and reduces **broadcast overhead** in 5G.
 
@@ -695,13 +684,9 @@ This improves **spectral efficiency** and reduces **broadcast overhead** in 5G.
 A UE uses System Information to:
 
 1. **Perform cell selection/reselection**.
-    
 2. **Determine access restrictions** (e.g., roaming, emergency services).
-    
 3. **Configure random access (RACH)**.
-    
 4. **Handle mobility and inter-RAT measurements**.
-    
 5. **Learn NTN or TN coverage information (e.g., via SIB25).**
     
 
@@ -730,11 +715,9 @@ Let’s unpack how **SIB25** fits into the broader **System Information (SI)** a
 This allows the UE to:
 
 - Be aware of **terrestrial coverage availability** in its geographical area.
-    
 - **Optimize mobility decisions**, i.e., when to attempt reselection or handover to a TN cell.
-    
 - **Save power** by avoiding unnecessary searches for terrestrial networks when none are available.
-    
+
 
 So, think of SIB25 as a **“map of terrestrial coverage visibility”** for UEs operating under satellite (NTN) conditions.
 
@@ -745,9 +728,8 @@ So, think of SIB25 as a **“map of terrestrial coverage visibility”** for UEs
 In NTN scenarios (e.g., satellite links), the UE can be:
 
 - **Far from any terrestrial base station (gNB)**, or
-    
 - **Temporarily within TN coverage zones** (e.g., near urban areas).
-    
+
 
 Without SIB25, the UE would have to **periodically search for terrestrial cells blindly**, wasting power and time.
 
@@ -774,15 +756,10 @@ The gNB broadcasts SIB25 over the **BCCH** (similar to other SIBs) with periodic
 ## ⚙️ **How the UE Uses It**
 
 1. **UE camps on an NTN cell.**
-    
 2. It decodes **MIB → SIB1 → SIB25**.
-    
 3. From SIB25, it learns where terrestrial coverage may exist.
-    
 4. Based on location and movement, it decides **when to attempt reselection** to a TN cell.
-    
 5. When leaving TN coverage, the UE can return to NTN operation seamlessly.
-    
 
 This enables **hybrid connectivity** — smooth operation between satellite and terrestrial segments.
 
@@ -793,11 +770,8 @@ This enables **hybrid connectivity** — smooth operation between satellite and 
 The **core network and RAN** coordinate to:
 
 - Update SIB25 dynamically when terrestrial coverage maps change.
-    
 - Ensure NTN cells have up-to-date TN coverage data.
-    
 - Manage priorities for UE mobility between NTN ↔ TN.
-    
 
 ---
 
@@ -877,7 +851,7 @@ References slide
  - what's jittering and why significant in NTN
  - ISL routing 
  - UE navigation driver 
- - 
+
 ---
 SIB 25 
 when to trigger sniffing was not decided by SIB 25
@@ -936,7 +910,11 @@ Mechanism (Markov chain based routing - care about next hop only?!)
 Does the destination 
 What current ISL topology question 
 How many ISL links can one satellite have 
-Wifi- Mesh / other -INET  - OSPF v3 802.11
+Wi-Fi- Mesh / other -INET  - OSPF v3 802.11
+
+definition of the dynamic / static and ISL  - Inter and cross orbit ISL 
+
+
 
 
 
