@@ -938,4 +938,11 @@ dynamic link  - what's the distance based idea to form the link
 conf the topology - update the table
 Mesh network in Omnet++
 
+HW
+When to update IP table update based on ever changing topology 
+distance based routing - walker star (min set of walker delta)
+Mechanism (Markov chain based routing - care about next hop only?!)
+Does the destination 
 What current ISL topology question 
+How many ISL links can one satellite have 
+
