@@ -190,10 +190,13 @@ To do:
 	- [ ] Meeting and tasks with Roshan 
 
 
-26/11 - 27/11 - 28/11- 29/11 - 30/11- 1/12-2
+26/11 - 27/11 - 28/11- 29/11 - 30/11- 1/12-2/12-3/12
 
 - [ ] Mesh test bed setup
 - [ ] Initial idea for Test bed and tests to run - Then follow-up discussion with Christopher 
 - [ ] Dronnect paper 
 - [ ] LTE dongle, Rasp pi and Pixhawk 
-- [ ] Goals for the simulation setup for 
+- [ ] Goals for the simulation setup for Research visit 
+- [ ] Network coding and Computation Methods and next steps 
+- [ ] LAWN simulation setup and Sionna 
+- [ ] 
