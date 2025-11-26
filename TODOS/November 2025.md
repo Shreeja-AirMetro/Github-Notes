@@ -199,4 +199,4 @@ To do:
 - [ ] Goals for the simulation setup for Research visit 
 - [ ] Network coding and Computation Methods and next steps 
 - [ ] LAWN simulation setup and Sionna paper
-- [ ] 
+- [ ] Admin works and meetings
