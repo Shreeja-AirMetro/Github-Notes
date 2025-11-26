@@ -198,5 +198,5 @@ To do:
 - [ ] LTE dongle, Rasp pi and Pixhawk 
 - [ ] Goals for the simulation setup for Research visit 
 - [ ] Network coding and Computation Methods and next steps 
-- [ ] LAWN simulation setup and Sionna 
+- [ ] LAWN simulation setup and Sionna paper
 - [ ] 
