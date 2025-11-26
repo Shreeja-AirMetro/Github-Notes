@@ -188,3 +188,12 @@ To do:
 - [ ] LAWN paper 
 	- [ ] reading SOA, Research gap
 	- [ ] Meeting and tasks with Roshan 
+
+
+26/11 - 27/11 - 28/11- 29/11 - 30/11- 1/12-2
+
+- [ ] Mesh test bed setup
+- [ ] Initial idea for Test bed and tests to run - Then follow-up discussion with Christopher 
+- [ ] Dronnect paper 
+- [ ] LTE dongle, Rasp pi and Pixhawk 
+- [ ] Goals for the simulation setup for 
