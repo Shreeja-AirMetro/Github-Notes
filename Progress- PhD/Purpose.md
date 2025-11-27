@@ -15,3 +15,19 @@ The objectives of a successful doctorate are as follows:
 - the capacity to develop further the progress made in technological, social or cultural terms within an academic and professional context
 - Satisfying standards associated with national and international peer-reviewed publications
 Instead, I believe that _the most important goal of a PhD student should be to learn how to do research_. https://medium.com/navigating-academia/the-goal-of-a-phd-program-is-not-to-write-and-publish-research-papers-01e6ace7727d
+
+https://medium.com/navigating-academia/the-research-mosaic-analogy-the-mosaic-art-approach-to-a-dissertation-and-research-portfolio-dd7f9f81ce02
+Thinking about a dissertation — or even an overall career — as a piece of mosaic art can be very freeing. As a beginning PhD student, a very natural question is:
+
+- What will my _dissertation_ be about?
+
+After which, it can be very tempting to ask the question:
+
+- What should the first project in _my dissertation_ be?
+
+After completing the first project, it can be very tempting to ask:
+
+- What should the next project in _my dissertation_ be?
+
+The research mosaic analogy can be useful to keep in mind throughout one’s research career. For example, for a PhD student preparing research-focused job applications, they will likely need to write a research statement that reflects upon the body of their PhD works. This research statement is a mosaic.
+
