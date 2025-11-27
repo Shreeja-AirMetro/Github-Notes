@@ -42,6 +42,13 @@ more like TCP  - get a feedback
 
 message - header : spatial and temporal data and then actual payload
 
+xrcedds bus between pixhawk and jetson (cable uart or ethernet)
+
+check gitlab
+create publishers and subscribers
+
+read ros commands 
+ros packages used 
 
 
 
