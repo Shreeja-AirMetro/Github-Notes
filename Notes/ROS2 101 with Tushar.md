@@ -70,5 +70,11 @@ Map is building  - package
 processed data is sent to the 
 
 
+AP isolation 
+see data published out there 
+QOS settings 
+
+
+
 
 
