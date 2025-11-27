@@ -60,7 +60,14 @@ explore action server for in and out
 
 launch file orchestrate all the nodes together 
 work with callback 
-ros2 
+
+
+always source first 
+naming convention 
+sending the payload 
+
+Map is building  - package 
+processed data is sent to the 
 
 
 
