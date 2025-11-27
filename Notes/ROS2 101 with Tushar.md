@@ -31,7 +31,14 @@ src is workspace
 
 symlink - like in linux
 
+
+eg: camera has a image topic from a node. Then In the package node 1 - Tushar can create/model and add data to the topic- processed image and that can be subscribed by RViz 
+
+Rviz can subscribe to any topic
+
+
 what is action-server 
+
 
 
 
