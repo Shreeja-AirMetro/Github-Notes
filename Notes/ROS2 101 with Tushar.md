@@ -38,6 +38,11 @@ Rviz can subscribe to any topic
 
 
 what is action-server 
+more like TCP  - get a feedback
+
+message - header : spatial and temporal data and then actual payload
+
+
 
 
 
