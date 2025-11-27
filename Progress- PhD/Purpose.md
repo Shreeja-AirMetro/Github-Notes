@@ -31,3 +31,6 @@ After completing the first project, it can be very tempting to ask:
 
 The research mosaic analogy can be useful to keep in mind throughout one’s research career. For example, for a PhD student preparing research-focused job applications, they will likely need to write a research statement that reflects upon the body of their PhD works. This research statement is a mosaic.
 
+Science is the systematic transformation of the unknown into the known. https://matt.might.net/
+
+
