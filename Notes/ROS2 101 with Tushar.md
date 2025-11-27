@@ -29,5 +29,9 @@ stick to directory structure
  node 
 src is workspace
 
+symlink - like in linux
+
+what is action-server 
+
 
 
