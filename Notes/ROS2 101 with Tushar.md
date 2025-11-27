@@ -50,6 +50,13 @@ create publishers and subscribers
 read ros commands 
 ros packages used 
 
+srx px4 have message definitions - then that have access to nodes, launch files etc.
+
+main cmtd after build  - source install/setup.bash 
+ctrl +r  - for finding cmds
+
+in and out 
+explore action server for in and out 
 
 
 
