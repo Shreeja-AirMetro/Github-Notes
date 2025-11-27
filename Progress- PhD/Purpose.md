@@ -14,4 +14,4 @@ The objectives of a successful doctorate are as follows:
 - the capacity for critical analysis, assessment and synthesis of new and complex ideas
 - the capacity to develop further the progress made in technological, social or cultural terms within an academic and professional context
 - Satisfying standards associated with national and international peer-reviewed publications
-Instead, I believe that _the most important goal of a PhD student should be to learn how to do research_. 
+Instead, I believe that _the most important goal of a PhD student should be to learn how to do research_. https://medium.com/navigating-academia/the-goal-of-a-phd-program-is-not-to-write-and-publish-research-papers-01e6ace7727d
