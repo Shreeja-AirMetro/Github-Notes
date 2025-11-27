@@ -13,7 +13,7 @@ Topics - One to many - publish to subscribe - broadcast
 
 Action - server 
 
-Topics have direcories like event camera then image vector (namespaces)
+Topics have directories like event camera then image vector (namespaces)
 Topic have specific message type 
 standard and sensor type message 
 geometry message sand custom message 
