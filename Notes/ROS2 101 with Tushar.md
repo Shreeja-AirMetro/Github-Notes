@@ -58,6 +58,9 @@ ctrl +r  - for finding cmds
 in and out 
 explore action server for in and out 
 
+launch file orchestrate all the nodes together 
+
+
 
 
 
