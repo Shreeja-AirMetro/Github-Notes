@@ -22,6 +22,12 @@ Nodes - multiple nodes can publish on one topic
 
 Ros packages is clustering into one lib. Node is final executable - interact with nodes through topics 
 
+ROS 2 - Sionna 
+ISSAC Sim 
+gazebo ros
+
+
+
 processing can be segregated and parallelized among nodes 
 nodes can exists anywhere in the network 
 Node can be communicated across anywhere in the network
