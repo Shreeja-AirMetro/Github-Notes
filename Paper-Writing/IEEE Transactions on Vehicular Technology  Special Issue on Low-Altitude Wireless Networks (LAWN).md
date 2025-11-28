@@ -375,3 +375,6 @@ To dos:
 mmwave for drone operation 
 - [ ] ray tracing for regular ghz frequency possible? 
 - [ ] Points to discuss for next meeting 
+
+
+

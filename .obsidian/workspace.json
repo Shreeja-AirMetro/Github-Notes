@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/Purpose.md",
+                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Purpose"
+              "title": "IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress- PhD/Purpose.md",
+                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Purpose"
+              "title": "Outline of IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
             }
           }
         ],
@@ -174,6 +174,8 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "Paper-Writing/Deadline - target Conf and Journals.md",
+    "Progress- PhD/Purpose.md",
     "Progress- PhD/Workshops.md",
     "Progress- PhD/Presentations.md",
     "Notes/Notes -PhD Ideas.md",
@@ -182,7 +184,6 @@
     "Notes/MEC - Edge Computing.md",
     "Notes/Klagenfurt visit.md",
     "Notes/ROS2 101 with Tushar.md",
-    "Progress- PhD/Purpose.md",
     "Progress- PhD/Application.md",
     "Progress- PhD/First TAC meeting.md",
     "Progress- PhD/Further.md",
@@ -191,7 +192,6 @@
     "Progress- PhD/Milestones.md",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/PhD Project management.mw",
-    "Paper-Writing/Deadline - target Conf and Journals.md",
     "TODOS/November 2025.md",
     "Progress- PhD/Progress and Tasks - topic.md",
     "Notes/Air-Air comm.md",
