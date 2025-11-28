@@ -37,3 +37,5 @@ The research mosaic analogy can be useful to keep in mind throughout one’s res
 Science is the systematic transformation of the unknown into the known. https://matt.might.net/
 
 
+---
+1. PhD is about sustenance, starting and finishing strong. Do an incremental improvement. Which one should I go and which one downgrades the PhD 2. Failures: get around the failures. You do have to accept failures as part of PhD's daily life. Try experiments (new ideas, what's interesting and working), and take all them. Report to the supervisor and see what works. And it gives you motivation (passion). 3. Chronic procastination: I couldn't get away from FB. Maybe you fail, disturbing. Just a bit stuff with that. You just need to push your behavior. You have to force it.

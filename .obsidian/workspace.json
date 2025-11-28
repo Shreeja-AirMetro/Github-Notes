@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
+                "file": "Progress- PhD/Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
+              "title": "Purpose"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
+                "file": "Progress- PhD/Purpose.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
+              "title": "Outline of Purpose"
             }
           }
         ],
@@ -174,6 +174,7 @@
   },
   "active": "baf35fb0115a60a0",
   "lastOpenFiles": [
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Progress- PhD/Purpose.md",
     "Progress- PhD/Workshops.md",
@@ -200,7 +201,6 @@
     "collab-external/Dronnect.md",
     "Notes/NTN.md",
     "TODOS/Dec 2025.md",
-    "Notes/open.md",
     "Pasted image 20251120145437.png",
     "Pasted image 20251120144902.png",
     "Pasted image 20251120144703.png",
