@@ -414,5 +414,9 @@ Why modeling is important
 
 
 To read 
+- [ ] Book
+- [ ] tab of papers sort
+- [ ] Thesis 
+- [ ] 
 
 
