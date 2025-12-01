@@ -370,17 +370,28 @@ LAWN paper - Structure - Flow - Clarity and Speed
 
 To dos:
 - [ ] What is the research gap , SoA, novelty 
-- [ ] Structure of the paper with My contribution and Roshan's contribution 
+- [x] Structure of the paper with My contribution and Roshan's contribution 
 - [ ] My hws: SoA - RSSI and RSRP of ray tracing from Mm wave
 mmwave for drone operation 
 - [ ] ray tracing for regular ghz frequency possible? 
-- [ ] Points to discuss for next meeting 
+- [x] Points to discuss for next meeting 
 
 
 
 ---
 
 The paper targets UAV based application in UAM 
-UAM with 5G posses significant challenges 
-URLLC - Meta modeling - Air-
+UAM with 5G posses significant challenges , Plan UAM network , Multi-technology / multi-link 
+**URLLC - Meta modeling - Air-to-ground and ground to air channel modelling  (find the connection)**
+
+
 RIS 
+
+To read
+- [ ] Air-to-ground and ground to air channel modelling 
+- [ ] URLLC for LAWN
+- [ ] RSSI and RSRP of ray tracing from Mm wave - mmwave for drone operation
+ - [ ] ray tracing for regular ghz frequency possible
+ - [ ] Novelty of the paper (my side and roshan side)
+ - [ ] To do for simulation part
+ 
