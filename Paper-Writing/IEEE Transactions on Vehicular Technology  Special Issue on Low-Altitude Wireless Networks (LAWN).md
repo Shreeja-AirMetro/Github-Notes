@@ -435,7 +435,7 @@ To read
 - [ ] Thesis 
 - [ ] ITU Doc
 - [ ] Read old nokia paper 
-- [ ] 
+- [ ] Paper listed below
 
 
 ---
@@ -449,6 +449,12 @@ Ubiquitous accessibility worldwide and superior performance of cellular networks
 In this paper, we propose a model for beyond visual line of sight (BVLOS) operation for remote piloting of unmanned aerial vehicles (UAVs), which utilizes different technologies such as mobile edge computing and augmented reality. Ultra reliable low latency communication (URLLC) is a key service of 5G that enables safe BVLOS operation. Since message size of piloting signal is finite and communication channel is altitude dependent, we study reliability and latency under finite blocklength regime for different altitudes. In our numerical study, we find that for message sizes 30 and 50 bits, coded packet size, i.e., blocklength, should be in the range of 200 and 300 bits to enable BVLOS operation. We also found that minimum distance between UAVs to avoid any crash should be around 0.2 m for 15 m/s UAV speed and different altitudes ranging from 1.5 m to 120 m. According to our study, BVLOS operation of UAVs can be realized by URLLC by providing error probability in the vicinity of 10-3, and latency on the order of milliseconds for downlink communication with blocklength of tens to hundred bits. https://ieeexplore.ieee.org/abstract/document/8647652
 
 ==**G2A is Radio link**== 
+
+Reliable Aerial Mobile Communications with RSRP & RSRQ Prediction Models for the Internet of Drones: A Machine Learning Approach https://www.mdpi.com/1424-8220/22/15/5522
+
+To investigate the reliability of provided aerial coverage by the terrestrial cellular base stations (BSs), this article proposes six machine learning-based models to predict reference signal received power (RSRP) and reference signal received quality (RSRQ) based on the multiple linear regression, polynomial, and logarithmic methods. In this regard, first, a UAV-to-BS measurement campaign was conducted in a 4G LTE network within a suburban environment. Then, the aerial coverage was statistically analyzed and the prediction methods were developed as a function of distance and elevation angle. The results reveal the capability of terrestrial BSs in providing aerial coverage under some circumstances, which mainly depends on the distance between the UAV and BS and flight height. The performance evaluation shows that the proposed RSRP and RSRQ models achieved RMSE of 4.37 dBm and 2.71 dB for testing samples, respectively.
+
+### # Pathloss Analysis and Modelling for 5G Communication in U-SPACE
 
 
 //Misc Papers
