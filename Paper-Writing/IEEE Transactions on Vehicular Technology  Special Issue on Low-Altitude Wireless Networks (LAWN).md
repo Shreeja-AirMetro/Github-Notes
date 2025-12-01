@@ -412,11 +412,17 @@ Why modeling is important
 - **System optimization**: They provide a basis for optimizing communication systems for reliability, efficiency, and performance.
 - **Realistic testing**: Models enable the simulation of a wide range of scenarios and configurations that may be impractical to test in real-world flight trials.
 
+**Definition (short):** An A2G/G2A channel model describes how radio signals propagate between an airborne node (UAV, balloon, HAP, airplane) and a ground node (base station, user equipment, sensor). It captures large-scale effects (path loss, elevation-dependent LOS probability, shadowing), small-scale fading (Rice/K-factor, multipath delay/angle spreads), Doppler/non-stationarity, and spatial/temporal correlation. [PMC+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC10222034/?utm_source=chatgpt.com)
+- **Key physical differences vs terrestrial channels:**
+    - **Much higher LOS probability** (but depends on altitude and environment), so Ricean fading with large K is common. [ITU+1](https://www.itu.int/pub/S-JNL-VOL2.ISSUE2-2021-A11?utm_source=chatgpt.com)
+    - **Height/elevation dependence**: path loss, shadowing, and the relative importance of reflections change strongly with UAV height. [MDPI](https://www.mdpi.com/2227-7390/13/21/3377?utm_source=chatgpt.com)
+    - **Stronger, unusual interference patterns** in cellular-connected UAV scenarios because ground BS antennas are downtilted (interfere differently with airborne nodes). [ITU](https://www.itu.int/pub/S-JNL-VOL2.ISSUE2-2021-A11?utm_source=chatgpt.com)
+    - **Rapid non-stationarity & Doppler** for moving UAVs (especially fast or rotary wing), requiring time-varying / spatially-consistent models.
 
 To read 
 - [ ] Book
 - [ ] tab of papers sort
 - [ ] Thesis 
-- [ ] 
+- [ ] ITU Doc
 
 
