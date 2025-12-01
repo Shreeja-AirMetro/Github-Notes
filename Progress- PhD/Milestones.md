@@ -44,3 +44,6 @@ Publications
 - [ ] U-Space and cloud
 - [ ] NTN for drone operations
 - [ ] NCC for drone infrastructure 
+
+
+Review on 25/12
