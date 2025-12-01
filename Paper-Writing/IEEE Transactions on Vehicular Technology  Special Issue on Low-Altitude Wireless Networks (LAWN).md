@@ -450,3 +450,11 @@ In this paper, we propose a model for beyond visual line of sight (BVLOS) operat
 
 ==**G2A is Radio link**== 
 
+
+//Misc Papers
+
+### URLLC Multi-link/connectivity 
+
+Reliability and Delay Analysis of 3-Dimensional Networks With Multi-Connectivity: Satellite, HAPs, and Cellular Communications  https://ieeexplore.ieee.org/abstract/document/10227357 
+Aerial vehicles (AVs) such as electric vertical take-off and landing (eVTOL) aircraft make aerial passenger transportation a reality in urban environments. However, their communication connectivity is still under research to realize their safe and full-scale operation. This paper envisages a multi-connectivity (MC) enabled aerial network to provide ubiquitous and reliable service to AVs. Vertical heterogeneous networks with direct air-to-ground (DA2G) and air-to-air (A2A) communication, high altitude platforms (HAPs), and low Earth orbit (LEO) satellites are considered. We evaluate the end-to-end (E2E) multi-hop reliability and network availability of the downlink of AVs for remote piloting scenarios, and control/telemetry traffic. Command and control (C2) connectivity service requires ultra-reliable and low-latency communication (URLLC), therefore we analyze E2E reliability and latency under the finite blocklength (FBL) regime. We explore how different MC options satisfy the demanding E2E connectivity requirements taking into account antenna radiation patterns and unreliable backhaul links. Since providing seamless connectivity to AVs is very challenging due to the line-of-sight (LoS) interference and reduced gains of downtilt ground base station (BS) antennas, we use coordinated multi-point (CoMP) among ground BSs to alleviate the inter-cell interference. Furthermore, we solve an optimization problem to select the best MC path under the quality of service (QoS) constraints. We maximize spectral efficiency (SE) to specify the optimum MC path with the minimum number of required links. Based on the simulation results, we find out that even with very efficient interference mitigation, MC is the key enabler for safe remote piloting operations.
+
