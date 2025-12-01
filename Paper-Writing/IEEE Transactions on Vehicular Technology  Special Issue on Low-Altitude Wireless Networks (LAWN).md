@@ -418,11 +418,22 @@ Why modeling is important
     - **Height/elevation dependence**: path loss, shadowing, and the relative importance of reflections change strongly with UAV height. [MDPI](https://www.mdpi.com/2227-7390/13/21/3377?utm_source=chatgpt.com)
     - **Stronger, unusual interference patterns** in cellular-connected UAV scenarios because ground BS antennas are downtilted (interfere differently with airborne nodes). [ITU](https://www.itu.int/pub/S-JNL-VOL2.ISSUE2-2021-A11?utm_source=chatgpt.com)
     - **Rapid non-stationarity & Doppler** for moving UAVs (especially fast or rotary wing), requiring time-varying / spatially-consistent models.
+- **It covers both.** “A2G/G2A” is the physical link description — it’s agnostic to the _role_ of the UAV. The same propagation phenomena matter whether the UAV is:
+
+    - a **flying base station** (UAV-BS) providing coverage to ground users, or
+    - a **cellular user equipment** (cell-connected UAV) served by ground BSs, or
+    - a **relay/mesh node** between other UAVs and ground, or
+    - **air-to-air (A2A)** links (related but modelled separately because geometry/relative motion differs). [ScienceDirect+1](https://www.sciencedirect.com/science/article/pii/S2405959522000157?utm_source=chatgpt.com)
+- Practically, **model parameters and emphasis change** with the use case:
+    
+    - For UAV-BS design you often need **coverage maps, elevation-dependent PL, spatial consistency** (how coverage evolves during small movements). [arXiv](https://arxiv.org/html/2511.15412v1?utm_source=chatgpt.com)
+    - For cellular-connected UAVs you need **interference models, base-station antenna patterns and handover behavior** because ground infrastructure was designed for terrestrial UEs.
 
 To read 
 - [ ] Book
 - [ ] tab of papers sort
 - [ ] Thesis 
 - [ ] ITU Doc
-
+- [ ] Read old nokia paper 
+- [ ] 
 
