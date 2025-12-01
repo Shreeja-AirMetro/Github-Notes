@@ -380,4 +380,7 @@ mmwave for drone operation
 
 ---
 
-
+The paper targets UAV based application in UAM 
+UAM with 5G posses significant challenges 
+URLLC - Meta modeling - Air-
+RIS 
