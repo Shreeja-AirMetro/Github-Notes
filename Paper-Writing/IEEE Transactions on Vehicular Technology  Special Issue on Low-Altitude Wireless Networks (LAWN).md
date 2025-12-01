@@ -454,7 +454,9 @@ Reliable Aerial Mobile Communications with RSRP & RSRQ Prediction Models for the
 
 To investigate the reliability of provided aerial coverage by the terrestrial cellular base stations (BSs), this article proposes six machine learning-based models to predict reference signal received power (RSRP) and reference signal received quality (RSRQ) based on the multiple linear regression, polynomial, and logarithmic methods. In this regard, first, a UAV-to-BS measurement campaign was conducted in a 4G LTE network within a suburban environment. Then, the aerial coverage was statistically analyzed and the prediction methods were developed as a function of distance and elevation angle. The results reveal the capability of terrestrial BSs in providing aerial coverage under some circumstances, which mainly depends on the distance between the UAV and BS and flight height. The performance evaluation shows that the proposed RSRP and RSRQ models achieved RMSE of 4.37 dBm and 2.71 dB for testing samples, respectively.
 
-### # Pathloss Analysis and Modelling for 5G Communication in U-SPACE
+###  Paper 3 
+Pathloss Analysis and Modelling for 5G Communication in U-SPACE https://ieeexplore.ieee.org/abstract/document/10253853 
+This was done by field measurements with TSMA6B - an industrial-grade mobile frequency scanner, attached to a rotary-wing UAV. Using the network configurations obtained by the MNO (Mobile Network Operator), measurement campaigns were carried out at altitudes (22 - 35 meters) within the elevation angle of the transmitting antenna. Collected results were used to fit a path loss regression line for each altitude using the measured power of the reference signal and the instantaneous distance of the UAV from the base station. Findings from the analysis show that the path loss model is height dependent with altitude-specific cell edge requirements. In conclusion, the findings indicate that a 3.5GHz radio channel, deployed in a rural scenario, approximates a free space channel with an increase in altitude. This is because the channel conditions are similar to a line-of-sight scenario with increased altitude.
 
 
 //Misc Papers
