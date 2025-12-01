@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8b0380c1f5d20a",
+        "id": "4ec4c0b609e57729",
         "type": "tabs",
         "children": [
           {
-            "id": "baf35fb0115a60a0",
+            "id": "fd09d557f6219952",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf35fb0115a60a0",
+  "active": "fd09d557f6219952",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Notes/Air-Air comm.md",
     "Progress- PhD/Idea - Research Gap.md",
     "Progress- PhD/Further.md",
@@ -184,7 +186,6 @@
     "Progress- PhD/Monograph.md",
     "Progress- PhD/PhD Project management.mw",
     "Progress- PhD/Purpose.md",
-    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Progress- PhD/Workshops.md",
     "Progress- PhD/Presentations.md",
