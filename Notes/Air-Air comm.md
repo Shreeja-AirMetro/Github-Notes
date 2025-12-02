@@ -211,3 +211,17 @@ Our overall recommendation is to design the RF link with about 10-15 dB fade mar
 
 https://techlibrary.doodlelabs.com/can-i-do-x-distance
 ![[Supported Networking Modes.pdf]]
+Start by selecting a profile under Profile Selection, such as General, UAV/UGV/Robot, or Ground Control System (GCS). This will auto-fill recommended configuration values relevant to your application. You can then modify the basic settings based on your specific network design.
+
+- - UAV Configuration appears only if the selected profile is UAV/UGV/Robot. It includes fields like GCS IP address, port number, and baud rate. The GCS Finder utility is enabled by default.
+    
+- - Active Frequency Band allows you to choose the frequency band used by the radio (e.g., 915v4 MHz).
+    
+- - Under Mesh Rider Radio Configuration, select the scenario (e.g., Mesh), Mesh ID, password, channel, bandwidth, operating distance, and number of devices. There's also an option to optimize for latency.
+    
+- - WiFi Radio Configuration enables configuration of SSID, password, and WiFi scenario (e.g., Access Point).
+    
+- - The Network Configuration section allows you to set additional static IPv4 addresses and netmask for BR-WAN interface if needed.
+    
+
+Once all necessary settings are applied, click Save Configuration to apply the changes.
