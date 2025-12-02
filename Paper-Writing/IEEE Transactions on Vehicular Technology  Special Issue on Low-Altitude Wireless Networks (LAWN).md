@@ -468,4 +468,5 @@ Aerial vehicles (AVs) such as electric vertical take-off and landing (eVTOL) air
 
 3/12 - To do 
 - [ ] Read open tabs
+- [ ] Cont with RQ and Simulation setup
 - [ ] 
