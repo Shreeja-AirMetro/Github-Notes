@@ -161,3 +161,11 @@ To read
 - [ ] https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video
 
 
+---
+
+2/12
+
+- ETH1 is configured by default as a configuration interface which is not remotely accessible, but it can be re-configured if necessary. Please note that the -H variant of the Embedded Mesh Rider Radio is a legacy model. We recommend new designs to use the -J models. For the -H it comes with either a UART or a USB Host port.
+- ETH0 and ETH1 are standard Ethernet interfaces and are bridged to the Mesh Rider Interface. USB Device Port The USB Device port is an Ethernet over USB interface and can be connected to USB host ports like those found on PCs, or USB OTG ports like those on Smart Devices. It is bridged to the Mesh Rider interface.
+- Ethernet over a USB interface
+- The default SSID is DoodleLabsWiFi and the password is DoodleSmartRadio. By default the WiFi Radio is in AP mode, but it can be configured as a client to connect to a standard Wi-Fi access point.
