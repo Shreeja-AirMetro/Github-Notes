@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Air-Air comm.md",
+                "file": "TODOS/Dec 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air-Air comm"
+              "title": "Dec 2025"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Air-Air comm.md",
+                "file": "TODOS/Dec 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Air-Air comm"
+              "title": "Outline of Dec 2025"
             }
           }
         ],
@@ -174,10 +174,10 @@
   },
   "active": "fd09d557f6219952",
   "lastOpenFiles": [
+    "Notes/Air-Air comm.md",
     "TODOS/Dec 2025.md",
     "TODOS/November 2025.md",
     "Progress- PhD/Purpose.md",
-    "Notes/Air-Air comm.md",
     "Optimizing the RF Link.pdf",
     "mini-OEM and Helix Mesh Rider Radio – Eval Kit Connector Descriptions.pdf",
     "Hardware Integration Guidelines.pdf",

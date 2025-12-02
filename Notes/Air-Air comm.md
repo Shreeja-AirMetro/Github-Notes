@@ -178,3 +178,17 @@ To read
 ```
 RF Link Range=f(TX Power, RX Sensitivity and Channel Bandwidth, Operating Frequency and Antenna Gain, Path Loss, Noise and Interference)
 ```
+
+ Having two antennas allows the radio to use either spatial-multiplexing to improve the data rate or spatial-diversity to improve the reliability of the link.
+
+In spatial-diversity, the same stream of data is sent redundantly over both antennas and combined at the receiver in an intelligent way to optimize the link quality and SNR. Depending on the application, it may be beneficial to mount one antenna horizontally and the other vertically to get the most diversity in the polarization, or to mount both antennas horizontally (for example) to get the most power if the polarization is known.
+
+In spatial-multiplexing, two different streams of data are sent to the two antennas resulting in double the throughput. In order not to interfere with each other in a line-of-sight (LoS) link, the antennas should be oppositely polarized and spaced a half-wavelength apart. In a non-LoS link, it is not necessary for the antennas to be oppositely polarized as the radios make use of multipath propagation to combine the data streams.
+
+For mobile applications, where the orientation of the nodes constantly changes, it is beneficial to mount the antennas in a cross-polarized orientation to get the most diversity in the polarization.
+
+> Doodle Labs recommends using two antennas. Mesh Rider Radios automatically switch between spatial-diversity to spatial-multiplexing modulations in order to optimize link quality.
+
+// **Antenna part is difficult but worth another read** 
+
+Lower frequency results in larger Fresnel zone and vice versa.
