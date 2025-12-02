@@ -275,3 +275,8 @@ Summary of mesh hardware:
 	- Port 5 USB (Host)
 	- ==<span style="color:rgb(0, 176, 80)"> <span style="color:rgb(0, 0, 0)"><b>Note: A 5V barrel jack (5.5mm x 2.5mm with positive center) rated for 3A is required to power on the Mini/Nano OEM.</b> </span></span>==
 4. We will evaluate two setup A2A and A2G 
+
+Setup 1
+
+Setup 2
+
