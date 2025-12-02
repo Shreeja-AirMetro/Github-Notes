@@ -155,8 +155,8 @@ a. A power limit is applied based on the regulatory domain.
 To read 
 
 - [x] https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces
-- [ ] https://techlibrary.doodlelabs.com/hardware-integration-guidelines
-- [ ] https://techlibrary.doodlelabs.com/mini-oem-and-helix-mesh-rider-radio-eval-kit-connector-descriptions
+- [x] https://techlibrary.doodlelabs.com/hardware-integration-guidelines
+- [x] https://techlibrary.doodlelabs.com/mini-oem-and-helix-mesh-rider-radio-eval-kit-connector-descriptions
 - [ ] https://techlibrary.doodlelabs.com/optimizing-the-rf-link
 - [ ] https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video
 
@@ -173,4 +173,4 @@ To read
 - Embedded/Wearable/OEM: Up to 1 Mbps baud rate, 3.3-V TTL.
 - External: Up to 1 Mbps baud rate, RS232.
 - mini/nano OEM: Up to 115200 baud rate, 3.3-V TTL.
-![[Hardware Integration Guidelines.pdf]]
+![[Hardware Integration Guidelines.pdf]]![[mini-OEM and Helix Mesh Rider Radio – Eval Kit Connector Descriptions.pdf]]![[Optimizing the RF Link.pdf]]
