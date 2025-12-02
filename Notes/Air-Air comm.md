@@ -261,3 +261,11 @@ First time Simple configuration mesh network
 **TRY PIXHAWK SETUP ON THURSDAY**
 
 https://techlibrary.doodlelabs.com/integration-flight-controller
+
+###  Summary of the mesh hardware and ideas of what to do
+
+Summary of mesh hardware: 
+1. The mesh radio comes as a AP (memory, wifi and storage) . Its multi banc in 2Ghz spectrum with MIMO antenna
+2. we have evaluation kit for performance test 
+3. We will evaluate two setup A2A and A2G 
+4. 
