@@ -267,5 +267,11 @@ https://techlibrary.doodlelabs.com/integration-flight-controller
 Summary of mesh hardware: 
 1. The mesh radio comes as a AP (memory, wifi and storage) . Its multi banc in 2Ghz spectrum with MIMO antenna
 2. we have evaluation kit for performance test 
-3. We will evaluate two setup A2A and A2G 
-4. 
+3. MESH Mini OEM with 6 ports and 2 antenna 
+	-  Port 4 is power 5V and 3A max 
+	- Port 1 us USB  (Device)
+	- Port 2 is Eth 1
+	- Port 3 is UART Reset 
+	- Port 5 USB (Host)
+	- ==<span style="color:rgb(0, 176, 80)"> <span style="color:rgb(0, 0, 0)"><b>Note: A 5V barrel jack (5.5mm x 2.5mm with positive center) rated for 3A is required to power on the Mini/Nano OEM.</b> </span></span>==
+4. We will evaluate two setup A2A and A2G 
