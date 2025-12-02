@@ -173,3 +173,4 @@ To read
 - Embedded/Wearable/OEM: Up to 1 Mbps baud rate, 3.3-V TTL.
 - External: Up to 1 Mbps baud rate, RS232.
 - mini/nano OEM: Up to 115200 baud rate, 3.3-V TTL.
+![[Hardware Integration Guidelines.pdf]]
