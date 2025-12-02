@@ -258,3 +258,4 @@ Here are the main uses and benefits:
 
 First time Simple configuration mesh network 
 
+each radio have a 
