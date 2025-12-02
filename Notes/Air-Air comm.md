@@ -192,3 +192,15 @@ For mobile applications, where the orientation of the nodes constantly changes, 
 // **Antenna part is difficult but worth another read** 
 
 Lower frequency results in larger Fresnel zone and vice versa.
+The MCS rate determines the link speed at which data is sent over the wireless medium. For the same 1500 byte packet, a low MCS rate such as MCS0 will result in better sensitivity (and hence longer range), and better immunity to continuous noise. However, a low MCS rate also results in a longer frame duration in the air, which makes the packet more susceptible to being corrupted by bursts of interference.
+
+● MCS0-7 are spatial diversity rates with modulation rates between 1/2-coded BPSK and 5/6-coded 64-QAM. The same packet is transmitted redundantly over both antennas. The radios use a technique called cyclic-shift-diversity to prevent unintentional beamforming.  
+● MCS8-15 are spatial multiplexing rates with the same modulation rates as MCS0-7. In this case, different packets are transmitted over each antenna allowing for double the link speed.
+
+- Spatial diversity rates are more robust to changes in the RF path, while spatial multiplexing rates offer higher link-speed. The radio automatically selects the best MCS rate through an iterative trial and error process.
+
+> For mobile applications with real-time streaming requirements, we recommend enabling "Diversity Rates Only".
+
+● Intermittent high-level spikes of noise caused by a nearby transmitter.
+
+● Mesh Rider radios use techniques including OFDM and spatial diversity allow them to operate in harsh RF environments.
