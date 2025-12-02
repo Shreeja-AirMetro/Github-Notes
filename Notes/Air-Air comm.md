@@ -174,3 +174,7 @@ To read
 - External: Up to 1 Mbps baud rate, RS232.
 - mini/nano OEM: Up to 115200 baud rate, 3.3-V TTL.
 ![[Hardware Integration Guidelines.pdf]]![[mini-OEM and Helix Mesh Rider Radio – Eval Kit Connector Descriptions.pdf]]![[Optimizing the RF Link.pdf]]
+
+```
+RF Link Range=f(TX Power, RX Sensitivity and Channel Bandwidth, Operating Frequency and Antenna Gain, Path Loss, Noise and Interference)
+```
