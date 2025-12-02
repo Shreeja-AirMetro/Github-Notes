@@ -225,3 +225,36 @@ Start by selecting a profile under Profile Selection, such as General, UAV/UGV/R
     
 
 Once all necessary settings are applied, click Save Configuration to apply the changes.
+
+---
+
+### Evaluation kit 
+
+An _evaluation kit_ for Doodle Labs Mesh Rider Evaluation Kit (used together with a Doodle Labs Mesh Rider radio) serves several important purposes. In short: it gives you all the extra hardware and interfaces you need to **test, prototype, integrate and configure** the radio — before committing to a final design. [techlibrary.doodlelabs.com+2techlibrary.doodlelabs.com+2](https://techlibrary.doodlelabs.com/quick-start-guide-ch1?utm_source=chatgpt.com)
+
+Here are the main uses and benefits:
+
+### ✅ What the evaluation kit provides
+
+- It includes **antennas, cables, breakout boards and connectors** (power, USB, Ethernet, etc.) so you don’t have to design a custom PCB or wiring harness just to get started. [techlibrary.doodlelabs.com+1](https://techlibrary.doodlelabs.com/quick-start-guide-ch1?utm_source=chatgpt.com)
+- For embedded-form radios, the kit provides an **evaluation test board** (or breakout / evaluation board), which lets you mount and power the radio module, connect interface ports, and test functionality on a bench. [techlibrary.doodlelabs.com+2techlibrary.doodlelabs.com+2](https://techlibrary.doodlelabs.com/quick-start-guide-ch1?utm_source=chatgpt.com)
+- It often includes additional components like **heatsinks / thermal pads**, especially for smaller (“mini” / “nano”) modules, which helps with thermal management during testing. [techlibrary.doodlelabs.com+1](https://techlibrary.doodlelabs.com/quick-start-guide-ch1?utm_source=chatgpt.com)
+
+### 🎯 Why these are useful
+
+- **Faster prototyping & testing**: Instead of building custom hardware around the radio module, you can quickly put it on the evaluation board, hook up power, antenna, USB/ethernet and start testing networking, firmware, antenna performance, data throughput, latency, etc. — a big time-saver.
+- **Integration validation**: If your end product will integrate the radio (e.g. in a UAV, robot, embedded system), the evaluation kit lets you test how the radio will behave in your system before committing to full-scale build or PCB design.
+- **Configuration and software setup**: Because the evaluation kit gives you standard interfaces (USB, Ethernet, power, etc.), you can connect the radio to a host (PC / controller) and configure firmware, network settings, test mesh networking, encryption, data links, before deploying. [Doodle Labs+1](https://doodlelabs.com/mesh-rider-overview/?utm_source=chatgpt.com)
+- **Thermal and mechanical test**: Using the included heatsink / thermal pad, you can test the radio under load to see how it handles heat — important for reliability in real-world deployment. [techlibrary.doodlelabs.com+1](https://techlibrary.doodlelabs.com/quick-start-guide-ch1?utm_source=chatgpt.com)
+
+### 🛠 When you _should_ use an evaluation kit
+
+- When you just got a Mesh Rider radio module and want to **verify basic functionality, test links, antennas, or mesh networking**.
+- When you are **developing a custom system (robot, drone, embedded device)** and need to test how the radio behaves in that system before designing final electronics/PCBs.
+- When you need to **evaluate performance characteristics** (range, throughput, latency, interference robustness) before committing to purchase or full integration.
+- When you want to **experiment, prototype, or test new firmware / configuration** without risking a final, production-grade build.
+
+---
+
+First time Simple configuration mesh network 
+
