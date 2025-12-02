@@ -258,5 +258,6 @@ Here are the main uses and benefits:
 
 First time Simple configuration mesh network 
 
+**TRY PIXHAWK SETUP ON THURSDAY**
 
 https://techlibrary.doodlelabs.com/integration-flight-controller
