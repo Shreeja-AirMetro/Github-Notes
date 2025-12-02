@@ -157,8 +157,8 @@ To read
 - [x] https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces
 - [x] https://techlibrary.doodlelabs.com/hardware-integration-guidelines
 - [x] https://techlibrary.doodlelabs.com/mini-oem-and-helix-mesh-rider-radio-eval-kit-connector-descriptions
-- [ ] https://techlibrary.doodlelabs.com/optimizing-the-rf-link
-- [ ] https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video
+- [x] https://techlibrary.doodlelabs.com/optimizing-the-rf-link
+- [x] https://techlibrary.doodlelabs.com/self-service/gui-quick-walkthrough-guide-video
 
 
 ---
@@ -204,3 +204,10 @@ The MCS rate determines the link speed at which data is sent over the wireless m
 ● Intermittent high-level spikes of noise caused by a nearby transmitter.
 
 ● Mesh Rider radios use techniques including OFDM and spatial diversity allow them to operate in harsh RF environments.
+
+There is a checkbox in the Traffic Prioritization settings labelled `Optimize for Latency over Throughput`. Enabling it results in improved latency, but the maximum achievable throughput is reduced by approximately half for high MCS rates.
+
+Our overall recommendation is to design the RF link with about 10-15 dB fade margin to account for changes in the environmental and operational conditions. Changes in orientation of mobile nodes can affect the link margin. Use the highest gain antenna possible within the physical constraints of the system. The objective is to operate the link with the highest SNR (RSSI) possible (the sweet spot for Mesh Rider Radio is around -40 dBm to -70 dBm RSSI). A higher RSSI level will allow the link to operate at the highest modulation, and provide the best throughput, interference resistance and reliability.
+
+https://techlibrary.doodlelabs.com/can-i-do-x-distance
+![[Supported Networking Modes.pdf]]
