@@ -154,7 +154,7 @@ a. A power limit is applied based on the regulatory domain.
 
 To read 
 
-- [ ] https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces
+- [x] https://techlibrary.doodlelabs.com/mesh-rider-radio-hardware-interfaces
 - [ ] https://techlibrary.doodlelabs.com/hardware-integration-guidelines
 - [ ] https://techlibrary.doodlelabs.com/mini-oem-and-helix-mesh-rider-radio-eval-kit-connector-descriptions
 - [ ] https://techlibrary.doodlelabs.com/optimizing-the-rf-link
@@ -169,3 +169,7 @@ To read
 - ETH0 and ETH1 are standard Ethernet interfaces and are bridged to the Mesh Rider Interface. USB Device Port The USB Device port is an Ethernet over USB interface and can be connected to USB host ports like those found on PCs, or USB OTG ports like those on Smart Devices. It is bridged to the Mesh Rider interface.
 - Ethernet over a USB interface
 - The default SSID is DoodleLabsWiFi and the password is DoodleSmartRadio. By default the WiFi Radio is in AP mode, but it can be configured as a client to connect to a standard Wi-Fi access point.
+- UART interface. This interface can be bridged to the Mesh Rider network.
+- Embedded/Wearable/OEM: Up to 1 Mbps baud rate, 3.3-V TTL.
+- External: Up to 1 Mbps baud rate, RS232.
+- mini/nano OEM: Up to 115200 baud rate, 3.3-V TTL.
