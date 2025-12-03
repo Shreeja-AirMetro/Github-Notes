@@ -1096,14 +1096,8 @@ the noise floor and degrading the Signal-to-Interference- plus-Noise Ratio (SINR
 Our Contribution: Implementation Near-field simulator for FEM - EM scattering that can be moved to far-field parameters  by far-field transformers with - Antenna gain , reflector provides details that can help ray tracing to get RSSI and RSRP. These values help to build SINR - provide general idea about the signal quality. this will help to estimate Throughput , Latency margin based on Coding scheme and we ensure reliability (low latency) with limiting retransmissions and large
 packets. Therefore, we focus on the Physical and logical characteristics of the communication channel to ensure reliability.
 [SS: Questions to Roshan: Do we include results of RIS modeling ?] 
-This structure covers the topics of the special issue: URLLC for Safety-Critical Applications in LAWN, combining cross-layer design principles with advanced tech-
-nologies. Storyline and results [SS: I think the radio map
-is not done real-time. The radio map can/will be used for
-trajectory planning ?]
-The height-dependent RSSI/SINR distributions using FEM
-that capture urban material properties and meta-physics based
-approach (concrete, metal, glass) with higher fidelity than
-statistical models or circuit modeling like ray tracing. Thus,
+This structure covers the topics of the special issue: URLLC for Safety-Critical Applications in LAWN, combining cross-layer design principles with advanced technologies. Storyline and results [SS: I think the radio map is not done real-time. The radio map can/will be used for trajectory planning ?]
+The height-dependent RSSI/SINR distributions using FEM that capture urban material properties and meta-physics based approach (concrete, metal, glass) with higher fidelity than statistical models or circuit modeling like ray tracing. Thus,
 the path planned based on the communication 5G based
 availability can be more accurate radio environment map.
 The ”proactive link adaptation” can happen before entering
