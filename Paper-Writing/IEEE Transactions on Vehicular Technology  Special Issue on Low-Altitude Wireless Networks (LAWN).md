@@ -1079,3 +1079,70 @@ This title captures the **Scenario** (Emergency Landing), the **Method** (FEM-Ba
 1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf
 
 ### Simulation Setup and Goals / what I do
+
+General story of this paper
+Motivation: In AAM, the UAVs in BVLOS operation need to handle constant change in the environment (urban, rural). This have significant impact on the signal quality. Which impact the throughput and latency of the channel to the ground station. Here particularly for the command and control link which carry critical ”telemetry messages” from the drone or
+short control messages from the ground latency is hugely relevant. Thus, Ultra-Reliable Low-Latency Communication (URLLC) is the key. Example cases: Especially when an airspace is under planning to be closed due to helicopter landing, Emergency on the ground infrastructure like fire etc., and all the drones are expected to land in an unplanned location or divert, time is of the essence here. Such emergency landing and the ”impact of communication requirement” is often sidelined in envisioned autonomous operations. Some Specifications about URLLC: Unlike standard mobile broadband (eMBB), which prioritizes speed (throughput), URLLC prioritizes certainty. Deliver data with <1 ms latency and >99.999% reliability. The Challenge: Wireless channels are inherently unstable due to noise, interference, and reflection. URLLC must mathematically guarantee delivery despite these physical distortions.
+2 Signal Strength: Is not just about ”bars” on a phone; in URLLC, it is about maintaining a massive ”Fade Margin” so that even when the signal dips, it never drops below the decoding threshold. Signal strength in URLLC is analyzed via the Signal-to-Interference-plus-Noise Ratio (SINR). SINR is
+based on RSSI and RSRP
+Physical Distortion: Includes Multipath Fading (echoes confusing the receiver), Delay Spread and Doppler Shift (movement distorting frequency). Current State of Art for URLLC in LAWN:
+• Achieving URLLC (Ultra-Reliable Low-Latency Communication) in this domain is significantly harder than on the ground because terrestrial networks are optimized for users walking on streets, not flying above them.
+• Sky Paradox: In the LAWN domain, drones suffer from a unique problem: Too much connectivity, yet poor quality. This causes severe uplink interference. The drone’s radio shouts to one tower, but 20 other towers hear it as noise. Conversely, the drone hears 20 towers shouting, raising
+the noise floor and degrading the Signal-to-Interference- plus-Noise Ratio (SINR).
+• 3GPP High dependent signal quality - Aerial Slice , a service application of URLLC [SS: I am currently reading
+into it]
+• RIS
+• path predictive multi-link connectivity - In a pre- determined path when a ”shadow or black spot are” is expected to approach , switch from 5G to satcom link.
+Our Contribution: Implementation Near-field simulator for
+FEM - EM scattering that can be moved to far-field parameters
+- by far-field transformers with - Antenna gain , reflector
+provides details that can help ray tracing to get RSSI and
+RSRP.These values help to build SINR - provide general idea
+about the signal quality. this will help to estimate Throughput
+, Latency margin based on Coding scheme and we ensure
+reliability (low latency) with limiting retransmissions and large
+packets. Therefore, we focus on the Physical and logical char-
+acteristics of the communication channel to ensure reliability.
+[SS: Questions to Roshan: Do we include results of RIS
+modeling ?] This structure covers the topics of the special
+issue: URLLC for Safety-Critical Applications in LAWN,
+combining cross-layer design principles with advanced tech-
+nologies. Storyline and results [SS: I think the radio map
+is not done real-time. The radio map can/will be used for
+trajectory planning ?]
+The height-dependent RSSI/SINR distributions using FEM
+that capture urban material properties and meta-physics based
+approach (concrete, metal, glass) with higher fidelity than
+statistical models or circuit modeling like ray tracing. Thus,
+the path planned based on the communication 5G based
+availability can be more accurate radio environment map.
+The ”proactive link adaptation” can happen before entering
+weak/none zone.
+Scenario 1: FEM is computationally heavy. Therefore, the
+FEM based radio environment map is pre-computed (offline)
+and stored as a ”Digital Twin” map. The drone only does a
+simple lookup (O(1) complexity) in real-time. This proves it
+is feasible for low-latency operations.
+Scenario 2: Real-world operations (U-Space/UTM) will face
+”Dynamic Airspace Closures” (e.g., a helicopter needs to
+land, or a fire starts). This forces drones to divert instantly
+to low-altitude, unplanned ”contingency landing spots.” These
+unplanned spots are often in ”dead zones” (between buildings,
+near ground clutter) where standard ray-tracing models fail to
+predict deep fades accurately. A loss of C2 link here = a crash
+or a rogue drone.
+Novelty:
+• The FEM model becomes the Digital Twin of the Radio
+Environment.[SS: from perplexity AI-Does this make
+sense]. FEM can model complex ground reflections and
+building material properties (concrete, glass) more ac-
+curately (high-precision) than statistical models for low-
+altitude (<100m) urban canyons. Pictures the EM mate-
+rial interaction (scattering, diffraction effects better than
+statistical model.
+• Pipeline for Physics based signal quality to logical based
+packet metrics. Evaluate to meet the Benchmark (3GPP)
+LAWN URLLC [SS: Need to look into this based on
+results] - cross layer optimization with SINR,etc..
+• Validate the result against ray tracing , statistical model
+setup
