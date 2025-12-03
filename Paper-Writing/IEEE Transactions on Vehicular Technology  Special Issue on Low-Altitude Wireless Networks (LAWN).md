@@ -1017,9 +1017,7 @@ Here is how you can map this "Emergency Landing" narrative to your technical con
 ## **1. The Problem Statement (The "Hook")**
 
 - **Current Gap:** Most drone communication research assumes a pre-planned, optimal flight path at 100m altitude.
-    
 - **The Crisis:** Real-world operations (U-Space/UTM) will face "Dynamic Airspace Closures" (e.g., a helicopter needs to land, or a fire starts). This forces drones to divert _instantly_ to low-altitude, unplanned "contingency landing spots."
-    
 - **The Risk:** These unplanned spots are often in "dead zones" (between buildings, near ground clutter) where standard ray-tracing models fail to predict deep fades accurately. A loss of C2 (Command & Control) link here = a crash or a rogue drone.
     
 
