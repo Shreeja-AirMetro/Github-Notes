@@ -572,3 +572,99 @@ Engineers tune specific parameters to balance the Reliability-Latency trade-off.
 19. [https://www.gaussianwaves.com/2014/08/diversity-techniques-and-spatial-multiplexing/](https://www.gaussianwaves.com/2014/08/diversity-techniques-and-spatial-multiplexing/)
 20. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8038383/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8038383/)
 
+The "LAWN" domain in this context refers to the **Low-Altitude Wireless Network** (typically 0–400 ft or 0–120m AGL), where Beyond Visual Line of Sight (BVLOS) drones operate.
+
+Achieving URLLC (Ultra-Reliable Low-Latency Communication) in this domain is significantly harder than on the ground because terrestrial networks are optimized for users walking on streets, not flying above them.
+
+**Executive Summary: State of the Art (SoTA)**
+
+The current State of the Art for URLLC in BVLOS operations has moved beyond simple 4G/5G connectivity to **AI-native, Multi-Link, and Deterministic** architectures.
+
+- **Current Standard:** 3GPP Release 17/18 (5G-Advanced).
+- **Top Innovation:** **Integrated Sensing and Communication (ISAC)** and **Predictive QoS** using flight paths.
+- **Key Shift:** Moving from "Reactive" (fixing errors after they happen) to "Proactive" (predicting signal drops before the drone reaches the dead zone).
+
+---
+
+**1. The Core Challenge: The "Sky Paradox"**
+
+In the LAWN domain, drones suffer from a unique problem: **Too much connectivity, yet poor quality.**
+
+- **Ground User:** Sees 1–3 base stations.
+- **Drone (at 100m):** Has Line-of-Sight (LoS) to 20+ base stations.
+- **The SoTA Problem:** This causes **severe uplink interference**. The drone's radio shouts to one tower, but 20 other towers hear it as noise. Conversely, the drone hears 20 towers shouting, raising the noise floor and degrading the Signal-to-Interference-plus-Noise Ratio (SINR).
+    
+
+**2. State-of-the-Art Technologies (2024–2025 Status)**
+
+ **A. 3GPP Release 18 & 19: The "AI-Native" Air Interface**
+
+The latest 3GPP standards have introduced features specifically for UAVs to solve the interference issue:
+
+- **Height-Dependent Measurement Reports (Events H1/H2):** The drone now reports its altitude to the network. If it flies too high, the network automatically switches it to a dedicated "Aerial Slice" or changes the beam pattern to avoid jamming ground users.[3gpp](https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf)​
+- **Flight Path Reporting:** The drone uploads its waypoints to the 5G core. The network then "pre-allocates" resources at the future base stations along the route, reducing handover latency to near-zero.[3gpp](https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf)​
+
+ **B. Physical Layer Innovations**
+
+- **RIS (Reconfigurable Intelligent Surfaces) / "Smart Mirrors":**
+    
+    - **Concept:** Terrestrial towers effectively point _down_. To get signals _up_ to a drone without tilting antennas (which ruins ground coverage), operators are deploying RIS on rooftops.
+    - **SoTA Application:** These surfaces passively reflect and focus beams upwards toward the drone, creating a virtual Line-of-Sight where none existed, stabilizing the link against physical blockages.[pureadmin.qub+1](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/256105029/Aerial_Reconfigurable_Intelligent_Surface_Enabled_URLLC_UAV_Systems.pdf)​
+        
+- **ISAC (Integrated Sensing and Communication):**
+    
+    - **Concept:** Using the 5G radio wave for both data (C2 link) and radar (sensing).
+    - **SoTA Application:** The drone uses its comms link to "see" obstacles or non-cooperative aircraft (intruders). This increases reliability by merging safety (detect-and-avoid) with connectivity, ensuring the drone doesn't crash while maintaining the link.[papers.ssrn+1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4989029)​
+        
+
+ **C. Network Architecture: "Bonding" & Redundancy**
+
+For BVLOS, a single link is no longer considered "Ultra-Reliable." The industry standard has shifted to **Packet Duplication** (PDCP Duplication).
+
+- **Multi-Link Bonding:** Systems like _Elsight Halo_ or _Honeywell_ now split the C2 (Command & Control) data packet into pieces (or duplicate it entirely) and send it simultaneously over **4G, 5G, and Satellite (LEO)**.[commercialuavnews](https://www.commercialuavnews.com/solving-the-redundancy-puzzle-for-bvlos-uavs)​
+- ==**The Result:** If the 5G tower fades due to a physical dip, the packet arrives via 4G or Satellite. This creates a "virtual" reliability of 99.9999% even if individual links are only 90% reliable.==
+    
+
+**D. Predictive Quality of Service (pQoS)**
+
+Instead of reacting to a lost link, SoTA systems use **Machine Learning (ML)** to predict channel quality.
+
+- **Mechanism:** The drone knows its 3D trajectory. The ML model maps this trajectory against a "Radio Environment Map" (REM).
+- **Outcome:** The system predicts, _"In 20 seconds, you will enter a shadow zone behind that building."_ The drone proactively pauses high-bandwidth video streaming and prioritizes C2 data _before_ the drop occurs, ensuring the safety link never breaks.[aaltodoc.aalto+1](https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19)​
+    
+
+ **3. Summary of URLLC Evolution for Drones**
+
+|Feature|Legacy (Standard 4G/LTE)|**State of the Art (5G-Advanced / BVLOS)**|
+|---|---|---|
+|**Interference**|High (Omnidirectional antennas)|**3D Beamforming** (Narrow beams track the drone)|
+|**Handover**|Reactive (Break-before-make)|**Conditional Handover (CHO)** (Prepare target cell before leaving source)|
+|**Reliability**|Single Link|**PDCP Duplication** (Send data on 2 frequencies simultaneously)|
+|**Latency**|30–50 ms|**< 10 ms** (via Mini-slots and Edge Computing)|
+|**Coverage**|Best Effort|**Sidelobe Suppression & Aerial Slicing**|
+
+ **4. Conclusion**
+
+The state of the art for LAWN URLLC is **Deterministic Multi-Connectivity**. We no longer rely on "hoping" the signal is strong enough. We guarantee it by **mathematically modeling the flight path**, using **AI to predict fades**, and **bonding multiple networks** (Cellular + Satellite) to ensure that even if physics distorts one signal, the data still gets through.
+
+Check sources
+
+1. [https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf](https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf)
+2. [https://pureadmin.qub.ac.uk/ws/portalfiles/portal/256105029/Aerial_Reconfigurable_Intelligent_Surface_Enabled_URLLC_UAV_Systems.pdf](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/256105029/Aerial_Reconfigurable_Intelligent_Surface_Enabled_URLLC_UAV_Systems.pdf)
+3. [https://bcpublication.org/index.php/SJISR/article/view/8567](https://bcpublication.org/index.php/SJISR/article/view/8567)
+4. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4989029](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4989029)
+5. [https://hdiac.dtic.mil/articles/integrated-sensing-and-communications-for-small-uav-applications-in-cellular-networks/](https://hdiac.dtic.mil/articles/integrated-sensing-and-communications-for-small-uav-applications-in-cellular-networks/)
+6. [https://www.commercialuavnews.com/solving-the-redundancy-puzzle-for-bvlos-uavs](https://www.commercialuavnews.com/solving-the-redundancy-puzzle-for-bvlos-uavs)
+7. [https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19](https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19)
+8. [https://cris.vtt.fi/en/publications/predictive-qos-for-cellular-connected-uav-communications/](https://cris.vtt.fi/en/publications/predictive-qos-for-cellular-connected-uav-communications/)
+9. [https://arxiv.org/pdf/2205.06046.pdf](https://arxiv.org/pdf/2205.06046.pdf)
+10. [https://www.updwg.org/wp-content/uploads/2020/11/DECENTRALIZING-DRONE-REGULATIONS-IN-low-altitude-airspace.pdf](https://www.updwg.org/wp-content/uploads/2020/11/DECENTRALIZING-DRONE-REGULATIONS-IN-low-altitude-airspace.pdf)
+11. [https://www.3gpp.org/news-events/partner-news/3gpp-release-17-and-uav-applications](https://www.3gpp.org/news-events/partner-news/3gpp-release-17-and-uav-applications)
+12. [https://pureadmin.qub.ac.uk/ws/portalfiles/portal/260708450/UAV_Enabled_Ultra_Reliable_Low_Latency_Communications_for_6G_A_Comprehensive_Survey.pdf](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/260708450/UAV_Enabled_Ultra_Reliable_Low_Latency_Communications_for_6G_A_Comprehensive_Survey.pdf)
+13. [https://ncgs.state.nc.us/docs/2023-07-25_FEMA-NC_Govt_Sector_UAS_meeting_support_doc_AUVSI_Blueprint_for_Autonomy_Building_Blocks_for_Our_Collective_Future.pdf](https://ncgs.state.nc.us/docs/2023-07-25_FEMA-NC_Govt_Sector_UAS_meeting_support_doc_AUVSI_Blueprint_for_Autonomy_Building_Blocks_for_Our_Collective_Future.pdf)
+14. [https://blog.3g4g.co.uk/2022/12/3gpp-release-17-description-and-summary.html](https://blog.3g4g.co.uk/2022/12/3gpp-release-17-description-and-summary.html)
+15. [https://ntrs.nasa.gov/api/citations/20190025711/downloads/20190025711.pdf](https://ntrs.nasa.gov/api/citations/20190025711/downloads/20190025711.pdf)
+16. [https://flyingcar.sky.trade/p/drone-dominance-and-the-most-american](https://flyingcar.sky.trade/p/drone-dominance-and-the-most-american)
+17. [https://uavcoach.com/inside-bvlos/](https://uavcoach.com/inside-bvlos/)
+18. [https://arxiv.org/html/2510.08080v2](https://arxiv.org/html/2510.08080v2)
+19. [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced)
