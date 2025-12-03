@@ -669,6 +669,236 @@ Check sources
 18. [https://arxiv.org/html/2510.08080v2](https://arxiv.org/html/2510.08080v2)
 19. [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced)
 
+
+Based on my research, I can now provide you with a comprehensive analysis of your paper idea for the IEEE TVT Special Issue on LAWN.
+
+## Assessment of Your Paper Idea for IEEE TVT LAWN Special Issue
+
+## Is the Idea Relevant to the Journal?
+
+**Yes, highly relevant.** Your proposed research aligns directly with **at least three topics of interest** listed in the Call for Papers:[vtsociety](https://vtsociety.org/files/ieeevts/2025-06/CFP%20SI_LAWN2026.pdf)​
+
+1. **"URLLC for Safety-Critical Applications in LAWN"** — Your core objective of adapting transmissions based on latency and signal quality for BVLOS drones is precisely this.
+    
+2. **"Air-to-Ground and Air-to-Air Channel Modeling and Measurement for LAWN"** — The FEM-based propagation modeling by your colleague fits squarely here.
+    
+3. **"Cross-Layer Optimization for LAWN"** — Converting physical-layer RSSI/SINR into application-layer decisions (transmit rate, latency-aware scheduling) is textbook cross-layer design.
+    
+
+The CFP specifically calls for "highly reliable, low-latency communication" for "autonomous aerial logistics" and "public safety operations" in the 100–3000m altitude range. Your BVLOS drone scenario is a direct match.
+
+---
+
+## Gaps and Weaknesses in Your Current Idea Definition
+
+Your current description lacks several elements that reviewers and guest editors will look for. Below is a structured critique:
+
+## **Gap 1: Vagueness in the "Adaptive Transmission" Mechanism**
+
+Your statement "use the latency and signal quality and transmit data accordingly" is too generic. You must define **what you are adapting**:
+
+|What to Adapt?|Example Mechanism|Why It Matters for LAWN|
+|---|---|---|
+|**MCS (Modulation & Coding Scheme)**|Switch from 64QAM to QPSK when SINR drops|Standard link adaptation; needs novelty.|
+|**Packet Size / Blocklength**|Use shorter packets in low-SINR zones for URLLC|Relevant for finite blocklength theory[sciencedirect](https://www.sciencedirect.com/science/article/pii/S2352864822001675)​.|
+|**Transmission Scheduling**|Delay non-critical payload data; prioritize C2 (Command & Control)|Cross-layer; relates to Goal-Oriented Comms[arxiv+1](https://arxiv.org/abs/2408.04358)​.|
+|**Path/Link Selection**|Switch from 5G to Satellite when entering shadow zone|Multi-link; highly relevant for BVLOS.|
+|**Power Allocation**|Increase power in predicted weak zones|Energy-constrained; relevant for UAVs.|
+
+**Action Required:** Define the specific "knob" you are turning based on the FEM-derived SINR distribution.
+
+## **Gap 2: Missing "Prediction" Component**
+
+Your colleague provides a **static** EM propagation distribution at various heights. The state-of-the-art has moved to **predictive** and **proactive** systems. A static map is useful, but reviewers will ask: _"How does the drone use this information in real-time?"_[aaltodoc.aalto+2](https://aaltodoc.aalto.fi/bitstreams/c57ea466-b785-4781-aa7c-76ae55ecb47d/download)​
+
+The novelty gap here is between:
+
+- **Reactive:** Drone measures current RSSI → Adapts transmission → (Latency added).
+    
+- **Proactive (SoTA):** Drone knows its future trajectory → Queries the FEM-derived 3D Radio Environment Map (REM) → Pre-adapts _before_ entering the weak zone.[aaltodoc.aalto+1](https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19)​
+    
+
+**Action Required:** Frame your contribution as a **proactive, trajectory-aware link adaptation** system. The FEM model becomes the **Digital Twin of the Radio Environment**.
+
+## **Gap 3: Lack of Benchmarking and Novel Metric**
+
+Current literature uses standard metrics: SINR, BLER, Throughput, Latency. For a LAWN/URLLC paper, you need to show:
+
+- **Outage Probability at the 99.999% percentile** (not the average).[vbn.aau+1](https://vbn.aau.dk/ws/files/302583519/08361404.pdf)​
+    
+- **Age of Information (AoI)** for safety-critical C2 data.
+    
+- **Task Success Rate** if you adopt a Goal-Oriented Communication framework.[arxiv+1](https://arxiv.org/abs/2408.04358)​
+    
+
+**Action Required:** Define the URLLC constraint (e.g., 1ms latency, 10⁻⁵ BLER) and show how your system meets it under varying channel conditions.
+
+## **Gap 4: FEM vs. Ray Tracing — What is the Novelty?**
+
+The literature heavily uses **Ray Tracing (RT)** for UAV channel modeling. FEM is standard for indoor/material-specific propagation, but uncommon for large-scale outdoor Air-to-Ground (A2G) channels.[scirp+5](https://www.scirp.org/journal/paperinformation?paperid=128131)​
+
+**Potential Novelty Angles for FEM:**
+
+- **Near-Ground Effects:** FEM can model complex ground reflections and building material properties (concrete, glass) more accurately than statistical models for low-altitude (<100m) urban canyons.
+    
+- **Electromagnetic Material Interaction:** If your scenario involves flying near specific infrastructure (e.g., metal bridges, harbor cranes for your drone logistics corridor), FEM can capture scattering and diffraction effects that simplified RT misses.
+    
+- **Validation Against Measurements:** A strong paper would validate the FEM model against real drone flight measurements.
+    
+
+**Action Required:** Clearly articulate _why FEM is superior_ to (or necessary alongside) the standard 3GPP TR 36.777/TR 38.901 statistical models or RT for your specific LAWN scenario.
+
+---
+
+## How to Make This Novel and Publishable
+
+Based on the CFP and the state-of-the-art, here is a **reframed paper concept** that would be competitive:
+
+## **Proposed Title:**
+
+_"FEM-Derived 3D Radio Environment Maps for Proactive, URLLC-Compliant Link Adaptation in Low-Altitude Drone Operations"_
+
+## **Novel Contributions to Claim:**
+
+1. **A Novel FEM-based 3D Radio Environment Map (REM) for LAWN:**
+    
+    - Generate height-dependent RSSI/SINR distributions using FEM that capture urban material properties (concrete, metal, glass) with higher fidelity than statistical models for the 0–300m altitude layer.[ncrl.seu+1](https://ncrl.seu.edu.cn/_upload/article/files/45/01/d175be50402a9292cbee84b68fb8/9ab94c52-b41a-4fe3-9848-926b5298aff6.pdf)​
+        
+    - Validate against real-world flight measurements in a representative scenario (e.g., harbor-to-urban corridor).
+        
+2. **Proactive, Trajectory-Aware Link Adaptation Framework:**
+    
+    - The drone uploads its planned 4D trajectory (x, y, z, t) to an edge server.
+        
+    - The server queries the FEM-derived REM and predicts the SINR profile along the path.[cris.vtt+1](https://cris.vtt.fi/en/publications/predictive-qos-for-cellular-connected-uav-communications/)​
+        
+    - **Novelty:** A proactive decision algorithm that pre-selects MCS, blocklength, and transmission timing _N_ seconds ahead to meet a target URLLC constraint (e.g., 99.999% reliability at 10ms latency).[pmc.ncbi.nlm.nih+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC12158281/)​
+        
+3. **Cross-Layer Optimization (Tying to CFP Topic):**
+    
+    - Integrate the physical-layer FEM channel model with a MAC-layer scheduler.
+        
+    - Show how priority is given to C2 data under predicted signal degradation, while payload data (video) is gracefully degraded (rate adaptation).[arxiv+1](https://arxiv.org/html/2510.08080v1)​
+        
+4. **Performance Evaluation under URLLC Metrics:**
+    
+    - Benchmark against: (a) Reactive link adaptation (standard 5G NR outer-loop), (b) 3GPP TR 36.777 statistical model-based prediction.
+        
+    - Metrics: Latency Violation Probability, Outage Probability at 10⁻⁵, Age of Information for C2 packets.
+        
+
+---
+
+## Summary: Your Strengths and Weaknesses
+
+|Aspect|Current Status|Action Needed|
+|---|---|---|
+|**Topic Fit**|✅ Excellent fit for URLLC + Channel Modeling topics.|None.|
+|**FEM Modeling**|⚠️ Novelty unclear vs. Ray Tracing.|Justify FEM for material-specific urban LAWN.|
+|**RSSI → SINR Conversion**|✅ Standard, but needs interference model.|Define interference model (from other cells, UEs).|
+|**"Transmit data accordingly"**|❌ Too vague.|Specify: MCS? Blocklength? Scheduling? Power?|
+|**Latency/Reliability Constraint**|❌ Not defined.|Define URLLC target (e.g., 1ms, 10⁻⁵).|
+|**Proactive vs. Reactive**|❌ Not mentioned.|Frame as Predictive QoS using trajectory.|
+|**Validation**|❌ Not mentioned.|Plan for simulation (OMNeT++/INET?) or testbed.|
+
+Your core idea is sound and relevant. The transformation from a "good idea" to an "accepted IEEE TVT paper" requires sharpening the **novelty claim** (FEM + Proactive + Cross-Layer), defining the **URLLC constraint mathematically**, and **benchmarking rigorously**. I recommend aligning closely with the "URLLC for Safety-Critical Applications in LAWN" and "Cross-Layer Optimization for LAWN" topics in your abstract and introduction.
+
+1. [https://vtsociety.org/files/ieeevts/2025-06/CFP%20SI_LAWN2026.pdf](https://vtsociety.org/files/ieeevts/2025-06/CFP%20SI_LAWN2026.pdf)
+2. [https://www.sciencedirect.com/science/article/pii/S2352864822001675](https://www.sciencedirect.com/science/article/pii/S2352864822001675)
+3. [https://arxiv.org/abs/2408.04358](https://arxiv.org/abs/2408.04358)
+4. [https://www.ijetcsit.org/index.php/ijetcsit/article/download/434/386](https://www.ijetcsit.org/index.php/ijetcsit/article/download/434/386)
+5. [https://aaltodoc.aalto.fi/bitstreams/c57ea466-b785-4781-aa7c-76ae55ecb47d/download](https://aaltodoc.aalto.fi/bitstreams/c57ea466-b785-4781-aa7c-76ae55ecb47d/download)
+6. [https://cris.vtt.fi/en/publications/predictive-qos-for-cellular-connected-uav-communications/](https://cris.vtt.fi/en/publications/predictive-qos-for-cellular-connected-uav-communications/)
+7. [https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19](https://aaltodoc.aalto.fi/items/50369b47-b377-4cdc-bc78-863978b62b19)
+8. [https://vbn.aau.dk/ws/files/302583519/08361404.pdf](https://vbn.aau.dk/ws/files/302583519/08361404.pdf)
+9. [https://vbn.aau.dk/ws/files/310030894/08705373.pdf](https://vbn.aau.dk/ws/files/310030894/08705373.pdf)
+10. [https://www.scirp.org/journal/paperinformation?paperid=128131](https://www.scirp.org/journal/paperinformation?paperid=128131)
+11. [https://www.nature.com/articles/s41598-025-02803-4](https://www.nature.com/articles/s41598-025-02803-4)
+12. [https://vbn.aau.dk/files/318346362/shadow_fading_RT_UAVs.pdf](https://vbn.aau.dk/files/318346362/shadow_fading_RT_UAVs.pdf)
+13. [https://cris.vtt.fi/en/publications/generative-neural-network-channel-modeling-for-millimeter-wave-ua](https://cris.vtt.fi/en/publications/generative-neural-network-channel-modeling-for-millimeter-wave-ua)
+14. [https://ceur-ws.org/Vol-3793/paper_23.pdf](https://ceur-ws.org/Vol-3793/paper_23.pdf)
+15. [https://ncrl.seu.edu.cn/_upload/article/files/45/01/d175be50402a9292cbee84b68fb8/9ab94c52-b41a-4fe3-9848-926b5298aff6.pdf](https://ncrl.seu.edu.cn/_upload/article/files/45/01/d175be50402a9292cbee84b68fb8/9ab94c52-b41a-4fe3-9848-926b5298aff6.pdf)
+16. [https://pmc.ncbi.nlm.nih.gov/articles/PMC12158281/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12158281/)
+17. [https://arxiv.org/html/2510.08080v1](https://arxiv.org/html/2510.08080v1)
+18. [https://arxiv.org/pdf/1801.07359.pdf](https://arxiv.org/pdf/1801.07359.pdf)
+19. [https://www.eurecom.fr/publication/6901/download/comsys-publi-6901.pdf](https://www.eurecom.fr/publication/6901/download/comsys-publi-6901.pdf)
+20. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9331756/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9331756/)
+21. [https://applexiong.github.io/PDF/2023/IEEE_IoTJ_vol_11_no_6_pp_10054_10068_Mar_2024.pdf](https://applexiong.github.io/PDF/2023/IEEE_IoTJ_vol_11_no_6_pp_10054_10068_Mar_2024.pdf)
+22. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9781936/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9781936/)
+23. [https://arxiv.org/html/2510.08752v1](https://arxiv.org/html/2510.08752v1)
+24. [https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/LossandPropModels/ForUAVSystems/SurveyOfAirToGndChannelModelingForDrones.pdf](https://people.computing.clemson.edu/~jmarty/projects/lowLatencyNetworking/papers/LossandPropModels/ForUAVSystems/SurveyOfAirToGndChannelModelingForDrones.pdf)
+25. [https://arxiv.org/html/2505.06944v3](https://arxiv.org/html/2505.06944v3)
+26. [https://www.tlc.unipr.it/ferrari/Publications/Journals/Pa_et_al_ACC24.pdf](https://www.tlc.unipr.it/ferrari/Publications/Journals/Pa_et_al_ACC24.pdf)
+27. [https://www.eurecom.fr/en/publication/5452/download/comsys-publi-5452.pdf](https://www.eurecom.fr/en/publication/5452/download/comsys-publi-5452.pdf)
+28. [https://onlinelibrary.wiley.com/doi/10.1155/2024/9062023](https://onlinelibrary.wiley.com/doi/10.1155/2024/9062023)
+29. [https://www.diva-portal.org/smash/get/diva2:1845283/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:1845283/FULLTEXT01.pdf)
+30. [https://www.sciencedirect.com/science/article/abs/pii/S1434841119321685](https://www.sciencedirect.com/science/article/abs/pii/S1434841119321685)
+31. [https://ieeexplore.ieee.org/document/9149190/](https://ieeexplore.ieee.org/document/9149190/)
+32. [https://www.sciencedirect.com/science/article/am/pii/S1389128620311324](https://www.sciencedirect.com/science/article/am/pii/S1389128620311324)
+33. [https://d197for5662m48.cloudfront.net/documents/publicationstatus/128827/preprint_pdf/058e6f51d94d4f04697c413867dbc8b2.pdf](https://d197for5662m48.cloudfront.net/documents/publicationstatus/128827/preprint_pdf/058e6f51d94d4f04697c413867dbc8b2.pdf)
+34. [https://www.sciencedirect.com/science/article/pii/S1574119224001238](https://www.sciencedirect.com/science/article/pii/S1574119224001238)
+35. [https://par.nsf.gov/servlets/purl/10278341](https://par.nsf.gov/servlets/purl/10278341)
+36. [https://www.techrxiv.org/users/808339/articles/1208490/master/file/data/main/main.pdf?inline=true](https://www.techrxiv.org/users/808339/articles/1208490/master/file/data/main/main.pdf?inline=true)
+37. [https://eprints.whiterose.ac.uk/id/eprint/191390/1/An%20Improved%20Q-Learning%20Based%20Handover%20Scheme.pdf](https://eprints.whiterose.ac.uk/id/eprint/191390/1/An%20Improved%20Q-Learning%20Based%20Handover%20Scheme.pdf)
+38. [https://www.sciencedirect.com/science/article/abs/pii/S1874490724002313](https://www.sciencedirect.com/science/article/abs/pii/S1874490724002313)
+39. [https://www.eurecom.edu/publication/7003/download/comsys-publi-7003.pdf](https://www.eurecom.edu/publication/7003/download/comsys-publi-7003.pdf)
+40. [https://patents.google.com/patent/US20230007564A1/en](https://patents.google.com/patent/US20230007564A1/en)
+41. [https://arxiv.org/pdf/2502.03850.pdf](https://arxiv.org/pdf/2502.03850.pdf)
+42. [https://dl.acm.org/doi/10.1145/3360774.3368199](https://dl.acm.org/doi/10.1145/3360774.3368199)
+43. [https://arxiv.org/pdf/2206.11565.pdf](https://arxiv.org/pdf/2206.11565.pdf)
+44. [https://www.sciencedirect.com/science/article/abs/pii/S0140366422000561](https://www.sciencedirect.com/science/article/abs/pii/S0140366422000561)
+45. [https://www.grin.com/document/283052](https://www.grin.com/document/283052)
+46. [https://peerj.com/articles/cs-2557/](https://peerj.com/articles/cs-2557/)
+47. [https://arxiv.org/html/2508.20205v1](https://arxiv.org/html/2508.20205v1)
+48. [https://ieeexplore.ieee.org/document/1321503/](https://ieeexplore.ieee.org/document/1321503/)
+49. [https://ieeexplore.ieee.org/iel7/6287639/8274985/08361404.pdf](https://ieeexplore.ieee.org/iel7/6287639/8274985/08361404.pdf)
+50. [https://download.e-bookshelf.de/download/0002/3037/59/L-G-0002303759-0003166034.pdf](https://download.e-bookshelf.de/download/0002/3037/59/L-G-0002303759-0003166034.pdf)
+51. [https://www.techrxiv.org/users/874078/articles/1254303/master/file/data/URLLC_Survey/URLLC_Survey.pdf](https://www.techrxiv.org/users/874078/articles/1254303/master/file/data/URLLC_Survey/URLLC_Survey.pdf)
+52. [https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/propagation-channel-characterization-parameter-estimation-and-modeling-for-wireless-communications-978-1-118-18823-1](https://www.wiley-vch.de/de/fachgebiete/ingenieurwesen/propagation-channel-characterization-parameter-estimation-and-modeling-for-wireless-communications-978-1-118-18823-1)
+53. [https://mediatum.ub.tum.de/doc/1738030/1738030.pdf](https://mediatum.ub.tum.de/doc/1738030/1738030.pdf)
+54. [https://arxiv.org/pdf/2012.06707.pdf](https://arxiv.org/pdf/2012.06707.pdf)
+55. [http://scis.scichina.com/en/2021/120301.pdf](http://scis.scichina.com/en/2021/120301.pdf)
+56. [https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=51188](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=51188)
+57. [https://pureadmin.qub.ac.uk/ws/portalfiles/portal/260708450/UAV_Enabled_Ultra_Reliable_Low_Latency_Communications_for_6G_A_Comprehensive_Survey.pdf](https://pureadmin.qub.ac.uk/ws/portalfiles/portal/260708450/UAV_Enabled_Ultra_Reliable_Low_Latency_Communications_for_6G_A_Comprehensive_Survey.pdf)
+58. [http://www.diva-portal.org/smash/get/diva2:1412178/FULLTEXT01.pdf](http://www.diva-portal.org/smash/get/diva2:1412178/FULLTEXT01.pdf)
+59. [https://www.sciencedirect.com/science/article/pii/S2215098625002538](https://www.sciencedirect.com/science/article/pii/S2215098625002538)
+60. [https://www.ant.uni-bremen.de/en/finished_student_theses/2006/4138/](https://www.ant.uni-bremen.de/en/finished_student_theses/2006/4138/)
+61. [https://ncrl.seu.edu.cn/_upload/article/files/3a/d1/7bcbf1e347a880a8b59d7660cbdb/9499810b-82d7-420e-aeea-3e8d7dbcd7c0.pdf](https://ncrl.seu.edu.cn/_upload/article/files/3a/d1/7bcbf1e347a880a8b59d7660cbdb/9499810b-82d7-420e-aeea-3e8d7dbcd7c0.pdf)
+62. [https://arxiv.org/html/2502.10324v1](https://arxiv.org/html/2502.10324v1)
+63. [https://decentcybersecurity.eu/low-latency-communication-protocols-for-drone-iff-ensuring-swift-and-secure-identification/](https://decentcybersecurity.eu/low-latency-communication-protocols-for-drone-iff-ensuring-swift-and-secure-identification/)
+64. [https://amns.sciendo.com/es/article/10.2478/amns-2024-1919?tab=references](https://amns.sciendo.com/es/article/10.2478/amns-2024-1919?tab=references)
+65. [https://ieeexplore.ieee.org/iel8/9882533/10792972/10879292.pdf](https://ieeexplore.ieee.org/iel8/9882533/10792972/10879292.pdf)
+66. [https://mdpi-res.com/bookfiles/topic/10017/Unmanned_Ground_and_Aerial_Vehicles_UGVsUAVs_for_Digital_Farming.pdf?v=1754529015](https://mdpi-res.com/bookfiles/topic/10017/Unmanned_Ground_and_Aerial_Vehicles_UGVsUAVs_for_Digital_Farming.pdf?v=1754529015)
+67. [https://arxiv.org/abs/2502.03761](https://arxiv.org/abs/2502.03761)
+68. [https://www.nature.com/articles/s41598-024-68459-8](https://www.nature.com/articles/s41598-024-68459-8)
+69. [https://arxiv.org/pdf/2306.02917.pdf](https://arxiv.org/pdf/2306.02917.pdf)
+70. [https://arxiv.org/html/2505.06944v1](https://arxiv.org/html/2505.06944v1)
+71. [https://www.sciencedirect.com/science/article/pii/S1389128624001087](https://www.sciencedirect.com/science/article/pii/S1389128624001087)
+72. [https://www.sciencedirect.com/science/article/abs/pii/S1874490723000666](https://www.sciencedirect.com/science/article/abs/pii/S1874490723000666)
+73. [https://vtsociety.org/post/announcement/call-papers-special-issue-low-altitude-wireless-networks-lawn](https://vtsociety.org/post/announcement/call-papers-special-issue-low-altitude-wireless-networks-lawn)
+74. [https://ieeexplore.ieee.org/iel8/4234/10713398/10634104.pdf](https://ieeexplore.ieee.org/iel8/4234/10713398/10634104.pdf)
+75. [http://ieeexplore.ieee.org/iel8/6979/11220917/11220875.pdf](http://ieeexplore.ieee.org/iel8/6979/11220917/11220875.pdf)
+76. [https://dl.acm.org/doi/10.1145/3703790.3703808](https://dl.acm.org/doi/10.1145/3703790.3703808)
+77. [https://dl.acm.org/doi/abs/10.1109/TWC.2024.3424493](https://dl.acm.org/doi/abs/10.1109/TWC.2024.3424493)
+78. [https://wcnc2025.ieee-wcnc.org/program-0](https://wcnc2025.ieee-wcnc.org/program-0)
+79. [https://www.oaepublish.com/articles/ces.2025.55](https://www.oaepublish.com/articles/ces.2025.55)
+80. [https://ui.adsabs.harvard.edu/abs/2025ITVT...74.1610Q/abstract](https://ui.adsabs.harvard.edu/abs/2025ITVT...74.1610Q/abstract)
+81. [https://www.semanticscholar.org/paper/A-Secure-Communication-Protocol-for-Drones-and-Won-Seo/c764ae6ce21efc949033c0c29936aff41325c79b](https://www.semanticscholar.org/paper/A-Secure-Communication-Protocol-for-Drones-and-Won-Seo/c764ae6ce21efc949033c0c29936aff41325c79b)
+82. [https://arxiv.org/pdf/2301.12678.pdf](https://arxiv.org/pdf/2301.12678.pdf)
+83. [https://vtechworks.lib.vt.edu/bitstream/handle/10919/113548/Adaptive_Height_Optimization_for_Cellular-Connected_UAVs_A_Deep_Reinforcement_Learning_Approach.pdf](https://vtechworks.lib.vt.edu/bitstream/handle/10919/113548/Adaptive_Height_Optimization_for_Cellular-Connected_UAVs_A_Deep_Reinforcement_Learning_Approach.pdf)
+84. [https://arxiv.org/abs/1801.01656](https://arxiv.org/abs/1801.01656)
+85. [http://www.diva-portal.org/smash/get/diva2:1942282/FULLTEXT02.pdf](http://www.diva-portal.org/smash/get/diva2:1942282/FULLTEXT02.pdf)
+86. [https://www.sciencedirect.com/science/article/abs/pii/S1874490724002714](https://www.sciencedirect.com/science/article/abs/pii/S1874490724002714)
+87. [https://www.ijert.org/research/modeling-simulation-of-air-to-ground-propagation-channel-IJERTV4IS040488.pdf](https://www.ijert.org/research/modeling-simulation-of-air-to-ground-propagation-channel-IJERTV4IS040488.pdf)
+88. [https://www.sciencedirect.com/science/article/pii/S1389128624006212](https://www.sciencedirect.com/science/article/pii/S1389128624006212)
+89. [https://arxiv.org/pdf/2304.04163.pdf](https://arxiv.org/pdf/2304.04163.pdf)
+90. [https://oa.upm.es/43353/1/LEI_ZHANG.pdf](https://oa.upm.es/43353/1/LEI_ZHANG.pdf)
+91. [https://par.nsf.gov/servlets/purl/10451174](https://par.nsf.gov/servlets/purl/10451174)
+92. [https://vbn.aau.dk/ws/files/549464605/PHD_Rafhael_Medeiros_de_Amorim_E_pdf.pdf](https://vbn.aau.dk/ws/files/549464605/PHD_Rafhael_Medeiros_de_Amorim_E_pdf.pdf)
+93. [https://papers.ssrn.com/sol3/Delivery.cfm/310412d5-7986-48e6-8722-f5aadd781ff4-MECA.pdf?abstractid=5399273&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/310412d5-7986-48e6-8722-f5aadd781ff4-MECA.pdf?abstractid=5399273&mirid=1)
+94. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6929112/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6929112/)
+95. [https://dl.acm.org/doi/10.1145/3657287](https://dl.acm.org/doi/10.1145/3657287)
+96. [https://pdfs.semanticscholar.org/2d51/d1854041ceecdd89870e57f225e7cfe63c2a.pdf](https://pdfs.semanticscholar.org/2d51/d1854041ceecdd89870e57f225e7cfe63c2a.pdf)
 ### IMPORTANT 
 1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf
 2. 
