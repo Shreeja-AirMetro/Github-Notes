@@ -670,5 +670,5 @@ Check sources
 19. [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced)
 
 ### IMPORTANT 
-1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently
+1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf
 2. 
