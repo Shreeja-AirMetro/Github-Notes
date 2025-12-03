@@ -1,5 +1,6 @@
 
 
+
 Each month priority and todos : Deadlines and milestones and small section of thoughts and ideas to track back implementation
 
 Weekends: Work on this https://www.cisco.com/c/en/us/tech/index.html and https://www.sharetechnote.com/Home.html 
