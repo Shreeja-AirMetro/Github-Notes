@@ -1078,4 +1078,4 @@ This title captures the **Scenario** (Emergency Landing), the **Method** (FEM-Ba
 ### IMPORTANT 
 1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently https://www.3gpp.org/images/newsletters/3GPP_Highlights_Issue_6_opt.pdf
 
-### Simulat
+### Simulation Setup and Goals / what I do
