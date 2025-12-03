@@ -1089,24 +1089,14 @@ Physical Distortion: Includes Multipath Fading (echoes confusing the receiver), 
 • Achieving URLLC (Ultra-Reliable Low-Latency Communication) in this domain is significantly harder than on the ground because terrestrial networks are optimized for users walking on streets, not flying above them.
 • Sky Paradox: In the LAWN domain, drones suffer from a unique problem: Too much connectivity, yet poor quality. This causes severe uplink interference. The drone’s radio shouts to one tower, but 20 other towers hear it as noise. Conversely, the drone hears 20 towers shouting, raising
 the noise floor and degrading the Signal-to-Interference- plus-Noise Ratio (SINR).
-• 3GPP High dependent signal quality - Aerial Slice , a service application of URLLC [SS: I am currently reading
-into it]
+• 3GPP High dependent signal quality - Aerial Slice , a service application of URLLC [SS: I am currently reading into it]
 • RIS
 • path predictive multi-link connectivity - In a pre- determined path when a ”shadow or black spot are” is expected to approach , switch from 5G to satcom link.
-Our Contribution: Implementation Near-field simulator for
-FEM - EM scattering that can be moved to far-field parameters
-- by far-field transformers with - Antenna gain , reflector
-provides details that can help ray tracing to get RSSI and
-RSRP.These values help to build SINR - provide general idea
-about the signal quality. this will help to estimate Throughput
-, Latency margin based on Coding scheme and we ensure
-reliability (low latency) with limiting retransmissions and large
-packets. Therefore, we focus on the Physical and logical char-
-acteristics of the communication channel to ensure reliability.
-[SS: Questions to Roshan: Do we include results of RIS
-modeling ?] This structure covers the topics of the special
-issue: URLLC for Safety-Critical Applications in LAWN,
-combining cross-layer design principles with advanced tech-
+
+Our Contribution: Implementation Near-field simulator for FEM - EM scattering that can be moved to far-field parameters  by far-field transformers with - Antenna gain , reflector provides details that can help ray tracing to get RSSI and RSRP. These values help to build SINR - provide general idea about the signal quality. this will help to estimate Throughput , Latency margin based on Coding scheme and we ensure reliability (low latency) with limiting retransmissions and large
+packets. Therefore, we focus on the Physical and logical characteristics of the communication channel to ensure reliability.
+[SS: Questions to Roshan: Do we include results of RIS modeling ?] 
+This structure covers the topics of the special issue: URLLC for Safety-Critical Applications in LAWN, combining cross-layer design principles with advanced tech-
 nologies. Storyline and results [SS: I think the radio map
 is not done real-time. The radio map can/will be used for
 trajectory planning ?]
