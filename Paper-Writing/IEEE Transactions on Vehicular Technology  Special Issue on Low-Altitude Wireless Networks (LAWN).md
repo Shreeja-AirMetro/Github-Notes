@@ -668,3 +668,7 @@ Check sources
 17. [https://uavcoach.com/inside-bvlos/](https://uavcoach.com/inside-bvlos/)
 18. [https://arxiv.org/html/2510.08080v2](https://arxiv.org/html/2510.08080v2)
 19. [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced)
+
+### IMPORTANT 
+1. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently
+2. 
