@@ -1130,3 +1130,7 @@ LAWN URLLC [SS: Need to look into this based on
 results] - cross layer optimization with SINR,etc..
 • Validate the result against ray tracing , statistical model
 setup
+
+
+- Tabs and papers to read 
+- 
