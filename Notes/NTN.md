@@ -925,3 +925,8 @@ Current setup has 6 TN - core nw connected
 Indexing - MAC id is diff in Omnet++
 TN Sending CBR packet to Vehicle
 TN inter handover happens to TN gnode B
+disconnected from TN - Connect Mode and Master id becomes 0 when No BS is connected
+during disconnection CBR is paused
+ wait for Brdcast message from Sat 
+Server sends packet to UPF NTN 
+Issue: UPF to Gateway  - to Satellite - Because no resource CQI is 0 - Channel model 
