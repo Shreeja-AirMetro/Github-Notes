@@ -930,3 +930,7 @@ during disconnection CBR is paused
  wait for Brdcast message from Sat 
 Server sends packet to UPF NTN 
 Issue: UPF to Gateway  - to Satellite - Because no resource CQI is 0 - Channel model 
+run this "hard case " setup
+New Physical layer for switch TN to NTN - SIB message for cross handover 
+
+HW: Latex 
