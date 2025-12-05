@@ -917,3 +917,11 @@ Goal for DA - test at difference scenarios and results
 
 
 
+5/12
+One vehicle - Connect mode (0,1 - TN, 2-NTN)
+Vizualization of car movement via SUMO
+Current setup has 6 TN - core nw connected 
+13-6 BS  - means connected to 7th satellite 
+Indexing - MAC id is diff in Omnet++
+TN Sending CBR packet to Vehicle
+TN inter handover happens to TN gnode B
