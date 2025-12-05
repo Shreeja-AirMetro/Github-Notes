@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Notes/NTN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 2025"
+              "title": "NTN"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Notes/NTN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dec 2025"
+              "title": "Outline of NTN"
             }
           }
         ],
@@ -174,8 +174,8 @@
   },
   "active": "fd09d557f6219952",
   "lastOpenFiles": [
-    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "TODOS/Dec 2025.md",
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Progress- PhD/Monograph.md",
     "Notes/Air-Air comm.md",
     "TODOS/November 2025.md",
