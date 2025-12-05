@@ -934,3 +934,7 @@ run this "hard case " setup
 New Physical layer for switch TN to NTN - SIB message for cross handover 
 
 HW: Latex 
+
+---
+Omnet++ Setup
+
