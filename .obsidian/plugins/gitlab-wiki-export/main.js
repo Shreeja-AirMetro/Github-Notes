@@ -61,6 +61,24 @@ var removeFileExtensionForMdFilesInLinks = (fileText) => {
 
 // src/converter.ts
 var path = __toESM(require("path"));
+
+// src/utils.ts
+function trimFile(file) {
+  if (!file) return "";
+  return file.extension == "md" ? file.path.slice(0, -3) : file.path;
+}
+function isHomePageSelectedAndValid(plugin) {
+  if (plugin.settings.homeFilePath != "" && plugin.app.vault.getAbstractFileByPath(plugin.settings.homeFilePath + ".md") != null) {
+    return true;
+  } else {
+    return false;
+  }
+}
+function isUnixHiddenPath(path2) {
+  return /(^|\/)\.[^\/\.]/g.test(path2);
+}
+
+// src/converter.ts
 var convertAndExportVault = async (vault, fileManager, homeFilePath, exportPath) => {
   new import_obsidian.Notice("Starting Vault conversion and export ...", 4e3);
   const homeFile = vault.getAbstractFileByPath(homeFilePath + ".md");
@@ -111,7 +129,7 @@ var exportVaultToSpecifiedLocation = async (vault, rawExportPath) => {
       force: true,
       // overwrite read-only files if needed
       filter: (srcPath) => {
-        return path.basename(srcPath) !== ".obsidian";
+        return !isUnixHiddenPath(path.basename(srcPath));
       }
     });
     return;
@@ -121,21 +139,6 @@ var exportVaultToSpecifiedLocation = async (vault, rawExportPath) => {
 
 // src/fileSuggest.ts
 var import_obsidian2 = require("obsidian");
-
-// src/utils.ts
-function trimFile(file) {
-  if (!file) return "";
-  return file.extension == "md" ? file.path.slice(0, -3) : file.path;
-}
-function isHomePageSelectedAndValid(plugin) {
-  if (plugin.settings.homeFilePath != "" && plugin.app.vault.getAbstractFileByPath(plugin.settings.homeFilePath + ".md") != null) {
-    return true;
-  } else {
-    return false;
-  }
-}
-
-// src/fileSuggest.ts
 var FileSuggest = class extends import_obsidian2.AbstractInputSuggest {
   getSuggestions(inputStr) {
     const mdFiles = this.app.vault.getMarkdownFiles();
