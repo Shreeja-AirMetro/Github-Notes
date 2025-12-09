@@ -11,14 +11,14 @@
             "id": "fd09d557f6219952",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TODOS/Dec 2025.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Dec 2025"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -150,9 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Dec 2025"
             }
+          },
+          {
+            "id": "4313aba7b3d3b051",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,16 +176,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false,
+      "markwhen:Create new Markwhen file": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fd09d557f6219952",
   "lastOpenFiles": [
-    "Notes/NTN.md",
+    "Notes/Air-Air comm.md",
     "TODOS/Dec 2025.md",
+    "Notes/NTN.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Progress- PhD/Monograph.md",
-    "Notes/Air-Air comm.md",
     "TODOS/November 2025.md",
     "Supported Networking Modes.pdf",
     "Progress- PhD/Purpose.md",
