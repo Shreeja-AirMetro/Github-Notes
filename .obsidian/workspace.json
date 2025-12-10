@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OS- VM.md",
+                "file": "Notes/ATM Satcom terminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS- VM"
+              "title": "ATM Satcom terminal"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
+    "Notes/OS- VM.md",
+    "Notes/ATM Satcom terminal.md",
     "Notes/RDM workshop.md",
     "Progress- PhD/Application.md",
     "conflict-files-obsidian-git.md",
@@ -213,9 +216,6 @@
     "Notes/Network coding - UAV Comm.md",
     "Notes/Multi-link communication.md",
     "Notes/MEC - Edge Computing.md",
-    "Notes/Klagenfurt visit.md",
-    "Notes/ROS2 101 with Tushar.md",
-    "Progress- PhD/Progress and Tasks - topic.md",
     "Pasted image 20251120145437.png",
     "Pasted image 20251120144902.png",
     "Pasted image 20251120144703.png",
