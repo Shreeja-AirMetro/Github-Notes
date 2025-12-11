@@ -953,4 +953,12 @@ Open Tasks
 2. run the no X-Ho and collect data 
 3. Establish the KPIs  (start with Throughput, delay (One-way), Packet drop rate) and see if this is "good enough"
 4. Evaluate the 2 with 3 and create plots  (benchmark condition)
-5. Enable SIB19, SIB25 
+5. Enable SIB19, SIB25 as part of gnb - the trigger is to be setup on UE
+6. Enable reaction for SIB 19, 25 from UE (like shut down sniffing)
+7. Run test and collect data
+8. Plot compare
+9. Get key finding 
+
+Writing 
+1. Start overleaf - Share with JJ , SS 
+2. Create a chapter structure 
