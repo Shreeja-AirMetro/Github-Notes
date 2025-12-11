@@ -965,4 +965,5 @@ Writing
 2. Create a chapter structure 
 3. Writing 
 
+TASK FOR ME - Resolve VPN
 
