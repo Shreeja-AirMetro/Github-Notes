@@ -947,6 +947,7 @@ Chapter structure for the DA -
 Simu 5g cannot  handle relay/ forwarding between Wired - Wireless
 
 resources not grated as TX power is low 
+Ping pong effect - backed by NTN 
 
 Open Tasks 
 1. Parameter explain and restructure for the test setup 
@@ -963,4 +964,5 @@ Writing
 1. Start overleaf - Share with JJ , SS 
 2. Create a chapter structure 
 3. Writing 
-    
+
+
