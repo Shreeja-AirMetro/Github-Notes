@@ -940,3 +940,5 @@ Omnet++ Setup
 
 11/12
 update from Lyuqiao 
+UE have two physical layer - one is LTE and another is NR 
+function split is internal between NR - LTE in phy layer 
