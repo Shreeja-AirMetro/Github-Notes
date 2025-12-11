@@ -942,3 +942,8 @@ Omnet++ Setup
 update from Lyuqiao 
 UE have two physical layer - one is LTE and another is NR 
 function split is internal between NR - LTE in phy layer 
+
+Chapter structure for the DA - 
+Simu 5g cannot  handle relay/ forwarding between Wired - Wireless
+
+resources not grated as TX 
