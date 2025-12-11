@@ -946,4 +946,11 @@ function split is internal between NR - LTE in phy layer
 Chapter structure for the DA - 
 Simu 5g cannot  handle relay/ forwarding between Wired - Wireless
 
-resources not grated as TX 
+resources not grated as TX power is low 
+
+Open Tasks 
+1. Parameter explain and restructure for the test setup 
+2. run the no X-Ho and collect data 
+3. Establish the KPIs  (start with Throughput, delay (One-way), Packet drop rate) and see if this is "good enough"
+4. Evaluate the 2 with 3 and create plots  (benchmark condition)
+5. Enable SIB19, SIB25 
