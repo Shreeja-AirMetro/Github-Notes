@@ -202,7 +202,8 @@ Since you are a researcher, you might want to focus on the _algorithm_ rather 
     - _Policy:_ Do not send _everything_ on Satcom. Use NC "Predictive" logic. Only send "Repair Packets" on Satcom if the 5G link stats (RSSI/Ping) show instability.
     - _Heartbeat:_ Send only the crucial "Heartbeat" messages duplicated on Satcom, but full data on 5G.
 ---
-
+### Network coding for hetereogenous multi-link connectivity 
+- https://ieeexplore.ieee.org/abstract/document/9498620
 
 ### Osel work 
 
@@ -217,4 +218,4 @@ Caterpillar - Pace RLNC
 - graph model and network coding - The Kronecker graph model above describes the physical multibeam geometry according to the hexagonal tesselation given by the system model. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6655239
 - Link State awareness network coding 
 - adaptive network coding scheme 
-- 
+- network coding (NC) in the application layer for realizing more stability and reliability.
