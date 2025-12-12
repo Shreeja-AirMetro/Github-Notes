@@ -214,4 +214,7 @@ Caterpillar - Pace RLNC
 
 ### New to explore 
 
-- graph mod
+- graph model and network coding 
+- Link State awareness network coding 
+- adaptive network coding scheme 
+- 
