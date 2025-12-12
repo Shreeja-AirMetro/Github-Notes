@@ -1,3 +1,11 @@
+### Satcom 
+
+**Yes, but with a distinction.** In Satellite Communications, "Coding" usually refers to Physical Layer Forward Error Correction (FEC) like **LDPC** or **Turbo Codes** (used in DVB-S2/RCS2 standards), which is standard and mandatory.
+
+**Network Coding (NC)**—specifically the _compute-and-forward_ technique at the Network/Transport layer—is currently an **emerging technology** that is being standardized for specific high-value use cases (like deep space or hybrid bonding) rather than being a default setting in consumer broadband.
+- **IETF RFC 8975 (The "Satcom" Guide)**:
+    - Titled _"Network Coding for Satellite Systems,"_ this document lays out the architecture for using NC to fix the "TCP over Satellite" problem.
+    - It addresses the high packet loss in **Ka-band** (rain fade) and **moving platforms** (planes/ships/drones) where physical layer FEC isn't enough.
 
 ### What is Nw coding 
 - Network Coding (NC) represents a paradigm shift from traditional **store-and-forward** routing to **compute-and-forward** processing.
@@ -201,4 +209,9 @@ Since you are a researcher, you might want to focus on the _algorithm_ rather 
 Caterpillar - Pace RLNC
  - https://ieeexplore.ieee.org/document/8003268
  - https://ieeexplore.ieee.org/abstract/document/8052109 
- - 
+
+
+
+### New to explore 
+
+- graph mod
