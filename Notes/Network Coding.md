@@ -73,13 +73,11 @@ For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "blo
 ## **3. Step-by-Step Implementation Guide**
 
 You can build this using Python (for prototyping) or C++ (for production). The following steps assume a Linux environment (Ubuntu) on the OBC.
-
-## **Step A: MAVLink Interception**
+ **Step A: MAVLink Interception**
 
 Use `MAVProxy` or `pymavlink` to read the serial stream and forward it to your local NC script via UDP.
----
 
-## **2. The "Low Latency" NC Strategy: Systematic RLNC**
+ **2. The "Low Latency" NC Strategy: Systematic RLNC**
 
 For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "block" of packets before sending them. You must use **Systematic Random Linear Network Coding (S-RLNC)** with a **Sliding Window**.
 
@@ -90,6 +88,7 @@ For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "blo
     2. **Generate "Repair" Packets:** Simultaneously, mix $P_1$ with previous packets ($P_{1} + \alpha P_{0}$) and send this "coded packet" on the **secondary links** (Satcom/WiFi).
         
     3. **Receiver Logic:** If $P_1$ arrives fine on 5G, the receiver discards the repair packet. If $P_1$ is lost on 5G, the receiver uses the repair packet from Satcom/WiFi to mathematically recover $P_1$ immediately.
+ 
 
 ###  How to validate with simulation testbed 
 - **Steinwurf Kodo**: This is the industry-standard, high-performance C++ library for erasure coding (RLNC). It is highly optimized and used in both research and commercial products.[](https://kodo.steinwurf.com/)​
@@ -170,16 +169,33 @@ The Ground Station (VPS or Static IP) needs to receive packets from all 3 source
         *# Discard duplicate (redundant packet did its job by arriving, but wasn't needed)*
         *pass*
 
+## **Existing Tools (Don't Reinvent the Wheel)**
 
+Since you are a researcher, you might want to focus on the _algorithm_ rather than the plumbing.
+
+1. **UDPspeeder + TinyMapper:**
+    
+    - **UDPspeeder** is an open-source tool that implements Forward Error Correction (FEC) (a subset of NC) on UDP streams.
+    - You can run 3 instances of UDPspeeder (one for each link) and bond them.
+    - _Reference:_ [WangYu UDPspeeder GitHub](https://github.com/wangyu-/UDPspeeder)
+        
+2. **Glorytun:**
+    
+    - A Multipath UDP tunnel. It handles the "bonding" of 5G/Satcom/WiFi automatically. You can configure it to duplicate packets on critical links (Satcom) for reliability.
+3. **Steinwurf Kodo (C++):**
+    
+    - If you need to publish a paper, write a C++ application using the **Kodo** library. It has built-in "recoding" capabilities which allows you to put a "recoder" node on the drone that dynamically adjusts the redundancy based on channel quality (e.g., if 5G RSSI drops, increase coding rate).
+
+## **5. Performance Tuning for Drone Telemetry**
+
+- **Packet Size:** MAVLink packets are small (~20-200 bytes). NC works best on larger blocks. **Aggregation** is key: Bundle 5-10 MAVLink messages into one 1KB UDP packet before coding. This reduces overhead.
+- **Satcom Cost:** Satellite data is expensive.
+    
+    - _Policy:_ Do not send _everything_ on Satcom. Use NC "Predictive" logic. Only send "Repair Packets" on Satcom if the 5G link stats (RSSI/Ping) show instability.
+    - _Heartbeat:_ Send only the crucial "Heartbeat" messages duplicated on Satcom, but full data on 5G.
 ---
 
-## **3. Step-by-Step Implementation Guide**
 
-You can build this using Python (for prototyping) or C++ (for production). The following steps assume a Linux environment (Ubuntu) on the OBC.
-
-## **Step A: MAVLink Interception**
-
-Use `MAVProxy` or `pymavlink` to read the serial stream and forward it to your local NC script via UDP.
 ### Osel work 
 
 Caterpillar - Pace RLNC
