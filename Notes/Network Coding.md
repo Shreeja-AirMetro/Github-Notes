@@ -201,6 +201,7 @@ Since you are a researcher, you might want to focus on the _algorithm_ rather 
     
     - _Policy:_ Do not send _everything_ on Satcom. Use NC "Predictive" logic. Only send "Repair Packets" on Satcom if the 5G link stats (RSSI/Ping) show instability.
     - _Heartbeat:_ Send only the crucial "Heartbeat" messages duplicated on Satcom, but full data on 5G.
+- You are effectively implementing **Layer 3 Network Coding**. While your Iridium/Starlink modem handles the _Physical_ error correction (LDPC) internally, that only protects the link from "Atmosphere to Antenna." It does _not_ protect against network congestion or handover drops. By adding NC on your **Onboard Computer**, you are adding an end-to-end reliability layer that commercial Satcom modems do not provide by default.
 ---
 ### Network coding for hetereogenous multi-link connectivity 
 - https://ieeexplore.ieee.org/abstract/document/9498620
@@ -210,6 +211,8 @@ Since you are a researcher, you might want to focus on the _algorithm_ rather 
 Caterpillar - Pace RLNC
  - https://ieeexplore.ieee.org/document/8003268
  - https://ieeexplore.ieee.org/abstract/document/8052109 
+Summary of Osel's work 
+
 
 
 
@@ -219,3 +222,4 @@ Caterpillar - Pace RLNC
 - Link State awareness network coding 
 - adaptive network coding scheme 
 - network coding (NC) in the application layer for realizing more stability and reliability.
+Network coding in Network (L3) and Application layer (L7)
