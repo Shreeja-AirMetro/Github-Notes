@@ -99,7 +99,87 @@ For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "blo
 - **OMNeT++**: Since you already use this, you can use the **Castalia** or **INET** frameworks. You can wrap C++ NC libraries (like Kodo or custom implementations) into OMNeT++ modules. This is excellent for visualizing packet flows in drone swarms.[](https://docs.omnetpp.org/articles/porting-code-into-omnetpp/)​
 
 - **MATLAB**: Best for **Link-Level Simulations** (Physical layer). Use the "5G Toolbox" to analyze how NC coding gain interacts with modulation schemes (QAM) and channel coding (LDPC/Polar codes)
+**2. The "Low Latency" NC Strategy: Systematic RLNC**
 
+For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "block" of packets before sending them. You must use **Systematic Random Linear Network Coding (S-RLNC)** with a **Sliding Window**.
+
+- **Concept:**
+    
+    1. **Send the "Native" Packet Immediately:** As soon as MAVLink Packet $P_1$ arrives, send it instantly on the fastest link (5G). **Zero latency penalty.**
+    2. **Generate "Repair" Packets:** Simultaneously, mix $P_1$ with previous packets ($P_{1} + \alpha P_{0}$) and send this "coded packet" on the **secondary links** (Satcom/WiFi).
+    3. **Receiver Logic:** If $P_1$ arrives fine on 5G, the receiver discards the repair packet. If $P_1$ is lost on 5G, the receiver uses the repair packet from Satcom/WiFi to mathematically recover $P_1$ immediately.
+*On Onboard Computer: Forward Serial MAVLink to local NC Encoder port 5000*
+*mavproxy.py --master=/dev/ttyACM0 --baudrate 57600 --out=udp:127.0.0.1:5000*
+
+## **Step B: The NC Encoder (Python Concept)**
+
+You will write a script `nc_sender.py` that listens on port 5000 and stripes data across your 3 interfaces.
+
+- **Library:** Use `kodo` (if you have an academic license) or a simple FEC library like `zfec` or `UDPspeeder` (open source).
+- **Socket Binding:** Crucially, you must bind specific sockets to specific network interfaces.
+
+import socket
+import struct
+
+*Configuration*
+*LINKS = [*
+    *('192.168.1.10', 8000, 'wlan0'),  # WiFi (Local IP, Remote Port, Interface)*
+    *('10.20.30.40', 8000, 'wwan0'),   # 5G*
+    *('100.64.0.1', 8000, 'eth1')      # Satcom*
+*]*
+*REMOTE_IP = "1.2.3.4" # Ground Station Public IP*
+
+# *Create sockets bound to specific interfaces*
+*sockets = []*
+*for local_ip, port, iface in LINKS:*
+    *s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)*
+    *s.setsockopt(socket.SOL_SOCKET, 25, iface.encode()) # SO_BINDTODEVICE*
+    *sockets.append(s)*
+
+*def send_telemetry(data):*
+    *# 1. STRATEGY: Send ORIGINAL on 5G (Fastest)*
+    *sockets[1].sendto(data, (REMOTE_IP, 8000))*
+    
+    *# 2. STRATEGY: Send CODED/DUPLICATE on Satcom/WiFi (Reliability)*
+    *# Simple "Repetition Coding" (Diversity) for lowest latency:*
+    *sockets[2].sendto(data, (REMOTE_IP, 8000)) # Satcom backup*
+    
+    *# For True NC:*
+    *# coded_packet = simple_rlnc_encode(data, previous_packet)*
+    *# sockets[0].sendto(coded_packet, (REMOTE_IP, 8000))*
+
+## **Step C: The Ground Station (Decoder)**
+
+The Ground Station (VPS or Static IP) needs to receive packets from all 3 sources, de-duplicate/decode them, and forward a clean stream to QGroundControl.
+
+1. **De-Duplication:** Since you might receive the same packet from 5G and Satcom, you need a sequence number filter.
+    
+2. **Forwarding:**
+*# Pseudo-code for nc_receiver.py*
+*seen_packets = set()*
+
+*while True:*
+    *data, addr = sock.recvfrom(1024)*
+    *seq_num = extract_seq(data)*
+    
+    *if seq_num not in seen_packets:*
+        *seen_packets.add(seq_num)*
+        *# Forward to QGC (localhost)*
+        *qgc_socket.sendto(data_payload, ("127.0.0.1", 14550))*
+    *else:*
+        *# Discard duplicate (redundant packet did its job by arriving, but wasn't needed)*
+        *pass*
+
+
+---
+
+## **3. Step-by-Step Implementation Guide**
+
+You can build this using Python (for prototyping) or C++ (for production). The following steps assume a Linux environment (Ubuntu) on the OBC.
+
+## **Step A: MAVLink Interception**
+
+Use `MAVProxy` or `pymavlink` to read the serial stream and forward it to your local NC script via UDP.
 ### Osel work 
 
 Caterpillar - Pace RLNC
