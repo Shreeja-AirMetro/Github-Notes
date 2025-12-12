@@ -38,6 +38,59 @@ Ref: https://wlv.openrepository.com/server/api/core/bitstreams/24158f8e-dd75-4ca
 
 ###  How to implement Hw level 
 
+## **Hardware Implementation of Network Coding for Drone Telemetry**
+
+To implement Network Coding (NC) for a drone with 3 distinct links (Satcom, 5G, WiFi), you need to build a **"Coded Multi-Path Tunnel"**. Unlike standard bonding (which just round-robins packets), this tunnel will proactively generate redundancy so that if the 5G link drops a packet, the Satcom link can fill the gap without asking for a retransmission (which would take too long).
+
+## **1. Hardware Architecture**
+
+The physical setup requires an **Onboard Computer (OBC)** to act as the "Network Coding Router" between the Flight Controller and the modems.
+
+- **Flight Controller (FC):** (e.g., Pixhawk/Cube) - Outputting MAVLink via UART (TELEM1).
+- **Onboard Computer (OBC):** (e.g., Raspberry Pi 4/5, Jetson Orin) - Runs the NC logic.
+    
+- **Modems:**
+    - **5G Modem:** USB/M.2 module (e.g., Quectel RM500Q) $\rightarrow$ Interface `wwan0`
+    - **Satcom:** (e.g., Iridium/Starlink Mini) $\rightarrow$ Ethernet/USB `eth1`
+    - **WiFi:** Internal/External High-Power Card $\rightarrow$ Interface `wlan0`
+
+**Data Flow:**  
+`FC` $\xrightarrow{\text{UART}}$ `OBC (NC Encoder)` $\xrightarrow{\text{Split}}$ `Modems` $\dots \dots$ `Ground Server (NC Decoder)` $\xrightarrow{\text{UDP}}$ `QGroundControl`
+
+## **2. The "Low Latency" NC Strategy: Systematic RLNC**
+
+For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "block" of packets before sending them. You must use **Systematic Random Linear Network Coding (S-RLNC)** with a **Sliding Window**.
+
+- **Concept:**
+    
+    1. **Send the "Native" Packet Immediately:** As soon as MAVLink Packet $P_1$ arrives, send it instantly on the fastest link (5G). **Zero latency penalty.**
+    2. **Generate "Repair" Packets:** Simultaneously, mix $P_1$ with previous packets ($P_{1} + \alpha P_{0}$) and send this "coded packet" on the **secondary links** (Satcom/WiFi).
+    3. **Receiver Logic:** If $P_1$ arrives fine on 5G, the receiver discards the repair packet. If $P_1$ is lost on 5G, the receiver uses the repair packet from Satcom/WiFi to mathematically recover $P_1$ immediately.
+        
+
+---
+
+## **3. Step-by-Step Implementation Guide**
+
+You can build this using Python (for prototyping) or C++ (for production). The following steps assume a Linux environment (Ubuntu) on the OBC.
+
+## **Step A: MAVLink Interception**
+
+Use `MAVProxy` or `pymavlink` to read the serial stream and forward it to your local NC script via UDP.
+---
+
+## **2. The "Low Latency" NC Strategy: Systematic RLNC**
+
+For telemetry (MAVLink), you cannot afford the latency of waiting to fill a "block" of packets before sending them. You must use **Systematic Random Linear Network Coding (S-RLNC)** with a **Sliding Window**.
+
+- **Concept:**
+    
+    1. **Send the "Native" Packet Immediately:** As soon as MAVLink Packet $P_1$ arrives, send it instantly on the fastest link (5G). **Zero latency penalty.**
+        
+    2. **Generate "Repair" Packets:** Simultaneously, mix $P_1$ with previous packets ($P_{1} + \alpha P_{0}$) and send this "coded packet" on the **secondary links** (Satcom/WiFi).
+        
+    3. **Receiver Logic:** If $P_1$ arrives fine on 5G, the receiver discards the repair packet. If $P_1$ is lost on 5G, the receiver uses the repair packet from Satcom/WiFi to mathematically recover $P_1$ immediately.
+
 ###  How to validate with simulation testbed 
 - **Steinwurf Kodo**: This is the industry-standard, high-performance C++ library for erasure coding (RLNC). It is highly optimized and used in both research and commercial products.[](https://kodo.steinwurf.com/)​
     - **Relevance**: It has direct bindings/examples for **NS-3** (`kodo-ns3-examples`).[](https://github.com/steinwurf/kodo-ns3-examples)​
@@ -48,3 +101,8 @@ Ref: https://wlv.openrepository.com/server/api/core/bitstreams/24158f8e-dd75-4ca
 - **MATLAB**: Best for **Link-Level Simulations** (Physical layer). Use the "5G Toolbox" to analyze how NC coding gain interacts with modulation schemes (QAM) and channel coding (LDPC/Polar codes)
 
 ### Osel work 
+
+Caterpillar - Pace RLNC
+ - https://ieeexplore.ieee.org/document/8003268
+ - https://ieeexplore.ieee.org/abstract/document/8052109 
+ - 
