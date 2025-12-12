@@ -1,14 +1,16 @@
 
-What is Nw coding 
+### What is Nw coding 
 
-Why it is a good method to investigate for multi-link in drones
-
-
-What are my priorities /parameter that's important 
+### Why it is a good method to investigate for multi-link in drones
 
 
-What are the types of Nw coding algo - SoA
+### What are my priorities /parameter that's important 
 
-How to implement Hw level 
 
-How to vali
+### What are the types of Nw coding algo - SoA
+
+###  How to implement Hw level 
+
+###  How to validate with simulation testbed 
+
+
