@@ -214,7 +214,7 @@ Caterpillar - Pace RLNC
 
 ### New to explore 
 
-- graph model and network coding 
+- graph model and network coding - The Kronecker graph model above describes the physical multibeam geometry according to the hexagonal tesselation given by the system model. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6655239
 - Link State awareness network coding 
 - adaptive network coding scheme 
 - 

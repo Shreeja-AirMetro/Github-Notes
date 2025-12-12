@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "Notes/Network Coding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dec 2025"
+              "title": "Network Coding"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "TODOS/Dec 2025.md",
     "Notes/Network Coding.md",
     "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
@@ -201,7 +202,6 @@
     "Notes/RDM workshop.md",
     "Progress- PhD/Application.md",
     "conflict-files-obsidian-git.md",
-    "TODOS/Dec 2025.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Progress- PhD/Monograph.md",
     "TODOS/November 2025.md",
