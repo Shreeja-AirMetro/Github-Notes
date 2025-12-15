@@ -380,3 +380,4 @@ The choices you make will depend on what you're trying to achieve and your pov
 POint - evidance, explanation and more connecting points - But not enough
 
 BUT LINK BETWEEN IDEAS is important 
+Only useful points when necessary 
