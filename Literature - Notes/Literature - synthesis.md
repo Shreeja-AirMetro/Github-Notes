@@ -18,8 +18,13 @@
 ---
 
 What is Literature synthesis 
+**Synthesis than summarize** 
+Synthesis helps to create new pov
 
 - Chronological then 
 	- By theme 
 	- By research question 
 - External 
+Write /start with problem / statement - topic stentence that connects that part of literature together
+Gap based para structure - Start with what is necessary, b
+	
