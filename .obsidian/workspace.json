@@ -11,12 +11,14 @@
             "id": "2587a5c2840f256a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ATMD-TUD-PR-25-005_Certus_Airtime.pdf"
+                "file": "Notes/Air-Air comm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ATMD-TUD-PR-25-005_Certus_Airtime"
+              "icon": "lucide-file",
+              "title": "Air-Air comm"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Notes/ATM Satcom terminal.md",
     "Notes/Clementine Flight tests.md",
     "Notes/Network Coding.md",
@@ -196,7 +199,6 @@
     "Notes/GA -GSC Modules.md",
     "Notes/Multi-link communication.md",
     "Notes/NTN.md",
-    "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Notes/OS- VM.md",
     "Notes/RDM workshop.md",
     "Progress- PhD/Application.md",
@@ -213,7 +215,6 @@
     "Progress- PhD/Idea - Research Gap.md",
     "Progress- PhD/Further.md",
     "Progress- PhD/First TAC meeting.md",
-    "Progress- PhD/Lessons.md",
     "Progress- PhD/PhD Project management.mw",
     "Pasted image 20251120145437.png",
     "Pasted image 20251120144902.png",
