@@ -26,5 +26,14 @@ Synthesis helps to create new pov
 	- By research question 
 - External 
 Write /start with problem / statement - topic stentence that connects that part of literature together
-Gap based para structure - Start with what is necessary, b
+Gap based para structure - Start with what is necessary, but what is the reality and what are the causes of the gaps
+
+	Start with Key points to make and then cluster the papers accordingly
 	
+Types of literature 
+1. Integrative - Answers specific RQ - what works with more theoretical what and why 
+2. Meta analysis
+3. Systematic
+4. Scoping 
+5. Rapid and 
+6. Traditional 
