@@ -11,14 +11,12 @@
             "id": "2587a5c2840f256a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/ATM Satcom terminal.md",
-                "mode": "source",
-                "source": false
+                "file": "ATMD-TUD-PR-25-005_Certus_Airtime.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ATM Satcom terminal"
+              "icon": "lucide-file-text",
+              "title": "ATMD-TUD-PR-25-005_Certus_Airtime"
             }
           }
         ]
@@ -185,6 +183,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/ATM Satcom terminal.md",
     "Notes/Clementine Flight tests.md",
     "Notes/Network Coding.md",
     "Notes/Network coding - UAV Comm.md",
@@ -193,7 +192,6 @@
     "Notes/UAM-AAM.md",
     "Notes/ROS2 101 with Tushar.md",
     "Notes/Air-Air comm.md",
-    "Notes/ATM Satcom terminal.md",
     "Notes/Drones.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Multi-link communication.md",
