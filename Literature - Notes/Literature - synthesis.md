@@ -47,3 +47,311 @@ FOCUS on Critical Analysis
 Section body para properly (one of below)
 
 Chronological | Geographical (Topics and location) | Thematic mean based on topic / theme 
+
+----
+
+Below is a **PhD-oriented guide** tailored to your topic  
+**“5G–Satellite multi-link communication for drones (UAVs) in BVLOS for reliable and resilient C2 (Command & Control)”**.
+
+---
+
+## 1. Main Types of Literature Reviews (PhD level)
+
+At PhD level, you are **not expected to use only one type**. Most strong theses **combine 2–4 types**, each serving a different purpose.
+
+### 1.1 Narrative (Traditional) Review
+
+**What it is**
+
+- Qualitative, descriptive synthesis of prior work
+- Explains concepts, evolution, architectures, and challenges
+
+**Use in your PhD**
+
+- Background chapters
+- Explaining:
+    
+    - UAV BVLOS communication evolution
+    - 5G NR-UAV support (3GPP Rel-15 → Rel-18)
+    - Satcom integration trends
+
+**Limitations**
+
+- Risk of bias if not structured
+- Not enough alone for PhD rigor
+
+---
+
+### 1.2 Systematic Literature Review (SLR)
+
+**What it is**
+
+- Formal, reproducible, protocol-driven review
+- Explicit search strings, inclusion/exclusion criteria
+
+**Use in your PhD**
+
+- When you want to **prove research gaps**
+- Ideal for:
+    
+    - “What reliability techniques exist for UAV C2 links?”
+    - “What multi-link strategies have been proposed for UAVs?”
+
+**Strengths**
+
+- High credibility
+- Defensible methodology
+
+**Limitations**
+
+- Time-consuming
+- Less flexible for fast-moving tech like 5G
+
+---
+
+### 1.3 Systematic Mapping Study (SMS)
+
+**What it is**
+
+- Classifies literature rather than deeply analyzing it
+- Focus on _what exists_ and _where gaps are_
+
+**Use in your PhD**
+
+- Early-stage exploration
+- Excellent for **interdisciplinary topics** like:
+    - 5G + NTN + UAVs + C2
+
+**Example outputs**
+
+- Taxonomy tables
+- Heat maps (e.g., reliability vs. latency vs. link type)
+
+**Why it fits your topic**  
+✔ Helps show **under-explored combinations** (e.g., Satcom + 5G dual-connectivity for BVLOS)
+
+---
+
+### 1.4 Scoping Review
+
+**What it is**
+
+- Broad review to clarify concepts and boundaries
+- Less strict than SLR
+    
+
+**Use in your PhD**
+
+- When terminology is inconsistent:
+    
+    - “resilience vs reliability”
+    - “multi-link vs multi-connectivity vs diversity”
+
+**Very relevant for**
+
+- UAV C2 performance definitions
+- Regulatory vs technical perspectives (3GPP, ICAO, FAA)
+    
+
+---
+
+### 1.5 Critical Review
+
+**What it is**
+
+- Evaluates strengths, weaknesses, assumptions
+- Challenges existing models
+    
+
+**Use in your PhD**
+
+- To justify why **current solutions are insufficient**
+- To argue:
+    
+    - Why terrestrial-only 5G is insufficient for BVLOS
+    - Why Satcom alone fails latency requirements
+    - Why existing multi-link schemes are not C2-aware
+        
+
+**This is where PhD originality begins**
+
+---
+
+### 1.6 Conceptual / Framework-Based Review
+
+**What it is**
+
+- Synthesizes literature into a **new framework or architecture**
+    
+
+**Use in your PhD**
+
+- To propose:
+    
+    - A **resilient UAV C2 communication architecture**
+    - A **multi-link decision/control framework**
+        
+
+**Highly recommended**  
+✔ Strong PhD contribution even before simulations
+
+---
+
+## 2. Which Review Types You Should Combine (Recommended)
+
+For your topic, the **best PhD combination** is:
+
+### ✅ Core Combination (Strong & Defensible)
+
+1. **Systematic Mapping Study (SMS)**  
+    → to classify existing work across:
+    
+    - Link types (5G, LTE, LEO, GEO, HAPS)
+    - Performance metrics (latency, availability, packet loss)
+    - Use cases (C2, payload data)
+        
+2. **Critical Narrative Review**  
+    → to deeply analyze why existing approaches fail BVLOS C2 requirements
+    
+3. **Conceptual Framework Review**  
+    → to synthesize findings into a **new resilient multi-link C2 framework**
+    
+
+---
+
+### Optional (If your supervisor allows)
+
+- **Mini Systematic Review** on:
+    
+    - Multi-connectivity / link diversity mechanisms
+    - Failover and resilience techniques
+        
+
+---
+
+## 3. How to Choose the Right Review Strategy (Decision Logic)
+
+Ask yourself these questions:
+
+### Q1: Is the field fragmented?
+
+✔ Yes → **Scoping + Mapping Review**
+
+### Q2: Do I need to justify a research gap formally?
+
+✔ Yes → **Systematic Mapping or SLR**
+
+### Q3: Am I proposing a new architecture or algorithm?
+
+✔ Yes → **Critical + Conceptual Review**
+
+### Q4: Is the technology evolving fast (5G, NTN)?
+
+✔ Yes → Avoid pure SLR; combine with **narrative & critical**
+
+---
+
+## 4. Suggested Literature Review Structure (PhD-Ready)
+
+### Chapter 2: Background & Standards (Narrative)
+
+- UAV BVLOS communication requirements (ICAO, 3GPP)
+- C2 latency, reliability, availability targets
+- 5G NR-UAV & NTN overview
+    
+
+---
+
+### Chapter 3: Systematic Mapping of UAV Multi-Link Communication
+
+- Search strategy (IEEE, Scopus, 3GPP)
+    
+- Classification:
+    
+    - Link types
+    - Network architectures
+    - Performance metrics
+- Identified gaps
+    
+
+---
+
+### Chapter 4: Critical Review of Reliability & Resilience
+
+- Failure modes in BVLOS C2
+- Why single-link and naive multi-link fail
+- Limitations of existing handover and diversity schemes
+    
+
+---
+
+### Chapter 5: Synthesis & Research Gap Definition
+
+- Missing:
+    
+    - C2-aware multi-link management
+    - Cross-layer resilience
+    - Joint 5G–Satcom control
+        
+- Leads directly to your **research questions**
+    
+
+---
+
+## 5. Key Dimensions You Should Review (Topic-Specific)
+
+For your area, organize literature around:
+
+### Communication Dimensions
+
+- Latency (E2E, handover, jitter)
+- Availability & outage probability
+- Reliability vs resilience
+    
+
+### Multi-Link Techniques
+
+- Dual connectivity (DC)
+- Link aggregation
+- Make-before-break
+- Packet duplication
+    
+
+### Network Types
+
+- 5G terrestrial
+    
+- LEO/MEO/GEO Satcom
+    
+- Hybrid NTN–TN
+    
+
+### UAV-Specific Challenges
+
+- Mobility
+- Antenna orientation
+- Doppler
+- Energy constraints
+    
+
+---
+
+## 6. Final Recommendation (Supervisor-Proof)
+
+If you need a **single sentence answer** for a proposal:
+
+> _“This PhD adopts a systematic mapping study combined with a critical and conceptual literature review to identify gaps in existing 5G–satellite multi-link communication solutions for reliable and resilient BVLOS UAV command and control.”_
+
+---
+
+If you want, I can:
+
+- Design **search strings** for IEEE/Scopus
+- Create a **mapping taxonomy table**
+- Help you write the **literature review methodology section**
+- Align your review with **3GPP Rel-17/18 and ICAO C2 requirements**
+    
+---
+
+1. Never write anything you don't understand
+2. 
