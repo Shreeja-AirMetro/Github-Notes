@@ -359,3 +359,15 @@ If you want, I can:
 	2.  Not all the lit is of equal value 
 	3. Always go back to original source and check what they did and said
 Develop an understanding of common research and analytical techniques
+
+PRISMA Guidelines - Systematic review 
+
+STOP literature  review somewhere ?!?!?!?
+Don't delegate the work to AI but use as an intern 
+
+Basic ground rules 
+1. You don't talk about anything you read and not understood 
+2. The literature had to be good enough to get into it  - BEST and MOST relevant resources 
+3.  If there is any doubt, leave it out 
+
+understanding and thoughtful secl
