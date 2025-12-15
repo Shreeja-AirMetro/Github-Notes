@@ -16,5 +16,5 @@
 	- 5G, 6G and Network coding - 15
 
 ---
- 1st complete data mesh and NTN reports  - end of July 
- 
+
+What is Literature synthesis 

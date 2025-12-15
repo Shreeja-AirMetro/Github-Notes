@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Air-Air comm.md",
+                "file": "Literature - Notes/Literature - synthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air-Air comm"
+              "title": "Literature - synthesis"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/Air-Air comm.md",
     "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Notes/ATM Satcom terminal.md",
     "Notes/Clementine Flight tests.md",
@@ -194,7 +195,6 @@
     "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
     "Notes/ROS2 101 with Tushar.md",
-    "Notes/Air-Air comm.md",
     "Notes/Drones.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Multi-link communication.md",
