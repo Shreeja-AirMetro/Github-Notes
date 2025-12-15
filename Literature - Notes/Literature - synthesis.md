@@ -25,15 +25,15 @@ Synthesis helps to create new pov
 	- By theme 
 	- By research question 
 - External 
-Write /start with problem / statement - topic stentence that connects that part of literature together
+Write /start with problem / statement - topic sentence that connects that part of literature together
 Gap based para structure - Start with what is necessary, but what is the reality and what are the causes of the gaps
 
 	Start with Key points to make and then cluster the papers accordingly
 	
 Types of literature 
 1. Integrative - Answers specific RQ - what works with more theoretical what and why 
-2. Meta analysis
-3. Systematic
-4. Scoping 
-5. Rapid and 
+2. Meta analysis - combines from Multiple studies to answer one question
+3. Systematic - comprehensive review RQ - read everything out there. Have a clearly defined search stratergy
+4. Scoping - Provides overview of specific topic 
+5. Rapid and  - Faster / systematic review 
 6. Traditional 
