@@ -370,4 +370,8 @@ Basic ground rules
 2. The literature had to be good enough to get into it  - BEST and MOST relevant resources 
 3.  If there is any doubt, leave it out 
 
-understanding and thoughtful secl
+understanding and thoughtful selection 
+
+Don't let reader interpret 
+what are the most important points to the reader? 
+
