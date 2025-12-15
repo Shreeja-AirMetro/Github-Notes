@@ -18,3 +18,8 @@
 ---
 
 What is Literature synthesis 
+
+- Chronological then 
+	- By theme 
+	- By research question 
+- External 
