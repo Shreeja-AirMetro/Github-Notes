@@ -36,4 +36,8 @@ Types of literature
 3. Systematic - comprehensive review RQ - read everything out there. Have a clearly defined search stratergy
 4. Scoping - Provides overview of specific topic 
 5. Rapid and  - Faster / systematic review 
-6. Traditional 
+6. Traditional  - narrative review - summarize , synthesize and analyse - provide critical analysis - opinion and knowledge gaps 
+IDENTIFY SEARCH METHODOLOGY - should be clear in Introduction 
+
+Location, Time
+Type of journal , 
