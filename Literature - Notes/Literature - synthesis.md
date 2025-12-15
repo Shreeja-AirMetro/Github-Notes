@@ -38,6 +38,12 @@ Types of literature
 5. Rapid and  - Faster / systematic review 
 6. Traditional  - narrative review - summarize , synthesize and analyse - provide critical analysis - opinion and knowledge gaps 
 IDENTIFY SEARCH METHODOLOGY - should be clear in Introduction 
-
 Location, Time
-Type of journal , 
+Type of journal , conf, regulation types paper  - add in introduction 
+
+
+FOCUS on Critical Analysis 
+
+Section body para properly (one of below)
+
+Chronological | Geographical (Topics and location) | Thematic mean based on topic / theme 
