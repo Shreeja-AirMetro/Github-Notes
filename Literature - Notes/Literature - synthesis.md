@@ -354,4 +354,8 @@ If you want, I can:
 ---
 
 1. Never write anything you don't understand
-2. 
+2. Delevop knowledege 
+	1. Trends, debates and general picture  - a Low resolution picture of the field - same problem or on going debates 
+	2.  Not all the lit is of equal value 
+	3. Always go back to original source and check what they did and said
+	4. 
