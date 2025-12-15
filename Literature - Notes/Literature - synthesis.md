@@ -358,4 +358,4 @@ If you want, I can:
 	1. Trends, debates and general picture  - a Low resolution picture of the field - same problem or on going debates 
 	2.  Not all the lit is of equal value 
 	3. Always go back to original source and check what they did and said
-	4. 
+Develop an understanding of common research and analytical techniques
