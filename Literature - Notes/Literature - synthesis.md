@@ -33,7 +33,7 @@ Gap based para structure - Start with what is necessary, but what is the reality
 Types of literature 
 1. Integrative - Answers specific RQ - what works with more theoretical what and why 
 2. Meta analysis - combines from Multiple studies to answer one question
-3. Systematic - comprehensive review RQ - read everything out there. Have a clearly defined search stratergy
+3. Systematic - comprehensive review RQ - read everything out there. Have a clearly defined search strategy
 4. Scoping - Provides overview of specific topic 
 5. Rapid and  - Faster / systematic review 
 6. Traditional  - narrative review - summarize , synthesize and analyse - provide critical analysis - opinion and knowledge gaps 
