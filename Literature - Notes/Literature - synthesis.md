@@ -375,3 +375,4 @@ understanding and thoughtful selection
 Don't let reader interpret 
 what are the most important points to the reader? 
 
+The choices you make will depend on what you're trying to achieve and your pov
