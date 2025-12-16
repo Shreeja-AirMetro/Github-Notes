@@ -25,3 +25,7 @@ focus on new goods and services for the aging society and not just cutting costs
 "no company have become jewel of the industry by just cost cutting "
 
 we are all simply complex
+
+Project management  : Phase-gate process - n a business or development context, "gates" refers to decision points in a "phase-gate process". The question is asking if the project has passed certain formal review stages.
+
+"made any gates yet - Thorsten's email"
