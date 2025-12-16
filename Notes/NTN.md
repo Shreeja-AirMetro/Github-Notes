@@ -973,3 +973,12 @@ TASK FOR ME - Resolve VPN
 
 visual changes - TN and NTN part placement 
 3 different vehicles UE - different lanes with diff velocity 
+Gateway is placed near svalbard
+One hop ISL - Within the Sat constellation of
+
+Initial file is cleaned 
+two scenario - base / general config - specifics - basic config and paramater information , Mobility of UE and Satcom 
+
+Then Application part 
+
+3 layered structure 
