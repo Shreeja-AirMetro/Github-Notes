@@ -979,5 +979,5 @@ One hop ISL - Within the Sat constellation of
 Initial file is cleaned 
 two scenario - base / general config - specifics - basic config and parameter information , Mobility of UE and Satcom 
 
-Then Application part 
- - 3 layered structure 
+Then Application part  - 3 layered structure 
+
