@@ -967,3 +967,9 @@ Writing
 
 TASK FOR ME - Resolve VPN
 
+
+---
+16/12
+
+visual changes - TN and NTN part placement 
+3 different vehicles UE - different lanes with diff velocity 
