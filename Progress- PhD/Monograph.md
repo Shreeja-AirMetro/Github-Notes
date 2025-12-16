@@ -76,3 +76,11 @@ Chapter ideas for Dissertation
 7. NTN air segment - Drones for Communication
 8. Regulation - 3GPP, ETSI, EASA and IEEE standards 
 9. Discussion and Conclusion 
+
+
+---
+How to write better 
+
+Never use a metaphor simile or other figure of speech which you are used to seeing in print 
+No use a long word when short one would do 
+If it is possible to cut word out - cut it out. Dont write long- 
