@@ -89,3 +89,8 @@ writing is to communicate
 Hellen sword book about writing 
 George orwell why I write 
 
+--- 
+
+Find origin within that area
+
+Job market needs for skills and demands 
