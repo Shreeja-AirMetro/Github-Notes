@@ -15,3 +15,11 @@
     
 
 For hiring, demonstrate: a tested prototype, performance numbers mapped to requirements, and an understanding of certification/regulatory paths.
+
+Economics in information systems 
+https://en.wikipedia.org/wiki/Erik_Brynjolfsson 
+climate change, banking , medical aid  - 
+hype is enemy of business success - leverage human resource
+focus on new goods and services for the aging society and not just cutting costs
+
+"no company have become jewel of the industry by just cost cutting "

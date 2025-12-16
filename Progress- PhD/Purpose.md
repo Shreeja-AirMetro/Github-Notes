@@ -43,4 +43,3 @@ Science is the systematic transformation of the unknown into the known. https://
 ---
 
 
-Economics in information systems 
