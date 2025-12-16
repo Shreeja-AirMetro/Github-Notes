@@ -23,3 +23,5 @@ hype is enemy of business success - leverage human resource
 focus on new goods and services for the aging society and not just cutting costs
 
 "no company have become jewel of the industry by just cost cutting "
+
+we are all simply complex
