@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Progress- PhD/Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "Purpose"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/NTN.md",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Purpose.md",
     "Literature - Notes/Literature - synthesis.md",
@@ -201,7 +202,6 @@
     "Notes/Drones.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Multi-link communication.md",
-    "Notes/NTN.md",
     "Notes/OS- VM.md",
     "Notes/RDM workshop.md",
     "Progress- PhD/Application.md",
