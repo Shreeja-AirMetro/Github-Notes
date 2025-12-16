@@ -83,4 +83,9 @@ How to write better
 
 Never use a metaphor simile or other figure of speech which you are used to seeing in print 
 No use a long word when short one would do 
-If it is possible to cut word out - cut it out. Dont write long- 
+If it is possible to cut word out - cut it out. Dont write long sentences with clauses, sub-clauses 
+Never use the passive where you can use the active 
+writing is to communicate
+Hellen sword book about writing 
+George orwell why I write 
+
