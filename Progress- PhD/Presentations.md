@@ -33,3 +33,17 @@ Prep for klagenfurt
 	1. Simulation 
 	2. Handover 
 	3. KPIs 
+
+some comments from my side for your pages:  
+title:  
+Dr.-Ing. typo2  
+germany template ? (Seite 2 instead of side2)  
+what is T in T1...T10 ? needs to be explained once4  
+different T stlye6  
+explain V on the slideKPIs for Availability, Continuity, Transaction Time, Integrity... define exactly please
+References
+Formatting 
+How measure RCP - get a formula/threshold
+
+RC computing and energy effeciency
+
