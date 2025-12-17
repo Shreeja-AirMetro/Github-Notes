@@ -29,3 +29,6 @@ we are all simply complex
 Project management  : Phase-gate process - n a business or development context, "gates" refers to decision points in a "phase-gate process". The question is asking if the project has passed certain formal review stages.
 
 "made any gates yet - Thorsten's email"
+
+
+Read steven Pinker - watch MIT video
