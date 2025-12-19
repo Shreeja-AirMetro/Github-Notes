@@ -95,4 +95,7 @@ Find origin within that area
 
 Job market needs for skills and demands 
 
-- Lit review - don't jus
+- Lit review - don't just put he said this and he said that (its private notes)
+- Specif topic - synthesis to convergence point of convergence and divergence 
+- divergence, contradict each other 
+- 
