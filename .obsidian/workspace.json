@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Drones.md",
+                "file": "Progress- PhD/Monograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drones"
+              "title": "Monograph"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/Drones.md",
     "Progress- PhD/Further.md",
     "Progress- PhD/Presentations.md",
     "Progress- PhD/Application.md",
@@ -202,7 +203,6 @@
     "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
     "Notes/ROS2 101 with Tushar.md",
-    "Notes/Drones.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Multi-link communication.md",
     "Notes/OS- VM.md",
