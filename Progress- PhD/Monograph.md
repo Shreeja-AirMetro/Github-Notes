@@ -100,4 +100,6 @@ Job market needs for skills and demands
 - divergence, contradict each other 
 - Look for divergence 
 - contradictions
+- convergence
+- omissions
 - 
