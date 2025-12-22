@@ -55,4 +55,4 @@ Christian Vielhaus defense
 - scheduler , resource blocks - transmitted and lost - automatic RRQ, FEC - influence the delay 
 - **Be careful of data collection campaign 
 - Multipath variance
-- 
+
