@@ -32,3 +32,10 @@ Project management  : Phase-gate process - n a business or development context, 
 
 
 Read steven Pinker - watch MIT video
+
+---
+
+to learn 
+1. **Edge & Cloud Networking:** distributed computing, edge orchestration for URLLC/BVLOS  
+2. **Machine Learning for Communication:** AI/ML for adaptive networks and anomaly detection
+3. **Network Protocol Stacks:** 5G RAN/Core, OTA testing labs
