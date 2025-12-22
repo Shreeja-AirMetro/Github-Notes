@@ -153,20 +153,16 @@ This often aligns with:
 
 You don’t just “code” — you **work with standards**:
 
-- **3GPP** (5G/6G, NTN, UAV communication
+- **3GPP** (5G/6G, NTN, UAV communication)
 - **IEEE** (802.11, TSN)
-    
 - **RTCA / EUROCAE**
-    
 - **ICAO / EASA / FAA**
     
 
 Your protocol must:
 
 - Pass certification
-    
 - Be auditable
-    
 - Be explainable to regulators
     
 
@@ -177,20 +173,15 @@ Your protocol must:
 You implement protocols in:
 
 - **Embedded systems (C/C++)**
-    
 - **Linux networking stack**
-    
 - **SDR platforms**
-    
 - **Simulators (NS-3, OMNeT++)**
     
 
 You test via:
 
 - Hardware-in-the-loop (HIL)
-    
 - Flight tests
-    
 - Network emulation (packet loss, Doppler, handovers)
     
 
@@ -210,15 +201,10 @@ You test via:
 ### Tools & Languages
 
 - **C / C++** (embedded & real-time systems)
-    
 - **Python** (simulation, orchestration)
-    
 - **MATLAB** (algorithm validation)
-    
 - **NS-3 / OMNeT++**
-    
 - **GNU Radio / SDR**
-    
 - **Linux networking (Netlink, sockets)**
     
 
@@ -243,24 +229,17 @@ This role is **much closer to aerospace + telecom R&D**.
 ### Industry
 
 - **Joby Aviation**, **Archer**, **Wisk Aero**
-    
 - **Lilium**, **EHang**, **Eve Air Mobility**
-    
 - **DJI**, **Skydio**
-    
 - **Airbus**, **Boeing**, **RTX**
-    
 - **Ericsson**, **Nokia**, **Qualcomm**
     
 
 ### Research Institutes
 
 - **NICT (Japan)**
-    
 - **DLR (Germany)**
-    
 - **NASA / ESA**
-    
 - **Fraunhofer**
     
 
@@ -276,13 +255,9 @@ Your specialization:
 Maps directly to:
 
 - Multi-path UAV links
-    
 - Loss-resilient C2 channels
-    
 - NTN-based aerial networking
-    
 - Future 6G aerial platforms
-    
 
 You are **not a generic candidate** — you fit a **scarce, high-value niche**.
 
@@ -291,13 +266,9 @@ You are **not a generic candidate** — you fit a **scarce, high-value niche**.
 # 7. Typical Job Titles You Should Search For (2027–2029)
 
 - Network Protocol Engineer (UAV/UAM)
-    
 - Wireless Systems Engineer – Aerial Platforms
-    
 - NTN / UAV Communications Engineer
-    
 - Advanced Networking R&D Engineer
-    
 - 5G/6G Aviation Connectivity Engineer
     
 
@@ -308,13 +279,9 @@ You are **not a generic candidate** — you fit a **scarce, high-value niche**.
 **Must-have additions:**
 
 - Linux kernel networking basics
-    
 - Real-time systems & embedded programming
-    
 - Exposure to aviation standards (RTCA, EASA)
-    
 - SDR-based prototyping
-    
 - Participation in **3GPP / IEEE** working groups
     
 
@@ -327,9 +294,7 @@ A **Network Protocol Developer for UAV/UAM Communications** is someone who **tur
 If you want, next I can:
 
 - Map this role to **specific companies**
-    
 - Propose a **2025–2028 skill-building roadmap**
-    
 - Help you translate your **PhD topic into industry-friendly CV language**
 
 ---
