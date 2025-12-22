@@ -329,3 +329,6 @@ I can:
     
 
 Just tell me how deep you want to go.
+
+----
+CHAIN OF THOUGHT REASONING 
