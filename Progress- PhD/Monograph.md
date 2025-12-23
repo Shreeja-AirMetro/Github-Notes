@@ -105,3 +105,5 @@ Job market needs for skills and demands
 
 
 create lit synthesis matrics
+
+Lit synthesis - start with books and survey papers then go down of each problem
