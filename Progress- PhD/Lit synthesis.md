@@ -379,3 +379,7 @@ Geographical based: Regulation
 Themen based : Conference , Journal papers, White papers and project reports , chapters from books 
 
 But Books are mostly for foundation and core concepts and theory 
+
+---
+
+##Lit organize and synthe
