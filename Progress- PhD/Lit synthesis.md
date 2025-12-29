@@ -75,68 +75,53 @@ At PhD level, you are **not expected to use only one type**. Most strong theses 
 ### 1.1 Narrative (Traditional) Review
 
 **What it is**
-
 - Qualitative, descriptive synthesis of prior work
 - Explains concepts, evolution, architectures, and challenges
-
 **Use in your PhD**
-
 - Background chapters
 - Explaining:
-    
     - UAV BVLOS communication evolution
     - 5G NR-UAV support (3GPP Rel-15 → Rel-18)
     - Satcom integration trends
 
 **Limitations**
-
 - Risk of bias if not structured
 - Not enough alone for PhD rigor
 
 ---
-
-### 1.2 Systematic Literature Review (SLR)
+1.2 Systematic Literature Review (SLR)
 
 **What it is**
-
 - Formal, reproducible, protocol-driven review
 - Explicit search strings, inclusion/exclusion criteria
 
 **Use in your PhD**
-
 - When you want to **prove research gaps**
 - Ideal for:
-    
     - “What reliability techniques exist for UAV C2 links?”
     - “What multi-link strategies have been proposed for UAVs?”
 
 **Strengths**
-
 - High credibility
 - Defensible methodology
 
 **Limitations**
-
 - Time-consuming
 - Less flexible for fast-moving tech like 5G
 
 ---
 
-### 1.3 Systematic Mapping Study (SMS)
-
+ 1.3 Systematic Mapping Study (SMS)
 **What it is**
-
 - Classifies literature rather than deeply analyzing it
 - Focus on _what exists_ and _where gaps are_
 
 **Use in your PhD**
-
 - Early-stage exploration
 - Excellent for **interdisciplinary topics** like:
     - 5G + NTN + UAVs + C2
 
 **Example outputs**
-
 - Taxonomy tables
 - Heat maps (e.g., reliability vs. latency vs. link type)
 
@@ -145,8 +130,7 @@ At PhD level, you are **not expected to use only one type**. Most strong theses 
 
 ---
 
-### 1.4 Scoping Review
-
+ 1.4 Scoping Review
 **What it is**
 
 - Broad review to clarify concepts and boundaries
