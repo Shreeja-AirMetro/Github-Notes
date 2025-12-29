@@ -1,1 +1,7 @@
-- [ ] What's 
+- [ ] What's the articles I have 
+- [ ] What are the themes and key points key issues addressed what are the solutions
+- [ ] What are the patterns that connect this theme
+- [ ] What are the major hypothesis backs my research goals
+- [ ] What are the gaps how to make it as my research questions
+- [ ] How these RQ are answered 
+- [ ] 
