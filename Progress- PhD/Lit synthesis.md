@@ -4,4 +4,6 @@
 - [ ] What are the major hypothesis backs my research goals
 - [ ] What are the gaps how to make it as my research questions
 - [ ] How these RQ are answered 
-- [ ] 
+
+
+Lit synthesis put together -> major themes, strengths, weaknesses and critical gaps 
