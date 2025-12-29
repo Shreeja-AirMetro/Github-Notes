@@ -358,16 +358,24 @@ Only useful points when necessary
 
 29/12 
 
-Key Themen 
-Motivation arch - Defines the key metrics 
+**Key Themen** 
+==Motivation arch - Defines the key metrics== 
 - UAM/ AAM drones in BVLOS  
 - CNS 
 - UTM Network and other tools 
-Technoligical arch 
+==Technological arch for command and control / telemetry== 
 - 5G for drones with its metrics
 - WiFi and mesh algo for drones and its metrics 
 - Satcom for drones and its metrics 
-Algorithmic arch 
+==Algorithmic arch== 
 - Multi-link 
 - Network coding 
-How the algorithmic arch 
+How the algorithmic arch achieves the params and requirements of Motivational arch - aka gap and RQ
+
+**What are the types of Docs I am handling** 
+Everything on timeline 
+
+Geographical based: Regulation 
+Themen based : Conference , Journal papers, White papers and project reports , chapters from books 
+
+But Books are mostly for foundation and core concepts and theory 
