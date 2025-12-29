@@ -1,6 +1,6 @@
 
 Foundational 
-- [ ] CCNA and Network basics 
+- [ ] CCNA and Network basics  - May 2026 
 - [ ] Literature categories for each part 
 	- [ ] Networks - 5G for drones 
 	- [ ] Networks - Satcom - multilink for drones BVLOS
@@ -10,7 +10,7 @@ Foundational
 	- [ ] entities -  UTM , U-space, GCS 
 - [ ] Classification of references and system of notes from literature 
 Collaboration
-- [ ] NTN with cohort 
+- [x] NTN with cohort 
 - [ ] RF properties and study with Roshan 
 - [ ] Multi-modal navigation link with Tushar and Felix
 - [ ] C2 link with Enrique - research visit 

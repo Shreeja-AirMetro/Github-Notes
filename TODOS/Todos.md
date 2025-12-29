@@ -21,10 +21,10 @@
 	- [ ] Simulation part 
 	- [ ] What are the open questions that will be worked there 
 	- [ ] ROS2 and preparation to meet Lakeside Labs
-- [ ] PhD talk  - Dec 4th
-	- [ ] Mesh hardware with Pixhawk 
-	- [ ] Research visit topic
-	- [ ] Network coding - SoA and next steps - Research gap
+- [x] PhD talk  - Dec 4th
+	- [x] Mesh hardware with Pixhawk 
+	- [x] Research visit topic
+	- [x] Network coding - SoA and next steps - Research gap
 - [ ] Hardware setup and data collection 
 	- [ ] Mesh hardware 
 		- [ ] Goal of Air-to-Air algorithm 
@@ -59,25 +59,26 @@
 	- [ ] Journal paper  (March 2027)
 	- [ ] Journal paper (Sept 2027)
 	- [ ] Tutorial / poster / workshop paper
-- [ ] Switch to Linux machine /laptop completely
+- [x] Switch to Linux machine /laptop completely
 - [ ]  **Be careful of data collection campaign 
 	- [ ] What are the error margin 
 	- [ ] How do I defend them 
 
 **Administrative Stuff**
-- [ ] Klagenfurt visit 
-	- [ ] Airbnb 
-		- [ ] Meet and get details 
-		- [ ] Book confirm
-	- [ ] Dienstreise confirm 
-	- [ ] A1 document 
-- [ ] Question to Stan on open topic - PhD letter 
+- [x] Klagenfurt visit 
+	- [x] Airbnb 
+		- [x] Meet and get details 
+		- [x] Book confirm
+	- [x] Dienstreise confirm 
+	- [x] A1 document 
+- [x] Question to Stan on open topic - PhD letter 
 - [ ] Dronnect paper 
 	- [ ] Draft 1 and review with Jiajing  - finalize figures 
 	- [ ] Morten email 
 	- [ ] Rodney, Vaishnavi email 
 	- [ ] Others email  review 2 version and a deadline to finalize 
 
+---
 
 
 
@@ -97,8 +98,8 @@
 
 
 
-
-
+---
+### OLD
 
 16/8/25
 - [ ] HW purchase list 
