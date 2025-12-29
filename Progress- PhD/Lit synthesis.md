@@ -132,63 +132,42 @@ At PhD level, you are **not expected to use only one type**. Most strong theses 
 
  1.4 Scoping Review
 **What it is**
-
 - Broad review to clarify concepts and boundaries
 - Less strict than SLR
-    
-
 **Use in your PhD**
-
 - When terminology is inconsistent:
-    
     - “resilience vs reliability”
-    - “multi-link vs multi-connectivity vs diversity”
-
-**Very relevant for**
-
-- UAV C2 performance definitions
-- Regulatory vs technical perspectives (3GPP, ICAO, FAA)
-    
+    - “multi-link vs multi-connectivity vs diver    
 
 ---
-
-### 1.5 Critical Review
+ 1.5 Critical Review
 
 **What it is**
-
 - Evaluates strengths, weaknesses, assumptions
 - Challenges existing models
-    
 
 **Use in your PhD**
-
 - To justify why **current solutions are insufficient**
 - To argue:
-    
     - Why terrestrial-only 5G is insufficient for BVLOS
     - Why Satcom alone fails latency requirements
     - Why existing multi-link schemes are not C2-aware
         
-
 **This is where PhD originality begins**
 
 ---
 
-### 1.6 Conceptual / Framework-Based Review
-
+1.6 Conceptual / Framework-Based Review
 **What it is**
-
 - Synthesizes literature into a **new framework or architecture**
-    
+
 
 **Use in your PhD**
 
 - To propose:
-    
     - A **resilient UAV C2 communication architecture**
     - A **multi-link decision/control framework**
         
-
 **Highly recommended**  
 ✔ Strong PhD contribution even before simulations
 
@@ -219,7 +198,6 @@ For your topic, the **best PhD combination** is:
 ### Optional (If your supervisor allows)
 
 - **Mini Systematic Review** on:
-    
     - Multi-connectivity / link diversity mechanisms
     - Failover and resilience techniques
         
@@ -378,3 +356,17 @@ POint - evidance, explanation and more connecting points - But not enough
 
 BUT LINK BETWEEN IDEAS is important 
 Only useful points when necessary 
+
+---
+
+29/12 
+
+Key Themen 
+Motivation arch
+- UAM/ AAM drones in BVLOS  
+- CNS 
+- UTM Network and other tools 
+Technoligical arch 
+- 5G for drones with its metrics
+- WiFi and mesh algo for drones and its metrics 
+- Satcom for drones and its metrics 
