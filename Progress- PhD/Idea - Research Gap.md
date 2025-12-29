@@ -1,3 +1,7 @@
+
+
+---
+
 Short answer: **Your topic is NOT too broad — but your _current framing_ is.**  
 You have _all the ingredients_ for a strong, novel PhD, but you need a **sharp, unifying problem statement** and **one core contribution** that everything else (Wi-Fi mesh, 5G, LEO, network coding, resource-aware switching, simulations + testbed) supports.
 

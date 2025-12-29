@@ -87,6 +87,3 @@ Lab implement ROS2
 - Share repository Omnet++ - Enrique 
 
 kornelia.lienbacher@aau.at 
-
-Belhaven - place 
-Dorms Jamal
