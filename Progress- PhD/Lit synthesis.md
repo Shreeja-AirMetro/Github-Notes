@@ -259,7 +259,6 @@ Ask yourself these questions:
     
 
 ---
-
 ### Chapter 5: Synthesis & Research Gap Definition
 
 - Missing:
@@ -269,8 +268,6 @@ Ask yourself these questions:
     - Joint 5G–Satcom control
         
 - Leads directly to your **research questions**
-    
-
 ---
 
 ## 5. Key Dimensions You Should Review (Topic-Specific)
@@ -362,7 +359,7 @@ Only useful points when necessary
 29/12 
 
 Key Themen 
-Motivation arch
+Motivation arch - Defines the key metrics 
 - UAM/ AAM drones in BVLOS  
 - CNS 
 - UTM Network and other tools 
@@ -370,3 +367,7 @@ Technoligical arch
 - 5G for drones with its metrics
 - WiFi and mesh algo for drones and its metrics 
 - Satcom for drones and its metrics 
+Algorithmic arch 
+- Multi-link 
+- Network coding 
+How the algorithmic arch 
