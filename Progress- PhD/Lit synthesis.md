@@ -382,4 +382,26 @@ But Books are mostly for foundation and core concepts and theory
 
 ---
 
-##Lit organize and synthe
+### Lit organize and synthesis plan 
+
+1. Organize all regulatory docs together aviation and comm 
+2. motivation arch with 3 subfolders 
+	1. UAM, AAM 
+	2. CNS
+	3. UTM
+3. Technological arch
+	1. 1. Cellular 
+	2. Satcom
+	3. Wifi 
+	4. Other RF
+	5. C2 
+4. Algorithm Arch 
+	1. Network coding
+	2. Datamesh 
+PRIORITY - Journal and Survey papers 
+Combine article of same authors 
+
+Then come to other topics
+1. For basics 
+2. NTN 
+3. Other Topics relavant to AAM 
