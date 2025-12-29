@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/Tools Notes.md",
+                "file": "Basics/Todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools Notes"
+              "title": "Todos"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
-    "Basics/Satcom.md",
     "Basics/5G.md",
+    "Basics/Todos.md",
     "Basics/Basics of Networking.md",
+    "Basics/Satcom.md",
     "Basics/Tools Notes.md",
     "Basics/Windows Commands.md",
     "collab-internal/T58.md",
@@ -212,7 +213,6 @@
     "Notes/Clementine Flight tests.md",
     "Notes/Network Coding.md",
     "Notes/Network coding - UAV Comm.md",
-    "TODOS/Dec 2025.md",
     "Supported Networking Modes.pdf",
     "Optimizing the RF Link.pdf",
     "mini-OEM and Helix Mesh Rider Radio – Eval Kit Connector Descriptions.pdf",
