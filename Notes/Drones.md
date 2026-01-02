@@ -1230,3 +1230,12 @@ Wifi antenna we have a indentation so its RP-SMA
 female to male MHF4 - RP-SMA cable 
 
 LTE has protruding antenna - SMA male 
+
+---
+
+
+### Clementine 
+-  Return commands from mission
+- issue - full throttle - velocity/thrust low
+- angles - yaw 180 - south (anti) - positive
+- 

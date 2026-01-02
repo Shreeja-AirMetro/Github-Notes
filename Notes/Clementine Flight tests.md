@@ -1,4 +1,0 @@
--  Return commands from mission
-- issue - full throttle - velocity/thrust low
-- angles - yaw 180 - south (anti) - positive
-- 
