@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Omnet++ Simulator.md",
+                "file": "Notes/NTN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omnet++ Simulator"
+              "title": "NTN"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
-    "Notes/UTM- Data Mesh.md",
     "Notes/Omnet++ Simulator.md",
+    "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
     "Notes/ROS2 101 with Tushar.md",
     "Notes/RF propogation (T2).md",
