@@ -20,6 +20,9 @@ Omnet.ini is the key file that compiles all the configurations and run the wholi
 General Outline of the simulator
 
 Omnet++ is the "engine  "which involves the kernel ., IDE and the GUI infrastructure. The small parts must fit into this engine - INET framwork and INET 4.5 provide protocols like TCP/IP, Wi-FI and 5g , TSN , associated routing protocols  AODV , OSPF based networking support 
+
+### INET framework is networking logic
+
 |**Folder**|**What it contains**|**Why it's there**|
 |---|---|---|
 |**`src`**|**Source Code.** This is the heart of INET. It contains all the C++ files (`.cc`, `.h`), NED files (`.ned`), and message files (`.msg`).|This is where you go to modify protocols or create new ones. It is organized by layers (e.g., `src/inet/transportlayer`).|
@@ -30,4 +33,15 @@ Omnet++ is the "engine  "which involves the kernel ., IDE and the GUI infrastruc
 
 INET framework have realworld accuracy - **Saves Time:** Without INET, if you wanted to simulate a simple web request, you would have to manually code the entire TCP/IP stack, the WiFi physical layer, and the routing logic. INET provides these out-of-the-box.
 When you build a simulation in OMNeT++, the **NED files** define the structure (the "map"), the **C++ files** (in `src`) define the behavior (the "logic"), and the **INI file** defines the specific scenario (the "test"). INET provides the vast majority of these C++ and NED components so you don't have to. 
+
+### Simu5G - Cellular link logic
+
+**Simu5G** is an evolution of the older _SimuLTE_ library. It is a specialized framework designed to model the **5G New Radio (NR)** standard.
+
+- **What it adds:** It provides the complex "gNodeB" (5G base station) and "UE" (User Equipment/Phone) modules.
+- **Data Plane:** It models the entire 5G stack (SDAP, PDCP, RLC, MAC, and PHY layers).
+- **MEC Support:** It includes advanced Multi-access Edge Computing (MEC) models, allowing you to simulate servers sitting right at the edge of the 5G network for low-latency apps.
+
+
+
 Flow Structure
