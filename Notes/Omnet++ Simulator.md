@@ -51,3 +51,7 @@ Flow Structure
 
 Questions to Lyuqiao 
 
+1. How to create Omnet - Air segment -Sperate 
+2. Questions on running Veins-Leon
+3. Miro board discuss
+4. 
