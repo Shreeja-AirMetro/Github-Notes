@@ -46,9 +46,10 @@ When you build a simulation in OMNeT++, the **NED files** define the structure (
 
 Flow Structure
 
-3 main layers
-- Physical
-- 
+3 main layers of changes
+- Physical - channel model
+-  Mobility 
+- Application 
 
 
 
@@ -59,4 +60,4 @@ Questions to Lyuqiao
 1. How to create Omnet - Air segment -Sperate 
 2. Questions on running Veins-Leon
 3. Miro board discuss
-4. 
+
