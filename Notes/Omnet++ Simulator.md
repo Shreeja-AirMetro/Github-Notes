@@ -46,6 +46,11 @@ When you build a simulation in OMNeT++, the **NED files** define the structure (
 
 Flow Structure
 
+3 main layers
+- Physical
+- 
+
+
 
 ---
 
