@@ -63,6 +63,26 @@ Questions to Lyuqiao
 
 ---
 
-1. Simu5G incorporates all the models from the INET library, which allows one to simulate generic TCP/IP networks including 5G NR layer-2 interfaces. In particular, Simu5G simulates the data plane of the 5G RAN (rel. 16) and core network. It allows simulation of 5G communications in both Frequency Division Duplexing (FDD) and Time Division Duplexing (TDD) modes
+1. Simu5G (https://simu5g.org/users-guide/overview#features)  incorporates all the models from the INET library, which allows one to simulate generic TCP/IP networks including 5G NR layer-2 interfaces. In particular, Simu5G simulates the data plane of the 5G RAN (rel. 16) and core network. It allows simulation of 5G communications in both Frequency Division Duplexing (FDD) and Time Division Duplexing (TDD) modes
 2. possibly communicating via the X2 interface to support handover and inter-cell interfer-ence coordination. Dual connectivity between an eNB (LTE base station) and a gNB (5G NR base station) is also available. 3GPP-compliant protocol layers are provided, whereas the physical layer is modelled via realistic, customizable channel models. Resource scheduling in both uplink and downlink directions is supported, with support for Carrier Aggregation and multiple numerologies, as specified by the 3GPP standard (3GPP TR 38.300, TR 38.211). Simu5G supports a large variety of models for mobility of UEs, including vehicular mobility.
-3. 
+3. Nodes
+
+**UEs** and **gNBs** are implemented as compound modules. These can be connected with each other and with other nodes (e.g. routers, applications, etc.) in order to compose networks. The UEs and gNBs are further composed of modules:
+
+- _TCP_ and _UDP_ applications (any INET compatible application)
+    
+- _TCP_ and _UDP_ transport layers (from INET)
+    
+- _IP_ layer (from INET)
+    
+- _NR NIC_ implementing the NR stack at both the gNB and UE. The stack includes all the sublayers (PDCP, RLC, MAC, PHY). At the UE, a dual stack is implemented to allow coexistence between 4G (LTE) and 5G (NR)
+
+## NR resource management[¶](https://simu5g.org/users-guide/overview#nr-resource-management "Link to this heading")
+
+Simu5G currently supports:
+
+- **Carrier Aggregation (CA):** a global carrierAggregation module stores all the information related to the CCs employed in the network. It includes a vector of N ComponentCarrier submodules, whose carrier frequency can be configured via NED/INI. A gNB/UE may be restricted to use only a subset of the available CCs.
+    
+- **Different numerologies:** as with LTE, a NR radio frame is 10 ms long and consists of 10 subframes, each having 1ms duration. However, NR subframes are further divided into up to 14 slots, which are the NR TTIs. A numerology index defines the slot duration, and UEs are scheduled in slots. In Simu5G, a different numerology can be associated to each CC and configured via NED/INI. gNBs and UEs can be limited to only a subset of numerologies.
+    
+- **Frequency/Time Division Duplexing (FDD/TDD):** Simu5G supports both FDD and TDD. In FDD, each CC has separate portions for UL and DL spectra. As far as TDD is concerned, NR foresees 62 possible slot formats (3GPP - TR 38.213), where individual symbols in a slot can be DL, UL or flexible (i.e., it can be assigned dynamically to DL or UL transmissions, or kept idle). We model TDD slot formats as properties of the CC, and we associate the slot format to the componentCarrier submodules. In the current version of Simu5G, flexible symbols are used as guard symbols. However, the above modeling allows one to easily design policies to assign flexible symbols to DL or UL dynamically.
