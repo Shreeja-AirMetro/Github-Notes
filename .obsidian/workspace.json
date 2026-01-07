@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Jan 2026.md",
+                "file": "Notes/Omnet++ Simulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan 2026"
+              "title": "Omnet++ Simulator"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "TODOS/Jan 2026.md",
     "TODOS/Dec 2025.md",
     "Notes/NTN.md",
     "Notes/Omnet++ Simulator.md",
@@ -207,7 +208,6 @@
     "Notes/ATM Satcom terminal.md",
     "Notes/Air-Air comm.md",
     "Progress- PhD/Idea - Research Gap.md",
-    "TODOS/Jan 2026.md",
     "Progress- PhD/Lit synthesis.md",
     "Basics/statistics for  wireless comm enginners.md",
     "TODOS/Todos.md",
