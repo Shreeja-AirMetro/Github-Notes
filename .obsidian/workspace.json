@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "TODOS/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "TODOS/Dec 2025.md",
+    "Notes/NTN.md",
     "Notes/Omnet++ Simulator.md",
     "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
@@ -205,9 +207,7 @@
     "Notes/ATM Satcom terminal.md",
     "Notes/Air-Air comm.md",
     "Progress- PhD/Idea - Research Gap.md",
-    "Notes/NTN.md",
     "TODOS/Jan 2026.md",
-    "TODOS/Dec 2025.md",
     "Progress- PhD/Lit synthesis.md",
     "Basics/statistics for  wireless comm enginners.md",
     "TODOS/Todos.md",
