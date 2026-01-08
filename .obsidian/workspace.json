@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/KPI - Research.md",
+                "file": "TODOS/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KPI - Research"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
-    "TODOS/Jan 2026.md",
     "Notes/KPI - Research.md",
+    "TODOS/Jan 2026.md",
     "Notes/open.md",
     "Notes/OS- VM.md",
     "Notes/Omnet++ Simulator.md",
