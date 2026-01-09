@@ -52,7 +52,6 @@ Flow Structure
 - Application 
 
 
-
 ---
 
 Questions to Lyuqiao 
@@ -171,6 +170,40 @@ There is no official, exhaustive list of every TS/TR used; instead, Simu5G adher
 14. [https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/30188/1/Per21.pdf](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/30188/1/Per21.pdf)
 15. [https://repositorium.uminho.pt/bitstreams/59f89497-82d3-4c64-b3f8-37d93c585390/download](https://repositorium.uminho.pt/bitstreams/59f89497-82d3-4c64-b3f8-37d93c585390/download)
 
+Simu5G's channel model, based on 3GPP TR 36.803, can be customized via `BackgroundChannelModel` parameters or new subclasses for UAVs favoring secondary lobes (e.g., sidelobe-dominant links in NLOS/multipath drone scenarios). This involves tuning antenna patterns, LOS probability, and Ricean K-factor to emphasize sidelobes in path loss/SINR computations.[simu5g+1](https://simu5g.org/neddoc/packages.html)​
+
+## Customization Steps for UAV
+
+1. **Extend BackgroundChannelModel**: In NED/OMNeT++, subclass `BackgroundChannelModel` or `DatarateChannel` to override `computePathLoss()` and incorporate sidelobe gain. Set `losProbability` low (e.g., 0.1 for urban NLOS UAV), Ricean `kFactor` low (e.g., 1-5 dB for multipath dominance), and define antenna pattern with high sidelobe relative gain (e.g., -10 dB vs. main lobe).[github](https://github.com/Unipisa/Simu5G)​
+    
+2. **Configure Antenna Params**: Use `txPower`, `carrierFrequency`, `height` params; add UAV-specific `antennaTilt` for downward beams where sidelobes dominate at horizon angles. Enable 3D via `use3d=true` for elevation-based lobe selection.[simu5g+1](https://simu5g.org/neddoc/packages.html)​
+    
+3. **Integrate Mobility**: Pair with UAV mobility (e.g., `LinearMobility` or custom drone trajectory) in `BackgroundUe` or `NRUe`; test sidelobe bias by positioning UAV off-boresight (e.g., 30-60° azimuth). Run with `BackgroundCell` for interference.[github](https://github.com/Unipisa/Simu5G)​
+    
+4. **Validate**: Use `BackgroundScheduler` stats for resource allocation under sidelobe SINR; extend `computeSnir()` for custom interference from sidelobes.[github](https://github.com/Unipisa/Simu5G)​
+    
+
+## Signal Chain Math: Antenna Gain to SINR
+
+The path follows transmitter antenna gain → EIRP → propagation → receiver antenna gain → received power → SINR.
+
+- **Tx Antenna Gain** Gtx(θ,ϕ)G_{tx}(\theta, \phi)Gtx(θ,ϕ): Directional gain at angle (θ,ϕ)(\theta, \phi)(θ,ϕ). For 3GPP-like: main lobe Gm=8G_m = 8Gm=8 dBi, sidelobe Gs=Gm−SLG_s = G_m - SLGs=Gm−SL (SL=15-25 dB). Math: G(θ)=Gm−min⁡(12(θ/θ3dB)2,SL)G(\theta) = G_m - \min(12(\theta / \theta_{3dB})^2, SL)G(θ)=Gm−min(12(θ/θ3dB)2,SL) where θ3dB\theta_{3dB}θ3dB is half-power beamwidth.[3gpp](https://www.3gpp.org/dynareport/38901.htm)​
+    
+- **EIRP**: Ptx+GtxP_{tx} + G_{tx}Ptx+Gtx (dBm), with PtxP_{tx}Ptx from `txPower` param.[simu5g](https://simu5g.org/neddoc/packages.html)​
+    
+- **Path Loss** PLPLPL: Free-space + shadow + fast-fading. From TR 36.803: PL=PLlos/nlos+10log⁡10(Xσ)+Ricean fadingPL = PL_{los/nlos} + 10\log_{10}(X_\sigma) + \text{Ricean fading}PL=PLlos/nlos+10log10(Xσ)+Ricean fading, where NLOS favors sidelobes via low LOS prob. Ricean: K=LOS powerNLOS powerK = \frac{\text{LOS power}}{\text{NLOS power}}K=NLOS powerLOS power.[simu5g](https://simu5g.org/neddoc/packages.html)​
+    
+- **Rx Power** Prx=EIRP−PL+Grx(θr,ϕr)P_{rx} = \text{EIRP} - PL + G_{rx}(\theta_r, \phi_r)Prx=EIRP−PL+Grx(θr,ϕr) (dBm).[simu5g](https://simu5g.org/neddoc/packages.html)​
+    
+- **Interference**: Sum Ik=Prx,kI_k = P_{rx,k}Ik=Prx,k from interferers kkk (BackgroundUe in sidelobes). Noise N=−174+10log⁡10(BW)+NFN = -174 + 10\log_{10}(BW) + NFN=−174+10log10(BW)+NF (dB, BW=bandwidth).[simu5g](https://simu5g.org/neddoc/packages.html)​
+    
+- **SINR**: SINR=Prx/(I+N)\text{SINR} = P_{rx} / (I + N)SINR=Prx/(I+N) (linear). In Simu5G: `computeSnir()` aggregates via `getInterference()` from Binder. For UAV sidelobe: tune angles to use GsG_sGs in Gtx/rxG_{tx/rx}Gtx/rx, lowering SINR ~10-20 dB vs. main lobe.[3gpp+1](https://www.3gpp.org/dynareport/38901.htm)​
+    
+
+1. [https://simu5g.org/neddoc/packages.html](https://simu5g.org/neddoc/packages.html)
+2. [https://github.com/Unipisa/Simu5G](https://github.com/Unipisa/Simu5G)
+3. [https://www.3gpp.org/dynareport/38901.htm](https://www.3gpp.org/dynareport/38901.htm)
+
 - ==Rel‑16-oriented NR data‑plane model built around the main NR RAN and radio spec family (38‑series),==
 - ==PHY framing== 
 	- ==TR 38.300 / TR 38.300‑series for NR overall description and protocol architecture.==
@@ -179,6 +212,7 @@ There is no official, exhaustive list of every TS/TR used; instead, Simu5G adher
 - ==LTE and 5G== 
 	- ==TR 38.801 for E‑UTRA/NR Dual Connectivity (ENDC) deployment where LTE and 5G coexist.​==
 	- ==TR 37.340 (E‑UTRA and NR; Multi‑connectivity; Stage 2) for EN‑DC / multi‑connectivity operation.==
-	- 3GPP TR 38.811 is a Technical Report from Release 15 that studies adaptations of New Radio (NR) to enable non-terrestrial networks (NTNs), such as satellite and high-altitude platform systems (HAPS)
-	- 3GPP specifications define LTE frequencies in TS 36.101 and 5G NR in TS 38.104/38.101, while channel models appear in dedicated TRs like TR 36.942 for LTE and TR 38.901/TR 38.900 for 5G. Antenna patterns in these models distinguish main lobe (primary) from side lobes (secondary), with parameters for lobe gain, width, and sidelobe levels.
-	- `ackgroundChannelModel` parameters or new subclasses for UAVs favoring secondary lobes (e.g., sidelobe-dominant links in NLOS/multipath drone scenarios). This involves tuning antenna patterns, LOS probability, and Ricean K-factor to emphasize sidelobes in path loss/SINR computations
+	- ==3GPP TR 38.811 is a Technical Report from Release 15 that studies adaptations of New Radio (NR) to enable non-terrestrial networks (NTNs), such as satellite and high-altitude platform systems (HAPS)==
+	- ==3GPP specifications define LTE frequencies in TS 36.101 and 5G NR in TS 38.104/38.101, while channel models appear in dedicated TRs like TR 36.942 for LTE and TR 38.901/TR 38.900 for 5G. Antenna patterns in these models distinguish main lobe (primary) from side lobes (secondary), with parameters for lobe gain, width, and sidelobe levels.==
+	- ==BackgroundChannelModel : parameters or new subclasses for UAVs favoring secondary lobes (e.g., sidelobe-dominant links in NLOS/multipath drone scenarios). This involves tuning antenna patterns, LOS probability, and Ricean K-factor to emphasize sidelobes in path loss/SINR computations==
+	- 
