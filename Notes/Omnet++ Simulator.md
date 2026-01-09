@@ -215,4 +215,10 @@ The path follows transmitter antenna gain → EIRP → propagation → receiver 
 	- ==3GPP TR 38.811 is a Technical Report from Release 15 that studies adaptations of New Radio (NR) to enable non-terrestrial networks (NTNs), such as satellite and high-altitude platform systems (HAPS)==
 	- ==3GPP specifications define LTE frequencies in TS 36.101 and 5G NR in TS 38.104/38.101, while channel models appear in dedicated TRs like TR 36.942 for LTE and TR 38.901/TR 38.900 for 5G. Antenna patterns in these models distinguish main lobe (primary) from side lobes (secondary), with parameters for lobe gain, width, and sidelobe levels.==
 	- ==BackgroundChannelModel : parameters or new subclasses for UAVs favoring secondary lobes (e.g., sidelobe-dominant links in NLOS/multipath drone scenarios). This involves tuning antenna patterns, LOS probability, and Ricean K-factor to emphasize sidelobes in path loss/SINR computations==
-	- 
+
+### Parameters
+
+1. Mobility of the UE : Linear, tationary and random
+2. Antenna and Interference: channel model TX power, Shadowing Ricean or Reyleigh factor, LOS probability, scheduler and traffic generator from BS background cells 
+3. Frequency and carrier aggregation No of bands, no of component carriers and bandwidth
+4. 
