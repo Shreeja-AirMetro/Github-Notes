@@ -221,4 +221,4 @@ The path follows transmitter antenna gain → EIRP → propagation → receiver 
 1. Mobility of the UE : Linear, tationary and random
 2. Antenna and Interference: channel model TX power, Shadowing Ricean or Reyleigh factor, LOS probability, scheduler and traffic generator from BS background cells 
 3. Frequency and carrier aggregation No of bands, no of component carriers and bandwidth
-4. 
+4. Omnet++ Message handler 
