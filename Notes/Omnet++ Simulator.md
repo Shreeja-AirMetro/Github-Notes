@@ -222,3 +222,11 @@ The path follows transmitter antenna gain → EIRP → propagation → receiver 
 2. Antenna and Interference: channel model TX power, Shadowing Ricean or Reyleigh factor, LOS probability, scheduler and traffic generator from BS background cells 
 3. Frequency and carrier aggregation No of bands, no of component carriers and bandwidth
 4. Omnet++ Message handler 
+
+
+
+Air to ground link  - UAV 36.777
+BS propagation characteristics - 38. 901 table 7.3.1.
+
+Reileigh - LOS 
+NLOS probability 
