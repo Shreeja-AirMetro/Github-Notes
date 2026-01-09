@@ -95,12 +95,89 @@ According to (3GPP - TR 37.340), the data flow between the eNB and the gNB is sh
 
 ### 3GPP Standards
 
-- Rel‑16-oriented NR data‑plane model built around the main NR RAN and radio spec family (38‑series),
-- PHY framing 
-	- TR 38.300 / TR 38.300‑series for NR overall description and protocol architecture.
-	- TR 38.211 for numerologies, OFDM parameters, and carrier/slot structure
-	- TDD : TR 38.213 for NR TDD with 62 possible slot formats and DL/UL/flexible symbol definitions
-- LTE and 5G 
-	- TR 38.801 for E‑UTRA/NR Dual Connectivity (ENDC) deployment where LTE and 5G coexist.​
-	- TR 37.340 (E‑UTRA and NR; Multi‑connectivity; Stage 2) for EN‑DC / multi‑connectivity operation.
-	- 
+Simu5G does not list every 3GPP document exhaustively, but the documentation and papers point to a Rel‑16-oriented NR data‑plane model built around the main NR RAN and radio spec family (38‑series), plus EN‑DC and channel/TR specs from 36‑ and 37‑series.[scitepress+1](https://www.scitepress.org/Papers/2020/98264/98264.pdf)​
+
+## High‑level 3GPP basis
+
+- Simu5G simulates the 5G RAN and core **data plane** “for 5G NR (Rel. 16)” and explicitly states that it follows 3GPP‑compliant protocol layers, with LTE/NR dual connectivity as per EN‑DC.[simu5g](https://simu5g.org/users-guide/overview)​
+    
+- The project README and license reiterate that the simulator is “based on 3GPP specifications,” without listing all spec numbers, and that users must handle any related IPR.[github+2](https://github.com/Unipisa/Simu5G)​
+    
+
+## Explicitly mentioned 3GPP specs in docs/papers
+
+In the official user guide and the SIMULTECH/Simu5G papers, the following 3GPP documents are explicitly referenced as the basis for specific features (all Release 15/16 family):
+
+- NR overall/architecture and PHY framing:
+    
+    - TR 38.300 / TR 38.300‑series for NR overall description and protocol architecture.[simu5g](https://simu5g.org/users-guide/overview)​
+        
+    - TR 38.211 for numerologies, OFDM parameters, and carrier/slot structure.[simu5g](https://simu5g.org/users-guide/overview)​
+        
+- TDD numerologies and slot formats:
+    
+    - TR 38.213 for NR TDD with 62 possible slot formats and DL/UL/flexible symbol definitions.[scitepress+1](https://www.scitepress.org/Papers/2020/98264/98264.pdf)​
+        
+- LTE–NR dual connectivity and multi‑connectivity:
+    
+    - TR 38.801 for E‑UTRA/NR Dual Connectivity (ENDC) deployment where LTE and 5G coexist.[simu5g](https://simu5g.org/users-guide/overview)​
+        
+    - TR 37.340 (E‑UTRA and NR; Multi‑connectivity; Stage 2) for EN‑DC / multi‑connectivity operation.[arpi.unipi](https://arpi.unipi.it/retrieve/handle/11568/1039566/609208/SIMULTECH_2020.pdf)​
+        
+- NR channel model implementation:
+    
+    - TR 36.803 is cited as the basis of the “realistic 3GPP channel model” used for path loss, LOS probability, fast fading, shadowing, etc.[simu5g+1](https://simu5g.org/neddoc/packages.html)​
+        
+
+## Implied spec families (not fully enumerated)
+
+From the architecture and protocol descriptions, Simu5G’s NR stack maps onto the usual 38‑series TS set, even when documents are not named one‑by‑one:
+
+- NR RAN protocol stack (RLC/MAC/PHY) implies reliance on TS 38.3xx/38.2xx families for procedures and parameters, since Simu5G offers:
+    
+    - 3GPP‑style scheduling (Max C/I, PF, RR) with MCS, TBS, HARQ, etc.[scitepress+1](https://www.scitepress.org/Papers/2020/98264/98264.pdf)​
+        
+    - Carrier aggregation and multiple numerologies as “specified by the 3GPP standard.”[simu5g](https://simu5g.org/users-guide/overview)​
+        
+- Papers extending Simu5G with SDAP explicitly ground their implementation in:
+    
+    - TS 38.331 (RRC) and TS 38.413 (NG‑AP) for SDAP header placement and QoS flow handling.[arxiv](https://arxiv.org/html/2508.12785v1)​
+        
+    - TS 23.501 for 5G QoS flow concepts (eMBB, URLLC, mMTC QoS characteristics).[arxiv](https://arxiv.org/html/2508.12785v1)​
+        
+
+## Practical answer for citing in your work
+
+If you need to state in a paper or proposal which 3GPP standards Simu5G is aligned with, a concise but accurate formulation consistent with the public docs would be:
+
+- “Simu5G implements a 3GPP‑compliant 5G NR Rel‑16 data‑plane stack, following the NR 38‑series specifications (e.g., TR 38.300, TR 38.211, TR 38.213) and EN‑DC/multi‑connectivity as described in TR 38.801 and TR 37.340, with channel models derived from TR 36.803.”[simu5g+3](https://simu5g.org/neddoc/packages.html)​
+    
+
+There is no official, exhaustive list of every TS/TR used; instead, Simu5G adheres to the above core NR and EN‑DC specs plus the usual 5G system and QoS documents when features such as SDAP are added.[arxiv+1](https://arxiv.org/html/2508.12785v1)​
+
+1. [https://www.scitepress.org/Papers/2020/98264/98264.pdf](https://www.scitepress.org/Papers/2020/98264/98264.pdf)
+2. [https://simu5g.org/users-guide/overview](https://simu5g.org/users-guide/overview)
+3. [https://github.com/Unipisa/Simu5G](https://github.com/Unipisa/Simu5G)
+4. [https://github.com/Unipisa/Simu5G/blob/master/README.md](https://github.com/Unipisa/Simu5G/blob/master/README.md)
+5. [https://github.com/Unipisa/Simu5G/blob/master/LICENSE.md](https://github.com/Unipisa/Simu5G/blob/master/LICENSE.md)
+6. [https://arpi.unipi.it/retrieve/handle/11568/1039566/609208/SIMULTECH_2020.pdf](https://arpi.unipi.it/retrieve/handle/11568/1039566/609208/SIMULTECH_2020.pdf)
+7. [https://simu5g.org/neddoc/packages.html](https://simu5g.org/neddoc/packages.html)
+8. [https://arxiv.org/html/2508.12785v1](https://arxiv.org/html/2508.12785v1)
+9. [https://www.3gpp.org/specifications-technologies/specifications-by-series](https://www.3gpp.org/specifications-technologies/specifications-by-series)
+10. [https://onlinelibrary.wiley.com/doi/full/10.1155/mse/7283539](https://onlinelibrary.wiley.com/doi/full/10.1155/mse/7283539)
+11. [https://www.etsi.org/deliver/etsi_ts/138300_138399/138300/15.03.01_60/ts_138300v150301p.pdf](https://www.etsi.org/deliver/etsi_ts/138300_138399/138300/15.03.01_60/ts_138300v150301p.pdf)
+12. [https://www.sciencedirect.com/science/article/abs/pii/S1389128624007448](https://www.sciencedirect.com/science/article/abs/pii/S1389128624007448)
+13. [https://simu5g.org](https://simu5g.org/)
+14. [https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/30188/1/Per21.pdf](https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/30188/1/Per21.pdf)
+15. [https://repositorium.uminho.pt/bitstreams/59f89497-82d3-4c64-b3f8-37d93c585390/download](https://repositorium.uminho.pt/bitstreams/59f89497-82d3-4c64-b3f8-37d93c585390/download)
+
+- ==Rel‑16-oriented NR data‑plane model built around the main NR RAN and radio spec family (38‑series),==
+- ==PHY framing== 
+	- ==TR 38.300 / TR 38.300‑series for NR overall description and protocol architecture.==
+	- ==TR 38.211 for numerologies, OFDM parameters, and carrier/slot structure==
+	- ==TDD : TR 38.213 for NR TDD with 62 possible slot formats and DL/UL/flexible symbol definitions==
+- ==LTE and 5G== 
+	- ==TR 38.801 for E‑UTRA/NR Dual Connectivity (ENDC) deployment where LTE and 5G coexist.​==
+	- ==TR 37.340 (E‑UTRA and NR; Multi‑connectivity; Stage 2) for EN‑DC / multi‑connectivity operation.==
+	- 3GPP TR 38.811 is a Technical Report from Release 15 that studies adaptations of New Radio (NR) to enable non-terrestrial networks (NTNs), such as satellite and high-altitude platform systems (HAPS)
+	- 3GPP specifications define LTE frequencies in TS 36.101 and 5G NR in TS 38.104/38.101, while channel models appear in dedicated TRs like TR 36.942 for LTE and TR 38.901/TR 38.900 for 5G. Antenna patterns in these models distinguish main lobe (primary) from side lobes (secondary), with parameters for lobe gain, width, and sidelobe levels.[](https://en.wikipedia.org/wiki/LTE_frequency_bands)​
