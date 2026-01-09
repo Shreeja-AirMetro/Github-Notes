@@ -89,3 +89,18 @@ Simu5G currently supports:
 Simu5G supports both StandAlone (SA) and E-UTRA/NR Dual Connectivity (ENDC) deployment. where LTE and 5G coexist (3GPP – TR 38.801). In the ENDC configuration, the gNB works as a Secondary Node (SN) for an LTE eNB, which acts as Master Node (MN) and is connected to the Core Network. the LTE eNB model is imported from [SimuLTE](https://simulte.omnetpp.org/), with which Simu5G is fully compatible. The eNB and the gNB are connected through the X2 interface and all NR traffic needs to go through the eNB. According to (3GPP - TR 37.340), the data flow between the eNB and the gNB
 
 According to (3GPP - TR 37.340), the data flow between the eNB and the gNB is shown below. Data destined to a UE served by the eNB (Master Cell Group – MCG - bearer) follows the LTE protocol stack, whereas data destined to a UE served by the gNB (Secondary Cell Group – SCG - bearer) gets into the NR PDCP entity at the eNB and is transferred to its peering NR RLC entity in the gNB, via the X2 interface. The 3GPP standard also supports Split Bearers (SBs). With this feature, data belonging to the same connection can traverse either the eNB or the gNB. The PDCP layer at the UE side will then reorder PDUs coming from LTE/NR RLC layers.
+
+
+---
+
+### 3GPP Standards
+
+- Rel‑16-oriented NR data‑plane model built around the main NR RAN and radio spec family (38‑series),
+- PHY framing 
+	- TR 38.300 / TR 38.300‑series for NR overall description and protocol architecture.
+	- TR 38.211 for numerologies, OFDM parameters, and carrier/slot structure
+	- TDD : TR 38.213 for NR TDD with 62 possible slot formats and DL/UL/flexible symbol definitions
+- LTE and 5G 
+	- TR 38.801 for E‑UTRA/NR Dual Connectivity (ENDC) deployment where LTE and 5G coexist.​
+	- TR 37.340 (E‑UTRA and NR; Multi‑connectivity; Stage 2) for EN‑DC / multi‑connectivity operation.
+	- 
