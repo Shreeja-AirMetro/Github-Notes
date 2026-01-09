@@ -232,3 +232,5 @@ Reileigh - LOS
 NLOS probability 
 
 Urban micro - LOS and NLOS from 38.777
+Mobility of drones - don't over complicate - linear as car 
+Intercell distance 500m   urban macro case 
