@@ -125,4 +125,8 @@ Janna idea
 - Next meeting 6th october
 - what all go in resource description - Gitlab link 
 - work on the templates and incident report 
+
+12/1
+- Vijaya and Terrence - didn't enter yet 
+- feb/march exams 
 - 
