@@ -1139,6 +1139,11 @@ setup
 12/1
 
 FEEP output to sionna can improve radio map 
+model with RIS - uses FEM 
+Sionna with RIS - doesn't take depth of Physics
+
+Focus: adding a novelty of RIS to network and what it affects URLLC
+
 
 Sionna PHY
 Sample simulation - ray tracing 
@@ -1149,6 +1154,7 @@ Urban environment
 Shreeja: Link level simulator - Sionna | Python| Vienna 5G
 
 Show based on use-case 
+
 
 
 
