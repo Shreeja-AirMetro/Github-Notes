@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Management.md",
+                "file": "Notes/URLLC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Management"
+              "title": "URLLC"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/UTM- Data Mesh.md",
+    "Notes/URLLC.md",
+    "Notes/Data Management.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "TODOS/Jan 2026.md",
     "TODOS/Nov 2025.md",
@@ -196,11 +199,9 @@
     "Notes/OS- VM.md",
     "TODOS/Dec 2025.md",
     "Notes/NTN.md",
-    "Notes/UTM- Data Mesh.md",
     "Notes/UAM-AAM.md",
     "Notes/ROS2 101 with Tushar.md",
     "Notes/RF propogation (T2).md",
-    "Notes/Data Management.md",
     "Notes/Network Coding.md",
     "Notes/Notes -PhD Ideas.md",
     "Notes/Multi-link communication.md",
@@ -210,7 +211,6 @@
     "Notes/Drones.md",
     "Notes/Clementine Flight tests.md",
     "Notes/ATM Satcom terminal.md",
-    "Notes/Air-Air comm.md",
     "Progress- PhD/PhD Project management.mw.mw",
     "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Supported Networking Modes.pdf",
