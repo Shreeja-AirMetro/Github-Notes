@@ -24,4 +24,7 @@ scope of interest
 	Fuctional architecture and information flows|Application layer support for Uncrewed Aerial System (UAS); Functional architecture and information flows|
 	
 2. https://www.3gpp.org/technologies/nr-uav
+	- The Rel-18 WG RAN2-led work is focused on radio measurements, mobility and interference mitigation enhancements that should allow smooth integration of UAVs within the existing NR networks.
+	- As the UAV UE is likely to fly above the rooftops, where Line of Sight (LOS) conditions dominate, it may detect multiple strong neighbour cells and face an increase in interference conditions. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently operates. When the network has such knowledge, it may adapt the UAV UE configurations, ensuring the interference level is kept at minimum.
+	- 
 3. https://www.3gpp.org/technologies/urlcc-2022
