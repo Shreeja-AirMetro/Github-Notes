@@ -22,4 +22,6 @@
 - [ ] Aerial UE implemetation 
 - [ ] State of art and research focus - slide 
 
-### MEETING IN 2 WEEKS - 
+### MEETING IN 2 WEEKS -  Deadline 26.01 
+
+
