@@ -129,4 +129,5 @@ Janna idea
 12/1
 - Vijaya and Terrence - didn't enter yet 
 - feb/march exams 
+- Janna Live system 
 - 
