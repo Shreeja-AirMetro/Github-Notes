@@ -18,4 +18,5 @@ As for the Radio aspects, the Physical Layer is improved for the support of URLL
 scope of interest 
 1. https://www.3gpp.org/technologies/sa6-cc-apps
 2. https://www.3gpp.org/technologies/nr-uav
-3. 
+3. https://www.3gpp.org/technologies/urlcc-2022
+4. 
