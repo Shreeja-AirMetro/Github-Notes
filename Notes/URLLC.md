@@ -28,3 +28,6 @@ scope of interest
 	- As the UAV UE is likely to fly above the rooftops, where Line of Sight (LOS) conditions dominate, it may detect multiple strong neighbour cells and face an increase in interference conditions. Because of that, the NR measurement framework will support height-dependent measurement report triggering (i.e. Events H1 and H2, to be specified in TS 38.331) which will help the network in identifying at what altitude the UAV currently operates. When the network has such knowledge, it may adapt the UAV UE configurations, ensuring the interference level is kept at minimum.
 	- 
 3. https://www.3gpp.org/technologies/urlcc-2022
+https://www.3gpp.org/technologies/tsg-ct-work-on-uas-connectivity-identification-and-tracking
+
+- **UASAPP** - Application layer support for Uncrewed Aerial System: specifies application layer capabilities towards UAS applications on the UAV/UAV Controller and the USS/UTM systems to leverage 3GPP transport capabilities, including support for communication between UAVs within a geographical area, QoS provisioning for C2 communication, monitoring of location deviation, and reporting of UAV events (Refer to [3GPP TS 23.255](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3843))
