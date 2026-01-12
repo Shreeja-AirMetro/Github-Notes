@@ -1161,3 +1161,4 @@ KPIs
 parameters
 
 
+https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
