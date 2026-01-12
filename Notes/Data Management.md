@@ -130,4 +130,8 @@ Janna idea
 - Vijaya and Terrence - didn't enter yet 
 - feb/march exams 
 - Janna Live system 
-- 
+
+
+IT admin
+Contact person
+how do we use it
