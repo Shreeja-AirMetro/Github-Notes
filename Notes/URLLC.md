@@ -20,5 +20,8 @@ scope of interest
 	- 3GPP TSG SA WG6 [(SA6)](https://www.3gpp.org/3gpp-groups/service-system-aspects-sa/sa-wg6) has, since its inception, championed application layer architecture specifications for mission critical systems (public safety, railways) as well as application enabler layer specifications for supporting the integration of 3GPP systems with other verticals such as - V2X, UAS, IoT. Furthermore, SA6 has developed and specified service frameworks, such as the Common API Framework (CAPIF), the Service Enabler Architecture Layer (SEAL) and Edge Application enablement (EDGEAPP).
 	- Rel 17 - II UAS APP
 	- REl 18 UAS APP 2.0
+	- |[TS23.255](https://www.3gpp.org/ftp/Specs/archive/23_series/23.255/)
+	Fuctional architecture and information flows|Application layer support for Uncrewed Aerial System (UAS); Functional architecture and information flows|
+	
 2. https://www.3gpp.org/technologies/nr-uav
 3. https://www.3gpp.org/technologies/urlcc-2022
