@@ -30,4 +30,5 @@ scope of interest
 3. https://www.3gpp.org/technologies/urlcc-2022
 https://www.3gpp.org/technologies/tsg-ct-work-on-uas-connectivity-identification-and-tracking
 
-- **UASAPP** - Application layer support for Uncrewed Aerial System: specifies application layer capabilities towards UAS applications on the UAV/UAV Controller and the USS/UTM systems to leverage 3GPP transport capabilities, including support for communication between UAVs within a geographical area, QoS provisioning for C2 communication, monitoring of location deviation, and reporting of UAV events (Refer to [3GPP TS 23.255](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3843))
+- **UASAPP** - Application layer support for Uncrewed Aerial System: specifies application layer capabilities towards UAS applications on the UAV/UAV Controller and the USS/UTM systems to leverage 3GPP transport capabilities, including support for communication between UAVs within a geographical area, QoS provisioning for C2 communication, monitoring of location deviation, and reporting of UAV events (Refer to [3GPP TS 23.255](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3843)
+
