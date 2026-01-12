@@ -1155,7 +1155,7 @@ Shreeja: Link level simulator - Sionna | Python| Vienna 5G
 
 Show based on use-case 
 
-
+https://www.5gtechnologyworld.com/bler-a-critical-parameter-in-cellular-receiver-performance/
 
 KPIs 
 parameters
