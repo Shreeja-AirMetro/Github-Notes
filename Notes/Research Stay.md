@@ -9,7 +9,8 @@
 - [ ] is height estimation relavant to satellite as it is relavant to cellular 
 - [ ] What is C2 as protocol how mavlink became a protocol how to build a protocol 
 - [ ] how many research on drones in satellite communication and then how multi-technology framework build into this overview
-- [ ] 
+- [ ] what are specific scenarios like flying in alps during avalanche for rescue
+- [ ] In terms of communication Satcom can be backup does this applies to C2 - command and control. How is this different if put equally 
 #### to dos 
 
 - [ ] Simulator parameters
@@ -19,4 +20,6 @@
 - [ ] Run sumo simulation - implement paket 
 - [ ] Data collection 
 - [ ] Aerial UE implemetation 
-- [ ] 
+- [ ] State of art and research focus - slide 
+
+### MEETING IN 2 WEEKS - 
