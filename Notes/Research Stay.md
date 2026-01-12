@@ -2,3 +2,5 @@
 
 #### to dos 
 
+Simulator parameters
+read code, cleanup code and setup simulator for enrique
