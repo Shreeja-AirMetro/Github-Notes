@@ -1133,4 +1133,22 @@ setup
 
 
 - Tabs and papers to read 
-- 
+
+
+---
+12/1
+
+FEEP output to sionna can improve radio map 
+
+Sionna PHY
+Sample simulation - ray tracing 
+SNR and RSSI 
+
+Urban environment 
+
+Shreeja: Link level simulator - Sionna | Python| Vienna 5G
+
+Show based on use-case 
+
+
+
