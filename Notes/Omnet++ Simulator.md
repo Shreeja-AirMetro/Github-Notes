@@ -1,8 +1,12 @@
 
-C++ Rule of three - Memory based coding 
+C++ Rule of three - Memory based coding - dynamically allocated objects and memory
+
 - Copy constructor
 - Copy constructor assignment operator
 - Desructor 
+Rule of 5 in c++
+
+
 Structure of the simulator 
 The simulator is built on the link-level discrete simulation principles of Omnet++. 
 The whole simulator has 2 main contributions at the moment - LEON  (NTN part) and VEINS-LEON which is the integrated TN and NTN for evaluating handover requirements in  V2X scenario.
