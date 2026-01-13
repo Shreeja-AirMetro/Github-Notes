@@ -276,6 +276,8 @@ important physical properties of a signal are the signal duration and the signal
 3. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
 - **`.ned` files:** These define the "blueprints" or structure of a module (what gates/connectors it has).
 - **`.cc` and `.h` files:** These are the C++ files that define how the module actually behaves.
+- `src/` folder is organized to enforce **OSI layer separation** and **interface-based programming*
+- **Design Pattern:** INET uses the **"Strategy Pattern"** extensively. For example, if you look at `inet/networklayer/ipv4/`, you’ll see that the `Ipv4` module doesn't hardcode its routing. Instead, it interacts with an `IRoutingTable` interface. This allows you to swap out static routing for dynamic protocols (OSPF, BGP) without touching the IP core. **`.msg` files:** These are the **Message Definitions**.
 - **Subfolders:** You will see names like `inet/applications`, `inet/transportlayer`, and `inet/networklayer`. These follow the OSI model logic.
 - Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module.
  `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
