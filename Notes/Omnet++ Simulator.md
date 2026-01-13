@@ -325,3 +325,32 @@ Simulation stratergy
 
 
 on top is application setup 
+
+# --- UE1: Sender ---
+*.ue1.numApps = 1
+*.ue1.app[0].typename = "UdpBasicApp"
+*.ue1.app[0].destAddresses = "ue2"      # Target UE2 by its module name
+*.ue1.app[0].destPort = 1000            # Port ue2 is listening on
+*.ue1.app[0].messageLength = 1000B
+*.ue1.app[0].sendInterval = 0.1s        # 10 packets per second
+*.ue1.app[0].startTime = 1s
+
+# --- UE2: Receiver ---
+*.ue2.numApps = 1
+*.ue2.app[0].typename = "UdpSink"       # Simply receives and consumes packets
+*.ue2.app[0].localPort = 1000
+
+
+Then the channel model 
+==HOW TO DEFINE THE CARRIER FREQUENCY AND BANDWIDTH==
+
+.gnb.cellConfigurator.carrierFrequency = 2GHz
+.gnb.cellConfigurator.bandwidth = 20MHz
+
+Realistic channel modeling
+.channelModel.typename = "NRChannelModel"
+.channelModel.scenario = "UMa"  # Urban Macrocell
+
+---
+
+EXECUTION - Build the project Makesure that the INET and Simu5G are checked in project references 
