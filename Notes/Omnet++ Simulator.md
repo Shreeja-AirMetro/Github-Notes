@@ -356,3 +356,8 @@ Realistic channel modeling
 EXECUTION - Build the project Makesure that the INET and Simu5G are checked in project references . 
 Then make sure demo.xml the IPV4 configurator to assign addresses is set to true 
 
+
+==Exporting the packets from a simulation into a PCAP file allows further processing with 3rd party tools. The== ==Packet API provides a PcapDump class for creating PCAP files. Packet filtering can be used to reduce the file== ==size and increase performance.==
+==PcapDump dump;==
+==dump.openPcap("out.pcap", 65535, 0); // maximum length and PCAP type==
+==dump.writePacket(simTime(), packet); // record with current time== 
