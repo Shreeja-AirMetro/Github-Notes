@@ -247,4 +247,5 @@ Intercell distance 500m   urban macro case
 - **`.cc` and `.h` files:** These are the C++ files that define how the module actually behaves.
 - **Subfolders:** You will see names like `inet/applications`, `inet/transportlayer`, and `inet/networklayer`. These follow the OSI model logic.
 - Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module.
-- 
+3. `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
+- **Purpose:** They include a full setup (`.ini`, `.ned`) and a detailed web page explanation
