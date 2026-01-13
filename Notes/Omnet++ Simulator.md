@@ -243,15 +243,24 @@ Intercell distance 500m   urban macro case
 
 1. In OMNeT++, INET isn't just a library; it’s a massive collection of "building blocks" (modules) that you piece together to simulate a network.
 2. INET supports a wide class of communication networks, including wired, wireless, mobile, ad hoc and sensor
-networks. It contains models for the Internet stack (TCP, UDP, IPv4, IPv6, OSPF, BGP, etc.), link layer protocols
-(Ethernet, PPP, IEEE 802.11, various sensor MAC protocols, etc), refined support for the wireless physical layer,
-MANET routing protocols, DiffServ, MPLS with LDP and RSVP-TE signalling, several application models, and
-many other protocols and components. It also provides support for node mobility, advanced visualization, network
-emulation and more.
+	networks. It contains models for the Internet stack (TCP, UDP, IPv4, IPv6, OSPF, BGP, etc.), link layer protocols
+	(Ethernet, PPP, IEEE 802.11, various sensor MAC protocols, etc), refined support for the wireless physical layer,
+	MANET routing protocols, DiffServ, MPLS with LDP and RSVP-TE signalling, several application models, and
+	many other protocols and components. It also provides support for node mobility, advanced visualization, network
+	emulation and more.
+	The Packet data structure is capable of representing application packets, TCP segments, IP datagrams, Ethernet
+	frames, IEEE 802.11 frames, and all kinds of digital data. It is designed to provide efficient storage, duplication,
+	sharing, encapsulation, aggregation, fragmentation, serialization, and data representation selection. Additional
+	functionality, such as support for enqueueing data for transmisson and buffering received data for reassembly
+	and/or for reordering, is provided as separate C++ data structures on top of Packet.
+	The Packet data structure builds on top of another set of data structures called chunks. Chunks provide several alternatives to represent a piece of data. Chunks usually represent application data and protocol headers.
+	Signals always encapsulate a packet and also contain a description of the analog domain representation. The most
+important physical properties of a signal are the signal duration and the signal power.
+	
 3. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
 - **`.ned` files:** These define the "blueprints" or structure of a module (what gates/connectors it has).
 - **`.cc` and `.h` files:** These are the C++ files that define how the module actually behaves.
 - **Subfolders:** You will see names like `inet/applications`, `inet/transportlayer`, and `inet/networklayer`. These follow the OSI model logic.
 - Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module.
-3. `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
+ `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
 - **Purpose:** They include a full setup (`.ini`, `.ned`) and a detailed web page explanation
