@@ -313,4 +313,15 @@ Simulation stratergy
 1. **Infrastructure Mode**, where UE1 sends data to UE2 via the 5G network.
 2. NED File: Before writing the `.ini` file, you need a network topology that includes at least two UEs, a gNodeB, and the 5G Core (UPF). Simu5G provides a template called `SingleCell_Standalone`.
 3. The `.ini` file is where you tell UE1 to "talk" to UE2. For an E2E flow, UE1 will act as a UDP client and UE2 as a UDP server. and a  random seed for reproducibility 
-4. Next is setting up IP 
+4. Next is setting up IP and routing - mask and master cell i d
+5. # IPv4 address assignment
+*.configurator.config = xmldoc("demo.xml") # Or let it auto-configure
+
+# Connect UEs to the gNodeB
+*.ue1.macCellId = 1
+*.ue1.masterId = 1
+*.ue2.macCellId = 1
+*.ue2.masterId = 1
+
+
+on top is application setup 

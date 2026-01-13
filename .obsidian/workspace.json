@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Omnet++ Simulator.md",
+                "file": "TODOS/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omnet++ Simulator"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/Omnet++ Simulator.md",
     "TODOS/Jan 2026.md",
     "Notes/Research Stay.md",
     "Notes/Air-Air comm.md",
@@ -206,7 +207,6 @@
     "Notes/URLLC.md",
     "Notes/UTM- Data Mesh.md",
     "TODOS/Nov 2025.md",
-    "Notes/Omnet++ Simulator.md",
     "Progress- PhD/Future.md",
     "Notes/KPI - Research.md",
     "Notes/open.md",
