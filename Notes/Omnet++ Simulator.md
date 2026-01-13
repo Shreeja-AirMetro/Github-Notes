@@ -279,7 +279,7 @@ important physical properties of a signal are the signal duration and the signal
 - `src/` folder is organized to enforce **OSI layer separation** and **interface-based programming*
 - **Design Pattern:** INET uses the **"Strategy Pattern"** extensively. For example, if you look at `inet/networklayer/ipv4/`, you’ll see that the `Ipv4` module doesn't hardcode its routing. Instead, it interacts with an `IRoutingTable` interface. This allows you to swap out static routing for dynamic protocols (OSPF, BGP) without touching the IP core. **`.msg` files:** These are the **Message Definitions**.
 - **Subfolders:** You will see names like `inet/applications`, `inet/transportlayer`, and `inet/networklayer`. These follow the OSI model logic.
-- Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module.
+- Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module. **`inet/common/`:** This is the "Utility Belt." It contains sophisticated base classes like `INETDefs.h` and specialized units (time, distance, power) that ensure type safety across the framework.
  `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
 - **Purpose:** They include a full setup (`.ini`, `.ned`) and a detailed web page explanation
 - `bin/` (The Tools) This folder contains executable scripts and utilities that help INET run. Usually, as a beginner, you won't need to touch these files directly; the OMNeT++ IDE uses them in the background to build the project and manage "fingerprint" tests (which check if a simulation still gives the same results after a code change).
@@ -287,3 +287,10 @@ important physical properties of a signal are the signal duration and the signal
 - **Purpose:** These scripts help you process the `.vec` (vector) and `.sca` (scalar) result files generated after a simulation run.
 - **Use Case:** If you want to graph the throughput of your network using Matplotlib or Pandas, the tools here help bridge that gap.
 `includes/` (The Shared Library) When you build INET, it creates a set of header files here so that **other projects** (your own simulations) can "see" and use INET's code. It acts as the gateway for your custom project to talk to the INET framework.
+
+### `bin/` — The Build and Execution Pipeline
+Advanced users often need to bypass the IDE for headless execution (e.g., on a High-Performance Computing cluster).
+- **`run_inet`:** A bash/batch script that sets the `NEDPATH` correctly. If you are running parallel simulations with `opp_run`, you need to understand how this script assembles the environment.
+- **`setenv`:** This script exports critical environment variables (`INET_ROOT`, `PATH`). Sourcing this is mandatory for CLI-based workflows or Makefile regeneration.
+
+For an advanced user, **Simu5G** is more than just a 5G library; it is a specialized extension of the **INET Framework** that replaces the generic wireless stack with a high-fidelity, 3GPP-compliant 5G New Radio (NR) implementation.
