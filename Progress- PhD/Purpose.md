@@ -462,3 +462,12 @@ If you want, a next step can be a shortlist of specific PIs and 2–3 representa
 39. [https://dr.ntu.edu.sg/entities/publication/76f76fd7-82d8-4a94-acfc-c474185b0f5e](https://dr.ntu.edu.sg/entities/publication/76f76fd7-82d8-4a94-acfc-c474185b0f5e)
 40. [http://scis.scichina.com/scis-wcuav.html](http://scis.scichina.com/scis-wcuav.html)
 
+
+### What is PHD 
+1. Creation of unknown knowledge or something totally new
+2. https://www.youtube.com/watch?v=mV0bUQpz468 
+3. Research project start with a question 
+4. Make observations and ask questions 
+5. Educated quesses and hypothesis - build methodology 
+6. Conduct methods and evaluate results 
+7. 
