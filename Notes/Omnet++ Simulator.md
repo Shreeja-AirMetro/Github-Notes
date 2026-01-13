@@ -259,7 +259,12 @@ important physical properties of a signal are the signal duration and the signal
 	==Within network nodes, supplementary data often needs to be transmitted alongside a packet. For instance, when an application-layer module intends to transfer data using TCP, it must specify a connection identifier for TCP. Similarly, when TCP transmits a segment via IP, IP requires a destination address, and when IP sends a datagram to an Ethernet interface for transmission, a destination MAC address must be specified.==
 	==Packet tags are not transmitted from one network node to another. All physical layer protocols delete all packet tags from a packet before sending it to the connected peer or to the transmission medium.==
 	==To gather certain statistics, it might be necessary to add metadata to various regions of packet data. For instance, determining the end-to-end delay of a TCP stream necessitates labeling data regions at the source with their creation timestamp. Subsequently, as the data arrives, the receiver calculates the end-to-end delay for each region.==
-	
+	**Packet API provides a PacketDissector class which analyzes a packet solely based on the assigned packet protocol and the actual data it contains.**
+
+
+
+
+
 3. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
 - **`.ned` files:** These define the "blueprints" or structure of a module (what gates/connectors it has).
 - **`.cc` and `.h` files:** These are the C++ files that define how the module actually behaves.
