@@ -353,4 +353,6 @@ Realistic channel modeling
 
 ---
 
-EXECUTION - Build the project Makesure that the INET and Simu5G are checked in project references 
+EXECUTION - Build the project Makesure that the INET and Simu5G are checked in project references . 
+Then make sure demo.xml the IPV4 configurator to assign addresses is set to true 
+
