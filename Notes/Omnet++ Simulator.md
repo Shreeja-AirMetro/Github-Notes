@@ -241,3 +241,5 @@ Intercell distance 500m   urban macro case
 13/1 
 	READING EVERY PART OF THE SIMULATOR 
 
+1. In OMNeT++, INET isn't just a library; it’s a massive collection of "building blocks" (modules) that you piece together to simulate a network.
+2. 
