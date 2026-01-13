@@ -256,6 +256,9 @@ Intercell distance 500m   urban macro case
 	The Packet data structure builds on top of another set of data structures called chunks. Chunks provide several alternatives to represent a piece of data. Chunks usually represent application data and protocol headers.
 	Signals always encapsulate a packet and also contain a description of the analog domain representation. The most
 important physical properties of a signal are the signal duration and the signal power.
+	==Within network nodes, supplementary data often needs to be transmitted alongside a packet. For instance, when an application-layer module intends to transfer data using TCP, it must specify a connection identifier for TCP. Similarly, when TCP transmits a segment via IP, IP requires a destination address, and when IP sends a datagram to an Ethernet interface for transmission, a destination MAC address must be specified.==
+	==Packet tags are not transmitted from one network node to another. All physical layer protocols delete all packet tags from a packet before sending it to the connected peer or to the transmission medium.==
+	==To gather certain statistics, it might be necessary to add metadata to various regions of packet data. For instance, determining the end-to-end delay of a TCP stream necessitates labeling data regions at the source with their creation timestamp. Subsequently, as the data arrives, the receiver calculates the end-to-end delay for each region.==
 	
 3. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
 - **`.ned` files:** These define the "blueprints" or structure of a module (what gates/connectors it has).
