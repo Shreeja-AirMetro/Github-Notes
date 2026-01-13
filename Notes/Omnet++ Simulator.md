@@ -311,7 +311,9 @@ of the layers.
 To support the packet dispatching mechanism, certain additional requirements must be met in C++ code:
 • protocols must be registered using registerProtocol
 • packets must have DispatchProtocolReq tags attached
-
+Applications can simply call the socket class member functions (e.g. bind(), connect(), send(),
+close()) to create and configure sockets, and to send and receive packets. They may also use several different
+sockets simulatenously.
 
 For an advanced user, **Simu5G** is more than just a 5G library; it is a specialized extension of the **INET Framework** that replaces the generic wireless stack with a high-fidelity, 3GPP-compliant 5G New Radio (NR) implementation.
 Simu5G provides the `NrUe` (User Equipment) and `gNodeB` (Base Station) compound modules. These do not just "simulate" 5G; they implement the full data plane:
