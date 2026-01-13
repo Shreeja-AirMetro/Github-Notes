@@ -395,3 +395,7 @@ Then make sure demo.xml the IPV4 configurator to assign addresses is set to true
 ==PcapDump dump;==
 ==dump.openPcap("out.pcap", 65535, 0); // maximum length and PCAP type==
 ==dump.writePacket(simTime(), packet); // record with current time== 
+
+----
+
+Installation guide
