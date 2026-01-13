@@ -294,3 +294,18 @@ Advanced users often need to bypass the IDE for headless execution (e.g., on a H
 - **`setenv`:** This script exports critical environment variables (`INET_ROOT`, `PATH`). Sourcing this is mandatory for CLI-based workflows or Makefile regeneration.
 
 For an advanced user, **Simu5G** is more than just a 5G library; it is a specialized extension of the **INET Framework** that replaces the generic wireless stack with a high-fidelity, 3GPP-compliant 5G New Radio (NR) implementation.
+Simu5G provides the `NrUe` (User Equipment) and `gNodeB` (Base Station) compound modules. These do not just "simulate" 5G; they implement the full data plane:
+
+- **SDAP (Service Data Adaptation Protocol):** Handles QoS flow-to-DRB (Data Radio Bearer) mapping.
+- **PDCP (Packet Data Convergence Protocol):** Manages ciphering and robust header compression (ROHC).
+- **RLC (Radio Link Control):** Implements UM (Unacknowledged) and AM (Acknowledged) modes with segmentation.
+- **MAC Layer:** Includes complex **Resource Schedulers** (Proportional Fair, Round Robin, MAX C/I) that operate on Resource Blocks (RBs) in the frequency/time domain.
+### hysical Layer Fidelity
+
+Unlike INET's simpler unit-disk or scalar radio models, Simu5G uses:
+
+- **Numerology Support:** Configuration of different subcarrier spacings ($15, 30, 60, 120\text{ kHz}$).
+    
+- **Channel Modeling:** Integration of realistic path loss (UMi, UMa), fast fading, and shadowing models.
+    
+- **CQI/SINR Feedback:** A closed-loop system where UEs report Channel Quality Indicators back to the gNB for adaptive modulation and coding (AMC).
