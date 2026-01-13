@@ -399,3 +399,25 @@ Then make sure demo.xml the IPV4 configurator to assign addresses is set to true
 ----
 
 Installation guide
+
+The current codebase is available in [https://datashare.tu-dresden.de/s/DHQjt6zsZDXGZFG](https://datashare.tu-dresden.de/s/DHQjt6zsZDXGZFG) (Omnetpp_51525v1.zip)
+
+This codebase is the foundation for DA-Lyuqiao and Air segment inclusion workpackage by Shreeja
+
+System recommendations: OS: Linux (Ubuntu 22.04 recommended)  
+CPU: x86_64 RAM: ≥ 4 GB
+
+Simulator recommendations: Omnet++ - version 6.0.1 Sumo - version 1.22.0 General dependencies: python >= 3.10, C++, CMake, Java Specific dependencies: INET 4.5 framework, OS3, Simu5G, Veins, Iridium LEO based satcom TLE file
+
+Output file type: csv, pcap and plot viewer (Omnet++ default)
+
+Reference links: Omnet++ Documentation - [https://omnetpp.org/documentation/](https://omnetpp.org/documentation/) Omnet++ - [https://doc.omnetpp.org/omnetpp/InstallGuide.pdf](https://doc.omnetpp.org/omnetpp/InstallGuide.pdf) Sumo - [https://github.com/eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) Veins - [https://veins.car2x.org/documentation/](https://veins.car2x.org/documentation/) INET framework - [https://inet.omnetpp.org/](https://inet.omnetpp.org/) Simu5G - [https://simu5g.org/](https://simu5g.org/)
+
+Installation and Building the project:
+
+1. Install INET 4.5 framework and Simu 5G. Else the corresponding package can be imported from the above codebase
+2. Setup Veins into the same working repository.
+3. Install Sumo
+4. Build INET 4.5 (select build all-> configurations)
+5. Install OS3 (make sure to import ubuntu curl package)
+6. Compile and run in the following order - INET4.5 -> Simu 5G-> OS3 -> LEON-> Veins -> Veins-leon (Lyuqiao DA part)
