@@ -315,6 +315,18 @@ Applications can simply call the socket class member functions (e.g. bind(), con
 close()) to create and configure sockets, and to send and receive packets. They may also use several different
 sockets simulatenously.
 
+The L3Socket class provides an easy to use C++ interface to send and receive datagrams using the conceptual
+network protocols. The underlying network protocols are implemented in the NextHopForwarding, Flooding,
+ProbabilisticBroadcast, and AdaptiveProbabilisticBroadcast modules. - ==IS IT USED; IF WHERE???==
+
+The TunSocket class provides an easy to use C++ interface to send and receive datagrams using a TUN interface.
+The underlying TUN interface is implemented in the Tun module.
+A TUN interface is basically a virtual network interface which is usually connected to an application (from the
+outside) instead of other network devices. It can be used for many networking tasks such as tunneling, or virtual
+private networking
+
+
+
 For an advanced user, **Simu5G** is more than just a 5G library; it is a specialized extension of the **INET Framework** that replaces the generic wireless stack with a high-fidelity, 3GPP-compliant 5G New Radio (NR) implementation.
 Simu5G provides the `NrUe` (User Equipment) and `gNodeB` (Base Station) compound modules. These do not just "simulate" 5G; they implement the full data plane:
 
