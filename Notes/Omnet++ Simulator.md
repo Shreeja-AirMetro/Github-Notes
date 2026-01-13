@@ -242,7 +242,13 @@ Intercell distance 500m   urban macro case
 	READING EVERY PART OF THE SIMULATOR 
 
 1. In OMNeT++, INET isn't just a library; it’s a massive collection of "building blocks" (modules) that you piece together to simulate a network.
-2. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
+2. INET supports a wide class of communication networks, including wired, wireless, mobile, ad hoc and sensor
+networks. It contains models for the Internet stack (TCP, UDP, IPv4, IPv6, OSPF, BGP, etc.), link layer protocols
+(Ethernet, PPP, IEEE 802.11, various sensor MAC protocols, etc), refined support for the wireless physical layer,
+MANET routing protocols, DiffServ, MPLS with LDP and RSVP-TE signalling, several application models, and
+many other protocols and components. It also provides support for node mobility, advanced visualization, network
+emulation and more.
+3. `src/` (The Engine Room) - This is the most important folder. It contains the actual logic for every protocol (TCP, IP, UDP, etc.) and device (Routers, Hosts, Switches) in INET.
 - **`.ned` files:** These define the "blueprints" or structure of a module (what gates/connectors it has).
 - **`.cc` and `.h` files:** These are the C++ files that define how the module actually behaves.
 - **Subfolders:** You will see names like `inet/applications`, `inet/transportlayer`, and `inet/networklayer`. These follow the OSI model logic.
