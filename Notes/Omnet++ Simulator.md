@@ -1,4 +1,10 @@
 
+
+
+C++ Rule of three
+- Copy constructor
+- Copy constructor assignment 
+- Desructor 
 Structure of the simulator 
 The simulator is built on the link-level discrete simulation principles of Omnet++. 
 The whole simulator has 2 main contributions at the moment - LEON  (NTN part) and VEINS-LEON which is the integrated TN and NTN for evaluating handover requirements in  V2X scenario.
