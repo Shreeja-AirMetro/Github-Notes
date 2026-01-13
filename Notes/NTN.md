@@ -987,3 +987,19 @@ Then Application part  - 3 layered structure
 User equipment handover between servicing cell 
 
 30 runs of simulation 
+
+CQI is a quantized, reported value based on SINR, indicating the best MCS for the network to use, optimizing data rates while ensuring reliable communication by translating a specific SINR into an appropriate data-carrying capacity. In short, the UE measures SINR and reports a CQI index to eNB, which then selects the best MCS for the UE.
+SINR (Signal-to-Interference-plus-Noise Ratio)
+What it is: A precise ratio of desired signal power to the combined power of interference and background noise.
+Role: A direct, technical measurement of radio channel quality.
+Measurement: Calculated by the UE from received reference signals.
+Value: A continuous or finely granular value (e.g., in dB).
+CQI (Channel Quality Indicator)
+What it is: A feedback value that represents the overall health of the channel, indicating how much data can be reliably sent.
+Role: To inform the base station about the optimal data rate the UE can handle.
+Generation: Derived from the measured SINR through a predefined mapping table.
+Value: A discrete index (e.g., 0 to 15 in LTE), mapping to specific MCS levels (like QPSK, 16QAM, 64QAM).
+Key Relationship & Difference
+SINR drives CQI: Higher SINR means better channel quality, leading to a higher CQI index.
+CQI enables adaptation: The base station uses the CQI to select an MCS (Modulation and Coding Scheme) to maximize throughput without exceeding a target error rate (BLER).
+Analogy: SINR is like the precise temperature reading in a room, while CQI is like the thermostat setting (e.g., "comfortable," "warm") the device tells the system to use for heating/cooling.
