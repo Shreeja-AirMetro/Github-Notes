@@ -272,3 +272,8 @@ important physical properties of a signal are the signal duration and the signal
 - Routing tables and IP addresses for the interfaces must be configured by the IPv4NetworkConfigurator module.
  `showcases/` (The "Look What I Can Do" Gallery) Think of these as **interactive demonstrations**. Each showcase focuses on a specific feature—like "Wireless Signal Propagation" or "Energy Consumption."
 - **Purpose:** They include a full setup (`.ini`, `.ned`) and a detailed web page explanation
+- `bin/` (The Tools) This folder contains executable scripts and utilities that help INET run. Usually, as a beginner, you won't need to touch these files directly; the OMNeT++ IDE uses them in the background to build the project and manage "fingerprint" tests (which check if a simulation still gives the same results after a code change).
+`python/` (The Data Assistant) - OMNeT++ and INET are moving toward using Python for **data analysis**.
+- **Purpose:** These scripts help you process the `.vec` (vector) and `.sca` (scalar) result files generated after a simulation run.
+- **Use Case:** If you want to graph the throughput of your network using Matplotlib or Pandas, the tools here help bridge that gap.
+`includes/` (The Shared Library) When you build INET, it creates a set of header files here so that **other projects** (your own simulations) can "see" and use INET's code. It acts as the gateway for your custom project to talk to the INET framework.
