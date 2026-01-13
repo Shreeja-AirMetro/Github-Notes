@@ -300,12 +300,17 @@ Simu5G provides the `NrUe` (User Equipment) and `gNodeB` (Base Station) compound
 - **PDCP (Packet Data Convergence Protocol):** Manages ciphering and robust header compression (ROHC).
 - **RLC (Radio Link Control):** Implements UM (Unacknowledged) and AM (Acknowledged) modes with segmentation.
 - **MAC Layer:** Includes complex **Resource Schedulers** (Proportional Fair, Round Robin, MAX C/I) that operate on Resource Blocks (RBs) in the frequency/time domain.
-### hysical Layer Fidelity
-
+- Physical Layer Fidelity
 Unlike INET's simpler unit-disk or scalar radio models, Simu5G uses:
 
 - **Numerology Support:** Configuration of different subcarrier spacings ($15, 30, 60, 120\text{ kHz}$).
-    
 - **Channel Modeling:** Integration of realistic path loss (UMi, UMa), fast fading, and shadowing models.
-    
 - **CQI/SINR Feedback:** A closed-loop system where UEs report Channel Quality Indicators back to the gNB for adaptive modulation and coding (AMC).
+
+---
+
+Simulation stratergy 
+1. **Infrastructure Mode**, where UE1 sends data to UE2 via the 5G network.
+2. NED File: Before writing the `.ini` file, you need a network topology that includes at least two UEs, a gNodeB, and the 5G Core (UPF). Simu5G provides a template called `SingleCell_Standalone`.
+3. The `.ini` file is where you tell UE1 to "talk" to UE2. For an E2E flow, UE1 will act as a UDP client and UE2 as a UDP server. and a  random seed for reproducibility 
+4. Next is setting up IP 
