@@ -1,9 +1,7 @@
 
-
-
-C++ Rule of three
+C++ Rule of three - Memory based coding 
 - Copy constructor
-- Copy constructor assignment 
+- Copy constructor assignment operator
 - Desructor 
 Structure of the simulator 
 The simulator is built on the link-level discrete simulation principles of Omnet++. 
