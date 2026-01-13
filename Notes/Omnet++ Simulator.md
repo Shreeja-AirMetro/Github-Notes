@@ -293,6 +293,26 @@ Advanced users often need to bypass the IDE for headless execution (e.g., on a H
 - **`run_inet`:** A bash/batch script that sets the `NEDPATH` correctly. If you are running parallel simulations with `opp_run`, you need to understand how this script assembles the environment.
 - **`setenv`:** This script exports critical environment variables (`INET_ROOT`, `PATH`). Sourcing this is mandatory for CLI-based workflows or Makefile regeneration.
 
+Inside a network node, protocol modules interact with one another by sending Packet or Message objects.
+INET is very flexible in terms of what structure the protocol modules can be connected. Protocols can be connected
+directly to each other, or they can be connected through one or more MessageDispatcher modules. This flexibility
+allows for the creation of both simple and complex network node architectures.
+Simple network nodes can be constructed, for example, using a linear protocol stack, where protocol modules are
+directly connected to one another without using message dispatcher modules.
+![[Pasted image 20260113122900.png]]
+
+
+More complex network nodes can be created by grouping protocols into layers and connecting them through
+MessageDispatcher modules, which facilitates many-to-one and many-to-many relationships among the protocols
+of the layers.
+
+![[Pasted image 20260113122918.png]]
+
+To support the packet dispatching mechanism, certain additional requirements must be met in C++ code:
+• protocols must be registered using registerProtocol
+• packets must have DispatchProtocolReq tags attached
+
+
 For an advanced user, **Simu5G** is more than just a 5G library; it is a specialized extension of the **INET Framework** that replaces the generic wireless stack with a high-fidelity, 3GPP-compliant 5G New Radio (NR) implementation.
 Simu5G provides the `NrUe` (User Equipment) and `gNodeB` (Base Station) compound modules. These do not just "simulate" 5G; they implement the full data plane:
 
