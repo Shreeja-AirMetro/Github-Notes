@@ -421,3 +421,9 @@ Installation and Building the project:
 4. Build INET 4.5 (select build all-> configurations)
 5. Install OS3 (make sure to import ubuntu curl package)
 6. Compile and run in the following order - INET4.5 -> Simu 5G-> OS3 -> LEON-> Veins -> Veins-leon (Lyuqiao DA part)
+
+
+
+---
+
+

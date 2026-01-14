@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Jan 2026.md",
+                "file": "Notes/Omnet++ Simulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan 2026"
+              "title": "Omnet++ Simulator"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/open.md",
+    "TODOS/Jan 2026.md",
     "Notes/Omnet++ Simulator.md",
     "Notes/NTN.md",
-    "TODOS/Jan 2026.md",
     "Pasted image 20260113122918.png",
     "Pasted image 20260113122900.png",
     "Progress- PhD/Purpose.md",
@@ -212,7 +213,6 @@
     "Notes/ROS2 101 with Tushar.md",
     "Notes/URLLC.md",
     "Notes/UTM- Data Mesh.md",
-    "TODOS/Nov 2025.md",
     "Progress- PhD/PhD Project management.mw.mw",
     "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Supported Networking Modes.pdf",
