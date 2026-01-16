@@ -159,5 +159,7 @@ how do we use it
 	2. Dimension (L * B * W)
 	3. Antenna Connector (SMA, RP-SMA)
 	4. MIMO Configuration (1 * 1, 2* 2 )
-	5. Antenna Radiation (eg: directional, omnidirectional.phased array)
-Other link , photo section 
+	5. Antenna pattern (eg: isotropic, TR39901)
+	6. Transmit power (in dBm)
+	7. Polarization (vertical, horizontal, cross, etc.)
+Rest similar  to other templates: links , reference image, text description
