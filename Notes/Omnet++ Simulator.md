@@ -461,3 +461,12 @@ Check mobility model
 
 Setup application params - Check using packet 
 
+Check /activate - 38901
+
+In order to start UAV as UE
+1. Do veins support UAV
+2. If so what to change
+3. If not how to integrate the TN and NTN for UAV part  
+
+SOlve this by 19th Jan 
+
