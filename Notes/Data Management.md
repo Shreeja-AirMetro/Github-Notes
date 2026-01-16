@@ -157,4 +157,6 @@ how do we use it
 	1. Weight (in grams)
 	2. Dimension (L * B * W)
 	3. Antenna Connector (SMA, RP-SMA)
-	4. Antenna Radiation (eg: directional, omnidirectional)
+	4. MIMO Configuration (1 * 1, 2* 2 )
+	5. Antenna Radiation (eg: directional, omnidirectional)
+	6. 
