@@ -135,3 +135,16 @@ Janna idea
 IT admin
 Contact person
 how do we use it
+
+---
+
+16/1
+ # ELabFTW  communication module template
+
+1. General contact - Storage information 
+2. General Device information
+	1. Item name  (eg: RC system, telemetry radio )
+	2.  Model and Make (holybro, SIYI MK15)
+	3. Category/type: It can be a dropdown list with following options - Cellular dongle | Telemetry | Satcom | RC System 
+3. Technical Specification 
+	1. Frequency bands (eg: 2)
