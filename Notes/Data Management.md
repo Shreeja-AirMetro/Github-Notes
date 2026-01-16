@@ -146,5 +146,15 @@ how do we use it
 	1. Item name  (eg: RC system, telemetry radio )
 	2.  Model and Make (holybro, SIYI MK15)
 	3. Category/type: It can be a dropdown list with following options - Cellular dongle | Telemetry | Satcom | RC System 
+	4. Max range (eg 15 km, global )
+	5. Firmware version (eg v1.14)
 3. Technical Specification 
-	1. Frequency bands (eg: 2)
+	1. Frequency bands (eg: 433 Mhz, LTE Band 20)
+	2. Protocol: (eg: MavLink, S.Bus)
+	3. Interface: (eg: USB-c, Ethernet, SPI)
+	4. Power Input (eg : 5V USB)
+4. Physical specification
+	1. Weight (in grams)
+	2. Dimension (L * B * W)
+	3. Antenna Connector (SMA, RP-SMA)
+	4. Antenna Radiation (eg: directional, omnidirectional)
