@@ -160,4 +160,4 @@ how do we use it
 	3. Antenna Connector (SMA, RP-SMA)
 	4. MIMO Configuration (1 * 1, 2* 2 )
 	5. Antenna Radiation (eg: directional, omnidirectional.phased array)
-OPt
+Other link , photo section 
