@@ -427,3 +427,33 @@ Installation and Building the project:
 ---
 
 
+what are the factors that fine tune the simulation 
+
+1. Floor plan  - min max area coverage in x, y and z axis
+**.**.downlink_interference = false
+**.uplink_interference = false
+**.ueTxPower = 26dBm
+**.eNodeBTxPower = 46dBm
+**.targetBler = 0.01
+**.blerShift = 150 # TODO！！！！！！find the right value, the phyPisa data is not suitable for NTN, CQI is 0
+**.fbPeriod = 40tti   # reports CQI every 40ms
+
+Network routing - "global Arp" NTN 
+Channel model is 38811
+Check the following value 
+# Channel Module Configuration
+**.fading = true
+**.bgCell_interference = false
+**.extCell_interference = false
+**.d2d_interference = false
+**.enable_extCell_los = false
+**.shadowing = true
+**.cable_loss= 0 dB
+**.thermalNoise = -69.06 dBm #300K
+**.bs_noise_figure = 28.9 dBm
+**.ue_noise_figure = 0 dBm
+**.antennGainEnB = 51 dBi
+**.antennaGainUe = 4 dBi
+
+
+Check carrier aggregation 
