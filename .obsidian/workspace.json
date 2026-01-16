@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data Management.md",
+                "file": "TODOS/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Management"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2587a5c2840f256a",
   "lastOpenFiles": [
+    "Notes/Data Management.md",
     "TODOS/Jan 2026.md",
     "Notes/Omnet++ Simulator.md",
     "Notes/open.md",
@@ -198,7 +199,6 @@
     "Notes/Air-Air comm.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Drones.md",
-    "Notes/Data Management.md",
     "Notes/Aviation Standards.md",
     "Notes/ATM Satcom terminal.md",
     "Paper-Writing/CeTI book.md",
