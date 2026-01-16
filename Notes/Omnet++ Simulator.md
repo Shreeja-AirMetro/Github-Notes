@@ -457,3 +457,7 @@ Check the following value
 
 
 Check carrier aggregation 
+Check mobility model
+
+Setup application params - Check using packet 
+
