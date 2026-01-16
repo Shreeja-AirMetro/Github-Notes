@@ -144,10 +144,11 @@ how do we use it
 1. General contact - Storage information 
 2. General Device information
 	1. Item name  (eg: RC system, telemetry radio )
-	2.  Model and Make (holybro, SIYI MK15)
-	3. Category/type: It can be a dropdown list with following options - Cellular dongle | Telemetry | Satcom | RC System 
-	4. Max range (eg 15 km, global )
-	5. Firmware version (eg v1.14)
+	2. No of nodes (eg: 2 devices for RC system - TX and RX)
+	3.  Model and Make (holybro, SIYI MK15)
+	4. Category/type: It can be a dropdown list with following options - Cellular dongle | Telemetry | Satcom | RC System 
+	5. Max range (eg 15 km, global )
+	6. Firmware version (eg v1.14)
 3. Technical Specification 
 	1. Frequency bands (eg: 433 Mhz, LTE Band 20)
 	2. Protocol: (eg: MavLink, S.Bus)
@@ -158,5 +159,5 @@ how do we use it
 	2. Dimension (L * B * W)
 	3. Antenna Connector (SMA, RP-SMA)
 	4. MIMO Configuration (1 * 1, 2* 2 )
-	5. Antenna Radiation (eg: directional, omnidirectional)
-	6. 
+	5. Antenna Radiation (eg: directional, omnidirectional.phased array)
+OPt
