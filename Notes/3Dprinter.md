@@ -15,5 +15,5 @@ Sven and Robert
 - QLC 
 - printing edges - needs carful consideration
 - If model is big - effects 
-- Printing process - plastic resyn materials 
+- Printing process - plastic resin materials 
 - 
