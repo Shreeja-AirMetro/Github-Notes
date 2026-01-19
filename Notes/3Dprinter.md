@@ -10,4 +10,5 @@ Sven and Robert
 - keep it clean - throw away - what's step of cleaning? 
 - How often cleaning 
 - when to find something stuck - clean it 
+- 3D printing is layer by layer - connecting / orientation between horizontal layer is not present - must think well - design 
 - 
