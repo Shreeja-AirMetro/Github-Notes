@@ -18,4 +18,6 @@ Sven and Robert
 - Printing process - plastic resin materials 
 - inside filling - critical 
 - the less the faster - but stability?
+- right and left nossel - filament 
+- choosing plate 
 - 
