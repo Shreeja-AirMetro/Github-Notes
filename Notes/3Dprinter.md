@@ -20,4 +20,6 @@ Sven and Robert
 - the less the faster - but stability?
 - right and left nossel - filament 
 - choosing plate 
-- 
+
+
+--- calibration before printing

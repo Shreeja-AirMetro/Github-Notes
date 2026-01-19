@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper-Writing/WCNC.md",
+                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WCNC"
+              "title": "IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "Notes/3Dprinter.md",
+    "Paper-Writing/WCNC.md",
     "Paper-Writing/VTC - Conf.md",
     "Paper-Writing/T58.md",
     "Paper-Writing/REVIEW.md",
@@ -193,7 +195,6 @@
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Paper-Writing/IEEE Survey.md",
-    "Notes/3Dprinter.md",
     "TODOS/Jan 2026.md",
     "Notes/Omnet++ Simulator.md",
     "Notes/Klagenfurt visit.md",
@@ -215,7 +216,6 @@
     "Notes/Aviation Standards.md",
     "Notes/ATM Satcom terminal.md",
     "Paper-Writing/CeTI book.md",
-    "Notes/ROS2 101 with Tushar.md",
     "Progress- PhD/PhD Project management.mw.mw",
     "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Supported Networking Modes.pdf",
