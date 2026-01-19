@@ -16,4 +16,5 @@ Sven and Robert
 - printing edges - needs carful consideration
 - If model is big - effects 
 - Printing process - plastic resin materials 
+- inside filling - critical 
 - 
