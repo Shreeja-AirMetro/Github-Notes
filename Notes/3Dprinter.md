@@ -27,3 +27,6 @@ calibration before printing
 reinforcement on the edges/ outermost layers  for pressure
  reduce an infill 
  outer layer are the constraints 
+ material cooling and heating - temperature resistance and robustness is important
+ 
+ 
