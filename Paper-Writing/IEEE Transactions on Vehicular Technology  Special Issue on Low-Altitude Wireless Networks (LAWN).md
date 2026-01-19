@@ -1178,4 +1178,4 @@ https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
 ### Big picture
 
 - RIS is assumed to have access to channel state information (CSI)
-- 
+- control the no of RIS element 
