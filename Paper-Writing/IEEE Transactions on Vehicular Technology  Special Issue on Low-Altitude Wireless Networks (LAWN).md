@@ -1162,3 +1162,14 @@ parameters
 
 
 https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
+
+---
+
+- [ ] LAWN paper 
+	- [ ] To do plan and idea
+	- [ ] Read 3GPP 38811, 38901, UAV as UE 3GPP and Base station 
+	- [ ] Background
+	- [ ] Simulation and to dos 
+	- [ ] Start writing 
+
+
