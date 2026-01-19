@@ -9,3 +9,5 @@ Sven and Robert
 - Metal printing is the future - energy intensive
 - keep it clean - throw away - what's step of cleaning? 
 - How often cleaning 
+- when to find something stuck - clean it 
+- 
