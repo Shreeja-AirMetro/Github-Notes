@@ -13,4 +13,5 @@ Sven and Robert
 - 3D printing is layer by layer - connecting / orientation between horizontal layer is not present - must think well - design 
 - PLA material 
 - QLC 
-- printing edges 
+- printing edges - needs carful consideration
+- If model is big - effects 

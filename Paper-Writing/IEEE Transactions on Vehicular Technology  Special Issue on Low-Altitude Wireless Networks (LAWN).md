@@ -1173,3 +1173,7 @@ https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
 	- [ ] Start writing 
 
 
+---
+
+### Big picture
+
