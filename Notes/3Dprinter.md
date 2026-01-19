@@ -17,4 +17,5 @@ Sven and Robert
 - If model is big - effects 
 - Printing process - plastic resin materials 
 - inside filling - critical 
+- the less the faster - but stability?
 - 
