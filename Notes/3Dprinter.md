@@ -12,4 +12,5 @@ Sven and Robert
 - when to find something stuck - clean it 
 - 3D printing is layer by layer - connecting / orientation between horizontal layer is not present - must think well - design 
 - PLA material 
-- 
+- QLC 
+- printing edges 
