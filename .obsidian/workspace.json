@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Jan 2026.md",
+                "file": "TODOS/2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan 2026"
+              "title": "2026"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "TODOS/Jan 2026.md",
     "TODOS/2026.md",
     "2026 Calendar.pdf",
-    "TODOS/Jan 2026.md",
     "Notes/3Dprinter.md",
     "Notes/Air-Air comm.md",
     "Notes/Omnet++ Simulator.md",
