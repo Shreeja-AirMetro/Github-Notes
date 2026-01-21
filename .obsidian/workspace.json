@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/2026.md",
+                "file": "TODOS/Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026"
+              "title": "Jan 2026"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "TODOS/2026.md",
     "2026 Calendar.pdf",
     "TODOS/Jan 2026.md",
-    "TODOS/2026.md",
     "Notes/3Dprinter.md",
     "Notes/Air-Air comm.md",
     "Notes/Omnet++ Simulator.md",
@@ -227,7 +227,6 @@
     "Pasted image 20251120144703.png",
     "Pasted image 20251120144617.png",
     "Pasted image 20251120143700.png",
-    "Ex-for dronnect-whitepaper.pdf",
     "Pasted image 20251117100139.png",
     "Pasted image 20251104154826.png",
     "archi-SAN.png",
