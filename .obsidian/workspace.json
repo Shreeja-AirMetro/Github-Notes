@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Omnet++ Simulator.md",
+                "file": "2026-01-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omnet++ Simulator"
+              "title": "2026-01-22"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "Notes/Omnet++ Simulator.md",
+    "2026-01-22.md",
     "Screenshot from 2026-01-22 11-50-27.png",
     "Screenshot from 2026-01-22 11-48-06.png",
     "Screenshot from 2026-01-22 11-43-53.png",
@@ -193,7 +195,6 @@
     "Progress- PhD/First TAC meeting.md",
     "TODOS/2026.md",
     "TODOS/Jan 2026.md",
-    "Notes/Omnet++ Simulator.md",
     "Notes/RF propogation (T2).md",
     "Notes/Research Stay.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
@@ -230,7 +231,6 @@
     "Pasted image 20251120145437.png",
     "Pasted image 20251120144902.png",
     "Pasted image 20251120144703.png",
-    "Pasted image 20251120144617.png",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
