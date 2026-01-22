@@ -485,3 +485,7 @@ LOS probability
 ![[Screenshot from 2026-01-22 11-43-53.png]]
 
 Spatially-consistent UT/BS mobility modelling For mobility simulation enhancement, two alternative spatial consistency procedures – Procedure A and Procedure B – are described as follows. The procedures presented below consider the downlink direction same as in Clause 7.5. Procedure A: For t0 = 0 when a UT/BS is dropped into the network, spatially consistent powers/delays/angles of clusters are generated according to Clause 7.6.3.1.
+
+![[Screenshot from 2026-01-22 11-48-06.png]]
+
+![[Screenshot from 2026-01-22 11-50-27.png]]
