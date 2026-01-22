@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/First TAC meeting.md",
+                "file": "Notes/Omnet++ Simulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First TAC meeting"
+              "title": "Omnet++ Simulator"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "Screenshot from 2026-01-22 11-40-56.png",
+    "Progress- PhD/First TAC meeting.md",
     "TODOS/2026.md",
     "TODOS/Jan 2026.md",
     "Notes/Omnet++ Simulator.md",
@@ -215,8 +217,6 @@
     "Progress- PhD/Purpose.md",
     "Progress- PhD/Presentations.md",
     "Progress- PhD/Idea - Research Gap.md",
-    "Notes/GA -GSC Modules.md",
-    "Notes/Drones.md",
     "Progress- PhD/PhD Project management.mw.mw",
     "ATMD-TUD-PR-25-005_Certus_Airtime.pdf",
     "Supported Networking Modes.pdf",
