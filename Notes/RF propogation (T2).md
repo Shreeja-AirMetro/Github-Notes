@@ -326,3 +326,18 @@ def calculate_per(snr, k_bits, n_blocklength):
     
 
 **Would you like me to provide the LaTeX format for the Finite Blocklength (PER) equations to include in your Section III?**
+
+---
+### Visualizing the 10 MHz Slice in an Urban Canyon
+
+---
+
+### The "Loop" for your 14-page Paper:
+
+Since you are the "Logical Link" person, your results should show **Spectral Efficiency**.
+1. **Plot PER vs. Bandwidth:** Show that increasing from 1 MHz to 10 MHz drastically improves reliability (due to diversity).
+    
+2. **Plot PER vs. Bandwidth (beyond 10 MHz):** Show that increasing from 10 MHz to 50 MHz provides **diminishing returns** for a small C2 packet.
+    
+
+- _This "Saturation Curve" is a great graph to include to prove 10 MHz is the optimal choice._
