@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PhD",
+                "query": "tag:#Topic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec4ca928dee7c813",
+  "active": "afb092e45cbe1933",
   "lastOpenFiles": [
     "Notes/Omnet++ Simulator.md",
     "2026-01-22.md",
