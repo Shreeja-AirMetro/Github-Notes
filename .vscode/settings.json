@@ -1,0 +1,12 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "jupyter-notebook": true,
+        "vscode.audioPreview": true,
+        "imagePreview.previewEditor": true,
+        "vscode.videoPreview": true,
+        "markdown-preview-enhanced": true,
+        "pdf.preview": true
+    },
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true
+}
