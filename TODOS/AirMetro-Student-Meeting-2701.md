@@ -104,18 +104,23 @@ Status and completion of elabFTW
 # Tasks in Pipeline 
 5. Open Tasks on Jetson 
 6. Ahmed's new hardware
-7. Tianxiong-Crazy flie , Intel Depthsense camera 
+7. Tianxiong-Crazy flies, Intel Depthsense camera 
 
 # Work Plan 
 
 
 ---
 # Work Schedule 
+- 10 days vacation for 6 months contract 
+- 10 hours per week - Monthly  maximum 43.5 hours
+- Jan to June 2026 - total required work hours : 238-241 hours
 
 # Ayushmann
 Start and Planned Working days : 
 Exam or other breaks: 
 Compensation hours : Pending 40 hours
+
+---
 
 # Vijaya 
 
@@ -123,7 +128,6 @@ Current pending working days:
 Planned Break for exam:
 Re-start Date: 
 
----
 
 # Terrence: 
 
@@ -133,6 +137,8 @@ Vacation days:
 Contract from April or May :  10 hours per week 
 Re-start Date: 
 Compensation hours: 
+
+---
 
 # Next Meeting: 
 Vijaya and Terrence: 
