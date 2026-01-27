@@ -11,14 +11,12 @@
             "id": "ec4ca928dee7c813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
-                "mode": "source",
-                "source": false
+                "file": "Paper-Writing/LAWN-Paper.pdf"
               },
-              "icon": "lucide-file",
-              "title": "IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN)"
+              "icon": "lucide-file-text",
+              "title": "LAWN-Paper"
             }
           }
         ]
@@ -185,6 +183,7 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "TODOS/Jan 2026.md",
     "Paper-Writing/LAWN-Paper.pdf",
     "Paper-Writing/LAWN-Paper.md",
@@ -203,7 +202,6 @@
     "TODOS/2026.md",
     "Notes/RF propogation (T2).md",
     "Notes/Research Stay.md",
-    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Progress- PhD/Future.md",
     "2026 Calendar.pdf",
     "Notes/3Dprinter.md",
