@@ -1183,4 +1183,14 @@ https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
 
 
 ---
-RF eta materials 
+Meeting with Enrique 26/1
+
+RF meta materials for AAM 
+Effect of external environment
+
+
+reflection - impact on meta materials 
+
+voltage applied  - to control reflection of signal 
+- Maxwell equations 
+- why not laplacian - passive - vector 
