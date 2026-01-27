@@ -42,7 +42,7 @@ Contact: 1. Tushar, Roshan  2. Rest of team
  - Bianca Fricke (Project Admin)
  - Janna Little (Data Manager)
 
-Hardware people (Tushar, Roshan, Felix, tianxiong, Ahmed, Chao and Shreeja)
+Hardware people (Tushar, Roshan, Felix,  ianxiong, Ahmed, Chao and Shreeja)
 
 ---
 # Summary and To Dos (3/3)
