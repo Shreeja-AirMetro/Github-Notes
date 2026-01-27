@@ -1199,4 +1199,12 @@ voltage applied  - to control reflection of signal
 - Multi-physics - FEM 
 Phenoic - 
 Thermo EM coupling - different time scales  - 
-Thermal field - 
+Thermal field 
+Time field - Thermo mechanical  - difference indistance between unit cell 
+plastic deformation - reflectivity properties 
+
+- Pollarization 
+- - u and v 
+- CIR 
+- CSI 
+- 
