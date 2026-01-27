@@ -80,3 +80,4 @@ Simulation setup:
 2. What is Real-Time here for CSI?  CSI might be outdated as drone is constantly mobile?
 2. Details on RIS phase updates - useful?
 3. FEM not included. Still Novelty seen?
+

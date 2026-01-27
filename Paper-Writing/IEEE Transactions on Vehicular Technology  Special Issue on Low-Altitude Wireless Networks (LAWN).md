@@ -1207,4 +1207,8 @@ plastic deformation - reflectivity properties
 - - u and v 
 - CIR 
 - CSI 
-- 
+-
+
+
+---
+Enrique Meeting - obsidian://open?vault=Notes&file=Paper-Writing%2FLAWN-Paper.pdf 
