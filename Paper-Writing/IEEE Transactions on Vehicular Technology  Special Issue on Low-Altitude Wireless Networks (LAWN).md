@@ -1180,4 +1180,7 @@ https://vtsociety.org/post/announcement/special-issues-ieee-vt-magazine
 - RIS is assumed to have access to channel state information (CSI)
 - control the no of RIS element 
 - what detail is lost from near-field to far-field
-- 
+
+
+---
+RF eta materials 
