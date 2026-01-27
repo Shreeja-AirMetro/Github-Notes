@@ -37,12 +37,13 @@ Contact: 1. Tushar, Roshan  2. Rest of team
 2. Gitlab 
 3. Use AirMetro ZIH (for any account for 3D printing tools)
 
-# RTG AirMetro Team 
- - 11 PhDs and Post Doc (Martin) (Research team)
- - Bianca Fricke (Project Admin)
- - Janna Little (Data Manager)
+# RTG AirMetro Team
 
-Hardware people (Tushar, Roshan, Felix,  ianxiong, Ahmed, Chao and Shreeja)
+- 11 PhDs and Post Doc (Martin) (Research team)
+- Bianca Fricke (Project Admin)
+- Janna Little (Data Manager)
+
+Hardware people (Tushar, Roshan, Felix, Tianxiong, Ahmed, Chao and Shreeja)
 
 ---
 # Summary and To Dos (3/3)
@@ -75,17 +76,23 @@ Hardware people (Tushar, Roshan, Felix,  ianxiong, Ahmed, Chao and Shreeja)
 ---
 # Tasks for Ayushmann
 
-Weights of the components  
+Initial weeks:
 
-We wait for Ayushman to start with the CAD model and add weights to it.  
+1. Getting started with the software-hardware - First task mount for the camera
+2. 3D printing materials
+   1. Location in the POT75
+   2. Understanding the characteristics, find a comparison chart of materials
+   3. Find a good decision tree (an illustration) online to choose the available materials 
+   4. Illustrations 2 and 3 can be printed for the lab
+   5. With this understanding, a list of materials can be provided to Janna for elabftw
+3. Computer? - Any ongoing procurement?
 
-CAD models for different drone setups  
+Later: 
 
-Trajectory, Navigation, and Communication. 
+1. Weights of components to be added to CAD models as per requirement (Ahmed)
+2. Understand different payload configs to design mounts for trajectory, navigation, communication
 
-software and start gaining experience with our current mounts.  
-
-Better designs and iterations shall help us gain expertise and perspective in the team. Ahmed's thrust-related experiments, and Tianxiong's experiments. 
+Better designs and iterations shall help us gain expertise and perspective in the team. Ahmed's thrust-related experiments, and Tianxiong's experiments.
 
 ---
 # Tasks for Terrence and Vijaya
