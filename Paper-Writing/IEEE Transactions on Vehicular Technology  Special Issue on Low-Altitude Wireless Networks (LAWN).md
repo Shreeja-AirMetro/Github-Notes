@@ -1194,3 +1194,9 @@ reflection - impact on meta materials
 voltage applied  - to control reflection of signal 
 - Maxwell equations 
 - why not laplacian - passive - vector 
+- Model: Physically consistent near field to far field 
+- Why not FVM - electromagnetics - FEM, FDTM, Boundary element method - discrimination
+- Multi-physics - FEM 
+Phenoic - 
+Thermo EM coupling - different time scales  - 
+Thermal field - 
