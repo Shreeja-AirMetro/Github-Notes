@@ -11,14 +11,12 @@
             "id": "ec4ca928dee7c813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TODOS/Jan 2026.md",
-                "mode": "source",
-                "source": false
+                "file": "Paper-Writing/LAWN-Paper.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Jan 2026"
+              "icon": "lucide-file-text",
+              "title": "LAWN-Paper"
             }
           }
         ]
@@ -185,8 +183,8 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
-    "Paper-Writing/LAWN-Paper.pdf",
     "TODOS/Jan 2026.md",
+    "Paper-Writing/LAWN-Paper.pdf",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Paper-Writing/LAWN-Paper.md",
     "Paper-Writing/DRCN.md",
