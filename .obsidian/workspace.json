@@ -11,12 +11,14 @@
             "id": "ec4ca928dee7c813",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper-Writing/LAWN-Paper.pdf"
+                "file": "TODOS/Feb 2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "LAWN-Paper"
+              "icon": "lucide-file",
+              "title": "Feb 2026"
             }
           }
         ]
@@ -183,8 +185,9 @@
   },
   "active": "ec4ca928dee7c813",
   "lastOpenFiles": [
-    "TODOS/Jan 2026.md",
     "Paper-Writing/LAWN-Paper.pdf",
+    "TODOS/Feb 2026.md",
+    "TODOS/Jan 2026.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Paper-Writing/LAWN-Paper.md",
     "Paper-Writing/DRCN.md",
@@ -218,7 +221,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Chapter_01 Introduction.pdf",
-    "Notes/Data Management.md",
     "Pasted image 20260113122918.png",
     "Pasted image 20260113122900.png",
     "Progress- PhD/PhD Project management.mw.mw",
