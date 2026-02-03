@@ -1263,3 +1263,106 @@ So far, we have executed the example in _eager_ mode. This allows to run Tenso
 
 In digital communications, **$E_b/N_0$** (pronounced "Eb over N-zero") is a vital normalized signal-to-noise ratio (SNR) measure. It specifically represents the **Energy per Bit per Noise Power Spectral Density**.
 
+![[Pasted image 20260203181212.png]]
+
+In our scenario, we will configure a single UT equipped with a single antenna and a single BS equipped with multiple antennas. Whether the UT or BS is considered as a transmitter depends on the link direction, which can be either uplink or downlink.
+
+The resource grid contains data symbols and pilots and is equivalent to a _slot_ in 4G/5G terminology. Although it is not relevant for our simulation, we null the DC subcarrier and a few guard carriers to the left and right of the spectrum. Also a cyclic prefix is added.
+We need to configure the antenna arrays used by the UT and BS. This can be ignored for simple channel models, such as `AWGN`, `RayleighBlockFading`, or `TDL` which do not account for antenna array geometries and antenna radiation patterns. However, other models, such as `CDL`, `UMi`, `UMa`, and `RMa` from the 3GPP 38.901 specification, require it.
+
+We will assume here that UT is equipped with one vertically single-polarized antenna and the BS antenna array is composed of dual cross-polarized antenna elements with an antenna pattern defined in the [3GPP 38.901 specification](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3173). By default, the antenna elements are spaced half of a wavelength apart in both vertical and horizontal directions. You can define your own antenna geometries an radiation patterns if needed.
+
+An `AntennaArray` is always defined in the y-z plane. Its final orientation will be determined by the orientation of the UT or BS. This parameter can be configured in the `ChannelModel` that we will create later.
+CARRIER_FREQUENCY = 2.6e9 # Carrier frequency in Hz.
+                          # This is needed here to define the antenna element spacing.
+
+UT_ARRAY = sn.phy.channel.tr38901.Antenna(polarization="single",
+                                          polarization_type="V",
+                                          antenna_pattern="38.901",
+                                          carrier_frequency=CARRIER_FREQUENCY)
+UT_ARRAY.show();
+
+BS_ARRAY = sn.phy.channel.tr38901.AntennaArray(num_rows=1,
+                                               num_cols=int(NUM_BS_ANT/2),
+                                               polarization="dual",
+                                               polarization_type="cross",
+                                               antenna_pattern="38.901", # Try 'omni'
+                                               carrier_frequency=CARRIER_FREQUENCY)
+BS_ARRAY.show();
+
+Sionna implements the CDL, TDL, UMi, UMa, and RMa models from [3GPP TR 38.901](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3173), as well as Rayleigh block fading.
+
+Note that:
+
+- TDL only supports SISO
+    
+- CDL only supports single-user, possibly with multiple antenna
+    
+- UMi, UMa, and RMa support single- and multi-user
+    
+
+_Remark:_ The TDL and CDL models correspond to fixed power delay profiles and fixed angles.
+
+![[Pasted image 20260203181510.png]]
+We consider the 3GPP CDL model family in this notebook.
+
+DELAY_SPREAD = 100e-9 # Nominal delay spread in [s]. Please see the CDL documentation
+                      # about how to choose this value.
+
+DIRECTION = "uplink"  # The `direction` determines if the UT or BS is transmitting.
+                      # In the `uplink`, the UT is transmitting.
+
+CDL_MODEL = "C"       # Suitable values are ["A", "B", "C", "D", "E"]
+
+SPEED = 10.0          # UT speed [m/s]. BSs are always assumed to be fixed.
+                     # The direction of travel will chosen randomly within the x-y plane.
+
+# Configure a channel impulse reponse (CIR) generator for the CDL model.
+CDL = sn.phy.channel.tr38901.CDL(CDL_MODEL,
+                                 DELAY_SPREAD,
+                                CARRIER_FREQUENCY,
+                                UT_ARRAY,
+                                BS_ARRAY,
+                                DIRECTION,
+                                min_speed=SPEED)
+
+The instance `CDL` of the CDL model can be used to generate batches of random realizations of continuous-time channel impulse responses, consisting of complex gains `a` and delays `tau` for each path. To account for time-varying channels, a channel impulse responses is sampled at the `sampling_frequency` for `num_time_samples` samples. For more details on this, please have a look at the API documentation of the channel models.
+
+In order to model the channel in the frequency domain, we need `num_ofdm_symbols` samples that are taken once per `ofdm_symbol_duration`, which corresponds to the length of an OFDM symbol plus the cyclic prefix.
+
+BATCH_SIZE = 128 # How many examples are processed by Sionna in parallel
+
+a, tau = CDL(batch_size=BATCH_SIZE,
+             num_time_steps=RESOURCE_GRID.num_ofdm_symbols,
+             sampling_frequency=1/RESOURCE_GRID.ofdm_symbol_duration)
+
+The path gains `a` have shape
+
+`[batch size, num_rx, num_rx_ant, num_tx, num_tx_ant, num_paths, num_time_steps]`
+
+and the delays `tau` have shape
+
+`[batch_size, num_rx, num_tx, num_paths]`.
+
+print("Shape of the path gains: ", a.shape)
+print("Shape of the delays:", tau.shape)
+
+Shape of the path gains:  (128, 1, 4, 1, 1, 24, 14)
+Shape of the delays: (128, 1, 1, 24)
+
+The delays are assumed to be static within the time-window of interest. Only the complex path gains change over time. The following two figures depict the channel impulse response at a particular time instant and the time-evolution of the gain of one path, respectively.
+
+plt.figure()
+plt.title("Channel impulse response realization")
+plt.stem(tau[0,0,0,:]/1e-9, np.abs(a)[0,0,0,0,0,:,0])
+plt.xlabel(r"$\tau$ [ns]")
+plt.ylabel(r"$|a|$")
+
+plt.figure()
+plt.title("Time evolution of path gain")
+plt.plot(np.arange(RESOURCE_GRID.num_ofdm_symbols)*RESOURCE_GRID.ofdm_symbol_duration/1e-6, np.real(a)[0,0,0,0,0,0,:])
+plt.plot(np.arange(RESOURCE_GRID.num_ofdm_symbols)*RESOURCE_GRID.ofdm_symbol_duration/1e-6, np.imag(a)[0,0,0,0,0,0,:])
+plt.legend(["Real part", "Imaginary part"])
+
+plt.xlabel(r"$t$ [us]")
+plt.ylabel(r"$a$");
