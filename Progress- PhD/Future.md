@@ -2415,4 +2415,7 @@ Point of hiring VCs
 
 - Growing demand for domain expertise in emerging technologies 
 - Recognition of the value of interdisciplinary perspectives
-- 
+
+
+
+https://e-courses.epo.org/
