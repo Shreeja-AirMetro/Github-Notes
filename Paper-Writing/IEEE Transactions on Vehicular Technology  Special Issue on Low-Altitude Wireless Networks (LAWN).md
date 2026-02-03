@@ -1259,3 +1259,7 @@ Enrique Meeting - obsidian://open?vault=Notes&file=Paper-Writing%2FLAWN-Paper.pd
 _N_-dimensional input tensors and, thereby, allows the processing of multiple samples of multiple users and several antennas in a single command line. Let’s say we want to encode `batch_size` codewords of length `n` for each of the `num_users` connected to each of the `num_basestations`. This means in total we transmit `batch_size` * `n` * `num_users` * `num_basestations` bits.
 ![[Pasted image 20260203174923.png]]
 
+So far, we have executed the example in _eager_ mode. This allows to run TensorFlow ops as if it was written NumPy and simplifies development and debugging.
+
+In digital communications, **$E_b/N_0$** (pronounced "Eb over N-zero") is a vital normalized signal-to-noise ratio (SNR) measure. It specifically represents the **Energy per Bit per Noise Power Spectral Density**.
+
