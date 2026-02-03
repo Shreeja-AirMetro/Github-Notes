@@ -1253,3 +1253,9 @@ Enrique Meeting - obsidian://open?vault=Notes&file=Paper-Writing%2FLAWN-Paper.pd
         llr: tf.float32
             A tensor of shape `[batch_size, block_length] containing the
             received log-likelihood-ratio (LLR) values.
+            
+-  In Sionna, a block error is defined to happen if for two tensors at least one position in the last dimension differs (i.e., at least one bit wrongly received per codeword). The bit error rate the total number of erroneous positions divided by the total number of transmitted bits.
+- We now add channel coding to our transceiver to make it more robust against transmission errors. For this, we will use [5G compliant low-density parity-check (LDPC) codes and Polar codes](https://portal.3gpp.org/desktopmodules/Specifications/SpecificationDetails.aspx?specificationId=3214). You can find more detailed information in the notebooks [Bit-Interleaved Coded Modulation (BICM)](https://nvlabs.github.io/sionna/phy/tutorials/Bit_Interleaved_Coded_Modulation.html) and [5G Channel Coding and Rate-Matching: Polar vs. LDPC Codes](https://nvlabs.github.io/sionna/phy/tutorials/5G_Channel_Coding_Polar_vs_LDPC_Codes.html).
+_N_-dimensional input tensors and, thereby, allows the processing of multiple samples of multiple users and several antennas in a single command line. Let’s say we want to encode `batch_size` codewords of length `n` for each of the `num_users` connected to each of the `num_basestations`. This means in total we transmit `batch_size` * `n` * `num_users` * `num_basestations` bits.
+![[Pasted image 20260203174923.png]]
+
