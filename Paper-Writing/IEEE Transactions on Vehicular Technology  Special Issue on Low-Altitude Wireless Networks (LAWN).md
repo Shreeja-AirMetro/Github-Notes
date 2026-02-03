@@ -1219,4 +1219,5 @@ Enrique Meeting - obsidian://open?vault=Notes&file=Paper-Writing%2FLAWN-Paper.pd
 # Inputs from Sionna
 
 - basic principles to the implementation of a point-to-point link with a 5G NR compliant code and a 3GPP channel model.
+- each element in the batch dimension is simulated independently.
 - 
