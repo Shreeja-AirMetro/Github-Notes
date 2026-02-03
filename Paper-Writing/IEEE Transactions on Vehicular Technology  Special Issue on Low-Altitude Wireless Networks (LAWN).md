@@ -1220,4 +1220,36 @@ Enrique Meeting - obsidian://open?vault=Notes&file=Paper-Writing%2FLAWN-Paper.pd
 
 - basic principles to the implementation of a point-to-point link with a 5G NR compliant code and a 3GPP channel model.
 - each element in the batch dimension is simulated independently.
+- Communication Systems: It is typically more convenient to wrap a Sionna-based communication system into a Sionna Block acting as end-to-end model. 
 - 
+- ""
+        A Sionna Block for uncoded transmission over the AWGN channel
+
+        Parameters
+        ----------
+        num_bits_per_symbol: int
+            The number of bits per constellation symbol, e.g., 4 for QAM16.
+
+        block_length: int
+            The number of bits per transmitted message block (will be the codeword length later).
+
+        Input
+        -----
+        batch_size: int
+            The batch_size of the Monte-Carlo simulation.
+
+        ebno_db: float
+            The `Eb/No` value (=rate-adjusted SNR) in dB.
+
+        Output
+        ------
+        (bits, llr):
+            Tuple:
+
+        bits: tf.float32
+            A tensor of shape `[batch_size, block_length] of 0s and 1s
+            containing the transmitted information bits.
+
+        llr: tf.float32
+            A tensor of shape `[batch_size, block_length] containing the
+            received log-likelihood-ratio (LLR) values.
