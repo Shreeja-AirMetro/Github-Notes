@@ -2568,3 +2568,79 @@ Tokyo now hosts a massive annual event called **SusHi Tech Tokyo** (Sustainable 
 ### High-Value Next Step
 
 Would you like me to look for the **portfolio companies of UTEC (University of Tokyo Edge Capital)** that specialize in aerial communications? This would give you a list of "sister companies" where you could potentially do a 3-month consulting project during your PhD.
+
+https://www.ut-ec.co.jp/english/recruit/utec/
+
+UTEC (University of Tokyo Edge Capital) is one of the most prestigious deep-tech VCs in Asia. Because they are the "preferred" VC for the University of Tokyo, their portfolio focuses on hardware and physical systems where **Aerial Communication** is not just a feature, but the core "moat."
+
+For your PhD background, the following UTEC portfolio companies are the most strategic targets for a technical advisor or venture partner role by 2028:
+
+---
+
+## 1. ACSL (Autonomous Control Systems Laboratory)
+
+ACSL is the "crown jewel" of UTEC’s drone portfolio. They are a spin-off from Chiba University and were the first drone manufacturer to list on the Tokyo Stock Exchange (TSE).
+
+- **The Tech:** They specialize in **proprietary flight controllers** (SOTEN) that do not rely on Chinese-made components, making them the top choice for government and security contracts.
+    
+- **BVLOS Connection:** Their drones are designed for "Level 4" flights (autonomous flight over populated areas). They rely heavily on redundant, secure C2 (Command and Control) links.
+    
+- **Your Value:** They need experts to validate their secure communication protocols for international markets (like the US and EU).
+    
+
+## 2. ePlane (Ubifly Technologies)
+
+Based in India but backed by UTEC, ePlane is developing electric Vertical Takeoff and Landing (eVTOL) aircraft.
+
+- **The Tech:** Aiming to create the "world's most compact flying taxi" for urban commutes.
+    
+- **Aerial Comms Focus:** In a dense city like Mumbai or Tokyo, eVTOLs require hyper-reliable, low-latency communication links to prevent mid-air collisions.
+    
+- **Your Value:** Your PhD research on urban BVLOS interference is directly applicable to their urban air mobility (UAM) safety case.
+    
+
+## 3. Metro Weather
+
+While not a drone maker, they are an essential "Enabling Infrastructure" company in UTEC's portfolio.
+
+- **The Tech:** They develop **Doppler LiDAR** systems that map "wind corridors" in 3D in real-time.
+    
+- **Aerial Comms Focus:** Wind conditions directly affect signal propagation and drone stability. Integrating weather data into the communication link allows for "predictive signal management."
+    
+- **Your Value:** Bridging the gap between atmospheric data and signal reliability for BVLOS missions.
+    
+
+## 4. Medcom
+
+This company focuses on **Hospital DX** and building communication infrastructure.
+
+- **The Tech:** While they started with internal hospital communications, they are expanding into the "Medical Drone" space—delivering blood and organs between hospitals.
+    
+- **Aerial Comms Focus:** These missions require "zero-fail" communication links to ensure life-saving payloads are tracked every second.
+    
+- **Your Value:** Designing the high-reliability link-budgets for medical BVLOS corridors.
+    
+
+---
+
+### Comparison of UTEC Opportunities for a PhD Specialist
+
+|**Company**|**Core Technical Challenge**|**Strategic Role for You**|
+|---|---|---|
+|**ACSL**|Anti-jamming / Secure C2 Links|**Standardization Lead** (ISO/IEEE compliance)|
+|**ePlane**|Urban Interference & Latency|**Systems Architect** (UAM Link design)|
+|**Metro Weather**|Data-Link Integration|**Technical Advisor** (Weather-Signal algorithms)|
+|**Medcom**|High-Uptime Critical Comms|**Operations Manager** (Safety-case certification)|
+
+---
+
+### How to use this for your "2028 Plan"
+
+1. **Academic Outreach (2026):** Since you are in a German PhD program, check if your lab has any ties to the **University of Tokyo Graduate School of Engineering**. UTEC often facilitates research collaborations between their startups and international labs.
+    
+2. **The "Industrial PhD" Pitch:** Reach out to ACSL or ePlane’s CTO on LinkedIn. Offer to use their platform as a "case study" for your research in exchange for data. This is a "free" way to get industry experience.
+    
+3. **Target the "UTEC 6" Fund:** UTEC recently launched a **$326M fund (UTEC 6)** in 2025. By 2028, they will be looking for "Technical Associates" to manage the growth of the companies they are funding _right now_.
+    
+
+**Would you like me to find the contact details of the UTEC "Physical Sciences" investment team so you can follow their specific investment theses on LinkedIn?**
