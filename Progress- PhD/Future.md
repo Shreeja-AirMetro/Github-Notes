@@ -2413,4 +2413,6 @@ https://www.amazon.com/The-Rare-Find-Talent-Stands/dp/1591845629
 
 Point of hiring VCs
 
-- Growing demand for domain 
+- Growing demand for domain expertise in emerging technologies 
+- Recognition of the value of interdisciplinary perspectives
+- 
