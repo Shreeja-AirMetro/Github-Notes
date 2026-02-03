@@ -2410,3 +2410,7 @@ Hoping this is of help if you are considering venturing into venture capital ;) 
 To listen : https://www.fiftyyears.com/speed
 
 https://www.amazon.com/The-Rare-Find-Talent-Stands/dp/1591845629
+
+Point of hiring VCs
+
+- Growing demand for domain 
