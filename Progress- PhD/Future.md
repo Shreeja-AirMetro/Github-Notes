@@ -1532,3 +1532,144 @@ Since you are in a PhD program, focus on "weekend" or self-paced courses that ad
 ### High-Value Next Step
 
 Would you like me to draft a **"Commercial Value Proposition" paragraph** for your CV? It would summarize your PhD research not in terms of _bits per second_, but in terms of **reducing operational insurance risk for $100M drone fleets.**
+In 2026, **DRONE FUND** remains a boutique but highly influential VC firm. Because they are a venture capital firm and not a manufacturing giant like DJI, their team is lean, specialized, and built around "Intellectual Property" and "Social Implementation."
+
+---
+
+## 1. Team Size & Diversity
+
+- **Employee Count:** The core investment team is estimated to be between **15–30 professionals**. However, their influence is much larger because they operate through a network of "Venture Partners" and "Advisors" who remain at their own companies or universities.
+    
+- **Team Diversity:** * **Professional Background:** Highly diverse. The team includes serial entrepreneurs, IP lawyers, former government officials, and professional drone pilots.
+    
+    - **Academic Diversity:** They have a strong bias toward **PhDs and Engineers**. They believe that "Deep Tech" cannot be evaluated by finance professionals alone.
+        
+    - **Global Reach:** While the headquarters are in **Tokyo (Azabudai Hills)**, they have a diverse satellite presence in **Singapore** and the **US**, with partners who are experts in local FAA/EASA regulations.
+        
+
+## 2. How to Look for Open Positions
+
+DRONE FUND rarely posts on traditional job boards like LinkedIn or Indeed. They hire through **"Ecosystem Visibility."**
+
+- **The "Official" Route:** Check the [Drone Fund News/Release page](https://dronefund.vc/en/) periodically. They occasionally announce new fund launches (e.g., Fund IV or V) which usually signals a hiring surge for Associates and Technical Scouts.
+    
+- **The "Deal Flow" Strategy:** Since you have a PhD, you shouldn't apply for a "job"; you should apply to be a **Venture Partner** or **Technical Advisor**.
+    
+    - **Step 1:** Follow their portfolio companies (like _Aeronext_ or _SkyDrive_).
+        
+    - **Step 2:** Publish white papers on **BVLOS Communication Security** and tag their leadership (Kotaro Chiba or Soki Ohmae). In the VC world, you are hired because you provide a "Technical Edge" they don't have.
+        
+- **The "Chiba Dojo" Community:** They run a community for their startups. Engaging with this community as a technical expert is the most common "backdoor" into the fund.
+    
+
+---
+
+## 3. Position Titles to Target (PhD Level)
+
+As a PhD graduating in 2028, you should look for (or propose) these specific titles:
+
+1. **Technical Associate (Deep Tech):** Performing the "link-budget" and "spectrum risk" audits on new investments.
+    
+2. **Venture Partner (Academic Liaison):** Bridging the fund with European universities (like those in Belgium).
+    
+3. **IP Strategist:** Working with their _Drone iPLAB_ arm to evaluate the patent strength of communications startups.
+    
+
+---
+
+## 4. Skills to Build for a 2028 Job at Drone Fund
+
+To be the perfect candidate for them, combine your PhD with:
+
+- **Language/Culture:** Basic understanding of the Japanese "Level 4" flight roadmap (they are very proud of their national strategy).
+    
+- **IP Knowledge:** A certificate in **Intellectual Property Management** (specifically for telecommunications).
+    
+- **Regulatory Knowledge:** Proficiency in **SORA (Specific Operations Risk Assessment)**, which is the safety language they use to judge if a startup is "investable."
+    
+
+### High-Value Next Step
+
+Since the best way to get into a VC is through "Inbound Interest," would you like me to find the **specific LinkedIn profiles of their current Technical Partners** so you can see their career trajectory from PhD to VC?
+To secure a **Venture Partner** or **Technical Advisor** role by 2028, you must spend the next two years shifting from "Academic Specialist" to "Commercial Asset." VCs don't just want to know how your communication protocols work; they want you to tell them if a startup's tech is a **billion-dollar breakthrough** or a **regulatory liability**.
+
+Here is your **24-month roadmap** to becoming a "Venture Scientist" in the drone/AAM space.
+
+---
+
+## Year 1 (2026-2027): Building the "Finance Filter"
+
+Your goal this year is to learn the language of money and risk so you can translate your PhD research into investment terms.
+
+### 1. The "PhD to VC" Bridge Course (High Priority)
+
+- **Course:** **[PhD to VC by Fifty Years](https://www.fiftyyears.com/phdvc)**
+    
+- **Format:** Online (8 weeks, free/selective).
+    
+- **Why:** It is specifically designed for PhDs to learn "Technical Due Diligence"—the exact skill a fund like **Drone Fund** or **imec.xpand** needs. You will learn how to spot "red flags" in a startup's technical roadmap.
+    
+
+### 2. Market Validation & Deep Tech Strategy
+
+- **Course:** **[Deeptech+ Pulse (ESSEC Business School)](https://www.essec.edu/en/program/certificate-deeptech-market-validation-and-business-strategy/)**
+    
+- **Format:** Online/Hybrid (approx. €8,000, but often covered by university professional development funds).
+    
+- **Why:** It teaches you how to take an invention (like your BVLOS comms) and build a business strategy around it.
+    
+
+---
+
+## Year 2 (2027-2028): Establishing Global Authority
+
+Now that you speak "Finance," you need to build a niche that makes you the _only_ person a VC calls when they have a communication-tech deal.
+
+### 1. Specialist Asset: Spectrum & Telecom Finance
+
+- **Course:** **[Valuing the Spectrum (PolicyTracker)](https://www.policytracker.com/)**
+    
+- **Format:** Online.
+    
+- **Why:** Spectrum is the "land" of the drone world. If you can explain to a VC how a company’s frequency rights increase their valuation, you become an indispensable **Technical Advisor**.
+    
+
+### 2. Operational Safety & Regulatory Compliance
+
+- **Course:** **SORA (Specific Operations Risk Assessment) Practitioner Training**
+    
+- **Provider:** JARUS / EASA-approved providers (e.g., _DroneSchools.be_).
+    
+- **Why:** In Belgium and Australia, BVLOS is a "Safety Case" game. If you can audit a company's communication link for SORA compliance, you are de-risking the investment for the VC.
+    
+
+---
+
+## 2028: Your "Unique Asset" Profile
+
+By graduation, your profile for **Drone Fund** or **Starburst Aero** should look like this:
+
+|**The PhD Profile (Standard)**|**Your Asset Profile (2028)**|
+|---|---|
+|Expert in Aerial Comms.|**Technical Due Diligence Specialist** for BVLOS.|
+|Published 5 papers on signal delay.|Evaluates **Communication "Moats"** for Seed/Series A.|
+|Understands 5G/6G architecture.|Certified in **SORA Safety & Spectrum Valuation**.|
+|Looking for R&D roles.|Available as a **Venture Partner** for EMEA/APAC deals.|
+
+---
+
+## Actionable Strategy: The "Inbound" Approach
+
+VCs rarely hire from job boards. They hire from their **network**.
+
+1. **Month 1-6:** Start a "Deep Tech Drone" newsletter or LinkedIn series. Once a month, break down a new drone startup's communication tech from an investment perspective (not just technical).
+    
+2. **Month 12:** Reach out to **Kotaro Chiba (Drone Fund)** or partners at **imec.xpand** for an "Informational Interview."
+    
+    - _Pitch:_ "I am finishing a PhD in BVLOS comms. I've been training in TDD and want to know what technical gaps you see in your current portfolio's communication infrastructure."
+        
+3. **Month 18:** Offer a **Free Technical Audit** for one of their smaller portfolio companies. This is your "audition" for a Technical Advisor role.
+    
+
+**Would you like me to find the specific LinkedIn profiles of the Technical Partners at Drone Fund so you can model your "Experience" section after theirs?**
+
