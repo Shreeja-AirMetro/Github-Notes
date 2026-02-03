@@ -1375,3 +1375,54 @@ So far, we have simulated uncoded symbol transmissions. With a few lines of addi
 IMP: https://nvlabs.github.io/sionna/phy/tutorials/Link_Level_Simulations_with_RT.html 
 
 https://nvlabs.github.io/sionna/sys/tutorials/SYS_Meets_RT.html
+
+https://nvlabs.github.io/sionna/sys/tutorials/End-to-End_Example.html
+We assume that channel matrix coefficients are regenerated from a specified 3GPP model every `coherence_time` slots, following a typical block fading model. For simplicity, we emulate the impact of fast fading by multiplying the channel matrix by a factor that follows an autoregressive process evolving at each slot.
+
+More realistic simulations would include channel evolution based on user mobility in a ray-traced enviroment, as for example shown in the notebook [Sionna SYS meets Sionna RT](https://nvlabs.github.com/sionna/sys/tutorials/SYS_Meets_RT.html).
+
+Computing the signal-to-noise-plus-interference-ratio (SINR) is the first step to determine the block error rate (BLER) and, eventually, the user throughput, via the physical layer abstraction.
+
+To fairly allocate users to the appropriate time and frequency resources, the proportional fairness (PF) scheduler must first estimate the _achievable_ rate for each user.
+
+Users are then ranked based on the ratio of their achievable rate to their _achieved_ rate, called PF metric.
+
+Here, we assume that the achievable rate is estimated using the Shannon capacity based on the effective SINR.
+
+The rate estimation is thus uniform across subcarriers, resulting in only one user being scheduled per slot.
+
+### Sionna block[](https://nvlabs.github.io/sionna/sys/tutorials/End-to-End_Example.html#Sionna-block "Link to this heading")
+
+We next define a compound Sionna block called `SystemLevelSimulator` composed of multiple submodules.
+
+It is structured as follows:
+
+- `__init__` method, which initializes the main modules, including:
+    
+    - 3GPP channel model;
+        
+    - Multicell topology and user drop
+        
+    - Stream management;
+        
+    - Physical layer abstraction;
+        
+    - Scheduler;
+        
+    - Link adaptation;
+        
+- `call` method, which loops over slots and performs:
+    
+    - Channel generation;
+        
+    - Channel estimation, assumed ideal;
+        
+    - User scheduling;
+        
+    - Power control;
+        
+    - Per-stream SINR computation;
+        
+    - Physical layer abstraction;
+        
+    - User mobility.
