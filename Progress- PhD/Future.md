@@ -2408,3 +2408,5 @@ Deep tech is becoming more and more interesting for VC firms and family offices.
 Hoping this is of help if you are considering venturing into venture capital ;) I wish you luck on your journey into this fast-paced fascinating world, and for any follow up questions please leave a comment below, and I'll do my best to answer
 
 To listen : https://www.fiftyyears.com/speed
+
+https://www.amazon.com/The-Rare-Find-Talent-Stands/dp/1591845629
