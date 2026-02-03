@@ -1155,3 +1155,5 @@ Here are **online-only finance courses and certifications** that are practical f
 
 If you want, I can design a **recommended study path and timeline** (e.g., 3–6 months) tailored to your 2028 career goals in VC and drone finance.
 
+**Since you want to pivot away from R&D, your "unique selling point" (USP) is your ability to translate complex link-budget and signal-integrity data into business risk assessments and regulatory strategy.**
+
