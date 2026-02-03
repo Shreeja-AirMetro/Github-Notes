@@ -1366,3 +1366,10 @@ plt.legend(["Real part", "Imaginary part"])
 
 plt.xlabel(r"$t$ [us]")
 plt.ylabel(r"$a$");
+
+
+![[Pasted image 20260203181719.png]]![[Pasted image 20260203181757.png]]
+
+So far, we have simulated uncoded symbol transmissions. With a few lines of additional code, we can extend what we have done to coded BER simulations. We need the following additional components:
+
+IMP: https://nvlabs.github.io/sionna/phy/tutorials/Link_Level_Simulations_with_RT.html 
