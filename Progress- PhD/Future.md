@@ -2316,3 +2316,95 @@ If you don't have a firm offer by **March 2028**, immediately register as a **Fr
 **Would you like me to find the exact "Investment Thesis" of DRONE FUND III so you can see the specific technical gaps they are looking to fill in their next fund?**
 
 
+# Transitioning from science to venture capital
+
+[Chiara Decaroli, PhD](https://ch.linkedin.com/in/chiara-decaroli-phd-388aa187)!
+
+### Chiara Decaroli, PhD
+
+Published Jun 19, 2024
+
+[+ Follow](https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Ftransitioning-from-science-venture-capital-chiara-decaroli-phd-zctae&trk=article-ssr-frontend-pulse_publisher-author-card)
+
+It's been almost a year since I have transitioned to the world of venture capital. Over the past months, several of you have approached me to ask me what it takes to make the jump from a science/technology profession to VC. Here I am collecting my thoughts which I hope will guide you in your future steps.
+
+### How to transition from science to VC
+
+First of all, I have an academic background in Physics, with a PhD in quantum computing. However, during my PhD years I enjoyed experimenting and joined the entrepreneurship and consulting clubs at ETH Zurich, carrying out 6-months projects with both. With the ETH entrepreneurship program I came up with a startup idea, assembled and led a team to go through the initial phases of ideation, market research, business model creation and product design. With the consulting club I led a group in finding and presenting more efficient pathways for engagement and marketing for one of the leading healthcare non-profit organisations in Switzerland.
+
+I also founded a number of initiatives, focused on interdisciplinarity (The Art & Science Collective: a community mixing scientist and artists in creative workshops and exchanges, Interdisciplinary Interactions: a community bringing together senior professors and intellectuals and younger students across disciplines) and EDI & women in science (Honggerberg ladies lunches: a community for female students in science at ETH meeting once a month for connection). All these involved a ton of 1. fundraising and looking for sponsors, 2. marketing 3. leading teams 4. product design 5. strategy and organisation.
+
+This is all to say that despite being deeply focused on quantum computing and science, I also seeked and exposed myself to activities which involved entrepreneurship at its core. If you are interested in a career either in the startup world or in the "supporting" startups world (VC, PE, CVC etc), I highly recommend engaging in these types of projects and activities to broaden your horizons and get your hands dirty. You can simply start a community, or a project around a passion of yours, and follow its journey to gain skills and insights into what it takes to "start your own business". Of course this might come with a cost, especially if you are surrounded by people who don't "get" the value of not working on a single topic 24/7! In my case reading in a colleague's thesis acknowledgement "I thank CD for reminding us there is more than work in life", while everyone else was thanked for technical help ;)
+
+After my PhD I joined the UK's National Quantum Computing Centre as one of its first employees. Truth be told, these were the early days, we were a team of 6 and were operating in a mode much closer to a startup than an established organisation. I was involved in all main activities and got exposure into the broader UK quantum ecosystems. This was the first step in enlarging and deepening my view of the landscape beyond my expertise (i.e. trapped ions and a handful of well-known full-stack QC companies).
+
+When I applied to Redstone's investment manager role I had with me not only technical knowledge in quantum tech, but also a really good understanding of the UK and broader EU quantum landscape, all its actors, major stakeholders and dynamics. I also had interacted already with many startups and had an extensive academic network. All these ingredients turned out to be fundamental in the job (and in getting selected for it!). So if you'd like to end up in VC, but are just coming out of academia, my suggestion is to potentially consider a role first that gives you a broad understanding of the field, research the landscape, & absolutely make connections outside of your narrow field.
+
+To summarise, if you'd like to transition from science to VC here are my main tips on making the move as successful as possible:
+
+1. have some sort of first-hand entrepreneurship experience - you will need this to connect, understand and assess founders.
+2. build a broad understanding of the landscape of a specific field, including startups, market actors, regulator bodies, government positions and latest trends.
+3. create a network in the field you're interested in - don't just hang out with your peers in the lab, they know 90% of the same stuff as you!
+4. try out a role in consulting/strategy/government or similar that allows you to gain any of the above.
+
+### What does it mean to work in VC
+
+Now, moving on to the job, what it looks like and what makes me like it (aka the questions you guys keep asking!). There are many different roles in the VC industry, starting out with roles that involve more analysis or scouting to more strategic and leadership roles where your opinions and decisions on a specific topic really matter. Depending on the size of the firm, these roles might be less distinct.
+
+My job as an investment manager involves broadly:
+
+a. scouting startups and building a comprehensive view of the landscape in quantum tech, creating a startup funnel and pipeline
+
+b. understanding the market dynamics, market potential/timing and pull for all quantum technologies
+
+## Recommended by LinkedIn
+
+[![From Lab to Launch: Do's, Don'ts & Mindset Shifts for Aspiring Biotech Founders in India](https://media.licdn.com/dms/image/v2/D5612AQGXkOmLn5e74A/article-cover_image-shrink_720_1280/B56Zg2Dn0ZHMAI-/0/1753253576782?e=2147483647&v=beta&t=Cgwww5RYqybQrEL_dLKWkdsaySeum8M95pkcskjFMUw)
+
+From Lab to Launch: Do's, Don'ts & Mindset Shifts for…
+
+Amit Pandey  6 months ago
+
+](https://www.linkedin.com/pulse/from-lab-launch-dos-donts-mindset-shifts-aspiring-biotech-amit-pandey-dowfc)
+
+[![Funding Alone Won’t Save Your Deep Tech Startup—The Right Strategy Will](https://media.licdn.com/dms/image/v2/D4E12AQFAigJSD6Y3-w/article-cover_image-shrink_720_1280/B4EZUPu49AHUAI-/0/1739725708632?e=2147483647&v=beta&t=2ab7Q-YURVX70gULmfMtCbiQIqC461tRvNG6nvzu00o)
+
+Funding Alone Won’t Save Your Deep Tech Startup—The…
+
+Maria Ksenia Witte  11 months ago
+
+](https://www.linkedin.com/pulse/funding-alone-wont-save-your-deep-tech-startupthe-right-witte-gfxke)
+
+[![Altitude Lab: The Accelerator Leading Utah’s Biotech Investment](https://media.licdn.com/dms/image/v2/D5612AQHQl52mLF58xw/article-cover_image-shrink_720_1280/B56Zfq4.gtGQAI-/0/1751992497706?e=2147483647&v=beta&t=OwDrMb1EMY5DmZUGMj2oOasHap6UW8rYoW4K34-JN0k)
+
+Altitude Lab: The Accelerator Leading Utah’s Biotech…
+
+Utah Governor's Office of Economic Opportunity  6 months ago
+
+](https://www.linkedin.com/pulse/altitude-lab-accelerator-leading-utahs-biotech-investment-hjstc)
+
+c. understanding and beging able to assess the technology - leveraging the help of experts where needed
+
+d. writing (a lot!) reports on each startup that is promising, conducting DD (Due Diligence) involving reference calls with market actors
+
+e. talking to all founders, multiple times, discussing all aspects of their company (tech, business, product, team, IP, funding rounds). Assess and select the most promising opportunities
+
+f. presenting the most interesting opportunities to the IC (Investment Committee), advocating for your selection and discussing with them where to dig deeper
+
+g. discussing funding rounds, valuation, term sheets -have an understanding of "realistic" benchmarks within the industry (i.e. what other similar stage companies have raised and are valued at?) and being able to negotiate deals
+
+h. being involved in fundraising for the fund, so you can keep going and invest in the space
+
+In essence, you need to be able to have a deep and broad understanding of technology, markets, commercialisation but also critically be able to judge people and teams, their motivation, their strengths and weaknesses, and their potential. You need to love interacting and talking to people, as a large fraction of your job will be devoted to this. You need to have an interest in building and scaling businesses as you'll be supporting startups in your portfolio with these and any challenges they might have. And you need to stay on top of latest news, trends and breakthroughs. I also think that being decisive, having strong opinions (not too weakly held, as you'll have to advocate for your choices) and being persuasive are fundamental aspects of the job. Finally being able to connect with people, to pick up on their motivations, to be able to "read" them and to establish relationships based on trust, mutual respect and transparency. You will be making recommendations for investment based on well thought-out, evidence-based arguments, paired with intuition, character-understanding and sixth sense for potential.
+
+### A few last words
+
+It is not a job for everyone (it's fast-paced, there is a lot of "content-switching" and little time to prepare for every call, and there is a fair amount of travel involved), but it is a job that will provide you with insights into a field as no other job will, it will allow you to be a part of many different teams building many different products, facing many different challenges and to truly understand the levers that influence the development of technology and innovation.
+
+Deep tech is becoming more and more interesting for VC firms and family offices. To properly assess deep tech startups, a technical background is essential and you will be an asset to the teams, complementing your skills and knowledge with those of colleagues coming from a finance, business or start-up background.
+
+  
+
+Hoping this is of help if you are considering venturing into venture capital ;) I wish you luck on your journey into this fast-paced fascinating world, and for any follow up questions please leave a comment below, and I'll do my best to answer
+
+To listen : https://www.fiftyyears.com/speed
