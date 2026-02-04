@@ -3349,3 +3349,5 @@ This helps you filter **individual investment professionals with technical backg
 ---
 
 If you want, I can next provide a **list of specific individual partners (with LinkedIn URLs) at these firms** who _actively invest_ in airline, UAV, autonomy & civil drone tech. Just tell me which geography (e.g., Asia only, global with Asia focus) you want emphasized.
+
+https://japan.ahk.de/en/downloads/umfragen-berichte/business-climate-survey-german-business-in-japan-2025?utm_source=chatgpt.com
