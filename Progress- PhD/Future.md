@@ -2965,3 +2965,387 @@ Because current public sources don’t list a ready database of _PhD engineers w
 ---
 
 If you want, I can help **generate a list of names with LinkedIn links** — just tell me if you want them filtered by geography (e.g., Europe vs US) or _civil drones (infrastructure, delivery, inspection)_ specifically.
+
+Here’s what I found regarding **Unmanned.vc’s location** and **venture capital profiles with links or roles relevant to drones / unmanned systems in Southeast Asia and Europe**. Note: _specific PhD + engineering + VC roles focused on civil drones are rare publicly_, but the following are investors or fund leaders active in areas closely tied to **autonomous systems, UAVs/drones, defense/dual-use and robotics** (many will have strong technical backgrounds and some with engineering/PhD credentials you can verify on LinkedIn).
+
+---
+
+## 📍 **Unmanned.vc — Location & Focus**
+
+**Unmanned.vc**
+
+- A VC fund **based in Tallinn, Estonia**, focused on early-stage startups in _unmanned systems_, drones/UAV technology, AI, robotics, and defense-related tech. ([balticvc.com](https://www.balticvc.com/2025/08/estonian-unmannedvc-joins-to-estban.html?utm_source=chatgpt.com "Estonian Unmanned.vc joins to EstBAN"))
+    
+- Investment tickets ~€50,000 – €300,000 and backed by deep-tech partners such as Modirum Group with advisory expertise from drone/robotics engineers. ([balticvc.com](https://www.balticvc.com/2025/08/estonian-unmannedvc-joins-to-estban.html?utm_source=chatgpt.com "Estonian Unmanned.vc joins to EstBAN"))
+    
+
+---
+
+## 🇪🇺 **European VC Investors / Leaders With Drone / Autonomous Systems Exposure**
+
+Here are **VC professionals and investors** you can investigate on LinkedIn (with LinkedIn profile links where available). Many work at firms that invest in defense tech, autonomy, robotics, or dual-use drone technology — closely related to civil UAV systems:
+
+### 🔹 **Dr. Daniel Carew**
+
+- **LinkedIn:** [https://www.linkedin.com/in/daniel-carew](https://www.linkedin.com/in/daniel-carew)
+    
+- _Investor / VC_ focused on European defense and technology startups; active as an early-stage investor and board member for tech ventures. ([LinkedIn](https://uk.linkedin.com/in/daniel-carew?utm_source=chatgpt.com "Dr. Daniel Carew - European Defence VC"))
+    
+- Likely background includes engineering or technical strategy — verify PhD/technical credentials on profile.
+    
+
+### 🔹 **Danilashaposhnikov — Partner at Phystech Ventures**
+
+- **LinkedIn:** [https://www.linkedin.com/in/danilashaposhnikov](https://www.linkedin.com/in/danilashaposhnikov)
+    
+- Partner at **Phystech Ventures**, a VC backing deep-tech hardware and autonomous systems (Phystech invests in robotics, aerospace, AI). ([LinkedIn](https://ae.linkedin.com/in/danilashaposhnikov?utm_source=chatgpt.com "Daniel Shaposhnikov‏ - ‏Partner at Phystech Ventures"))
+    
+- Search his activity for UAV/autonomy investments.
+    
+
+### 🔹 **Uwe Horstmann — General Partner at Project A Ventures (Berlin)**
+
+- **LinkedIn search:** [https://www.linkedin.com/search/results/all/?keywords=Uwe%20Horstmann](https://www.linkedin.com/search/results/all/?keywords=Uwe%20Horstmann)
+    
+- Project A has been active in defense-tech and related autonomous systems (backer of drone startups such as Stark / Quantum Systems leadership connections). ([Sifted](https://sifted.eu/articles/stark-hire-project-a-defence?utm_source=chatgpt.com "Defence tech Stark hires Project A investor Uwe ..."))
+    
+
+### 🔹 **Technical Advisors / Investors Linked to Unmanned.vc Advisory**
+
+(Unmanned.vc has strong industry advisors with engineering and UAV expertise — valuable VC-ecosystem contacts): ([Unmanned](https://unmanned.vc/about-us?utm_source=chatgpt.com "About Us | Strategic Investment in Defence Sector Startups"))
+
+- _Elias Silvola_ — Tech leader at Modirum | Gespi (deep tech & autonomous systems).  
+    LinkedIn: [https://www.linkedin.com/search/results/all/?keywords=Elias%20Silvola](https://www.linkedin.com/search/results/all/?keywords=Elias%20Silvola)
+    
+- _Ellis Huber_ — UAV design expert, co-founder 2RAW Aerials.  
+    LinkedIn: [https://www.linkedin.com/search/results/all/?keywords=Ellis%20Huber%202RAW%20Aerials](https://www.linkedin.com/search/results/all/?keywords=Ellis%20Huber%202RAW%20Aerials)
+    
+- _Joshua Henriques_ — Tech & engineering lead at Modirum Platforms.  
+    LinkedIn: [https://www.linkedin.com/search/results/all/?keywords=Joshua%20Henriques%20Modirum](https://www.linkedin.com/search/results/all/?keywords=Joshua%20Henriques%20Modirum)
+    
+
+> These advisors typically have engineering or technical R&D experience in unmanned systems, valuable when paired with VC investing.
+
+---
+
+## 🇸🇬 / 🌏 **Southeast Asia VC Investors with Potential Drone / Deep Tech Exposure**
+
+The SEA VC ecosystem isn’t exclusively drone-focused, but several firms and leaders invest in **deep tech, robotics, AI, logistics automation, and autonomous hardware systems** — _often relevant to civil drone markets_ (e.g., logistics, inspection, smart cities):
+
+### 🔹 **Golden Gate Ventures (Singapore)**
+
+- **LinkedIn:** [https://www.linkedin.com/company/golden-gate-ventures/](https://www.linkedin.com/company/golden-gate-ventures/)
+    
+- Singapore-based VC investing broadly in SEA tech — while not drone-specific, they back deep-tech robotics/enterprise tech where drone startups often participate. ([Wikipedia](https://en.wikipedia.org/wiki/Golden_Gate_Ventures?utm_source=chatgpt.com "Golden Gate Ventures"))
+    
+- Founders include _Vinnie Lauria_, _Jeffrey Paine_, _Paul Bragiel_ — search LinkedIn for their profiles.
+    
+
+### 🔹 **Synexia Ventures / NTT DOCOMO Ventures**
+
+- **LinkedIn:** [https://www.linkedin.com/search/results/all/?keywords=Synexia%20Ventures](https://www.linkedin.com/search/results/all/?keywords=Synexia%20Ventures)
+    
+- New SEA venture arm targeting **AI, IoT, robotics, and drones** across Singapore, Indonesia, Malaysia, Philippines. ([LinkedIn](https://www.linkedin.com/posts/mohanbelani_ntt-group-launches-southeast-asia-venture-activity-7394285182138204160-I_rB?utm_source=chatgpt.com "NTT Group Launches Synexia Ventures in Southeast Asia - LinkedIn"))
+    
+- Leadership like **Alan Kuan Hsu** (former KK Fund) blends VC with tech deep-tech focus.
+    
+
+---
+
+## 📌 How to Find More Specific “PhD + Engineering + Drone VC” Profiles
+
+Since most VC profiles don’t explicitly list PhD credentials alongside drone focus in public listings, here’s a LinkedIn search syntax you can use directly for more targeted results:
+
+🔍 **LinkedIn search string (copy/paste):**
+
+```
+“PhD” AND (venture capital OR VC) AND (drone OR UAV OR unmanned OR autonomy) AND (Europe OR Southeast Asia)
+```
+
+This will help locate individuals with documented PhDs and VC roles tied to autonomous systems & drone tech.
+
+---
+
+If you’d like, I can compile a **ready-to-use LinkedIn search list of specific names** (e.g., partners, principals) from firms like **Final Frontier, Draper Associates, Project A, Lux Capital** and others known to invest in dual-use drones — just let me know which region or subsector (civil inspection drones vs defense tech drones) you want prioritized!
+
+Here’s a more **focused list of notable VC investors or investment leaders in East and Southeast Asia** with **links to their LinkedIn profiles where possible**, plus context on relevant VC initiatives in the region that could intersect with _civil drones, UAVs, robotics, autonomy, or related deep tech_. Many of these investors operate in deep-tech/AI/robotics/innovation sectors where _drone startups often get funding and strategic support_ — especially in SEA and East Asia.
+
+---
+
+## 🇸🇬 **Singapore & Southeast Asia — VC Investors (with LinkedIn)**
+
+### **1. Daniel Tay — Vice President, Emerging Technologies, Temasek**
+
+📍 **LinkedIn:** [https://www.linkedin.com/in/danieltaywl](https://www.linkedin.com/in/danieltaywl)
+
+- Vice President in **Emerging Technologies** at Singapore’s **Temasek** (global investment firm). He has experience across science, R&D, product development and early-stage investing, often intersecting deep tech sectors inclusive of automation and spatial computing (which dovetails with advanced UAV/autonomy themes). ([LinkedIn](https://sg.linkedin.com/in/danieltaywl?utm_source=chatgpt.com "Daniel Tay - Deep Tech Investor, VC"))
+    
+
+---
+
+### **2. Theodora Lai — Co-Founder & Partner, Moringa Ventures**
+
+📍 **LinkedIn:** [https://www.linkedin.com/in/theodoralai](https://www.linkedin.com/in/theodoralai)
+
+- Co-founder and partner at **Moringa Ventures**, an early-stage investor focused on _technology and deep tech startups_ across SEA — a network that often backs robotics, AI, and autonomous system innovations. ([LinkedIn](https://sg.linkedin.com/in/theodoralai?utm_source=chatgpt.com "Theodora Lai - Co-Founder and Partner, Moringa Ventures"))
+    
+
+---
+
+### **3. Alan Ang — Global VC (SEA, China, US, India)**
+
+📍 **LinkedIn:** [https://www.linkedin.com/in/alanangjw](https://www.linkedin.com/in/alanangjw)
+
+- VC investor active across **frontier tech**, including AI, robotics and other areas that overlap with _drone autonomy, sensor fusion, and embedded systems_. His investments span China, Singapore/SEA and the U.S., providing cross-region visibility for deep tech founders. ([LinkedIn](https://sg.linkedin.com/in/alanangjw?utm_source=chatgpt.com "Alan Ang - Global VC (China, US, SEA, India)"))
+    
+
+---
+
+### **4. Khailee Ng — Managing Partner, 500 Global**
+
+📍 **Wikipedia profile (linked)**: [https://en.wikipedia.org/wiki/Khailee_Ng](https://en.wikipedia.org/wiki/Khailee_Ng)
+
+- Malaysian venture capitalist with **500 Global**, one of SEA’s most active early stage VC firms. While not drone-exclusive, _500 Global invests broadly in tech including AI and robotics spaces_, which are relevant to UAV startups. ([Wikipedia](https://en.wikipedia.org/wiki/Khailee_Ng?utm_source=chatgpt.com "Khailee Ng"))
+    
+
+---
+
+## 📌 **Venture Firms / Programs in SEA with Drone/Deep-Tech Relevance**
+
+These organizations don’t all have publicly listed individual partners with PhDs but are key investing entities in deep tech where drones often reside — good leads for finding specific technical VCs:
+
+### **5. Synexia Ventures (NTT Group – SEA)**
+
+- A new **NTT DOCOMO Ventures**-backed regional fund targeting **AI, IoT, smart cities, robotics and drones** across SEA (Singapore, Malaysia, Indonesia, Philippines). Leadership includes Alan Kuan Hsu (LinkedIn search available). ([LinkedIn](https://www.linkedin.com/posts/mohanbelani_ntt-group-launches-southeast-asia-venture-activity-7394285182138204160-I_rB?utm_source=chatgpt.com "NTT Group Launches Synexia Ventures in Southeast Asia"))
+    
+
+---
+
+### **6. SGInnovate (Singapore)**
+
+- Government-linked investor backing **deep tech startups** including robotics, autonomy and enterprise technologies — a major co-investor in hard tech that can include UAV systems or related platforms. ([Wikipedia](https://en.wikipedia.org/wiki/SGInnovate?utm_source=chatgpt.com "SGInnovate"))
+    
+
+---
+
+### **7. A2D Ventures**
+
+📍 **LinkedIn:** [https://vn.linkedin.com/company/a2d-sea](https://vn.linkedin.com/company/a2d-sea)
+
+- Early-stage investing platform in SEA that collaborates with angel investors and VC funds; often invests in AI, robotics and next-gen tech verticals relevant to drone/automation segments. ([LinkedIn](https://vn.linkedin.com/company/a2d-sea?utm_source=chatgpt.com "A2D Ventures | LinkedIn"))
+    
+
+---
+
+### **8. Earth Venture Capital**
+
+📍 **LinkedIn:** [https://sg.linkedin.com/company/earth-vc](https://sg.linkedin.com/company/earth-vc)
+
+- Based in **Ho Chi Minh City & Singapore**; backs _science-based deep tech_ across emerging Asia — sectors like autonomous systems, aerial robotics and sensing hardware fit within their climate and innovation thesis. ([LinkedIn](https://sg.linkedin.com/company/earth-vc?utm_source=chatgpt.com "Earth Venture Capital | LinkedIn"))
+    
+
+---
+
+## 📍 **Japan & East Asia — Strategic Investors**
+
+While Japan and Korea have fewer _named_ VC partners with clear drone portfolios, there are institutional vehicles with strong deep tech/innovation roles:
+
+### **9. Synexia Ventures (SEA + Japan)**
+
+- Part of **NTT Group’s venture push** across Asia for robotics/IoT/drone ecosystems. Leadership like **Alan Kuan Hsu** (LinkedIn search) bridges Japan & SEA startups. ([LinkedIn](https://www.linkedin.com/posts/mohanbelani_ntt-group-launches-southeast-asia-venture-activity-7394285182138204160-I_rB?utm_source=chatgpt.com "NTT Group Launches Synexia Ventures in Southeast Asia"))
+    
+
+---
+
+### **10. SoftBank Ventures Asia (SBVA)**
+
+- **SoftBank’s VC arm** across Asia with deep tech/robotics funding track record (e.g., robotics, AI which closely intersects drone autonomy infrastructures). ([Wikipedia](https://en.wikipedia.org/wiki/SoftBank_Group?utm_source=chatgpt.com "SoftBank Group"))
+    
+
+---
+
+## 🧠 **Finding More PhD + Engineering Profiles in These Firms**
+
+Because many deep-tech VCs in Asia invest across robotics, AI, IoT and autonomy rather than only drones, _specific LinkedIn searches filtering for “PhD” + “venture capital” + “drone OR UAV OR robotics” in Singapore, Japan, Korea, Malaysia, Vietnam and Indonesia_ will yield higher-precision profiles.
+
+Here’s a good LinkedIn search string you can use:
+
+```
+“PhD” AND (“venture capital” OR VC) AND (drone OR UAV OR autonomy OR robotics) AND (Singapore OR Japan OR South Korea OR Indonesia OR Malaysia OR Vietnam)
+```
+
+This helps narrow to _technical VCs with doctoral engineering or research backgrounds active in relevant sectors_.
+
+---
+
+## 📍 Unmanned.vc — Location & People
+
+**[Unmanned.vc | Early‑Stage VC for Defence, Drone & Autonomous Startups](https://unmanned.vc/?utm_source=chatgpt.com)**
+
+- **Location:** Tallinn, **Estonia** (Europe) — not Southeast Asia, but worth noting due to a focused unmanned systems thesis with drone tech advisory. ([Unmanned](https://unmanned.vc/?utm_source=chatgpt.com "Unmanned.vc | Early-Stage VC for Defence, Drone & Autonomous Startups"))
+    
+- Employees with strong technical affiliations include:
+    
+    - **Tero Silvola** (LinkedIn available via company page)
+        
+    - **Joshua Henriques**
+        
+    - **Elias Silvola**  
+        These are advisors and fund support roles with deep technical backgrounds in autonomous systems and UAV tech. ([LinkedIn](https://www.linkedin.com/company/unmanned-vcc?utm_source=chatgpt.com "Unmanned.vc | LinkedIn"))
+        
+
+---
+
+### Want this list refined to **only investors with PhD engineering degrees** or to include **LinkedIn URLs + summaries of educational background (PhD / tech focus)**? Let me know — I can generate that next.
+
+Here’s a **comprehensive list of venture capital firms and investors in _East Asia and Southeast Asia_** that are **active or relevant to drone and aerospace technology from a _civil/enterprise_ perspective** (e.g., delivery drones, inspection, agri-drones, UTM/air mobility) — including those _with bases in China, Japan, Thailand and SEA_. I also include specific _VCs that focus on drones/aerial mobility_ and nearby investors who back adjacent deep-tech aerospace and autonomous systems.
+
+---
+
+## 🇯🇵 **Japan — Drone & Aerospace-Focused VC**
+
+### **1. DRONE FUND (東京)**
+
+**Focus:** Venture capital specializing _only in drone and air mobility startups_, covering hardware, software and airspace system innovations. It has a portfolio of 40+ companies globally and invests in technologies supporting social implementation of drones and aerial mobility. ([wingcopter.com](https://wingcopter.com/drone-fund?utm_source=chatgpt.com "DRONE FUND – Wingcopter"))  
+**Location:** Tokyo, Japan  
+**Key Leaders (LinkedIn):**
+
+- **Kotaro Chiba** – Founder & Managing Partner, Venture capitalist active in drone sector. ([LinkedIn](https://www.linkedin.com/in/kotaro-chiba-557bb7?utm_source=chatgpt.com "Kotaro Chiba | LinkedIn - LinkedIn"))  
+    🔗 [https://www.linkedin.com/in/kotaro-chiba-557bb7](https://www.linkedin.com/in/kotaro-chiba-557bb7)  
+    **Notes:** Globally known as one of the _few VCs dedicated exclusively to drone/air mobility_, with investments in drone delivery, UTM, inspection, and civil applications. ([DRONE FUND - DRONE FUND website](https://dronefund.vc/en/wp-content/uploads/sites/2/2021/04/210416-ENG.pdf?utm_source=chatgpt.com "News Release"))
+    
+
+---
+
+### **2. Innovation Network Corporation of Japan (INCJ)**
+
+**Focus:** Major Japanese VC focused on deep tech, aerospace, mobility, and infrastructure innovation — invests in technologies enabling drone automation and aerospace navigation integration. ([SpaceTech Asia](https://www.spacetechasia.com/9-vcs-who-have-invested-in-asia-pacific-space-startups/?utm_source=chatgpt.com "9 VCs who have invested in Asia-Pacific space startups | SpaceTech Asia"))  
+**Location:** Tokyo, Japan  
+**LinkedIn:** Search “Innovation Network Corporation of Japan INCJ LinkedIn”  
+_Good for finding partners / investors with aerospace, robotics, and UTM interests._ ([SpaceTech Asia](https://www.spacetechasia.com/9-vcs-who-have-invested-in-asia-pacific-space-startups/?utm_source=chatgpt.com "9 VCs who have invested in Asia-Pacific space startups | SpaceTech Asia"))
+
+---
+
+### **3. Real Tech Fund (Japan)**
+
+**Focus:** Invests in _deep tech_ including aerospace, navigation, robotics, and infrastructure technology emerging from Japan’s research ecosystem, relevant to drone/air mobility sectors. ([SpaceTech Asia](https://www.spacetechasia.com/9-vcs-who-have-invested-in-asia-pacific-space-startups/?utm_source=chatgpt.com "9 VCs who have invested in Asia-Pacific space startups | SpaceTech Asia"))  
+**Location:** Tokyo, Japan  
+**LinkedIn:** Search “Real Tech Fund Japan LinkedIn”
+
+---
+
+## 🇨🇳 **China — Tech & Aerospace/Drone-Relevant VC**
+
+China doesn’t yet have many _strictly drone-only VC funds_, but **major technology and industry VCs invest broadly in aerospace, autonomy, AI and sensing tech**, which are fundamental to civil drone/air mobility growth.
+
+### **4. HongShan Capital (红杉中国)**
+
+**Focus:** Large China-focused VC with aerospace, autonomous systems, robotics and AI tech investments. ([Wikipedia](https://en.wikipedia.org/wiki/HongShan?utm_source=chatgpt.com "HongShan"))  
+**Location:** Beijing / Shanghai / Hong Kong / Singapore / Tokyo presence. ([Wikipedia](https://en.wikipedia.org/wiki/HongShan?utm_source=chatgpt.com "HongShan"))  
+**LinkedIn:** Search “HongShan Capital LinkedIn”
+
+---
+
+### **5. Kuang-Chi (广智控股 & GCI Fund)**
+
+**Focus:** Chinese innovation & investment group backing aerospace, high-tech and smart-cities technologies. It manages a ~$300M global innovation fund targeting aerospace and smart mobility ventures. ([Wikipedia](https://en.wikipedia.org/wiki/Kuang-Chi?utm_source=chatgpt.com "Kuang-Chi"))  
+**Location:** Shenzhen / Hong Kong / Global offices. ([Wikipedia](https://en.wikipedia.org/wiki/Kuang-Chi?utm_source=chatgpt.com "Kuang-Chi"))  
+**LinkedIn:** Search “Kuang-Chi LinkedIn”
+
+---
+
+### **6. Other China / Asia VCs With Aerospace-Adjacency**
+
+These are _major regionally active VCs often participating in funding autonomous and aerospace technology innovators_ (not drone-specific funds but relevant):
+
+- **ZWC Partners** — Invests in tech across China & SEA; potential relevance to autonomous systems. ([Wikipedia](https://en.wikipedia.org/wiki/ZWC_Partners?utm_source=chatgpt.com "ZWC Partners"))
+    
+- **Walden International** — VC with strong presence in Asia and historical bets on technology up through robotics and autonomous vehicles. ([Wikipedia](https://en.wikipedia.org/wiki/Walden_International?utm_source=chatgpt.com "Walden International"))
+    
+- **Shunwei Capital** — Chinese VC typically investing in technology platforms that could include UAV/AI convergence companies. ([Wikipedia](https://en.wikipedia.org/wiki/Shunwei_Capital?utm_source=chatgpt.com "Shunwei Capital"))  
+    **LinkedIn:** Search individual firm names + “LinkedIn” to find partners working in aerospace, autonomy & UAV sectors.
+    
+
+---
+
+## 🇹🇭 **Thailand & SEA — Relevant VC / CVC / Innovation Funds**
+
+While _drone-exclusive VC firms_ are uncommon in Thailand’s venture ecosystem, several regional funds and corporate venture capital units back **enterprise technologies and industrial automation** — which intersect with civil drone systems (e.g., inspection, logistics, precision agriculture).
+
+### **7. AddVentures by SCG (Thailand)**
+
+**Focus:** Corporate VC under SCG (Siam Cement Group) backing _industrial and enterprise tech_ (incl. AI, automation, logistics) — increasingly intersecting with drone inspection and autonomous systems. ([Techsauce](https://techsauce.co/en/tech-and-biz/cross-border-funding-opportunities-and-hurdles-in-asean-discussion?utm_source=chatgpt.com "3 VCs Gather to Discuss Investment Opportunities and Challenges in ASEAN | Techsauce"))  
+**Location:** Bangkok, Thailand  
+**LinkedIn:** Search “AddVentures by SCG LinkedIn”  
+**Note:** SCG’s investment thesis focuses on industry innovation (infrastructure, logistics, construction) where drones can play a significant role. ([Techsauce](https://techsauce.co/en/tech-and-biz/cross-border-funding-opportunities-and-hurdles-in-asean-discussion?utm_source=chatgpt.com "3 VCs Gather to Discuss Investment Opportunities and Challenges in ASEAN | Techsauce"))
+
+---
+
+### **8. Aerodyne & Partnerships**
+
+Aerodyne isn’t a VC but a **regionally active drone solutions and service provider** that has raised funding from VC firms (e.g., North Summit Capital, Arc Ventures, Leave a Nest), indicating _investment flow into enterprise drone applications (infrastructure inspection & monitoring)_ across SEA including Thailand. ([International Finance](https://internationalfinance.com/featured/drone-specialist-aerodyne-receives-funding-expand-se-asia/?utm_source=chatgpt.com "Drone specialist Aerodyne receives funding to expand in SE Asia"))
+
+- **Aerodyne Group** (LinkedIn search: Aerodyne Group) – Drone services & enterprise solutions; _invested by North Summit Capital & others in Asia_. ([International Finance](https://internationalfinance.com/featured/drone-specialist-aerodyne-receives-funding-expand-se-asia/?utm_source=chatgpt.com "Drone specialist Aerodyne receives funding to expand in SE Asia"))
+    
+
+---
+
+## 🌏 **Southeast Asia — Broader Deep-Tech VCs With Drone/Aerospace Overlap**
+
+These firms aren’t exclusively drone-oriented but regularly _invest in robotics, automation, logistics, AI and IoT_ — technologies that intersect with civil drone & air mobility innovations:
+
+### **9. Earth Venture Capital (Singapore & Ho Chi Minh City)**
+
+**Focus:** Science-based deep tech across Southeast Asia with interests in autonomy and sensor technologies (which complement drone systems).  
+**LinkedIn:** Search “Earth VC Singapore LinkedIn”
+
+### **10. Synexia Ventures (NTT-backed SEA fund)**
+
+**Focus:** Invests in AI, IoT, robotics, smart logistics — adjacent to drone enterprise sectors.  
+**LinkedIn:** Search “Synexia Ventures LinkedIn”
+
+### **11. SGInnovate (Singapore)**
+
+**Focus:** Government-linked investor accelerating deep tech and robotics innovations — often co-invests with VCs in autonomous and aerial technologies.
+
+---
+
+## 🧠 Notes on Finding People (Names + LinkedIn Profiles)
+
+The above firms are high-relevance **investment vehicles**. Many individual partners at these firms have **engineering, PhD or technical backgrounds** and invest in UAV/aviation sectors. Here’s how you can find individuals:
+
+### 🔎 **Search LinkedIn with these patterns**
+
+Copy/paste and run searches on LinkedIn for more precise human profiles:
+
+```
+“PhD” AND (“venture capital” OR VC) AND (drone OR UAV OR air mobility OR aerospace) AND (Japan OR China OR Thailand OR Singapore)
+```
+
+```
+(“Partner” OR “Principal” OR “Investment Director”) AND (aerospace OR drone OR UAV OR autonomy) AND (Singapore OR Tokyo OR Beijing OR Bangkok)
+```
+
+This helps you filter **individual investment professionals with technical backgrounds** involved in these sectors.
+
+---
+
+## Summary Table — Key VCs by Country/Region
+
+|Region|VC / Firm|Drone / Aerospace Focus|
+|---|---|---|
+|**Japan**|DRONE FUND|🎯 Drone & air mobility specialist ([wingcopter.com](https://wingcopter.com/drone-fund?utm_source=chatgpt.com "DRONE FUND – Wingcopter"))|
+||INCJ|Aerospace & mobility tech ([SpaceTech Asia](https://www.spacetechasia.com/9-vcs-who-have-invested-in-asia-pacific-space-startups/?utm_source=chatgpt.com "9 VCs who have invested in Asia-Pacific space startups \| SpaceTech Asia"))|
+||Real Tech Fund|Deep tech/aerospace relevance ([SpaceTech Asia](https://www.spacetechasia.com/9-vcs-who-have-invested-in-asia-pacific-space-startups/?utm_source=chatgpt.com "9 VCs who have invested in Asia-Pacific space startups \| SpaceTech Asia"))|
+|**China**|HongShan Capital|Tech + aerospace relevance ([Wikipedia](https://en.wikipedia.org/wiki/HongShan?utm_source=chatgpt.com "HongShan"))|
+||Kuang-Chi GCI Fund|Aerospace/innovation fund ([Wikipedia](https://en.wikipedia.org/wiki/Kuang-Chi?utm_source=chatgpt.com "Kuang-Chi"))|
+||ZWC Partners|Tech/China VC ([Wikipedia](https://en.wikipedia.org/wiki/ZWC_Partners?utm_source=chatgpt.com "ZWC Partners"))|
+||Walden International|Asia tech VC ([Wikipedia](https://en.wikipedia.org/wiki/Walden_International?utm_source=chatgpt.com "Walden International"))|
+|**Thailand/SEA**|AddVentures by SCG|Industrial/automation tech ([Techsauce](https://techsauce.co/en/tech-and-biz/cross-border-funding-opportunities-and-hurdles-in-asean-discussion?utm_source=chatgpt.com "3 VCs Gather to Discuss Investment Opportunities and Challenges in ASEAN \| Techsauce"))|
+||Earth VC|Deep tech investor|
+||Synexia Ventures|Tech & robotics cluster|
+||Aerodyne (startups)|Enterprise drone applications ([International Finance](https://internationalfinance.com/featured/drone-specialist-aerodyne-receives-funding-expand-se-asia/?utm_source=chatgpt.com "Drone specialist Aerodyne receives funding to expand in SE Asia"))|
+
+---
+
+If you want, I can next provide a **list of specific individual partners (with LinkedIn URLs) at these firms** who _actively invest_ in airline, UAV, autonomy & civil drone tech. Just tell me which geography (e.g., Asia only, global with Asia focus) you want emphasized.
