@@ -4556,3 +4556,218 @@ Here’s how you can **target roles in these funds, as an Indian passport holder
 ---
 
 If you want, I can compile **specific individual recruiters/partners at each of these VC firms (with LinkedIn where available)** who you should reach out to first — just tell me your **current location and work authorization status** for each region (Japan, Singapore, Hong Kong).
+
+Here’s a *_focused map of _actual investors / partners / recruiters in VC firms and related funds__ across **Japan, Singapore, and Hong Kong** that are _relevant to drones, robotics, deep tech or early‑stage technology investing_ — including **specific names and LinkedIn profiles (where available)** for your outreach strategy. I’ve also noted **roles you can target** and **how accessible each contact might be given you’re currently in Germany on a B‑2 student visa with later work‑visa needs**.
+
+---
+
+# 🇯🇵 **Japan — Niche & Highly Relevant**
+
+### **1. DRONE FUND (Tokyo, Japan)**
+
+A dedicated **drone & air mobility VC** focused on seed to early stages across hardware, software and autonomous systems. ([プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES](https://prtimes.jp/main/html/rd/p/000000070.000026186.html?utm_source=chatgpt.com "DRONE FUNDが、日本初の大規模なベンチャーキャピタル集積拠点である麻布台ヒルズ「TOKYO VENTURE CAPITAL HUB」へ移転 | DRONE FUNDのプレスリリース"))
+
+**Key People to Reach Out To**
+
+- **Kotaro Chiba** — _Co‑founder / Managing Partner_  
+    LinkedIn: [https://www.linkedin.com/in/kotaro-chiba-557bb7](https://www.linkedin.com/in/kotaro-chiba-557bb7) ([LinkedIn](https://www.linkedin.com/in/kotaro-chiba-557bb7?utm_source=chatgpt.com "Kotaro Chiba - Private Pilot(FAA/Japan)   / HondaJet owner / Angel ..."))  
+    _Why:_ Founder with strong VC and ecosystem experience; strategic contact for insight on drone/VC demand.
+    
+- **Soki Omae** — _Co‑founder / Managing Partner_  
+    LinkedIn: _(search “Soki Omae LinkedIn Japan”)_
+    
+    - Very early‑stage investment partner — a good contact for analyst/associate opportunities.
+        
+- **Daichi Funanami** — _CFO_  
+    LinkedIn: _(search “Daichi Funanami LinkedIn”)_
+    
+    - Finance lead — useful contact if you’re pursuing **finance + tech due diligence roles**.
+        
+
+**Target Roles:**
+
+- **Investment Analyst / Associate**
+    
+- **Technical + financial due diligence associate**
+    
+- **Portfolio support / operations**
+    
+
+**Notes:**  
+DRONE FUND is small but highly targeted on drones and air mobility — a great place to enter if you can demonstrate domain, financial or strategy expertise. ([DRONE FUND - DRONE FUND website](https://dronefund.vc/en/team/?utm_source=chatgpt.com "Team - DRONE FUND"))
+
+---
+
+# 🇸🇬 **Singapore — Diverse, International VC Target List**
+
+Singapore has a larger English‑friendly VC ecosystem that often backs early tech and deep tech across Asia.
+
+### **2. Spiral Ventures Pte. Ltd. (Singapore)**
+
+A Japan‑Singapore VC with early‑stage tech focus across Southeast Asia & Japan. ([LinkedIn](https://sg.linkedin.com/company/spiral-ventures-pte-ltd?utm_source=chatgpt.com "Spiral Ventures Pte. Ltd. | LinkedIn"))
+
+**Key People**
+
+- **YUJI HORIGUCHI** — _CEO & Founder_  
+    LinkedIn: _(search “Yuji Horiguchi Spiral Ventures LinkedIn Singapore”)_
+    
+- **Hiroshi Oka** — _Partner_  
+    LinkedIn: _(search “Hiroshi Oka Spiral Ventures LinkedIn”)_
+    
+- **Irawan Ganda** — _Partner_  
+    LinkedIn: _(search “Irawan Ganda Spiral Ventures LinkedIn”)_
+    
+
+**Target Roles:**
+
+- Analyst / Associate (early‑stage investing)
+    
+- Sector specialist (tech & robotics focus)
+    
+- Market strategy and due diligence
+    
+
+**Why Singapore:**  
+Spiral has a **Japan + SEA angle**, making it a great entry point as an Indian passport holder on EP visa later and a helpful bridge to Japan or broader Asia exposure. ([LinkedIn](https://sg.linkedin.com/company/spiral-ventures-pte-ltd?utm_source=chatgpt.com "Spiral Ventures Pte. Ltd. | LinkedIn"))
+
+---
+
+### **3. Golden Gate Ventures (Singapore)**
+
+A leading **venture capital firm backed by strong partners** investing in early‑stage tech in Southeast Asia. ([goldengate.vc](https://www.goldengate.vc/team?utm_source=chatgpt.com "Team"))
+
+**Team (Key Contacts)**
+
+- **Vinnie Lauria** — _Founding Partner_  
+    LinkedIn: _(search “Vinnie Lauria LinkedIn”)_
+    
+- **Jeffrey Paine** — _Founding Partner_  
+    LinkedIn: _(search “Jeffrey Paine LinkedIn”)_
+    
+- **Justin Hall** — _Partner_  
+    LinkedIn: _(search “Justin Hall Golden Gate Ventures LinkedIn”)_
+    
+- **Angela Toy** — _Partner & COO_  
+    LinkedIn: _(search “Angela Toy Golden Gate Ventures LinkedIn”)_
+    
+- **Michael Lints** — _Partner, MENA_  
+    LinkedIn: _(search “Michael Lints Golden Gate Ventures LinkedIn”)_
+    
+
+**Target Roles:**
+
+- Investment Associate / Analyst
+    
+- Sector-focused associate in tech (deep‑tech or robotics)
+    
+- Analyst with drone thesis
+    
+
+**Notes:**  
+Golden Gate is one of **Singapore’s largest and most established VCs** — a strong place to build generalist VC experience before niche drone investing. ([goldengate.vc](https://www.goldengate.vc/team?utm_source=chatgpt.com "Team"))
+
+---
+
+### **4. Other Singapore VC Firms (Useful Network Targets)**
+
+**Other firms to identify individual partners/recruiters at:**
+
+- **Quest Ventures** — early‑stage VC with strong regional presence in Singapore. ([Wikipedia](https://en.wikipedia.org/wiki/Quest_Ventures?utm_source=chatgpt.com "Quest Ventures"))
+    
+- **Family offices / deep‑tech funds** connected to Temasek or government initiatives (e.g., SGInnovate, InvestHK Singapore ecosystem events). ([LinkedIn](https://sg.linkedin.com/company/investhk-singapore?utm_source=chatgpt.com "InvestHK Singapore | LinkedIn"))
+    
+
+**Why Singapore First:**  
+English ecosystem, open to international recruiters, and EP visas are widely sponsored for qualified roles.
+
+---
+
+# 🇭🇰 **Hong Kong — VC & Innovation Funds**
+
+### **5. Beyond Ventures (Hong Kong)**
+
+A local VC investing across early and growth stage tech. ([LinkedIn](https://hk.linkedin.com/company/beyondventures?utm_source=chatgpt.com "Beyond Ventures 海闊天空創投"))
+
+**Key Contacts**
+
+- **Baniel Cheung** — investor
+    
+- **Brenda Tang** — investor
+    
+- **James Chan** — investor
+    
+- **Sharon Hui Wang** — investor
+    
+
+LinkedIn: _(search “Beyond Ventures [name] LinkedIn HK”)_
+
+**Target Roles:**
+
+- Investment analyst / associate
+    
+- Portfolio associate
+    
+- Innovation desk (focus on deep tech or robotics adjacent)
+    
+
+**Notes:**  
+Hong Kong has a **finance + startup nexus** with strong connections to Mainland Chinese funds and Greater Bay Area tech initiatives — useful if your finance career leans toward cross‑border capital. ([LinkedIn](https://hk.linkedin.com/company/beyondventures?utm_source=chatgpt.com "Beyond Ventures 海闊天空創投"))
+
+---
+
+# 🌏 **Other Strategic Contacts to Explore (Regional, Not Drone‑Specific but Helpful)**
+
+### **Jenny Lee — Senior Managing Partner at Granite Asia (Singapore)**
+
+A top‑tier venture capitalist and globally recognized investor. Her profile helps with high‑level networking and market view. ([Wikipedia](https://en.wikipedia.org/wiki/Jenny_Lee_%28venture_capitalist%29?utm_source=chatgpt.com "Jenny Lee (venture capitalist)"))
+
+**LinkedIn:** _(search “Jenny Lee Granite Asia LinkedIn”)_  
+**Why:** Great connector in Asia VC ecosystem and experienced in scaling tech ventures.
+
+---
+
+## 📌 How to Reach Out (Template Openers)
+
+### 1) **Informational outreach**
+
+> Hi [Name], I’m a PhD candidate in aerial communications based in Germany. I’m building deep‑tech investment analysis and sector research in drones/robotics. I’d love to connect and learn how [Firm] thinks about early‑stage drone investments in Asia.
+
+### 2) **Value‑adding outreach**
+
+> Hi [Name], I just published a memo analyzing drone hardware economics in ASEAN and Japan. I’d be happy to share if useful — and would appreciate your perspective on how you view this sector from an investment lens.
+
+---
+
+## 📈 Roles to Target (Realistic for Your Profile)
+
+|Firm / Region|Role Type|Likelihood w/ PhD|Visa Feasibility|
+|---|---|--:|--:|
+|**DRONE FUND (Japan)**|Analyst / Technical Associate|Medium‑High (with Japanese proficiency)|Medium|
+|**Spiral Ventures (SG)**|Investment Associate / Analyst|High|High (Employment Pass)|
+|**Golden Gate Ventures (SG)**|Analyst / Associate|High|High|
+|**Beyond Ventures (HK)**|Analyst / Associate|Medium|Medium|
+|**SGInnovate / Ecosystem Funds (SG)**|Sector analyst|High|High|
+|**Granite Asia / Senior VCs (SG)**|Strategic insight / network role|Medium|Medium|
+
+---
+
+## 📌 Work Authorization Note — You Can Absolutely Pursue These
+
+As someone **in Germany on a student/academic status with no other current work authorization**, the realistic path is:
+
+1. **Secure an employment offer first**
+    
+2. **Employer sponsors work visa** in Singapore, Japan or Hong Kong
+    
+    - Singapore: **Employment Pass**
+        
+    - Japan: **Engineer/Specialist** or **Highly Skilled Professional**
+        
+    - Hong Kong: **Employment Visa**
+        
+3. Your PhD + sector expertise increases attractiveness for analyst/associate roles, especially **in VC and corporate VC**.
+    
+
+---
+
+If you want, I can now **generate a message outreach list with pre‑written DM templates** for the contacts above (e.g., tailored emails/LinkedIn messages) and talk through _best timing_ and _follow‑up strategies_ (including how to get replies).
