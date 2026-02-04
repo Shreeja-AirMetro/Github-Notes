@@ -2882,3 +2882,86 @@ To avoid the "Language Trap" you see in Germany, you must pivot your language fo
 ### **Your Next Step**
 
 Would you like me to draft a **"Tech Associate" version of your CV**? I can show you how to rewrite an academic "List of Publications" into a **"Technical Due Diligence Portfolio"** that will get a VC Partner's attention.
+
+https://www.angelschool.vc/blog/how-to-get-into-venture-capital-as-an-engineer
+
+https://datadrivenvc.io/
+Here are a few **venture capital professionals / investors connected to drone technology and autonomous systems** that you can explore. Note that _specific PhD + engineering + VC profiles focusing on civil drones_ are rare publicly, and many VCs with drone exposure come from broader aerospace/autonomy/defense investing — so I’ve included relevant VC investors with _LinkedIn profiles where available_, and noted where their public information relates to drones or unmanned systems:
+
+---
+
+### 🔎 **1. Kotaro Chiba — Founder/Managing Partner at DRONE FUND**
+
+**Role:** Founder & Managing Partner at **DRONE FUND**, a Tokyo-based venture capital firm specializing in drone and air-mobility startups (seed to early-stage) with investments across global drone tech. ([LinkedIn](https://www.linkedin.com/in/kotaro-chiba-557bb7?utm_source=chatgpt.com "Kotaro Chiba - Private Pilot(FAA/Japan)🛩 / HondaJet ..."))
+
+**LinkedIn:**  
+➡️ [https://www.linkedin.com/in/kotaro-chiba-557bb7](https://www.linkedin.com/in/kotaro-chiba-557bb7) ([LinkedIn](https://www.linkedin.com/in/kotaro-chiba-557bb7?utm_source=chatgpt.com "Kotaro Chiba - Private Pilot(FAA/Japan)🛩 / HondaJet ..."))
+
+**Notes:**
+
+- While his academic background is _not uniquely listed as a PhD_, Kotaro is highly connected internationally in drone ventures, and often bridges tech/science/VC communities. ([DRONE FUND - DRONE FUND website](https://dronefund.vc/en/team/kotaro-chiba/?utm_source=chatgpt.com "Kotaro Chiba"))
+    
+
+---
+
+### ⭐ **2. Shaun Maguire — Partner involved in drone investments (e.g., Neros & Skydio deals)**
+
+**Role:** Venture Capital Partner (Sequoia Capital) with involvement in autonomous drone company financing (e.g., _Neros_). ([Reuters](https://www.reuters.com/business/aerospace-defense/drone-startup-neros-raises-funding-sequoia-eyes-supplies-ukraine-us-military-2024-05-20/?utm_source=chatgpt.com "Drone startup Neros raises funding from Sequoia, eyes supplies to Ukraine, US military"))
+
+**LinkedIn:**  
+➡️ [https://www.linkedin.com/search/results/all/?keywords=Shaun%20Maguire](https://www.linkedin.com/search/results/all/?keywords=Shaun%20Maguire)
+
+**Notes:**
+
+- Sequoia Capital isn’t a drone-specific VC, but Shaun has been publicly linked to drone sector rounds — strong for civil/autonomy investment profiles. ([Reuters](https://www.reuters.com/business/aerospace-defense/drone-startup-neros-raises-funding-sequoia-eyes-supplies-ukraine-us-military-2024-05-20/?utm_source=chatgpt.com "Drone startup Neros raises funding from Sequoia, eyes supplies to Ukraine, US military"))
+    
+
+---
+
+### 📌 **3. Investors at Aerospace & Autonomy-Focused VCs**
+
+These firms back drone tech companies; individual partners often have engineering or PhD backgrounds, though public LinkedIn will provide the specific profile details:
+
+|**VC Firm**|**Focus**|LinkedIn Search to Try|
+|---|---|---|
+|**Andreessen Horowitz (a16z)**|Autonomous drones, UAV tech, AI|[https://www.linkedin.com/company/a16z](https://www.linkedin.com/company/a16z)|
+|**Lux Capital**|Deep tech including robotics, drones|[https://www.linkedin.com/company/lux-capital](https://www.linkedin.com/company/lux-capital)|
+|**Airbus Ventures**|Aviation & autonomous systems|[https://www.linkedin.com/company/airbus-ventures](https://www.linkedin.com/company/airbus-ventures)|
+|**Bessemer Venture Partners**|Enterprise drone applications|[https://www.linkedin.com/company/bessemervp](https://www.linkedin.com/company/bessemervp)|
+|**Founders Fund**|Defense & autonomy investments|[https://www.linkedin.com/company/founders-fund](https://www.linkedin.com/company/founders-fund)|
+
+_Search these VC teams on LinkedIn to find individuals — many partners hold engineering or PhD credentials and lead UAV/autonomy investments._ ([Ellty](https://www.ellty.com/blog/drone-investors?utm_source=chatgpt.com "Drone Investors: 30+ Active VCs Funding UAV Startups - Ellty"))
+
+---
+
+### 🔍 **Tips to Locate More Specific Profiles (Engineering + PhD + Drone VC)**
+
+Because current public sources don’t list a ready database of _PhD engineers working in VC solely on civil drone tech_, here’s how you can narrow down:
+
+1. **Search LinkedIn by Keywords:**
+    
+    - Filters: _“PhD” + “Venture Capital” + “Drone” OR “UAV” OR “Autonomy”_
+        
+    - Add sectors like _“civil infrastructure drones”_, _“aerial robotics”_, or _“urban air mobility”_.
+        
+2. **Look at VC Funds with Drone Portfolios:**
+    
+    - Check partner teams at VC firms investing in aerial autonomy and then check individual bios for **engineering doctorates** (e.g., certain partners at a16z or Lux Capital have technical degrees).
+        
+3. **Explore Specialized Funds:**
+    
+    - Firms like **Unmanned.vc** (early-stage drone/defense VC) may have team pages worth checking for technical roles. ([Unmanned](https://unmanned.vc/?utm_source=chatgpt.com "Unmanned.vc | Early-Stage VC for Defence, Drone & Autonomous ..."))
+        
+
+---
+
+### 🧠 Why It’s Rare to Find PhD / Civil Drone-Specific VCs Directly
+
+- Most investors in drone tech come from **general tech, aerospace, defense, or robotics investing backgrounds**, not exclusively civil engineering drones.
+    
+- Many VCs leverage **technical advisors** (often PhDs) rather than the investors themselves holding doctoral engineering degrees.
+    
+
+---
+
+If you want, I can help **generate a list of names with LinkedIn links** — just tell me if you want them filtered by geography (e.g., Europe vs US) or _civil drones (infrastructure, delivery, inspection)_ specifically.
