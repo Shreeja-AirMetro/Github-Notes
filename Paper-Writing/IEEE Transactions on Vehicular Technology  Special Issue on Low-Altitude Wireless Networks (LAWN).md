@@ -1426,3 +1426,14 @@ It is structured as follows:
     - Physical layer abstraction;
         
     - User mobility.
+
+|Step|3GPP Reference|Computation|
+|---|---|---|
+|1. CIR generation|38.901 Clause 7 (TDL-C, UMa/UMi)|SIONNA ray-tracing or MATLAB 5G Toolbox|
+|2. OFDM channel est.|38.211 Clause 5.1 (DMRS)|LS/MMSE over pilot REs|
+|3. Effective SNR|38.214 Link Adaptation (implicit)|EESM + fading margin|
+|4. MCS selection|38.214 Clause 5.1|CQI ↔ SNR table lookup|
+|5. TB segmentation & LDPC coding|38.212 Clause 5.2–5.3|Base graph + lifting factor|
+|6. BLER lookup/sim|38.212 Annexes|Pre-computed or Monte-Carlo|
+|7. HARQ scheduling|38.321 RLC, 38.214 TTI|Mini-slot timing + RTT budget|
+|8. E2E latency|38.300 / TR 38.913|Sum latency components|
