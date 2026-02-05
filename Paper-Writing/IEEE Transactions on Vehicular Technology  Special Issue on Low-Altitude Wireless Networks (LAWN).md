@@ -1586,3 +1586,36 @@ trigger state in CSI-AperiodicTriggerStateList contains a list of associated CSI
 Set IDs for channel and optionally for interference. Each trigger state in CSI-SemiPersistentOnPUSCH-TriggerStateList
 contains one associated CSI-ReportConfig.**
 
+Channel quality indicator (CQI)
+The CQI indices and their interpretations are given in Table 5.2.2.1-2 or Table 5.2.2.1-4 for reporting CQI based on
+QPSK, 16QAM and 64QAM. The CQI indices and their interpretations are given in Table 5.2.2.1-3 for reporting CQI
+based on QPSK, 16QAM, 64QAM and 256QAM.
+Based on an unrestricted observation interval in time unless specified otherwise in this Subclause, [and an unrestricted
+observation interval in frequency-TBD], the UE shall derive for each CQI value reported in uplink slot n the highest
+CQI index which satisfies the following condition:
+-
+A single PDSCH transport block with a combination of modulation scheme, target code rate and transport block
+size corresponding to the CQI index, and occupying a group of downlink physical resource blocks termed the
+CSI reference resource, could be received with a transport block error probability not exceeding:
+-0.1, if the higher layer parameter cqi-Table in CSI-ReportConfig configures 'table1' (corresponding to Table
+5.2.2.1-2), or 'table2' (corresponding to Table 5.2.2.1-3), or
+-0.00001, if the higher layer parameter cqi-Table in CSI-ReportConfig configures 'table3' (corresponding to
+Table 5.2.2.1-4).
+If a UE is not configured with higher layer parameter timeRestrictionForChannelMeasurements, the UE shall derive the
+channel measurements for computing CSI value reported in uplink slot n based on only the NZP CSI-RS, no later than
+the CSI reference resource, (defined in TS 38.211[4]) associated with the CSI resource setting.
+
+If a UE is configured with higher layer parameter timeRestrictionForInterferenceMeasurements in CSI-ReportConfig,
+the UE shall derive the interference measurements for computing the CSI value reported in uplink slot n based on the
+most recent, no later than the CSI reference resource, occasion of CSI-IM and/or NZP CSI-RS for interference
+measurement (defined in [4, TS 38.211]) associated with the CSI resource setting.
+
+combination of modulation scheme and transport block size corresponds to a CQI index if:
+-the combination could be signaled for transmission on the PDSCH in the CSI reference resource according to the
+Transport Block Size determination described in Subclause 5.1.3.2, and
+-the modulation scheme is indicated by the CQI index, and
+-the combination of transport block size and modulation scheme when applied to the reference resource results in
+the effective channel code rate which is the closest possible to the code rate indicated by the CQI index. If more
+than one combination of transport block size and modulation scheme results in an effective channel code rate
+equally close to the code rate indicated by the CQI index, only the combination with the smallest of such
+transport block sizes is relevant.
