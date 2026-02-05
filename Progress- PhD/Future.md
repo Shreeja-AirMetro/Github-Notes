@@ -4771,3 +4771,5 @@ As someone **in Germany on a student/academic status with no other current work 
 ---
 
 If you want, I can now **generate a message outreach list with pre‑written DM templates** for the contacts above (e.g., tailored emails/LinkedIn messages) and talk through _best timing_ and _follow‑up strategies_ (including how to get replies).
+
+https://therecursive.com/your-comprehensive-guide-for-deep-tech-investors-from-cee-and-dach/
