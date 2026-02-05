@@ -1534,3 +1534,40 @@ TABLE 5.1.3.1.1. MSC Tabel for PDSCGh
 
 the UE shall use IMCS and Table 5.1.3.1-3 to determine the modulation order (Qm) and Target code rate (R) used
 in the physical downlink shared channel.
+In case the higher layer parameter maxNrofCodeWordsScheduledByDCI indicates that two codeword transmission is
+enabled, then one of the two transport blocks is disabled by DCI format 1_1 if IMCS = 26 and if rvid = 1 for the
+corresponding transport block. If both transport blocks are enabled, transport block 1 and 2 are mapped to codeword 0
+and 1 respectively
+CSI-RS reception procedure
+The CSI-RS defined in Subclause 7.4.1.5 of [4, TS 38.211], may be used for time/frequency tracking, CSI computation,
+L1-RSRP computation and mobility.
+If the UE is configured with a CSI-RS resource and a search space set associated with a CORESET in the same OFDM
+symbol(s), the UE may assume that the CSI-RS and a PDCCH DM-RS transmitted in all the search space sets
+associated with CORESET are quasi co-located with 'QCL-TypeD', if 'QCL-TypeD' is applicable. Furthermore, the UE
+shall not expect to be configured with the CSI-RS in PRBs that overlap those of the CORESET in the OFDM symbols
+occupied by the search space set(s).
+The UE is not expected to receive CSI-RS and [SystemInformationBlockType1] message in the overlapping PRBs in the
+OFDM symbols where [SystemInformationBlockType1] is transmitted.
+
+CSI-RS
+resources in two consecutive slots (which are the same across two consecutive slots), as defined by higher layer
+parameter CSI-RS-resourceMapping, is given by one of
+-l ∈ {4,8} , l ∈ {5,9} , or l ∈ {6,10} for frequency range 1 and frequency range 2,
+-l ∈ {0,4} , l ∈{1,5}, l ∈ {2,6} , l ∈ {3,7} , l ∈ {7,11} , l ∈ {8,12} or l ∈ {9,13} for frequency range 2.
+-a single port CSI-RS resource with density ρ = 3 given by Table 7.4.1.5.3-1 from [4, TS 38.211] and higher
+layer parameter density configured by CSI-RS-ResourceMapping.
+-the bandwidth of the CSI-RS resource, as given by the higher layer parameter freqBand configured by CSI-RS-
+BWP,i
+BWP,i
+resource blocks, or is equal to N RB
+resource blocks
+ResourceMapping, is the minimum of 52 and N RB
+-
+-
+the UE is not expected to be configured with the periodicity of 2 μ × 10 slots if the bandwidth of CSI-RS
+resource is larger than 52 resource blocks.
+the periodicity and slot offset, as given by the higher layer parameter periodicityAndOffset configured by NZP-
+CSI-RS-Resource, is one of 2 μ X p slots where X p = 10, 20, 40, or 80 and where µ is defined in Subclause 4.3 of
+[4, TS 38.211].
+-
+same powerControlOffset and powerControlOffsetSS given by NZP-CSI-RS-Resource value across all resources.
