@@ -1571,3 +1571,18 @@ CSI-RS-Resource, is one of 2 μ X p slots where X p = 10, 20, 40, or 80 and wher
 [4, TS 38.211].
 -
 same powerControlOffset and powerControlOffsetSS given by NZP-CSI-RS-Resource value across all resources.
+
+**A UE shall report the preferred MCS and bandwidth thresholds based on the UE capability at a given carrier frequency,
+for each subcarrier spacing applicable to data channel at this carrier frequency, assuming the MCS table with the
+maximum ModOrder as it reported to support.**
+
+**The time and frequency resources that can be used by the UE to report CSI are controlled by the gNB. CSI may consist
+of Channel Quality Indicator (CQI), precoding matrix indicator (PMI), CSI-RS resource indicator (CRI), SS/PBCH
+Block Resource indicator (SSBRI), layer indicator (LI), rank indicator (RI) and/or L1-RSRP.
+For CQI, PMI, CRI, SSBRI, LI, RI, L1-RSRP, a UE is configured by higher layers with N≥1 CSI-ReportConfig
+Reporting Settings, M≥1 CSI-ResourceConfig Resource Settings, and one or two list(s) of trigger states (given by the
+higher layer parameters CSI-AperiodicTriggerStateList and CSI-SemiPersistentOnPUSCH-TriggerStateList). Each
+trigger state in CSI-AperiodicTriggerStateList contains a list of associated CSI-ReportConfigs indicating the Resource
+Set IDs for channel and optionally for interference. Each trigger state in CSI-SemiPersistentOnPUSCH-TriggerStateList
+contains one associated CSI-ReportConfig.**
+
