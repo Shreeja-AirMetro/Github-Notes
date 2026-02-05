@@ -1437,3 +1437,100 @@ It is structured as follows:
 |6. BLER lookup/sim|38.212 Annexes|Pre-computed or Monte-Carlo|
 |7. HARQ scheduling|38.321 RLC, 38.214 TTI|Mini-slot timing + RTT budget|
 |8. E2E latency|38.300 / TR 38.913|Sum latency components|
+
+Modulation order, target code rate, redundancy version and
+transport block size determination
+To determine the modulation order, target code rate, and transport block size(s) in the physical downlink shared
+channel, the UE shall first
+-read the 5-bit modulation and coding scheme field (IMCS) in the DCI to determine the modulation order (Qm) and
+target code rate (R) based on the procedure defined in Subclause 5.1.3.1, and
+-read redundancy version field (rv) in the DCI to determine the redundancy version..
+and second
+-
+the UE shall use the number of layers (ʋ), the total number of allocated PRBs before rate matching (nPRB) to
+determine to the transport block size based on the procedure defined in Subclause 5.1.3.2.
+The UE may skip decoding a transport block in an initial transmission if the effective channel code rate is higher than
+0.95, where the effective channel code rate is defined as the number of downlink information bits (including CRC bits)
+divided by the number of physical channel bits on PDSCH.
+The UE is not expected to handle any transport blocks (TBs) in a 14 consecutive-symbol duration for normal CP (or 12
+for extended CP) within an active BWP on a serving cell whenever
+2୫ୟ୶ ଴ ఓିఓ . ∑௜ ௌ ௜ᇱ . ௜ > ோ
+(
+ᇲ
+,
+)
+∈
+ଵ . 
+௅஻ோெ
+ಽಳೃಾ
+where, for the serving cell,
+-S is the set of TBs belonging to PDSCH(s) that are contained in the consecutive-symbol duration
+-for the ith TB
+-Ci' is the number of scheduled code blocks for as defined in [5, 38.212].
+-௜ = ௝ୀ଴max௃ିଵ(min(଴௝ ௜ + ௜௝ , ௖௕ ௜ )) based on the values defined in Subclause 5.4.2.1 [5, TS 38.212]
+,...,
+-
+-
+,
+,
+଴௝ ௜ is the starting location of RV for the th transmission
+,
+-௜௝ = min(௥ ) of the scheduled code blocks for the th transmission
+-௖௕ ௜ is the circular buffer length
+-− 1 is the current (re)transmission for the ith TB
+,
+ᇱ corresponds to the subcarrier spacing of the BWP (across all configured BWPs of a carrier) that has the
+largest configured number of PRBs
+ETSI3GPP TS 38.214 version 15.3.0 Release 15
+18
+-corresponds to the subcarrier spacing of the active BWP
+-RLBRM = 2/3 as defined in Subclause 5.4.2.1 [5, TS 38.212].
+-TBSLBRM as defined in Subclause 5.4.2.1 [5, TS 38.212].
+ETSI TS 138 214 V15.3.0 (2018-10)
+If the UE skips decoding, the physical layer indicates to higher layer that the transport block is not successfully
+decoded.
+5.1.3.1
+Modulation order and target code rate determination
+For the PDSCH scheduled by a PDCCH with DCI format 1_0 or format 1_1 with CRC scrambled by C-RNTI, MCS-C-
+RNTI, TC-RNTI, CS-RNTI, SI-RNTI, RA-RNTI, or P-RNTI, or for the PDSCH scheduled without corresponding
+PDCCH transmissions using the higher-layer-provided PDSCH configuration SPS-config,
+if the higher layer parameter mcs-Table given by PDSCH-Config is set to 'qam256', and the PDSCH is scheduled by a
+PDCCH with DCI format 1_1 with CRC scrambled by C-RNTI
+-
+the UE shall use IMCS and Table 5.1.3.1-2 to determine the modulation order (Qm) and Target code rate (R) used
+in the physical downlink shared channel.
+elseif the UE is not configured with MCS-C-RNTI, the higher layer parameter mcs-Table given by PDSCH-Config is
+set to 'qam64LowSE', and the PDSCH is scheduled by a PDCCH in a UE-specific search space with CRC scrambled by
+C-RNTI
+-
+the UE shall use IMCS and Table 5.1.3.1-3 to determine the modulation order (Qm) and Target code rate (R) used
+in the physical downlink shared channel.
+elseif the UE is configured with MCS-C-RNTI, and the PDSCH is scheduled by a PDCCH with CRC scrambled by
+MCS-C-RNTI
+-
+the UE shall use IMCS and Table 5.1.3.1-3 to determine the modulation order (Qm) and Target code rate (R) used
+in the physical downlink shared channel.
+elseif the UE is not configured with the higher layer parameter mcs-Table given by SPS-config, the higher layer
+parameter mcs-Table given by PDSCH-Config is set to 'qam256',
+-if the PDSCH is scheduled by a PDCCH with DCI format 1_1 with CRC scrambled by CS-RNTI or
+-if the PDSCH is scheduled without corresponding PDCCH transmission using SPS-config,
+-
+the UE shall use IMCS and Table 5.1.3.1-2 to determine the modulation order (Qm) and Target code rate (R)
+used in the physical downlink shared channel.
+elseif the UE is configured with the higher layer parameter mcs-Table given by SPS-config set to 'qam64LowSE'
+-if the PDSCH is scheduled by a PDCCH with CRC scrambled by CS-RNTI or
+-if the PDSCH is scheduled without corresponding PDCCH transmission using SPS-config,
+-
+the UE shall use IMCS and Table 5.1.3.1-3 to determine the modulation order (Qm) and Target code rate (R)
+used in the physical downlink shared channel.
+else
+-
+the UE shall use IMCS and Table 5.1.3.1-1 to determine the modulation order (Qm) and Target code rate (R) used
+in the physical downlink shared channel.
+end
+The UE is not expected to decode a PDSCH scheduled with P-RNTI, RA-RNTI, SI-RNTI and Qm > 2
+TABLE 5.1.3.1.1. MSC Tabel for PDSCGh
+
+
+the UE shall use IMCS and Table 5.1.3.1-3 to determine the modulation order (Qm) and Target code rate (R) used
+in the physical downlink shared channel.
