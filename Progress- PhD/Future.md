@@ -4773,3 +4773,30 @@ As someone **in Germany on a student/academic status with no other current work 
 If you want, I can now **generate a message outreach list with pre‑written DM templates** for the contacts above (e.g., tailored emails/LinkedIn messages) and talk through _best timing_ and _follow‑up strategies_ (including how to get replies).
 
 https://therecursive.com/your-comprehensive-guide-for-deep-tech-investors-from-cee-and-dach/
+
+###901 
+
+![[Screenshot from 2026-02-05 12-39-55.png]]
+
+**FOR Simulation**
+
+Antenna modelling
+This clause captures the antenna array structures considered in this SI for calibration.
+The BS antenna is modelled by a uniform rectangular panel array, comprising MgNg panels, as illustrated in Figure 7.3-1
+with Mg being the number of panels in a column and Ng being the number of panels in a row. Furthermore the following
+properties apply:
+-Antenna panels are uniformly spaced in the horizontal direction with a spacing of dg,H and in the vertical
+direction with a spacing of dg,V.
+-On each antenna panel, antenna elements are placed in the vertical and horizontal direction, where N is the
+number of columns, M is the number of antenna elements with the same polarization in each column.
+-Antenna numbering on the panel illustrated in Figure 7.3-1 assumes observation of the antenna array from
+the front (with x-axis pointing towards broad-side and increasing y-coordinate for increasing column
+number).
+-The antenna elements are uniformly spaced in the horizontal direction with a spacing of dH and in the vertical
+direction with a spacing of dV.
+-The antenna panel is either single polarized (P =1) or dual polarized (P =2).
+The rectangular panel array antenna can be described by the following tuple
+(M , N , M , N , P ).
+
+![[Pasted image 20260205124113.png]]
+
