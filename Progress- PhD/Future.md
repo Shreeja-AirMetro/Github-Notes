@@ -4774,3 +4774,4 @@ If you want, I can now **generate a message outreach list with pre‑written DM 
 
 https://therecursive.com/your-comprehensive-guide-for-deep-tech-investors-from-cee-and-dach/
 
+https://www.wallstreetoasis.com/academy#what-is-wso-academy
