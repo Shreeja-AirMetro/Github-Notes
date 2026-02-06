@@ -4919,3 +4919,8 @@ Here’s a **country-wise overview** of major **Advanced Air Mobility (AAM)** ve
 ---
 
 If you want, I can compile this into a **searchable table or spreadsheet format** with amounts, investors, and timeline details for each funding round!
+
+https://woven.vc/team
+https://toyota.ventures/#ethan-sohn
+
+### VC and capital, Private equity, Analyst, Due deligence , bills , International relations 
