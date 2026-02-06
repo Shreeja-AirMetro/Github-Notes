@@ -1779,3 +1779,4 @@ https://www.etsi.org/deliver/etsi_tr/138900_138999/138912/16.00.00_60/tr_138912v
 https://arxiv.org/pdf/2203.11854
 https://nvlabs.github.io/sionna/rt/tutorials/Introduction.html
 https://nvlabs.github.io/sionna/rt/api/paths.html#sionna.rt.Paths.cir
+https://nvlabs.github.io/sionna/rt/tutorials/Mobility.html
