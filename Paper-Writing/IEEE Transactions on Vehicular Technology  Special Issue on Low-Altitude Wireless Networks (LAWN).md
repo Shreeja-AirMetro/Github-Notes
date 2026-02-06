@@ -1771,3 +1771,11 @@ https://techblog.comsoc.org/2023/08/19/3gpp-release-16-5g-nr-enhancements-for-ur
 
 https://nvlabs.github.io/sionna/rt/tutorials/Introduction.html
 https://nvlabs.github.io/sionna/rt/tutorials/Mobility.html
+
+
+#### To read
+https://techblog.comsoc.org/2023/08/19/3gpp-release-16-5g-nr-enhancements-for-urllc-in-the-ran-urllc-in-the-5g-core-network/
+https://www.etsi.org/deliver/etsi_tr/138900_138999/138912/16.00.00_60/tr_138912v160000p.pdf
+https://arxiv.org/pdf/2203.11854
+https://nvlabs.github.io/sionna/rt/tutorials/Introduction.html
+https://nvlabs.github.io/sionna/rt/api/paths.html#sionna.rt.Paths.cir
