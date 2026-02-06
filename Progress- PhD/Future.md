@@ -4775,3 +4775,147 @@ If you want, I can now **generate a message outreach list with pre‑written DM 
 https://therecursive.com/your-comprehensive-guide-for-deep-tech-investors-from-cee-and-dach/
 
 https://www.wallstreetoasis.com/academy#what-is-wso-academy
+
+
+Here’s a **country-wise overview** of major **Advanced Air Mobility (AAM)** venture capital (VC), private equity (PE), strategic corporate, and finance/backing sources — focused on investments into eVTOL/AAM companies, related technologies, and infrastructure. The AAM ecosystem includes aircraft OEMs, infrastructure (like vertiports), and service platforms.
+
+⚠️ **Note:** Comprehensive, up-to-date lists of all investors per country often require proprietary databases (Crunchbase, PitchBook), and public disclosures vary widely. This overview combines known public funding rounds, equity investments, and strategic finances tied to AAM/eVTOL startups and investors.
+
+---
+
+## 🇺🇸 **United States — Most Active AAM Investors & Funding**
+
+### **Major VC / Strategic Investors**
+
+- **Joby Aviation** (public eVTOL developer): raised **multi-billion USD** in funding; key investors include **Toyota ($500M strategic investment)**, **Delta Air Lines ($60M+)**, **Uber**, **SK Telecom ($100M)**, others totalling approx. **$2B+** funding history. ([Axios](https://www.axios.com/2024/10/02/toyota-joby-aviation-investment-evtol-air-taxi?utm_source=chatgpt.com "Toyota invests $500 million in air taxi startup Joby Aviation"))
+    
+- **Archer Aviation** (eVTOL): has raised **hundreds of millions** — including a **$300M round led by BlackRock** and institutional investors; also includes finance from United Airlines, Stellantis and Anduril. ([Reuters](https://www.reuters.com/business/aerospace-defense/archer-aviation-raises-300-million-blackrock-backed-funding-2025-02-11/?utm_source=chatgpt.com "Archer Aviation raises $300 million in BlackRock-backed funding"))
+    
+- **UP.Partners $230M AAM-focused VC Fund:** with backers like **Cathie Wood / ARK Invest, Woven Capital, Alaska Air Group** directed at electric aircraft startups like Beta Technologies. ([Reddit](https://www.reddit.com/r/electricaircraft/comments/qbjmr0?utm_source=chatgpt.com "$230M Venture Capital Fund Targets Electric Air Mobility"))
+    
+
+### **PE / Institutional & Strategic Backing**
+
+- **BlackRock** — institutional investor in Archer and other mobility players. ([Reuters](https://www.reuters.com/business/aerospace-defense/archer-aviation-raises-300-million-blackrock-backed-funding-2025-02-11/?utm_source=chatgpt.com "Archer Aviation raises $300 million in BlackRock-backed funding"))
+    
+- **Stellantis & United Airlines** — financial and strategic backers of Archer via equity and production funding. ([Reuters](https://www.reuters.com/business/aerospace-defense/archer-aviation-raises-300-million-blackrock-backed-funding-2025-02-11/?utm_source=chatgpt.com "Archer Aviation raises $300 million in BlackRock-backed funding"))
+    
+- **Toyota** — major strategic funder of Joby. ([Axios](https://www.axios.com/2024/10/02/toyota-joby-aviation-investment-evtol-air-taxi?utm_source=chatgpt.com "Toyota invests $500 million in air taxi startup Joby Aviation"))
+    
+- **Uber & Delta Air Lines** — early and ongoing strategic participants in Joby’s growth. ([Investopedia](https://www.investopedia.com/joby-shares-soar-on-investment-faa-test-flight-approval-7555197?utm_source=chatgpt.com "Joby Shares Soar After $100M Investment, FAA Test Flight Approval"))
+    
+
+### **Public Listings / SPACs**
+
+- Joby Aviation is publicly traded on NYSE (symbol: JOBY) following a SPAC merger, giving it broader public equity backing. ([Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%94%E6%AF%94%E8%88%AA%E7%A9%BA?utm_source=chatgpt.com "乔比航空"))
+    
+
+---
+
+## 🇩🇪 **Germany / EU — European VC & Private Equity in AAM**
+
+### **Direct AAM Companies & Funding**
+
+- **Volocopter** (German eVTOL/UAM pioneer): historically raised large VC rounds (e.g., **€200M Series D** with BlackRock, NTT, Avala Capital, Tokyo Century). ([volocopter.com](https://www.volocopter.com/de/newsroom/200-millionen-euro-finanzierungsrunde-in-volocopter-unterzeichnet?utm_source=chatgpt.com "200 Millionen Euro Finanzierungsrunde in Volocopter unterzeichnet - Volocopter"))  
+    _Recent insolvency highlights financing challenges in Europe’s AAM sector._ ([The Verge](https://www.theverge.com/2024/10/24/24278673/lilium-air-taxi-evtol-insolvency-operations?utm_source=chatgpt.com "Air taxi maker Lilium is out of money and will cease operations"))
+    
+
+### **European VC / Equity Players (may invest in AAM tech)**
+
+- **Newfund Management** (France): early-stage VC potentially active in mobility tech (not AAM exclusive). ([Wikipedia](https://en.wikipedia.org/wiki/Newfund?utm_source=chatgpt.com "Newfund"))
+    
+- **High-Tech Gründerfonds (HTGF)** (Germany): tech VC/PE fund investing broadly in deep tech — could co-invest in mobility/aerospace startups. ([Wikipedia](https://de.wikipedia.org/wiki/HTGF_%28High-Tech_Gr%C3%BCnderfonds%29?utm_source=chatgpt.com "HTGF (High-Tech Gründerfonds)"))
+    
+
+### **Major EU Strategic & Industry Investors (AAM ecosystem)**
+
+- **NEOM (Saudi ARAMCO-linked Smart Region)** — investor in Volocopter Series E. ([volocopter.com](https://www.volocopter.com/de/newsroom/zweites-signing-der-serie-e?utm_source=chatgpt.com "Volocopter sammelt EUR 182 Millionen im zweiten Signing der Serie E ein - Volocopter"))
+    
+- **Corporate players** like Mercedes-Benz / Geely have historically backed AAM companies (e.g., Volocopter). _Past news suggests corporate strategic backing._
+    
+
+---
+
+## 🇬🇧 **United Kingdom**
+
+### **Infrastructure & Investment**
+
+- **Skyports Infrastructure** — UK company building vertiport networks, a key part of AAM infrastructure (may attract PE/VC infrastructure funds). ([Wikipedia](https://en.wikipedia.org/wiki/Skyports_Infrastructure?utm_source=chatgpt.com "Skyports Infrastructure"))
+    
+
+### **Global VC Participants with UK presence**
+
+- Some global funds (e.g., BlackRock, Toyota) invest via UK/EU entities into AAM firms with European offices; sector crossover investment is common.
+    
+
+---
+
+## 🇧🇷 **Brazil**
+
+- **Eve Air Mobility** (Embraer eVTOL arm) secured **$150M+ debt financing** from banks and has raised significant equity; total funding context ~ $1.2B. ([Advanced Air Mobility Intl](https://www.aaminternational.com/funding-and-investments/?utm_source=chatgpt.com "Deals, Funding & Investments - Advanced Air Mobility Intl"))
+    
+
+---
+
+## 🇯🇵 **Japan**
+
+### **AAM OEM & Funding**
+
+- **SkyDrive (Japan)**: secured **¥43 billion+** from Suzuki, Itochu, Development Bank of Japan (DBJ) and others for its SD-05 eVTOL development. ([Wikipedia](https://en.wikipedia.org/wiki/SkyDrive_%28company%29?utm_source=chatgpt.com "SkyDrive (company)"))
+    
+
+---
+
+## 🇨🇳 **China**
+
+### **AAM OEM**
+
+- **TCab Tech** — Shanghai-based eVTOL developer (private financing not fully public). ([Wikipedia](https://en.wikipedia.org/wiki/TCab_Tech?utm_source=chatgpt.com "TCab Tech"))
+    
+- **EHang** — China’s autonomous aerial vehicle company historically funded through public markets and investors (though funding figures vary widely). ([TNMT](https://tnmt.com/newsletter-snippets/some-air-taxis-rise/?utm_source=chatgpt.com "TNMT Market Index Update: Some Air Taxis Rise"))
+    
+
+---
+
+## **Cross-Border & Multi-Country VC Firms (Active in AAM/Deep Tech)**
+
+### **Global / US-based but international deals**
+
+- Global VC firms like **Founders Fund**, **Sequoia**, **Andreessen Horowitz / ARK Invest**, **Baillie Gifford**, and others have backed or are positioned to back mobility/AAM startups across geographies. ([Wikipedia](https://en.wikipedia.org/wiki/Founders_Fund?utm_source=chatgpt.com "Founders Fund"))
+    
+
+### **General Aerospace VC Lists**
+
+- Databases like _Private Equity List_ catalog many aerospace VCs and PE investors by country (US, UK, France, Germany, China, Japan, etc.), which include investors capable of funding AAM startups. ([Private Equity List](https://privateequitylist.com/investors/venture-capital/aerospace?utm_source=chatgpt.com "Aerospace Venture Capital Firms | Private Equity List"))
+    
+
+---
+
+## **Summary Overview by Country**
+
+|Country|Notable AAM VC/PE/Financing Sources|Example AAM Companies Funded|
+|---|---|---|
+|🇺🇸 **USA**|BlackRock, Toyota, Uber, Delta, SK Telecom, UP.Partners, public markets|Joby Aviation, Archer Aviation|
+|🇩🇪 **Germany/EU**|BlackRock (via rounds), NEOM strategic, Newfund, HTGF|Volocopter (historical), EU startups|
+|🇬🇧 **UK**|Infrastructure funding (Skyports), global VC participation|Vertiport / services|
+|🇧🇷 **Brazil**|Bank/lender financing, Embraer equity|Eve Air Mobility|
+|🇯🇵 **Japan**|Suzuki, Itochu, DBJ|SkyDrive|
+|🇨🇳 **China**|Private capital, public markets|TCab Tech, EHang|
+|🌍 **Global VC**|Founders Fund, ARK, Sequoia, Baillie Gifford|Multiple cross-border AAM startups|
+
+---
+
+## **Notes on Funding Types**
+
+- **Venture Capital (VC):** Early & growth stage equity funding (e.g., Joby, Archer, UP.Partners).
+    
+- **Private Equity (PE):** Later stage / buyout or infrastructure investment; sometimes corporate PE arms (BlackRock, strategic investors).
+    
+- **Strategic Corporate:** Airlines, automakers, industrial partners investing for commercial alignment (Toyota, Delta, United).
+    
+- **Debt/Bank Financing:** Loans and credit lines to support production/certification (Eve). ([Advanced Air Mobility Intl](https://www.aaminternational.com/funding-and-investments/?utm_source=chatgpt.com "Deals, Funding & Investments - Advanced Air Mobility Intl"))
+    
+
+---
+
+If you want, I can compile this into a **searchable table or spreadsheet format** with amounts, investors, and timeline details for each funding round!
