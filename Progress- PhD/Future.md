@@ -4924,3 +4924,6 @@ https://woven.vc/team
 https://toyota.ventures/#ethan-sohn
 
 ### VC and capital, Private equity, Analyst, Due deligence , bills , International relations 
+
+
+Apply: https://nfrontventures.com/jobs/venture-capital-internship-tallinn?utm_source=chatgpt.com
