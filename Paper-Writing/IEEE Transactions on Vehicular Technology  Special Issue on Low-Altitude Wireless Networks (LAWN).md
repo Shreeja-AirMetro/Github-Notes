@@ -1766,3 +1766,8 @@ The rectangular panel array antenna can be described by the following tuple
 ![[Screenshot from 2026-02-05 13-11-57.png]]
 https://techblog.comsoc.org/2023/08/19/3gpp-release-16-5g-nr-enhancements-for-urllc-in-the-ran-urllc-in-the-5g-core-network/
 
+### 
+### check 
+
+https://nvlabs.github.io/sionna/rt/tutorials/Introduction.html
+https://nvlabs.github.io/sionna/rt/tutorials/Mobility.html
