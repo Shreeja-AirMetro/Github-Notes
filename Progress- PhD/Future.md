@@ -4927,3 +4927,5 @@ https://toyota.ventures/#ethan-sohn
 
 
 Apply: https://nfrontventures.com/jobs/venture-capital-internship-tallinn?utm_source=chatgpt.com
+https://venturecapitalcareers.com/companies/rocket-internet/jobs/venture-capital-intern-global-founders-capital
+https://join.com/companies/firstmomentum12/15604677-venture-scout-remote-in-europe
