@@ -45,3 +45,17 @@ IDEA
 - Physical and logical link parameters
 - Network coding what to do to optimize
 Todos
+- [ ] NW coding notes, todos from Juan
+- [ ] Implement stratergy and details 
+
+
+### Publication plan 
+
+1. **Tutorials -INTANS - summer 2026**
+2. Transactions or open Journal - A2A, A2G - 2027 summer
+3. **A2A mesh conf - 2026 Winter** 
+4. **QoS - Enrique paper - before leaving klagenfurt conf**
+5. **Magazine QoS methods - summer end 2026**
+6. **Protocol - Conference  end 2026**
+7. Network coding conf - 2027 summer 
+8. Network coding journal 2027 winter 
