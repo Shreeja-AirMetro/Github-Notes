@@ -24,11 +24,16 @@ IDEA
 - Evaluate on Use-case basis ( Enrique collab)
 - Evaluation Matrix 
 - Map reliability, availability, tT - integrity based on security
-
-
+ToDos
+- [ ] Find the RCp and RLP and write a report and 3GPP points regulation
+- [ ] Map my test methods and see how to address this 
 
 ### Third What is the current protocol and why it has issues 
 
-
+IDEA 
+- Link to be rilable UDP, TCP 
+- Then HARQ matters 
+- Size  BW requirements and latencyURLLC 
+- Types of protocol STANAG , MAVLINK - what are issues of mavlink and how to adapt to the heterogenous links 
 ### How to make this heterogeneous link work well - optimized
 
