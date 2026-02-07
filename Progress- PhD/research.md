@@ -7,5 +7,5 @@ Funnel Analogy
 - can be visualized like the above image 
 - each layer contribute to the depth of my research 
 - Layer 1 is getting general state of art in communication for BVLOS drone operations pertaining to VLL flights for medical cases - esp moving between the urban and peri urban region 
-- This contains all the problems and how we can solve them 
-- 
+- This contains all the problems  in drone case (technical , economic and regulatory) and how we can solve them  - more from technical and regulatory 
+- First we talk about multi-link, 
