@@ -35,5 +35,13 @@ IDEA
 - Then HARQ matters 
 - Size  BW requirements and latencyURLLC 
 - Types of protocol STANAG , MAVLINK - what are issues of mavlink and how to adapt to the heterogenous links 
+To Dos
+- [ ] SOA
+- [ ] How to build protocol
+- [ ] How to i implement and test MAVLInk
 ### How to make this heterogeneous link work well - optimized
 
+IDEA
+- Physical and logical link parameters
+- Network coding what to do to optimize
+Todos
