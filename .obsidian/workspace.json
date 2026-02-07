@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d84e82cb824f9edc",
+        "id": "449d4c94cc78a63b",
         "type": "tabs",
         "children": [
           {
-            "id": "ec4ca928dee7c813",
+            "id": "a25c4988cec4c0c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress- PhD/STUDY AND GET BETTER.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "STUDY AND GET BETTER"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec4ca928dee7c813",
+  "active": "a25c4988cec4c0c6",
   "lastOpenFiles": [
-    "Progress- PhD/research.md",
+    "Progress- PhD/Future.md",
+    "Progress- PhD/Purpose.md",
     "Progress- PhD/STUDY AND GET BETTER.md",
+    "Progress- PhD/research.md",
     "download.jpeg",
     "Progress- PhD/Lessons.md",
     "Progress- PhD/Idea - Research Gap.md",
@@ -197,7 +195,6 @@
     "TODOS/Nov 2025.md",
     "TODOS/Jan 2026.md",
     "TODOS/AirMetro-Student-Meeting-2701.md",
-    "Progress- PhD/Future.md",
     "Screenshot from 2026-02-05 13-11-57.png",
     "Screenshot from 2026-02-05 13-11-27.png",
     "Screenshot from 2026-02-05 13-10-48.png",
@@ -223,7 +220,6 @@
     "Notes/Air-Air comm.md",
     "Paper-Writing/WCNC.md",
     "Paper-Writing/VTC - Conf.md",
-    "Paper-Writing/T58.md",
     "Untitled 1.base",
     "Untitled.base",
     "Chapter_01 Introduction.pdf",
