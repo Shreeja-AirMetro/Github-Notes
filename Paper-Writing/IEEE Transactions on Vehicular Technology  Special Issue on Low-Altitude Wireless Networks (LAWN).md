@@ -1765,7 +1765,40 @@ The rectangular panel array antenna can be described by the following tuple
 
 ![[Screenshot from 2026-02-05 13-11-57.png]]
 https://techblog.comsoc.org/2023/08/19/3gpp-release-16-5g-nr-enhancements-for-urllc-in-the-ran-urllc-in-the-5g-core-network/
+### 1. The PPV (Polyanskiy-Poor-Verdú) Bound
 
+The PPV formula represents the theoretical maximum coding rate $R$ achievable for a given blocklength $n$ and error probability $\epsilon$. It moves beyond the classic Shannon capacity by accounting for the "penalty" of having a short packet.
+
+**The PPV Rate Formula:**
+
+$$R \approx \log_2(1 + \text{SNR}) - \sqrt{\frac{V}{n}} Q^{-1}(\epsilon) \log_2(e)$$
+
+Where:
+
+- **$\log_2(1 + \text{SNR})$**: The classic Shannon Capacity $C$.
+    
+- **$n$**: The blocklength in symbols (in your code, this is `n_re`).
+    
+- **$\epsilon$**: The Packet Error Rate (PER) target.
+    
+- **$Q^{-1}(\cdot)$**: The inverse of the Gaussian Q-function.
+    
+- **$V$**: The **Channel Dispersion**, which measures the variability of the channel. For an AWGN or flat-fading channel, it is defined as:
+    
+    $$V = \left( 1 - \frac{1}{(1 + \text{SNR})^2} \right) (\log_2 e)^2$$
+    
+
+---
+
+### 2. The 3GPP LDPC BG2 Performance
+
+For 5G NR, **3GPP TS 38.212** defines **Base Graph 2 (BG2)** for small blocklengths typical of URLLC. While there is no single closed-form equation for LDPC like there is for PPV, it is modeled in your simulation using an **Implementation Loss Factor ($\Delta$)**.
+
+**Practical LDPC PER Formula:**
+
+To find the PER ($\epsilon$) for LDPC in your code, we rearrange the PPV formula and inject the implementation loss:
+
+$$\epsilon_{\text{LDPC}} = Q\left( \sqrt{\frac{n}{V}} \frac{C(\text{SNR}_{\text{eff}}) - R}{\log_2 e} \right)$$
 ### 
 ### check 
 
