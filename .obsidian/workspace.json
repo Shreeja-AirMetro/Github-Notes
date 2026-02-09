@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "449d4c94cc78a63b",
+        "id": "4fe6cfe376bfd2dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a25c4988cec4c0c6",
+            "id": "5925a393d99a1a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/Future.md",
+                "file": "TODOS/Feb 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future"
+              "title": "Feb 2026"
             }
           }
         ]
@@ -183,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a25c4988cec4c0c6",
+  "active": "5925a393d99a1a25",
   "lastOpenFiles": [
     "Progress- PhD/Future.md",
     "Progress- PhD/Purpose.md",
