@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Feb 2026"
             }
-          },
-          {
-            "id": "313a0878ae5c86c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "313a0878ae5c86c9",
+  "active": "5925a393d99a1a25",
   "lastOpenFiles": [
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "TODOS/Feb 2026.md",
