@@ -54,7 +54,7 @@ Todos
 1. **Tutorials -INTANS - summer 2026**
 2. Transactions or open Journal - A2A, A2G - 2027 summer
 3. **A2A mesh conf - 2026 Winter** 
-4. **QoS - Enrique paper - before leaving klagenfurt conf**
+4. **QoS - Enrique paper - before leaving klagenfurt conf** - DRCN
 5. **Magazine QoS methods - summer end 2026**
 6. **Protocol - Conference  end 2026**
 7. Network coding conf - 2027 summer 
