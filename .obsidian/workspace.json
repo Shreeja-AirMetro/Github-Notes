@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N-PhD/N0.md",
+                "file": "N-PhD/N1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N0"
+              "title": "N1"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "5925a393d99a1a25",
   "lastOpenFiles": [
+    "N-PhD/N0.md",
     "N-PhD/N8.md",
     "N-PhD/N7.md",
     "N-PhD/N6.md",
@@ -193,7 +194,6 @@
     "N-PhD/N3.md",
     "N-PhD/N2.md",
     "N-PhD/N1.md",
-    "N-PhD/N0.md",
     "Basics/Todos.md",
     "N-PhD",
     "Basics/statistics for  wireless comm enginners.md",
