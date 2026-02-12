@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe6cfe376bfd2dd",
+        "id": "7bcaecfdca9720f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5925a393d99a1a25",
+            "id": "5f5ec70e0f265e7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#What",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f449d97e86f520b9",
+  "active": "5f5ec70e0f265e7b",
   "lastOpenFiles": [
+    "Untitled 4.canvas",
+    "N-PhD/N4.md",
     "N-PhD/N3.md",
     "TODOS/Feb 2026.md",
     "N-PhD/N2.md",
@@ -197,7 +198,6 @@
     "N-PhD/N7.md",
     "N-PhD/N6.md",
     "N-PhD/N5.md",
-    "N-PhD/N4.md",
     "Basics/Todos.md",
     "N-PhD",
     "Basics/statistics for  wireless comm enginners.md",
@@ -212,7 +212,6 @@
     "Notes/open.md",
     "Notes/OS- VM.md",
     "Notes/Klagenfurt visit.md",
-    "Notes/Research Stay.md",
     "download.jpeg",
     "Screenshot from 2026-02-05 13-11-57.png",
     "Screenshot from 2026-02-05 13-11-27.png",
