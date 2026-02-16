@@ -626,3 +626,8 @@ This Special Issue aims to provide a comprehensive overview of the current state
 
 Safety perspective and social acceptance
 Privacy of the user / passerby 
+
+----
+
+### POST REJECTION MEETING 
+16/2
