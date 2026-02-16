@@ -662,3 +662,5 @@ Morten's analysis
 Identify the calls  - check suitable for the call 
 
 - Before call opens - 
+- CHIPS JU - Not clear of the deadline
+- EU calls with broader scope drone option part of bigger picture
