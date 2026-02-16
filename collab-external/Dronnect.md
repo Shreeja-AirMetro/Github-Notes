@@ -642,7 +642,7 @@ Morten's analysis
 - Social readiness must be fully integrated 
 - advanced beyond SoA - social readiness and governance and policy - BAD
 - Methods not detail 
-- Sample size and representativeness
+- Sample size and representatives
 - VR and real world how connected? 
 - Problem description - involving consultancies
 - get end users - strategic needed, city and regulatory and consultancies
@@ -652,4 +652,5 @@ Morten's analysis
 - numerical - easy target to pickup 
 - Project target groups - need more specifcs
 - Pay more attention and detail to KER
-- 
+- Policy feedback  
+- Expectatio
