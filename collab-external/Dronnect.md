@@ -653,4 +653,12 @@ Morten's analysis
 - Project target groups - need more specifcs
 - Pay more attention and detail to KER
 - Policy feedback  
-- Expectatio
+- Expectation  - for actual uptake 
+- business 
+- EU SENEA - Climate - seems very picky 
+- Feedback very detailed 
+
+
+Identify the calls  - check suitable for the call 
+
+- Before call opens - 
