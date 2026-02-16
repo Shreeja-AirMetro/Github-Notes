@@ -650,4 +650,6 @@ Morten's analysis
 - RIA is very applied  - TRL 4 - business model 
 - Consortium clearly states - interdisiplinary 
 - numerical - easy target to pickup 
+- Project target groups - need more specifcs
+- Pay more attention and detail to KER
 - 
