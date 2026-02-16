@@ -644,3 +644,8 @@ Morten's analysis
 - Methods not detail 
 - Sample size and representativeness
 - VR and real world how connected? 
+- Problem description - involving consultancies
+- get end users - strategic needed, city and regulatory and consultancies
+- identification of risks - ground the proposals 
+- RIA is very applied  - TRL 4
+- 
