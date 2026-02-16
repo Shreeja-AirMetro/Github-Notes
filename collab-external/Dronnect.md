@@ -643,4 +643,4 @@ Morten's analysis
 - advanced beyond SoA - social readiness and governance and policy - BAD
 - Methods not detail 
 - Sample size and representativeness
-- 
+- VR and real world how connected? 
