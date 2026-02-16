@@ -647,5 +647,5 @@ Morten's analysis
 - Problem description - involving consultancies
 - get end users - strategic needed, city and regulatory and consultancies
 - identification of risks - ground the proposals 
-- RIA is very applied  - TRL 4
-- 
+- RIA is very applied  - TRL 4 - business model 
+- Consortium clearly states - interdisiplinary 
