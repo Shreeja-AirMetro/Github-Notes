@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N-PhD/N3.md",
+                "file": "Notes/Omnet++ Simulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N3"
+              "title": "Omnet++ Simulator"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "5f5ec70e0f265e7b",
   "lastOpenFiles": [
+    "N-PhD/N3.md",
     "N-PhD/N4.md",
     "TODOS/Feb 2026.md",
-    "N-PhD/N3.md",
     "N-PhD/N2.md",
     "TODOS/Jan 2026.md",
     "N-PhD/N1.md",
