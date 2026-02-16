@@ -631,3 +631,16 @@ Privacy of the user / passerby
 
 ### POST REJECTION MEETING 
 16/2
+- Summary to 
+- proposal  - 13/15 near the funding 
+- 15/15 can be not selected fund limitation 
+
+Morten's analysis 
+
+- ESR analysis - misunderstood 
+- User association behind the call 
+- Social readiness must be fully integrated 
+- advanced beyond SoA - social readiness and governance and policy - BAD
+- Methods not detail 
+- Sample size and representativeness
+- 
