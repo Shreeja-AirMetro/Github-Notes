@@ -649,3 +649,5 @@ Morten's analysis
 - identification of risks - ground the proposals 
 - RIA is very applied  - TRL 4 - business model 
 - Consortium clearly states - interdisiplinary 
+- numerical - easy target to pickup 
+- 
