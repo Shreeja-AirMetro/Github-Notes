@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Omnet++ Simulator.md",
+                "file": "N-PhD/N3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omnet++ Simulator"
+              "title": "N3"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "5f5ec70e0f265e7b",
   "lastOpenFiles": [
+    "N-PhD/N2.md",
+    "Notes/Omnet++ Simulator.md",
     "N-PhD/N3.md",
     "N-PhD/N4.md",
     "TODOS/Feb 2026.md",
-    "N-PhD/N2.md",
     "TODOS/Jan 2026.md",
     "N-PhD/N1.md",
     "Untitled 4.canvas",
@@ -208,7 +209,6 @@
     "Notes/Multi-link communication.md",
     "Notes/Network Coding.md",
     "Notes/NTN.md",
-    "Notes/Omnet++ Simulator.md",
     "Notes/open.md",
     "Notes/OS- VM.md",
     "Notes/Klagenfurt visit.md",
