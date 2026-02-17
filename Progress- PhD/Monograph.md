@@ -107,3 +107,8 @@ Job market needs for skills and demands
 create lit synthesis matrics
 
 Lit synthesis - start with books and survey papers then go down of each problem
+
+
+---
+Defense presentation 
+https://www.youtube.com/watch?v=gCL66xH9B_o
