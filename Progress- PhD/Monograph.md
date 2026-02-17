@@ -116,4 +116,4 @@ https://www.youtube.com/watch?v=gCL66xH9B_o
 Grade often decided on the thesis  - PUT EFFORT ON THESIS
 - SUBSTANCE OVER FORM 
 - RED THREAD COHERENCE - does everything connect logically 
-- 
+- DONT SHOW CHARISMATIC - 
