@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Feb 2026.md",
+                "file": "Progress- PhD/Monograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feb 2026"
+              "title": "Monograph"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5f5ec70e0f265e7b",
   "lastOpenFiles": [
-    "Progress- PhD/Monograph.md",
     "TODOS/Feb 2026.md",
+    "Progress- PhD/Monograph.md",
     "N-PhD/N0.md",
     "N-PhD/N3.md",
     "Notes/NTN.md",

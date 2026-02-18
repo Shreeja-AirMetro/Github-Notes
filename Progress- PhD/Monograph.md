@@ -118,3 +118,5 @@ Grade often decided on the thesis  - PUT EFFORT ON THESIS
 - RED THREAD COHERENCE - does everything connect logically 
 - DONT SHOW CHARISMATIC - STICK to be profession 
 - https://www.youtube.com/watch?v=dv3Bo5jJhWM 
+- https://www.youtube.com/watch?v=edQv9OKvfdU
+- 
