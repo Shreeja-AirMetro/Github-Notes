@@ -8,3 +8,9 @@
 ---
 
 Meeting Notes
+
+- Not personal project 
+- Partners of the project 
+- Deliverables - federated learning - edge computing environment - model traveling - heterogeneous environment 
+- server and client - intelligent session - participate on the given cloud 
+- 
