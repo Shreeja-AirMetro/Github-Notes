@@ -1,0 +1,3 @@
+- Seminal impact 
+- little cause of optimisum 
+- 
