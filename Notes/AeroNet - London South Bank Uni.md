@@ -20,5 +20,6 @@ Q: What is simulator
 Proposal and deliverables
 flower - python based - simulator 
 
-- Send slides
-- 
+---
+
+
