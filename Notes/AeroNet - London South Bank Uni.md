@@ -4,3 +4,7 @@
 	- [ ] What is the goal of simulator 
 	- [ ] Network architecture 
 	- [ ] Current state simulator
+
+---
+
+Meeting Notes
