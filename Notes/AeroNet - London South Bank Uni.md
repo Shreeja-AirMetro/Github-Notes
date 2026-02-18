@@ -16,3 +16,6 @@ Meeting Notes
 
 
 Decide on deliverables
+Q: What is simulator
+Proposal and deliverables
+
