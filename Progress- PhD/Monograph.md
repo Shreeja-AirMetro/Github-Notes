@@ -119,4 +119,12 @@ Grade often decided on the thesis  - PUT EFFORT ON THESIS
 - DONT SHOW CHARISMATIC - STICK to be profession 
 - https://www.youtube.com/watch?v=dv3Bo5jJhWM 
 - https://www.youtube.com/watch?v=edQv9OKvfdU
-- 
+
+
+
+---
+
+Internal and external validity  - in design and methodology 
+start thinking about validity and limitation from the begining 
+
+ 
