@@ -125,6 +125,15 @@ Grade often decided on the thesis  - PUT EFFORT ON THESIS
 ---
 
 Internal and external validity  - in design and methodology 
-start thinking about validity and limitation from the begining 
+start thinking about validity and limitation from the beginning
 
- 
+work doesn't happen in a vaccumm
+
+what is done, what hasn't been done - DEVELOP THE GAP IN THE LITERATURE 
+
+
+Ideal Pages count 
+ Intro 15-20
+Literature 40-50
+Methods - 15-20 
+Results 20-40 pages 
