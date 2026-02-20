@@ -137,3 +137,6 @@ Ideal Pages count
 Literature 40-50
 Methods - 15-20 
 Results 20-40 pages 
+discussion - 15-20 
+
+Fully answering RQ
