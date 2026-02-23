@@ -163,7 +163,13 @@ What is outline ?
 FIRST THREE CHAPTERS IS LIKE CONTRACT 
 
 AFTER RESULTS 
-1. repeat rq , process (whatI did as what is mentioned in methodology chapter ), data analysis,results (use table format and present findings clearly)
+1. repeat rq , process (whatI did as what is mentioned in methodology chapter ), data analysis,results (use table format and present findings clearly), summary
+2. Intrepretation  - INTEGRATE WITH THE TIME  _ HOW MY  WORK add knowledge to progress the goal , interpretation and implication , Limitation of my study and recommendation of future study 
+3. conclusion and scope of work  and summary 
+
+THEN CHECK  - logic and flow of chapters 
+Cahp 1-3 in future tense
+
 
 
 
@@ -172,3 +178,5 @@ AFTER RESULTS
 
 ---
 conclusion - problems - regulatory level - comm SLA  and involvement of telecom, Industry suppliers and Academics (bottom to top  approach)
+
+global coordination 
