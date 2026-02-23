@@ -199,4 +199,6 @@ INTERNAL AND EXTERNAL VALIDITY
 - avoid selection bais
 - answer the question 
 - Do the results matter ? - results are results - replication 
+- G power tests - for sample size - random sampling 
+- No study is perfect - control as much the design - grounding and justifiable 
 - 
