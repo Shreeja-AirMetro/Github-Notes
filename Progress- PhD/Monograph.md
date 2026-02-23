@@ -153,4 +153,8 @@ outline shows requirements
 
 What is outline ? 
 1. Know the rules and then start 
-2. 
+2. Rubric and outline provided by insitute 
+3. Start with your title - beginning of the journey - Reflect problem, gap, clarity 
+4. Chapters  - proposal - first 3 chapter 
+5. Intro - background, problem , purpose statement, RQs, Conceptual or theoritical framework, nature of study, key terms , limitations and delimitations and summary 
+6. 
