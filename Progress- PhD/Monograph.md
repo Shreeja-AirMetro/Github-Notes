@@ -191,5 +191,9 @@ INTERNAL AND EXTERNAL VALIDITY
 - do it right and transferable 
 - Validity - how well your results reflect the reality 
 - Internal - is the set up properly - committee are okay
-- external - what my results mean 
-- Internal - variables 
+- external - what my results mean to outside world 
+- Internal - variables and its variation , conclusion matches the sample 
+- Sample considered impact external validity 
+- Internal validiy = cause and effect
+- External validity = tranferability
+- 
