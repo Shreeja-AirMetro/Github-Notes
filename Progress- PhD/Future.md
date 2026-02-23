@@ -4934,4 +4934,6 @@ https://join.com/companies/firstmomentum12/15604677-venture-scout-remote-in-euro
 ---
 https://www.youtube.com/watch?v=gBHSmwxgLfQ impact of climate change is economical
 
-only global coordination is market economy 
+only global coordination is market economy  
+coordination problem 
+
