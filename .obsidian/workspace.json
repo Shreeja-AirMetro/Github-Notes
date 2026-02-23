@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/Future.md",
+                "file": "Progress- PhD/Monograph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future"
+              "title": "Monograph"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "5f5ec70e0f265e7b",
   "lastOpenFiles": [
+    "Progress- PhD/Milestones.md",
+    "Progress- PhD/Future.md",
     "TODOS/Feb 2026.md",
     "Progress- PhD/Monograph.md",
     "N-PhD/N2.md",
@@ -210,8 +212,6 @@
     "TODOS/Jan 2026.md",
     "Untitled 4.canvas",
     "TODOS/Dec 2025.md",
-    "N-PhD/N8.md",
-    "Basics/Todos.md",
     "N-PhD",
     "download.jpeg",
     "Screenshot from 2026-02-05 13-11-57.png",

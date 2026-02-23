@@ -140,3 +140,17 @@ Results 20-40 pages
 discussion - 15-20 
 
 Fully answering RQ
+
+
+---
+
+Rushing takes longer
+
+Dissertation outline is the blue print 
+
+Prospectus - 10 page plan 
+outline shows requirements 
+
+What is outline ? 
+1. Know the rules and then start 
+2. 

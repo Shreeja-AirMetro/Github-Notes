@@ -4937,3 +4937,4 @@ https://www.youtube.com/watch?v=gBHSmwxgLfQ impact of climate change is economic
 only global coordination is market economy  
 coordination problem 
 
+collective intelligent decision 
