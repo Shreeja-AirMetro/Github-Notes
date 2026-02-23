@@ -168,9 +168,9 @@ AFTER RESULTS
 3. conclusion and scope of work  and summary 
 
 THEN CHECK  - logic and flow of chapters 
-Cahp 1-3 in future tense
+Chap 1-3 also in past tense
 
-
+Verify that the end answered the problem stated before 
 
 
 
@@ -180,3 +180,10 @@ Cahp 1-3 in future tense
 conclusion - problems - regulatory level - comm SLA  and involvement of telecom, Industry suppliers and Academics (bottom to top  approach)
 
 global coordination 
+
+
+---
+
+Did you do the study actually right ?
+
+DON'T IGNORE THE VALIDITY 
