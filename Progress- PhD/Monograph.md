@@ -160,5 +160,15 @@ What is outline ?
 6. Lit review -  restate problem and purpose as short introduction, desribe your lit stratergy, exploration of conceptual or theoritical framework, supporting literature, identify the gaps and your study fill - summary and way to next chapter
 7. Methodology - restate problem and purpose - copy the RQ with same wordings - describe yopur research design - quantitative and qualitative - sampling and population - instruments - data analysis plan , assumptions, scope and limitation , if any ethical consideration, summary and blick to next 
 
-FIRST THREE CHAPTERS IS LI
-1. 
+FIRST THREE CHAPTERS IS LIKE CONTRACT 
+
+AFTER RESULTS 
+1. repeat rq , process (whatI did as what is mentioned in methodology chapter ), data analysis,results (use table format and present findings clearly)
+
+
+
+
+
+
+---
+conclusion - problems - regulatory level - comm SLA  and involvement of telecom, Industry suppliers and Academics (bottom to top  approach)
