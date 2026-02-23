@@ -157,4 +157,8 @@ What is outline ?
 3. Start with your title - beginning of the journey - Reflect problem, gap, clarity 
 4. Chapters  - proposal - first 3 chapter 
 5. Intro - background, problem , purpose statement, RQs, Conceptual or theoritical framework, nature of study, key terms , limitations and delimitations and summary 
-6. 
+6. Lit review -  restate problem and purpose as short introduction, desribe your lit stratergy, exploration of conceptual or theoritical framework, supporting literature, identify the gaps and your study fill - summary and way to next chapter
+7. Methodology - restate problem and purpose - copy the RQ with same wordings - describe yopur research design - quantitative and qualitative - sampling and population - instruments - data analysis plan , assumptions, scope and limitation , if any ethical consideration, summary and blick to next 
+
+FIRST THREE CHAPTERS IS LI
+1. 
