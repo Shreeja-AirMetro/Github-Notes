@@ -187,3 +187,9 @@ global coordination
 Did you do the study actually right ?
 
 DON'T IGNORE THE VALIDITY 
+INTERNAL AND EXTERNAL VALIDITY 
+- do it right and transferable 
+- Validity - how well your results reflect the reality 
+- Internal - is the set up properly - committee are okay
+- external - what my results mean 
+- Internal - variables 
