@@ -196,4 +196,7 @@ INTERNAL AND EXTERNAL VALIDITY
 - Sample considered impact external validity 
 - Internal validiy = cause and effect
 - External validity = tranferability
+- avoid selection bais
+- answer the question 
+- Do the results matter ? - results are results - replication 
 - 
