@@ -201,7 +201,7 @@ INTERNAL AND EXTERNAL VALIDITY
 - Do the results matter ? - results are results - replication 
 - G power tests - for sample size - random sampling 
 - No study is perfect - control as much the design - grounding and justifiable 
-- EVery study has limitations - state them verbatum -
+- Every study has limitations - state them verbatum -
 - discuss the validity in methods itself 
 
 
@@ -217,6 +217,5 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 - Qualitative - people's perceptions 
 - Mixed method - Qual + Quant 
 - methods must answer RQ
-- Do I have access to data? 
-- Transcribe it 
-- 
+- Do I have access to data?  Transcribe it 
+-  
