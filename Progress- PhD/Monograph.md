@@ -203,3 +203,6 @@ INTERNAL AND EXTERNAL VALIDITY
 - No study is perfect - control as much the design - grounding and justifiable 
 - EVery study has limitations - state them verbatum -
 - discuss the validity in methods itself 
+
+
+--- Write a paper  - For UAVs, Of UAVs, By UAVs - communication network perspective 
