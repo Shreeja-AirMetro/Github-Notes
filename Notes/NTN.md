@@ -1003,3 +1003,9 @@ Key Relationship & Difference
 SINR drives CQI: Higher SINR means better channel quality, leading to a higher CQI index.
 CQI enables adaptation: The base station uses the CQI to select an MCS (Modulation and Coding Scheme) to maximize throughput without exceeding a target error rate (BLER).
 Analogy: SINR is like the precise temperature reading in a room, while CQI is like the thermostat setting (e.g., "comfortable," "warm") the device tells the system to use for heating/cooling.
+
+
+---
+
+- Lack of 5G
+- 
