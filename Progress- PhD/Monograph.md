@@ -233,4 +233,6 @@ Idea from Pit's defense
 - Simulation - numerical, stocastic, numerical simulation 
 - what is regime 
 - outcome - key words 
-- 
+
+
+Validation - what
