@@ -218,3 +218,5 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 - Mixed method - Qual + Quant 
 - methods must answer RQ
 - Do I have access to data? 
+- Transcribe it 
+- 
