@@ -220,4 +220,11 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 - Do I have access to data?  Transcribe it 
 -  primary and secondary data 
 - Check the quality - distribution , bias 
-- 
+
+
+
+---
+
+Idea from Pit's defense 
+
+- What RQ in which part of the  tal
