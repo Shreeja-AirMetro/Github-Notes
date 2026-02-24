@@ -1007,5 +1007,9 @@ Analogy: SINR is like the precise temperature reading in a room, while CQI is l
 
 ---
 
-- Lack of 5G
+
+24/2 - Lyuqiao trial presentation 
+- Lack of 5G - Introduction 
+- Point with hand
+- networked controlled manner - handover conclusion - Summary 
 - 
