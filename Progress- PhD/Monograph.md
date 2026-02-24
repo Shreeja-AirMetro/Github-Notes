@@ -212,4 +212,9 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 
 - Dissertation is based on data 
 - research create new knowledge 
-- 
+- data collection depends on the methods
+- Methods are based on problem - Quantitative - based on numbers - statistical significance 
+- Qualitative - people's perceptions 
+- Mixed method - Qual + Quant 
+- methods must answer RQ
+- Do I have access to data? 
