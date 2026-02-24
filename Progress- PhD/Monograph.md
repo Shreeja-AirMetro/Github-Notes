@@ -232,3 +232,5 @@ Idea from Pit's defense
 - - performance, feasibility, explainability 
 - Simulation - numerical, stocastic, numerical simulation 
 - what is regime 
+- outcome - key words 
+- 
