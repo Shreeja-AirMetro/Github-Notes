@@ -219,4 +219,5 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 - methods must answer RQ
 - Do I have access to data?  Transcribe it 
 -  primary and secondary data 
+- Check the quality - distribution , bias 
 - 
