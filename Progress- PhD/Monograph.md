@@ -206,3 +206,10 @@ INTERNAL AND EXTERNAL VALIDITY
 
 
 --- Write a paper  - For UAVs, Of UAVs, By UAVs - communication network perspective  - end of 2026
+
+---
+https://www.youtube.com/watch?v=owtUJm4EhoE
+
+- Dissertation is based on data 
+- research create new knowledge 
+- 
