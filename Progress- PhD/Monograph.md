@@ -205,4 +205,4 @@ INTERNAL AND EXTERNAL VALIDITY
 - discuss the validity in methods itself 
 
 
---- Write a paper  - For UAVs, Of UAVs, By UAVs - communication network perspective 
+--- Write a paper  - For UAVs, Of UAVs, By UAVs - communication network perspective  - end of 2026
