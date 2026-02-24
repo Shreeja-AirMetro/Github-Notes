@@ -227,4 +227,8 @@ https://www.youtube.com/watch?v=owtUJm4EhoE
 
 Idea from Pit's defense 
 
-- What RQ in which part of the  tal
+- What RQ in which part of the  talk 
+- overall talk related meterics 
+- - performance, feasibility, explainability 
+- Simulation - numerical, stocastic, numerical simulation 
+- what is regime 
