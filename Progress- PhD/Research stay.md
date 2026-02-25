@@ -79,3 +79,85 @@ Since you are working on **heterogeneous multi-link communication**, the **K-UAM
 
 ---
 
+Since your topic specifically focuses on **heterogeneous multi-link communication** (LTE, 5G, Satellite, and Mesh) for BVLOS, a research stay at a university with a dedicated **large-scale testbed** is your best move.
+
+By late 2026/early 2027, you will have your simulator data; what you need then is **validation against real-world radio environments** or access to **advanced hardware-in-the-loop (HIL) facilities**.
+
+---
+
+## 1. Top Recommended Professors for Research Stays
+
+### **Option A: The Testbed Leader (USA)**
+
+- **Professor:** **Ismail Guvenc** (North Carolina State University)
+    
+- **Lab:** **AERPAW** (Aerial Experimentation and Research Platform for Advanced Wireless).
+    
+- **Why approach him?** Guvenc leads one of the world's only city-scale 5G/6G UAV testbeds. His work is explicitly about **heterogeneous links** (cellular + custom radio).
+    
+- **Relevance for 2027:** By then, AERPAW will likely be testing integrated satellite-to-UAV links. He is very open to international visitors if you bring a strong simulation model that needs real-world data comparison.
+    
+
+### **Option B: The Standardization Expert (USA)**
+
+- **Professor:** **Kamesh Namuduri** (University of North Texas)
+    
+- **Why approach him?** If your research leans toward **how to manage multiple links safely** (C2 protocols), Kamesh is the chair of the IEEE P1920.2 standard.
+    
+- **Relevance for 2027:** He focuses on the "Network of Networks" (Ad-hoc + Cellular). A stay here would give your paper a "Standardization" edge, which is highly valued in German academia.
+    
+
+### **Option C: The O-RAN & 6G Pioneer (USA/Italy)**
+
+- **Professor:** **Tommaso Melodia** (Northeastern University, Boston)
+    
+- **Lab:** **WIoT** (Institute for the Wireless Internet of Things) / **Colosseum** (The world’s largest wireless network emulator).
+    
+- **Why approach him?** His lab uses **Open RAN (O-RAN)** to manage heterogeneous traffic. If your simulator looks at how a network "slices" data for a drone, this is the place.
+    
+- **Note:** He also has strong ties to **Università di Roma Tor Vergata** (Italy) if you prefer to stay within Europe.
+    
+
+### **Option D: The Hardware & URLLC Specialist (Taiwan)**
+
+- **Professor:** Look into the **Communications Engineering faculty** at **National Yunlin University (YunTech)**.
+    
+- **Why approach them?** As we discussed, they are masters of **HIL (Hardware-in-the-Loop)**.
+    
+- **Relevance for 2027:** If you want to put your simulator logic into an actual Taiwanese-made drone flight controller, this is the best technical stay.
+    
+
+---
+
+## 2. Strategic Timeline for Your Approach
+
+Since you are planning for a **1–2 month stay** in late 2026 or 2027:
+
+- **Now (Early 2026):** Continue your simulator development. Ensure your code is on GitHub and your first "Open Source Simulator" paper is published (this is your "ticket" to a research stay).
+    
+- **6 Months Before (Mid-2026):** Send your initial "Inquiry of Interest" email. Mention that you have a functional simulator and want to **validate your multi-link switching algorithms** using their specific testbed (AERPAW, Colosseum, etc.).
+    
+- **The "Germany" Advantage:** Use programs like **DAAD** (German Academic Exchange Service) or **Erasmus+** (if staying in Europe) to secure funding. Professors are much more likely to say "Yes" if you have your own travel/living stipend.
+    
+
+---
+
+## 3. Comparison of Stays
+
+|**Destination**|**Primary Value**|**Best if your research is...**|
+|---|---|---|
+|**NC State (Guvenc)**|Real-world field data.|Focusing on physical signal behavior in cities.|
+|**Northeastern (Melodia)**|Software-defined networking.|Focusing on AI-driven link switching/slicing.|
+|**YunTech (Taiwan)**|Hardware validation.|Focusing on flight controller response to link loss.|
+|**UNT (Namuduri)**|Policy & Standards.|Focusing on regulatory compliance for BVLOS.|
+
+### **How can I help you further?**
+
+Would you like me to:
+
+1. **Draft a "Research Stay Proposal"** template specifically for Prof. Guvenc or Prof. Melodia?
+    
+2. Search for **DAAD funding deadlines** for 2027 research stays?
+    
+3. Help you **structure the "Future Work" section** of your current paper to pave the way for this stay?
+4. 
