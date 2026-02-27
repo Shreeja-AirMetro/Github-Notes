@@ -489,3 +489,91 @@ Spatially-consistent UT/BS mobility modelling For mobility simulation enhancemen
 ![[Screenshot from 2026-01-22 11-48-06.png]]
 
 ![[Screenshot from 2026-01-22 11-50-27.png]]
+
+
+---- 
+
+### 27/2
+This configuration is a complex hybrid of **Simu5G**, **Veins**, and **OS3** (via the LEON/NTN extensions). While the base looks solid for a research environment, there are several critical reasons why your specific "failover" use case (TN connection first, then NTN upon failure) will likely fail or behave unpredictably with the current `.ini` settings.
+
+Here is a breakdown of the issues:
+
+### 1. The "RSSI Trap" (Handover Logic)
+
+In your configuration, you have set:
+
+- `*.uavs[*].cellularNic.nrPhy.minRssiTn = 5dB`
+    
+- `*.uavs[*].cellularNic.nrPhy.minRssiNtn = -135.0dB`
+    
+
+**The Problem:** In Simu5G, the UE typically connects to the cell with the highest Signal-to-Interference-plus-Noise Ratio (SINR) or RSRP.
+
+Even if your TN link becomes "bad" (e.g., drops to 6dB), it is still significantly stronger than a satellite signal coming from hundreds of kilometers away (which might be around -110dBm to -120dBm).
+
+- **Result:** The UE will likely "cling" to the TN gNodeB until the signal is completely gone, or it may never hand over to the NTN because the NTN signal is always comparatively "weaker" in absolute terms, even if it is more stable. You need a specific **Handover Manager** policy that prioritizes TN but allows NTN as a secondary fallback.
+    
+
+### 2. Vertical Mobility & SUMO Constraints
+
+You mentioned the UE is a UAV at **50m**.
+
+- **The Issue:** You are using `VeinsInetNtnMobility` and a `veinsManager`. Veins is tightly coupled with **SUMO**.
+    
+- SUMO is primarily a 2D driving simulator. If your SUMO `.rou.xml` or `.net.xml` does not explicitly define a 3D trajectory or altitude for the vehicle, Veins will force the UAV to the ground ($Z = 0$).
+    
+- **Check:** Ensure your `highway.sumocfg` includes a vehicle that has an altitude of 50m, or use a native OMNeT++ mobility model (like `LinearMobility`) for the UAV if you don't actually need road-traffic interaction.
+    
+
+### 3. IP Routing & Gateway Switching
+
+This is the most common point of failure in TN-NTN simulations.
+
+- **The Issue:** Your `ntnGateway` is set as a gateway, and you have a `upfTn` and `upfNtn`. When the UAV moves from TN to NTN, its "point of attachment" to the internet changes.
+    
+- If you are using static routing (`*.configurator.addStaticRoutes = true`), the routes are calculated at **$t=0$**.
+    
+- **Result:** When the handover occurs, the `server` will still try to send packets through the TN path. Since the UAV is now on the NTN path, the packets will be dropped at the UPF. You need **Dynamic Routing** or a **GTP (GPRS Tunneling Protocol)** setup that supports seamless handover between terrestrial and satellite data planes.
+    
+
+### 4. Carrier Aggregation vs. Multi-Connectivity
+
+In `[Config HOdebug]`, you use `CbrSenderDualConnectivity`.
+
+- **The Issue:** Dual Connectivity (DC) is not the same as "Link A fails, then use Link B." DC usually implies the UE is connected to a Master Cell Group (MCG) and Secondary Cell Group (SCG) simultaneously.
+    
+- If you want a **failover**, the application should be standard `CbrSender`, and the **MAC/RRC layer** should handle the handover. Using the `DualConnectivity` app might cause the simulation to crash if the secondary leg (NTN) isn't perfectly synchronized with the primary leg (TN) at startup.
+    
+
+### 5. Inconsistent Master IDs
+
+You have hardcoded:
+
+`*.uavs[*].nrMasterId = 1`
+
+`*.ntnGateway.nrMasterId = 1`
+
+- **The Issue:** If your gNodeBs and Satellites are not correctly indexed in the `Binder` module, the UAV might try to associate with the Satellite (ID 1) immediately at startup instead of the gNodeB.
+    
+- In a TN-NTN setup, the gNodeB and the Satellite must have **unique** cell IDs. If they share an ID or if the UAV is hardcoded to seek ID 1, it won't care about the "bad link" on the TN; it will just go where the ID matches.
+    
+
+### 6. Propagation Delay Awareness
+
+- **The Issue:** The TN-NTN handover is sensitive to the massive difference in propagation delay ($<1\text{ms}$ for TN vs. $\approx 10\text{--}25\text{ms}$ for LEO NTN).
+    
+- Your `sctp` and `handoverLatency` (0.05s) are set, but Simu5G's default RLC timers might timeout during the switch because the NTN delay is so much higher. You may see "Radio Link Failure" (RLF) rather than a clean handover.
+    
+
+---
+
+### Suggested Fixes
+
+1. **Dynamic Association:** Set `**.dynamicCellAssociation = true` and ensure the `nrChannelModel[0]` (TN) has a much higher priority or a higher threshold than `nrChannelModel[1]` (NTN).
+    
+2. **Routing:** Switch from `GlobalArp` to a more robust mobility-aware routing configuration or ensure your `upf` modules are linked to a single `pgw` (Packet Gateway) that anchors the IP address.
+    
+3. **Thresholds:** Adjust `minRssiTn` to a more realistic value (e.g., `-100dBm`) so the UE actually "realizes" the link is failing before it loses connection entirely.
+    
+
+**Would you like me to help you modify the `NRChannelModel` parameters or the Routing XML to handle the transition between TN and NTN more effectively?**
