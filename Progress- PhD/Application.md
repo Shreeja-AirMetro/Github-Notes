@@ -60,3 +60,8 @@ https://tu-dresden.de/ing/elektrotechnik/ressourcen/dateien/studium/dipl-ist/Wah
 pg 38-39
 Pg 42- 43
 pg - 50-51
+
+https://tu-dresden.de/ing/elektrotechnik/studium/im_studium/lehrangebot/wahlpflichtmodule
+- Network coding - 7 - Summer
+- Comm network  advanced 1 ()
+- 
