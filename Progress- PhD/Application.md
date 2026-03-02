@@ -55,3 +55,8 @@ Exam: Written, 120 minutes
 
 
 https://tu-dresden.de/ing/elektrotechnik/ressourcen/dateien/studium/master-nes/Modulkatalog-NES-English.pdf?lang=en
+
+https://tu-dresden.de/ing/elektrotechnik/ressourcen/dateien/studium/dipl-ist/Wahlpflichtkatalog_IST.pdf?lang=en 
+pg 38-39
+Pg 42- 43
+pg - 50-51
