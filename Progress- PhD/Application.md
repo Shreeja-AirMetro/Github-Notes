@@ -50,3 +50,8 @@ Required Knowledge - Vorausgesetzte Kenntnisse
 Vordiplom
 
 Exam: Written, 120 minutes
+
+---
+
+
+https://tu-dresden.de/ing/elektrotechnik/ressourcen/dateien/studium/master-nes/Modulkatalog-NES-English.pdf?lang=en
