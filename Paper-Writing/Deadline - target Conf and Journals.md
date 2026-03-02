@@ -537,4 +537,24 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10855638 - Idea structu
 
 
 ---
+### Publication plan - as of Mar 2026
 
+
+
+![[calendar-26.pdf]]
+
+
+
+![[calendar-27.pdf]]
+
+2028 
+Guest talk 
+One month research Stay / travel visit
+Proposal writing 
+
+
+
+Potential Thesis work 
+- NTN simulator extension SIB based archi 
+- MEC 
+- Area based clusteri
