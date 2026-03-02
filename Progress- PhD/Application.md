@@ -64,5 +64,5 @@ pg - 50-51
 https://tu-dresden.de/ing/elektrotechnik/studium/im_studium/lehrangebot/wahlpflichtmodule
 - Network coding - 7 - Summer
 - Comm network  advanced 1 (with Traffic theory and comm networks 2 ) - 7 - Summer 
-- cooperatige communication - 7 - Summer
+- cooperative communication - 7 - Summer
 - 
