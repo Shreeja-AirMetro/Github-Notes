@@ -548,13 +548,16 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10855638 - Idea structu
 ![[calendar-27.pdf]]
 
 2028 
-Guest talk 
-One month research Stay / travel visit
-Proposal writing 
+- Guest talk 
+- One month research Stay / travel visit
+- Proposal writing 
+- Protocols on hardware, further idea extensions and handover docs 
 
 
 
-Potential Thesis work 
+Potential Thesis work / studenten arbeit 
 - NTN simulator extension SIB based archi 
 - MEC 
-- Area based clusteri
+- Area based clustering  - TN and NTN network 
+- C2 protocol study 
+- Multilink - regression and other analysis 
