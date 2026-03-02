@@ -65,7 +65,8 @@ https://tu-dresden.de/ing/elektrotechnik/studium/im_studium/lehrangebot/wahlpfli
 
 https://www.verw.tu-dresden.de/AmtBek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf
 
-- Network coding - 7 - Summer
+- Network coding - 5 - Summer
 - Comm network  advanced 1 (with Traffic theory and comm networks 2 ) - 7 - Summer 
 - cooperative communication - 5 - Summer
-- 
+- Communication network - 5- Summer
+- Vertiefung Mobile Nachrichtensysteme - 7   - Winter
