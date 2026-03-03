@@ -118,6 +118,22 @@ infrastructure (topic 2). In addition to the SML, DLR is providing public 5G inf
 research purposes via the 5G Real Lab project. Topic 9 investigates the possibilities of cell-
 based radio networks (5G, IEEE802.11p) for conflict prevention and navigation of individual
 aircraft and groups.
+
+
+References:
+
+1. P. Fritzson, "Modelica 4 A cyber-physical modeling language and the OpenModelica
+environment,= in 2011 7th International Wireless Communications and Mobile
+Compu- ting Conference, (IWCMC 2011), Istanbul, Turkey, 2011, pp. 1648-1653, doi:
+10.1109/IWCMC.2011.5982782.
+2. 
+
+
+
+
+
+----
+
 ### Chapters 
 
 ### Introduction 
