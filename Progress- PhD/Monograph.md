@@ -126,7 +126,41 @@ References:
 environment,= in 2011 7th International Wireless Communications and Mobile
 Compu- ting Conference, (IWCMC 2011), Istanbul, Turkey, 2011, pp. 1648-1653, doi:
 10.1109/IWCMC.2011.5982782.
-2. 
+2. Z. Ullah, F. Al-Turjman, and L. Mostarda, "Cognition in UAV-Aided 5G and Beyond
+Communications: A Survey,= IEEE Trans. Cogn. Commun. Netw., vol. 6, no. 3, pp.
+872- 891, 2020, doi: 10.1109/tccn.2020.2968311.
+3. M. Rimjha and A. Trani, "Urban Air Mobility: Factors Affecting Vertiport Capacity,=
+in 2021 Integrated Communications Navigation and Surveillance Conference
+(ICNS), 2021, pp. 1-14, doi: 10.1109/ICNS52807.2021.9441631.
+4. [FI114] F. Gabriel, J. Acevedo, and F. H. P. Fitzek, "Network Coding on Wireless Multipath for
+Tactile Internet with Latency and Resilience Requirements,= in 2018 IEEE Global
+Communications Conference (GLOBECOM): Proceedings : Abu Dhabi, UAE, 9-13
+De- cember 2018, Abu Dhabi, United Arab Emirates, 2018, pp. 1-6, doi: 10.1109/GLO-
+COM.2018.8647368.
+5. [FI115] F. Dressler, C. F. Chiasserini, F. H. P. Fitzek, H. Karl, R. Lo Cigno, and A. Capone et
+al, "V-Edge: Virtual Edge Computing as an Enabler for Novel Microservices and Co-
+operative Computing,= IEEE Network, 2022, doi: 10.1109/MNET.001.2100491.
+6. [FI116]M. Mehrabi, S. Shen, Y. Hai, V. Latzko, G. Koudouridis, and X. Gelabert et al, "Mobil-
+ity- and Energy-Aware Cooperative Edge Offloading for Dependent Computation
+Tasks,= Network, vol. 1, no. 2, pp. 191-214, 2021. doi: 10.3390/network1020012.
+ 7. [FI117]R. Torre, I. Leyva-Mayorga, S. Pandi, H. Salah, G. T. Nguyen, and F. H. P. Fitzek,
+"Im- plementation of Network-Coded Cooperation for Energy Efficient Content
+Distribution in 5G Mobile Small Cells,= IEEE Access, vol. 8, pp. 185964-185980,
+2020, doi: 10.1109/ACCESS.2020.3029601.
+8. [FI118]F. Granelli, C. Costa, J. Zhang, R. Bassoli, and F. H. P. Fitzek, "Design of an On-
+De- mand Agile 5G Multi-Access Edge Computing Platform Using Aerial Vehicles,=
+IEEE Communications Standards Magazine, vol. 4, no. 4, pp. 34-41, 2020, doi:
+10.1109/MCOMSTD.001.2000016.
+9. [FI119]S. Hofmann, V. Megas, M. Ozger, D. Schupke, F. H. P. Fitzek, and C. Cavdar, "Com-
+bined Optimal Topology Formation and Rate Allocation for Aircraft to Aircraft Commu-
+nications,= in 2019 IEEE International Conference on Communications (ICC):
+Proceed- ings : Shanghai, China, May 20-24, 2019, Shanghai, China, 2019, pp. 1-6,
+doi: 10.1109/ICC.2019.8761882.
+ 10. [FI120]S. Pandi, F. Gabriel, O. Zhdanenko, S. Wunderlich, and F. H. P. Fitzek, "MESHMER-
+IZE: An Interactive Demo of Resilient Mesh Networks in Drones,= in CCNC 2019:
+2019 16th IEEE Annual Consumer Communications & Networking Conference
+(CCNC): January 11- 14, 2019 in Las Vegas
+
 
 
 
