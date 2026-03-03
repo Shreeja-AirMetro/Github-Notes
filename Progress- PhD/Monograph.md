@@ -11,7 +11,15 @@ allows the trade-off of latency for resilience.
 - V2V and D2D currently still have
 shortcomings (in particular jitter, which can lead to irregular delays in the transmission of data
 packets).
-- 
+- plan and evaluate an intelligent, fail-safe, low-latency and secure (security)
+communication network in the context of the 5G software stack in the 5G campus network and
+at European level (in cooperation with the 5G Opera project [218]), which will be set up by UAS.
+- LOL!!!! - Quantum security in the network, dialectical approaches with their own protocols or post-Shannon approaches are also being investigated, which may be more suitable against jamming attacks
+- The connection of flying devices to stationary communication networks (gateway), and
+thus to the Internet, is also a research topic. In addition, AI-supported procedures are being
+developed that can react efficiently to dynamic changes in the communication topology.
+- Network tests and flight tests will take place in the physical environment of the SML.
+
 
 
 
