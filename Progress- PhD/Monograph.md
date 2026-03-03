@@ -20,10 +20,104 @@ thus to the Internet, is also a research topic. In addition, AI-supported proced
 developed that can react efficiently to dynamic changes in the communication topology.
 - Network tests and flight tests will take place in the physical environment of the SML.
 
+Pg 10 
+UAS navigation and communication
+The 5G mobile communications standard will play a key role in the communication and
+interaction of unmanned aerial systems (UAS = UAV, control and communication station) in
+urban areas as a central criterion for safety-critical applications, as it offers higher data
+transmission speeds, lower latency times and higher availability [108] as well as significantly
+increased data integrity through redundancy. With these improvements, UAVs should be able to
+communicate, control and monitor more efficiently [109, 110]. Subsequently, 5G can also
+significantly improve the transmission of data for entertainment and information purposes on
+board air cabs. Such highly scalable mobility applications show a widespread distribution of aircraft, which poses particular challenges for the design of the
+communication network: For this purpose, cloud edge computing in combination with 5G can
+bring data processing and decision-making closer to end devices and at the same time enable
+the transmission of large amounts of data over the network [111]. The meshing of the network
+(interconnectivity of nodes, so-called mesh) supports this process by allowing data to be
+transmitted not only via a central router, but via several (redundant) paths between nodes. In
+addition to distributed processing, this primarily serves the aforementioned robustness
+(redundancy of data forwarding via multiple paths), expandability (no network reconfiguration
+when adding additional nodes) and increased coverage. A mesh network is therefore suitable
+as a flexible and robust solution for setting up a communication network, especially in scenarios
+such as AAM [112], where high availability and coverage are required [113]. PI Fitzek is
+conducting research in this area on previously ground-based devices [FI114], for cooperative
+work in the network [FI115, FI116, FI117] and for transfer to aviation and UAS [FI118, FI119,
+FI120]. Several individual or combined methods are available for the real-time navigation of
+UAVs:
+a) Global Navigation Satellite Systems (GNSS), which are globally available when coupled with
+Differential Global Positioning System (DGPS) or Real-Time Kinematic (RTK, improvement of
+the position by correction signal) and allow accuracies of a few centimeters, but whose use in
+urban areas is impaired by signal shadowing.
+b) Inertial Navigation Systems (INS): On-board autonomous positioning based on acceleration
+measurement principles with high temporal resolution and short-term accuracy. Due to error
+propagation, however, they are less suitable as a stand-alone system and are combined with
+GNSS for high accuracy and reliability requirements.
+c) 5G: The analysis of signal propagation times in mobile networks also allows position
+determination with an accuracy in the sub-meter range. Here, too, there is a loss of accuracy in
+urban areas due to signal shadowing and reflections [121].
+d) Landmarks: Objects recognizable in the image can serve as control points in
+photogrammetric bundle block adjustment methods and thus allow image-based, centimetre-
+accurate navigation. The method places high demands on the recognition of landmarks and
+real-time processing in photogrammetric aerotriangulation methods.
+UAS provide a flexible basis for a wide range of geodata acquisition tasks using cameras or
+laser scanners. For the evaluation of UAS image data to generate three-dimensional terrain or
+object representations, process chains based on structure-from-motion methods in particular
+have become established [EL122, 123]. UAV navigation is not the main focus of such tasks,
+since exact orientation parameters are determined a poste- riori in the course of bundle block
+adjustment anyway (cf. e.g. [124]). One approach to image-based orientation with 3D city
+models is the co-registration of image information and 3D point clouds [MA125]. For this
+purpose, the point clouds must be filtered and classified so that only relevant features are
+retained for mapping with landmarks. To classify the point clouds, manually created features
+(labels) can be used in combination with classifiers from machine learning [126] or continuously
+learned convolutional networks [126].
+[127] can be used. Elias et al [MA128] determine a co-registration of synthetic images from 3D
+models, whereby there is a high requirement for image feature point recognition due to different
+radiometric properties. Progress in the field of deep learning-based image classification appears
+promising [129, 130]. Although the strategic flight planning takes place before take-off and is
+therefore initially not time-critical, for safety reasons it is necessary to update the flight plan data
+tactically during the flight, e.g. due to structural changes or temporary objects, which are
+extracted in real time from the sensor data (camera, possibly also acoustic sensors at close
+range). Object classification methods can be used to detect changes. For example, [131]
+presents a procedure that uses machine learning methods to classify small objects in urban and
+rural scenes. However, they also emphasize the difficulty of missing training data sets for
+changes in street environments. Changes in the terrain caused by UAS were recorded in [EL132,
+EL133, EL134] (UAV image stabilization [EL135], elevation models [MA136]). A variety of
+algorithms exist for the detection of objects [MA137, EL138] or pedestrians in images, which
+can be used in
 
 
-
-
+page 15 - 16
+Beyond this terrestrial network routing, both communication, navigation and surveillance (CNS)
+procedures between aircraft and ground-based surveillance units (air traffic control) have so far
+been based on point-to-point data connections and must therefore reliably master the dynamic,
+quasi-optical properties of the atmosphere and local topography (including building reflections).
+This can only be achieved by fusing different sensors in combination with AI processes and
+geovisualization techniques, which is addressed by means of SLAM and multimodal
+adaptive navigation (topics 5, 8, sub-area B) in relation to LiDAR video sensors, 5G/6G and
+object geometries (landmarks) for drones and verified experimentally in flight tests. This also
+includes the integration of geodetic concepts of blur-based and geometric modeling to handle
+spatio-temporally variable data quality in navigation tasks. The SML, which is currently being
+implemented, is used for experimental research and validation.
+dynamic and local emission effects. Topic 6, sub-area A, deals with the determination and
+modeling of robust trajectories, taking into account the uncertainty of the system and thus the
+reliable traffic forecast as a basis for safe traffic monitoring. Only by including the uncertainty
+can practice-relevant, robust statements be obtained. The central source of uncertainty of the
+complex microclimatic environmental conditions in urban areas is addressed in topic 7, also
+sub-area A, by means of wind and turbulence simulations, among other things. This traffic
+conglomerate requires - currently unavailable - robust, fault-tolerant methods from the fields of
+flight mechanics, safety modeling, operations research, communications engineering, computer
+science, geosensorics, photogrammetry, economics and urban/airfield planning as well as
+atmospheric physics. It must be possible to transmit the required traffic data at high frequency
+and in real time during the mission. As a result, there are high requirements for robust and
+real-time capable communication between the aircraft and the control station in terms of
+availability and bandwidth. As they operate at low altitudes and are spatially centered, cell-
+based data link technology (e.g. Long Term Evolution (LTE), 5G/6G mobile radio standards)
+is a candidate for improving the current data link (UWB, VDL Mode 2, SSR Mode S) for
+combined communication and sensing, in addition to smart grid technology installed in
+infrastructure (topic 2). In addition to the SML, DLR is providing public 5G infrastructure for
+research purposes via the 5G Real Lab project. Topic 9 investigates the possibilities of cell-
+based radio networks (5G, IEEE802.11p) for conflict prevention and navigation of individual
+aircraft and groups.
 ### Chapters 
 
 ### Introduction 
