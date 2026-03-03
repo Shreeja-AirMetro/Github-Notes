@@ -1,3 +1,21 @@
+
+### Key words from the translated Proposal 
+- these future networks will focus not
+only on data transport, but also on the storage and calculation of information. These changes
+open up relevant potential for UAS equipped with communication and computing technologies,
+- Cooperative communication, between mobile nodes as well as intended for AAM, has been a
+field of research in its own right for years [FI114] with novel information theories of network
+coding, in which the ComNets chair of PI Fitzek is a world leader. Network coding allows the
+simultaneous optimization of latency and resilience, whereby the state of the art so far only
+allows the trade-off of latency for resilience.
+- V2V and D2D currently still have
+shortcomings (in particular jitter, which can lead to irregular delays in the transmission of data
+packets).
+- 
+
+
+
+
 ### Chapters 
 
 ### Introduction 
