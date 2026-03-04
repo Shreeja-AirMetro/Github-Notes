@@ -577,3 +577,23 @@ You have hardcoded:
     
 
 **Would you like me to help you modify the `NRChannelModel` parameters or the Routing XML to handle the transition between TN and NTN more effectively?**
+
+
+-----
+
+
+CHECK THIS
+To accurately mimic **Code 1** while implementing the specific **UAV C2 Failover** scenario you described, we need to reconcile the physical parameters and the application logic.
+
+### 1. The Noise Figure Question: 0 dB or 0 dBm?
+
+Regarding your question: **No, the UE Noise Figure should not be "0 dBm."**
+
+In OMNeT++/Simu5G, there is a critical distinction between **Units**:
+
+- **Noise Figure (NF):** This is a ratio (usually expressed in **dB**), representing how much noise the hardware adds. A "perfect" receiver has an NF of 0 dB.
+    
+- **Thermal Noise:** This is absolute power (expressed in **dBm**).
+    
+
+In **Code 1**, the NTN model (`nrChannelModel[1]`) used `ue_noise_figure = 0 dBm`. This is technically a syntax/logic error in the original code (mixing power units with ratio units). For a high-performance UAV NTN terminal, you should use: `*.uavs[*].cellularNic.nrChannelModel[1].ue_noise_figure = 5dB` (or 7dB to match the TN side).
