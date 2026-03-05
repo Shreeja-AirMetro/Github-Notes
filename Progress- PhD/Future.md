@@ -5072,3 +5072,54 @@ In March 2026, **Deutsche Telekom partnered with Starlink** to provide satellite
     
 
 **Would you like me to look up specific "Quality-on-Demand" (QoD) APIs that developers are now using to prioritize drone data traffic on these networks?**
+
+
+
+
+---
+
+
+For a VC focused on deeptech sectors like drones, energy, electronics, and communications, the 2027/2028 window is shaping up with several anchor events.
+
+While specific 2028 lineups are still being finalized, the major annual "staples" operate on fixed cycles. Here is your roadmap for high-value deal flow and networking during that period.
+
+### **End of 2027: The "Heavyweight" Season**
+
+This period is dominated by the massive European ecosystem events where deeptech hardware meets late-stage capital.
+
+|**Event**|**Focus**|**Location**|**Estimated Dates**|
+|---|---|---|---|
+|**Gitex Global**|Telecom, 6G, Drones|Dubai, UAE|Oct 2027|
+|**Futurecom**|Communications, 5G/6G Infra|São Paulo, Brazil|Oct 14–16, 2027|
+|**Web Summit**|General Tech, VC, Electronics|Lisbon, Portugal|Nov 2027|
+|**Dubai Airshow**|Defense Drones, Aerospace|Dubai, UAE|Nov 15–19, 2027|
+|**Slush**|High-Concentration VC/Deeptech|Helsinki, Finland|Late Nov 2027|
+
+---
+
+### **Early 2028: Hardware & Energy Focus**
+
+Q1 2028 is the critical window for electronics and uncrewed systems, starting with the consumer-industrial crossover in Las Vegas.
+
+|**Event**|**Primary Sector**|**Location**|**Exact/Estimated Dates**|
+|---|---|---|---|
+|**CES 2028**|Electronics, Robotics, Lidar|Las Vegas, USA|**Jan 11–14, 2028**|
+|**Web Summit Qatar**|Deeptech, Energy, Emerging Tech|Doha, Qatar|Early Feb 2028|
+|**MWC Barcelona**|5G/6G, IoT, Comm. Hardware|Barcelona, Spain|**Mar 2–5, 2028**|
+|**IEEE APEC**|Power Electronics, Energy Systems|New Orleans, USA|**Mar 5–9, 2028**|
+|**UMEX**|Uncrewed Systems (Drones/Robotics)|Abu Dhabi, UAE|**Mar 7–9, 2028**|
+|**XPONENTIAL**|Drones, Robotics, Autonomy|TBD (USA/EU)|Late March 2028|
+|**Hannover Messe**|Industrial Energy, Electronics|Hannover, Germany|**Apr 24–28, 2028**|
+
+---
+
+### **Strategic VC Notes for 2028**
+
+- **The Drone Shift:** By 2028, events like **UMEX** and **XPONENTIAL** will likely have a much heavier focus on AI-driven swarm intelligence and counter-UAS (CUAS) technologies, which are currently seeing massive VC interest.
+    
+- **Power Electronics (APEC):** If your interest in "Electronics" leans toward EV infrastructure or grid storage, the **Applied Power Electronics Conference (APEC)** in New Orleans (March 2028) is the premier technical venue to find breakthrough semiconductor and battery management startups.
+    
+- **Communications Evolution:** By early 2028, **MWC Barcelona** will have pivoted from 5G hype to 6G infrastructure and "Open RAN" (Radio Access Network) technologies—prime territory for deeptech communications investment.
+    
+
+**Would you like me to research specific satellite or defense-focused events for 2028 that cover the "Communications" and "Drone" overlap in more detail?**
