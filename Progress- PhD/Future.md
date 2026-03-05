@@ -5006,3 +5006,8 @@ The industry is seeing a sharp inflection point in revenue as BVLOS (Beyond Visu
 |**Middle East & Africa**|**Logistics & Defense.** Significant investment in **cargo drones** (UAE/Saudi Arabia) and life-saving medical delivery networks (Rwanda/Ghana), with the fastest growth in regulatory-friendly environments.|
 
 **Would you like me to pull the specific quarterly earnings reports for any of the publicly traded companies mentioned, such as AeroVironment (AVAV) or Unusual Machines (UMAC)?**
+
+
+Edenred Ventures in London and built experience across the tech sector.
+Fadi Al-kayid - TCapital
+wide range of M&A and financing transactions.
