@@ -5011,3 +5011,64 @@ The industry is seeing a sharp inflection point in revenue as BVLOS (Beyond Visu
 Edenred Ventures in London and built experience across the tech sector.
 Fadi Al-kayid - TCapital
 wide range of M&A and financing transactions.
+
+
+The collaboration between the telecommunications (Telco) and drone industries has shifted from "simple connectivity" to **"Physical AI"** and **"Non-Terrestrial Networks (NTN)."** As of early 2026, the focus is on integrating drones directly into the cellular fabric to serve as both users of the network and extensions of the network itself.
+
+### **1. Deutsche Telekom: Defense & Infrastructure Focus**
+
+Deutsche Telekom (DT) has become a major strategic player, moving beyond its traditional role as a service provider into a drone technology investor.
+
+- **Strategic Investment in Quantum Systems:** In late 2025, DT (via its T.Capital fund) made a landmark investment in **Quantum Systems**, a leading German drone manufacturer. The goal is to develop autonomous surveillance solutions specifically for **protecting critical infrastructure** (power grids, pipelines, and rail) across Europe.
+    
+- **Drones as Flying Base Stations:** At MWC 2025/2026, DT demonstrated drones acting as **temporary mobile base stations**. These are deployed during natural disasters or at large events (like concerts) to provide instant 5G coverage where ground infrastructure is damaged or overwhelmed.
+    
+- **The 6G-TakeOff Project:** DT recently completed this government-funded project, which successfully tested a "3D network" architecture. It used drones and satellites as airborne nodes to ensure seamless handovers for moving devices, laying the groundwork for **6G NTN standards**.
+    
+
+### **2. T-Mobile US: AI-RAN and 6G Innovation**
+
+T-Mobile is focusing on the "intelligence" layer, ensuring drones can fly autonomously over vast distances using the network as their "brain."
+
+- **6G Innovation Hub:** In February 2026, T-Mobile and Deutsche Telekom launched a joint **transatlantic 6G Hub**. A core pillar of this hub is **Physical AI**, where the network doesn't just move data but actively controls autonomous systems like drones and robots in real-time.
+    
+- **NVIDIA & Nokia Partnership:** T-Mobile is working with NVIDIA to implement **AI-RAN (Radio Access Network)**. This technology allows the network to "sense" drones in the sky without traditional radar, facilitating safer urban drone traffic management (UTM).
+    
+- **Lucid Bots Collaboration:** T-Mobile provides the IoT connectivity for **Lucid Bots' Sherpa drones**, which are used for high-rise window washing and industrial cleaning, proving the "Drone-as-a-Service" model in the commercial sector.
+    
+
+---
+
+### **3. Key Technical Pillars of Collaboration**
+
+The industry is currently standardizing three main "hooks" between Telcos and Drones:
+
+| Feature | Implementation (2026) | Benefit |
+
+| :--- | :--- | :--- |
+
+| **BVLOS Enabling** | 5G-Advanced / 5G SA | Allows pilots to fly drones hundreds of miles away with low-latency video feeds. |
+
+| **Integrated Sensing** | 6G "Radar-as-a-Service" | The cell towers use radio waves to "see" and track unauthorized or delivery drones. |
+
+| **Edge Computing** | MEC (Mobile Edge Compute) | Drones offload heavy AI processing (like object recognition) to the tower to save battery. |
+
+### **4. Emerging Global Trend: Satellite-to-Drone**
+
+In March 2026, **Deutsche Telekom partnered with Starlink** to provide satellite-to-mobile connectivity. This is a game-changer for the drone industry:
+
+- **Universal Coverage:** Drones can now maintain a data link in "dead zones" (mountains, oceans, or remote forests) by switching from 5G to Starlink V2 satellites automatically.
+    
+- **Global Logistics:** This enables trans-continental cargo drone flights that previously struggled with "connectivity gaps" over unpopulated areas.
+    
+
+---
+
+### **Summary of Private Equity/VC in Telco-Drones**
+
+- **Corporate VC (CVC):** Telcos like Orange, Vodafone, and DT are no longer just "vendors." They are leading Series B and C rounds for drone startups to ensure these startups use their specific network APIs.
+    
+- **Sovereign Tech:** Much of the investment is driven by "Digital Sovereignty"—Europe and the US are funding Telco-Drone partnerships to create a secure alternative to Chinese-made DJI ecosystems.
+    
+
+**Would you like me to look up specific "Quality-on-Demand" (QoD) APIs that developers are now using to prioritize drone data traffic on these networks?**

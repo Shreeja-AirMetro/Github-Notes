@@ -59,3 +59,59 @@ Todos
 6. **Protocol - Conference  end 2026**
 7. Network coding conf - 2027 summer 
 8. Network coding journal 2027 winter 
+
+----
+
+
+### NEWS
+
+
+The "Quality-on-Demand" (QoD) API has become the industry-standard "throttle" for drone operators. In 2026, it is no longer just a pilot project; it is a commercialized tool available through major telco platforms like **GSMA Open Gateway**, **T-Mobile DevEdge**, and **Ericsson-owned Vonage**.
+
+Developers use these APIs to solve a critical physics problem: cellular networks are traditionally designed for ground-level users (downlink-heavy), while drones are high-altitude users that require massive, stable **uplink** for 4K video and low-latency **command-and-control (C2)**.
+
+### **1. Top QoD APIs for Drone Developers**
+
+|**API Name**|**Provider**|**Primary Drone Use Case**|
+|---|---|---|
+|**CAMARA QoD API**|GSMA / Linux Foundation|Standardized across 50+ global telcos (Orange, Telefónica, Vodafone). Used for **BVLOS flight stability**.|
+|**T-Mobile QoD - Remote Maneuvering**|T-Mobile US|Specifically tuned for **Remote Drone Maneuvering** with optimized jitter and latency for real-time control.|
+|**Vonage Network API (QoD)**|Vonage (Ericsson)|Integrated with **C3 AI** and **Zuper** for industrial field services and automated drone inspections.|
+|**Nokia Network as Code**|Nokia / DT|Uses geofencing to **automatically trigger** a QoD boost when a drone enters a specific flight corridor.|
+
+---
+
+### **2. How Developers Use These APIs in Flight**
+
+Drones don't need "premium" speed 100% of the time. Developers use QoD APIs to request "bursts" of priority:
+
+- **The "Emergency Boost":** If a drone’s AI detects a potential obstacle or a critical system error, the application calls the QoD API to instantly drop latency from ~100ms to **<20ms**, giving the pilot or autonomous system immediate control.
+    
+- **Congestion Bypass:** In a "best-effort" network (like a crowded city), drone video often stutters. The QoD API creates a **virtual "fast lane"** specifically for the drone's IMEI, ensuring the video stream doesn't drop even if thousands of people nearby are using 5G.
+    
+- **Multi-Channel Separation:** Advanced developers use APIs to separate traffic types. They might request a **High-Reliability** profile for telemetry (small data, zero loss) and a **High-Throughput** profile for the 4K sensor feed.
+    
+
+---
+
+### **3. Major Industry Moves (Q1 2026)**
+
+- **Skydio’s "Call to Action":** In late 2025, Skydio (the top US drone maker) officially requested that all Mobile Network Operators (MNOs) provide **aviation-authorized QoD APIs** to move the industry toward "Drones as Infrastructure."
+    
+- **The Postman Integration:** Vonage recently put these Network APIs onto the **Postman API Network** (reaching 40 million developers). This means a drone software startup can now "fork" a QoD collection and integrate cellular prioritization into their flight code in minutes.
+    
+- **AI-Agent Integration:** A major 2026 trend is **Agentic AI**. Autonomous flight agents now "negotiate" with the network via these APIs. For example, if an AI drone realizes it is running low on battery, it can call a QoD API to ensure its final landing video feed is perfectly stable for the remote supervisor.
+    
+
+---
+
+### **4. Cost Model: "Priority as a Service"**
+
+The financial model for these APIs has shifted. Telcos are moving away from flat monthly fees to:
+
+- **Session-Based Pricing:** Pay $0.50 per 15-minute "QoD Session" during a high-stakes inspection.
+    
+- **Success-Based Pricing:** Pay only when the API successfully delivers the requested 99.9% reliability threshold.
+    
+
+**Would you like me to find a sample Python or JSON snippet showing how a developer actually "calls" a CAMARA QoD API to request a latency boost?**
