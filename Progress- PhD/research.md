@@ -121,3 +121,15 @@ The financial model for these APIs has shifted. Telcos are moving away from flat
 
 System engineering 
 https://www.nasa.gov/reference/2-0-fundamentals-of-systems-engineering/
+### Distinctions between Product Verification and Product Validation
+
+From a process perspective, the Product Verification and Product Validation processes may be similar in nature, but the objectives are fundamentally different:
+
+- Verification of a product shows proof of compliance with requirements—that the product can meet each “shall” statement as proven though performance of a test, analysis, inspection, or demonstration (or combination of these).
+- Validation of a product shows that the product accomplishes the intended purpose in the intended environment—that it meets the expectations of the customer and other stakeholders as shown through performance of a test, analysis, inspection, or demonstration.
+
+Verification testing relates back to the approved requirements set and can be performed at different stages in the product life cycle. The approved specifications, drawings, parts lists, and other configuration documentation establish the configuration baseline of that product, which may have to be modified at a later time. Without a verified baseline and appropriate configuration controls, later modifications could be costly or cause major performance problems.
+
+Validation relates back to the ConOps document. Validation testing is conducted under realistic conditions (or simulated conditions) on end products for the purpose of determining the effectiveness and suitability of the product for use in mission operations by typical users. Validation can be performed in each development phase using phase products (e.g., models) and not only at delivery using end products.
+
+It is appropriate for verification and validation methods to differ between phases as designs advance. The ultimate success of a program or project may relate to the frequency and diligence of validation efforts during the design process, especially in Pre-Phase A and Phase A during which corrections in the direction of product design might still be made cost-effectively. The question should be continually asked, “Are we building the right product for our users and other stakeholders?” The selection of the verification or validation method is based on engineering judgment as to which is the most effective way to reliably show the product’s conformance to requirements or that it will operate as intended and described in the ConOps.
