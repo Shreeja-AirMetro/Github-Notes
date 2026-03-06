@@ -115,3 +115,9 @@ The financial model for these APIs has shifted. Telcos are moving away from flat
     
 
 **Would you like me to find a sample Python or JSON snippet showing how a developer actually "calls" a CAMARA QoD API to request a latency boost?**
+
+----
+
+
+System engineering 
+https://www.nasa.gov/reference/2-0-fundamentals-of-systems-engineering/
