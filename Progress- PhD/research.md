@@ -893,3 +893,88 @@ By using this setup, your simulation data will show that even when **Link 1 (5G)
 **Would you like a more detailed breakdown of how to map the "Rank" of the decoding matrix to your "Resilience Index"?**
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329609 - Osel paper for diagram 
+
+In the architecture of a UAV, the **C2 (Command and Control) protocol** is the digital language used to exchange vital flight data and control commands. It ensures that the "intent" of the pilot or the automation system is accurately translated into "action" by the aircraft.
+
+---
+
+## 1. What is a C2 Protocol?
+
+A C2 protocol defines the message structure, timing, and security for two primary data flows:
+
+- **Uplink (Command):** Instructions sent from the Ground Control Station (GCS) to the UAV (e.g., "Change altitude to 100m," "Execute Return-to-Home").
+    
+- **Downlink (Telemetry):** Vital signs sent from the UAV back to the GCS (e.g., GPS coordinates, battery voltage, airspeed, system health).
+    
+
+In aviation terms, this is often called the **CNPC (Control and Non-Payload Communications)** link. It is strictly separated from "Payload" data (like high-def video or thermal imaging) to ensure that even if the video feed lags, the control link remains stable.
+
+---
+
+## 2. MAVLink: The Open-Source Standard
+
+**MAVLink (Micro Air Vehicle Link)** is the most widely used open-source C2 protocol in the world. Originally created in 2009, it is now the backbone for the **PX4** and **ArduPilot** ecosystems.
+
+### How it is used Air-to-Ground (A2G):
+
+MAVLink is a **binary, lightweight messaging protocol**. It is designed to be efficient over low-bandwidth, high-latency links (like radio telemetry or 5G).
+
+- **Packet Structure:** A MAVLink packet has a tiny overhead (only 14 bytes for MAVLink 2). This includes a System ID, Component ID, and a **Checksum** to detect corruption.
+    
+- **Microservices:** It uses specific "sub-protocols" for different tasks:
+    
+    - **Mission Protocol:** To upload/download waypoints.
+        
+    - **Parameter Protocol:** To change settings (e.g., tuning PID gains).
+        
+    - **Heartbeat:** A recurring packet sent every 1 second to confirm the link is still alive.
+        
+
+### Use Case Example:
+
+When you click "Take Off" in a GCS like **QGroundControl**, the software sends a `MAV_CMD_NAV_TAKEOFF` message. The UAV receives it, sends back an `ACK` (Acknowledgement), and initiates the motor sequence.
+
+---
+
+## 3. Standards for C2 Protocols
+
+As drones move into commercial and "BVLOS" (Beyond Visual Line of Sight) operations, regulators have established formal standards to ensure safety:
+
+|**Standard**|**Organization**|**Focus**|
+|---|---|---|
+|**RTCA DO-362A**|RTCA (USA)|Defines **MOPS** (Minimum Operational Performance Standards) for terrestrial C2 links in the C-Band (5030-5091 MHz).|
+|**RTCA DO-377A**|RTCA (USA)|Focuses on the "System" performance of the C2 link, including security and routing.|
+|**3GPP TS 22.125**|3GPP|Defines the requirements for **UAS support in 5G networks**, including QoS, remote ID, and C2 reliability.|
+|**STANAG 4586**|NATO|The military standard for interoperability, allowing one GCS to control multiple types of NATO-compliant drones.|
+
+---
+
+## 4. Open Source vs. Proprietary Protocols
+
+While MAVLink dominates the hobbyist and research world, other protocols exist for specific niches:
+
+### Open Source Protocols
+
+- **UAVCAN (Cyphal):** A more robust, "deterministic" protocol often used for communication _inside_ the drone (between the autopilot and motors/sensors) rather than just GCS-to-UAV.
+    
+- **MSP (MultiWii Serial Protocol):** Used largely in the FPV drone racing community for its extreme simplicity and speed.
+    
+
+### Proprietary Protocols
+
+- **DJI OcuSync / Lightbridge:** Highly optimized, closed-source protocols used by DJI. They combine C2, telemetry, and HD video into a single resilient stream using frequency hopping.
+    
+- **Microhard / Silvus:** Specialized industrial/military radio manufacturers often have their own internal protocols designed for extreme anti-jamming and long-range encryption.
+    
+- **uXRCE-DDS:** A high-speed protocol used by modern autopilots (like PX4 with ROS2) for near-instantaneous communication between an onboard "Companion Computer" and the flight controller.
+    
+
+[Image comparing MAVLink packet structure with military STANAG 4586 frame]
+
+---
+
+## Why does this matter for your PhD?
+
+If you are implementing **Network Coding** (RLNC), you will likely be "tunneling" **MAVLink packets** inside your coded stream. Your research contribution could be showing how RLNC makes the **MAVLink Heartbeat** more resilient during 5G handovers, thereby preventing the drone from entering a "Failsafe" state.
+
+Would you like me to show you how a **MAVLink packet is encapsulated** inside an RLNC coded payload in a C++ code structure?
