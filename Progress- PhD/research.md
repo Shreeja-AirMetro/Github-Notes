@@ -790,3 +790,5 @@ Traditional RLNC uses "Generations" (blocks). You have to wait for the whole blo
     
 
 Would you like a **sample C++ snippet** showing how to initialize a Kodo encoder for a 5G packet buffer?
+
+https://blog.blockmagnates.com/inside-rlnc-a-technical-walkthrough-for-faster-broadcasting-in-p2p-networks-32caae2f5475
