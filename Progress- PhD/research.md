@@ -704,3 +704,89 @@ Use your data to fill a **Resilience Rubric**:
     
 
 **Would you like me to help you write a "Pseudocode" logic for how the Sliding Window encoder should decide the "Coding Rate" based on the RSRP of your 5G link?**
+
+
+---
+
+### 1. What is Kodo? Is it Open Source?
+
+**Kodo** is a high-performance C++ library specifically designed for implementing **Network Coding** algorithms. It is developed by Steinwurf and is the most widely used tool in both academia and industry for this purpose.
+
+- **Open Source Status:** Kodo is **Open Source for Research/Academic use**. It is released under a "Research-friendly" license which allows you to access the source code, modify it, and use it for your PhD experiments at no cost. (Note: For commercial use, a paid license is required).
+    
+- **Why use it?** It handles the complex "Galois Field" finite-field arithmetic (math behind coding) and offers pre-built modules for RLNC, making it a plug-and-play solution for your testbed.
+    
+
+---
+
+### 2. Can I use ns-3 or OMNeT++?
+
+Yes, both are capable, but they serve different parts of your PhD methodology:
+
+- **ns-3 (Recommended for 3GPP/5G Focus):**
+    
+    - **Pros:** It has the most advanced **5G-LENA** module. If your research focuses on 3GPP Rel-18 features (like specific NR handovers or sub-spacing), ns-3 is the standard.
+        
+    - **Implementation:** You can integrate Kodo into ns-3 by linking the C++ library. There are also community modules (like `ns3-network-coding`) specifically for RLNC.
+        
+- **OMNeT++ (Recommended for Architectural/Multi-link Focus):**
+    
+    - **Pros:** Better graphical visualization and highly modular for complex "hybrid" networks (e.g., mixing a 5G INET model with a custom Satellite model).
+        
+    - **Implementation:** OMNeT++ uses C++ for its "Simple Modules," meaning you can easily call Kodo functions within your node's `handleMessage()` function.
+        
+
+---
+
+### 3. RLNC vs. Other Techniques (Why RLNC wins for C2)
+
+In your thesis, you will need to justify why you chose **RLNC** over other "Erasure Codes." Here is the comparison:
+
+|**Technique**|**How it works**|**Why it's NOT ideal for UAV C2**|
+|---|---|---|
+|**Reed-Solomon (RS)**|Fixed block codes (e.g., send 10, parity 2).|**Inflexible:** If you lose 3 packets, the whole block fails. You cannot add "more coding" mid-flight if interference increases.|
+|**Fountain/LT Codes**|Rateless codes (infinite stream of parity).|**Latent:** Typically requires a large number of packets to be "collected" before decoding starts. This kills your **RCP 0.1** (100ms) target.|
+|**RLNC**|**Random Linear combinations.**|**Winner:** Every coded packet is "equally useful." If the UAV needs 10 packets to move, any 10 coded packets will do.|
+
+#### **The "C2 Edge" of RLNC:**
+
+1. **Zero-Coordination:** The Ground Station doesn't need to know exactly _which_ packet the UAV missed. It just keeps sending random combinations until the UAV says "Got it." This is critical when the feedback link (UAV-to-Ground) is also shaky.
+    
+2. **Multi-hop Resilience:** In a mesh (UAV-to-UAV), intermediate drones can "re-code" packets without decoding them first. This prevents the "Noise Accumulation" found in simple store-and-forward routing.
+    
+
+---
+
+### 4. Why Sliding Window RLNC?
+
+Traditional RLNC uses "Generations" (blocks). You have to wait for the whole block to arrive before you can turn the command.
+
+- **Sliding Window RLNC** uses a "moving" set of packets.
+    
+- **Benefit:** As soon as a new packet arrives, it can potentially decode the _oldest_ missing command immediately. It minimizes **In-order Delivery Delay**, which is the single most important reliability metric for C2.
+    
+
+---
+
+### 5. Revised Research Methodology (Ph.D. Workflow)
+
+1. **Software Layer:** Integrate **Kodo** into **ns-3** (using the 5G-LENA module).
+    
+2. **Simulation Setup:**
+    
+    - **Link A:** 5G (High throughput, but high shadowing in urban canyons).
+        
+    - **Link B:** Satellite/LTE (Lower throughput, but more stable).
+        
+3. **Experimental Run:**
+    
+    - Send MAVLink C2 packets using **Sliding Window RLNC** across both links.
+        
+    - **The Stressor:** Simulate a 5G "Radio Link Failure" (RLF).
+        
+4. **Quantitative Analysis:** Measure the "Transaction Time" (ICAO RCP). Does RLNC keep it under 100ms even during the 5G failure?
+    
+5. **Qualitative Conclusion:** Map this to a "Resilience Score." (e.g., "The system demonstrates _Absorption Resilience_ by masking the 300ms 5G handover delay via the coded Satellite sub-stream.")
+    
+
+Would you like a **sample C++ snippet** showing how to initialize a Kodo encoder for a 5G packet buffer?
