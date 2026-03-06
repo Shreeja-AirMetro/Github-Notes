@@ -135,3 +135,11 @@ Verification testing relates back to the approved requirements set and can be pe
 Validation relates back to the ConOps document. Validation testing is conducted under realistic conditions (or simulated conditions) on end products for the purpose of determining the effectiveness and suitability of the product for use in mission operations by typical users. Validation can be performed in each development phase using phase products (e.g., models) and not only at delivery using end products.
 
 It is appropriate for verification and validation methods to differ between phases as designs advance. The ultimate success of a program or project may relate to the frequency and diligence of validation efforts during the design process, especially in Pre-Phase A and Phase A during which corrections in the direction of product design might still be made cost-effectively. The question should be continually asked, “Are we building the right product for our users and other stakeholders?” The selection of the verification or validation method is based on engineering judgment as to which is the most effective way to reliably show the product’s conformance to requirements or that it will operate as intended and described in the ConOps.
+
+https://medium.com/swlh/applying-the-systems-engineering-process-to-small-and-medium-sized-businesses-739125754590
+https://www.microtool.de/en/knowledge-base/what-is-systems-engineering/#:~:text=It%20(%20Systems%20engineering%20)%20emerged%20in,alone%20could%20not%20handle%20the%20growing%20complexity. 
+
+System Engineering V design - Enrique 
+![[Screenshot from 2026-03-06 12-24-51.png]]
+
+
