@@ -978,3 +978,85 @@ While MAVLink dominates the hobbyist and research world, other protocols exist f
 If you are implementing **Network Coding** (RLNC), you will likely be "tunneling" **MAVLink packets** inside your coded stream. Your research contribution could be showing how RLNC makes the **MAVLink Heartbeat** more resilient during 5G handovers, thereby preventing the drone from entering a "Failsafe" state.
 
 Would you like me to show you how a **MAVLink packet is encapsulated** inside an RLNC coded payload in a C++ code structure?
+
+MAVLink (Micro Air Vehicle Link) is a highly efficient, binary telemetry protocol. To understand its structure, you have to look at how a single "frame" (or packet) is built. While **MAVLink 1** was the original standard, **MAVLink 2** is the modern version that adds support for more messages, signing (security), and extensibility.
+
+The total packet length ranges from a minimum of **12 bytes** (no payload) to a maximum of **280 bytes** (full payload + signing).
+
+---
+
+## 1. MAVLink 2 Packet Structure Overview
+
+A MAVLink 2 packet is composed of three main parts: the **Header**, the **Payload**, and the **Checksum/Signature**.
+
+### A. The Header (9 Bytes)
+
+The header contains the "routing" and "identification" data.
+
+|**Field**|**Size**|**Description**|
+|---|---|---|
+|**STX (Magic Byte)**|1 Byte|Start of packet marker. For MAVLink 2, this is always `0xFD`.|
+|**LEN**|1 Byte|Length of the payload (0–255 bytes).|
+|**INC FLAGS**|1 Byte|Incompatibility flags (features the parser _must_ understand to read the packet).|
+|**CMP FLAGS**|1 Byte|Compatibility flags (features that can be ignored if not understood).|
+|**SEQ**|1 Byte|Sequence number (0–255). Used to detect packet loss.|
+|**SYS ID**|1 Byte|ID of the sending system (e.g., Drone = 1, GCS = 255).|
+|**COMP ID**|1 Byte|ID of the sending component (e.g., Autopilot = 1, Camera = 100).|
+|**MSG ID**|3 Bytes|The unique ID of the message type (e.g., `HEARTBEAT` is ID 0).|
+
+---
+
+### B. The Payload (0–255 Bytes)
+
+This is where the actual data (like GPS coordinates or battery level) lives.
+
+- **Field Reordering:** To save space and ensure CPU efficiency, MAVLink automatically reorders fields in the payload. It puts the largest data types (like `uint64_t`) first and the smallest (like `char`) last. This prevents "padding" bytes that waste bandwidth.
+    
+- **Extension Fields:** MAVLink 2 allows adding new fields to old messages without breaking older software. These are added to the end of the payload.
+    
+
+### C. The Checksum and Signature (2–15 Bytes)
+
+- **Checksum (2 Bytes):** A CRC-16 (ITU X.25) check. It ensures the packet wasn't corrupted during transmission.
+    
+- **CRC_EXTRA:** A unique byte based on the message definition (XML). If the sender and receiver are using different versions of a message, the checksum will fail, preventing the drone from misinterpreting a command.
+    
+- **Signature (Optional, 13 Bytes):** Used to authenticate the link. It proves the command actually came from your GCS and not a hacker.
+    
+
+---
+
+## 2. MAVLink 1 vs. MAVLink 2 Comparison
+
+If you are working on a legacy system, you might see **MAVLink 1**. It is much simpler but less secure.
+
+|**Feature**|**MAVLink 1**|**MAVLink 2**|
+|---|---|---|
+|**Start Marker (STX)**|`0xFE`|`0xFD`|
+|**Header Size**|6 Bytes|9 Bytes|
+|**Message IDs**|0–255 (1 Byte)|0–16,777,215 (3 Bytes)|
+|**Encryption/Signing**|No|Yes|
+|**Payload Truncation**|Always sends full size|Truncates trailing zeros (saves bandwidth)|
+
+---
+
+## 3. How the "Heartbeat" Looks in Binary
+
+To make this concrete, let's look at a **HEARTBEAT** message (the most common message). Even if no commands are sent, this is transmitted every 1 second to say "I am alive."
+
+1. **Header:** `0xFD` (Start), `0x09` (Length), `0x00` (Flags), `0x00`, `0x42` (Sequence), `0x01` (SysID), `0x01` (CompID), `0x000000` (MsgID 0).
+    
+2. **Payload:** 9 bytes containing the Type (Quadcopter), Autopilot (PX4/ArduPilot), Base Mode (Armed/Disarmed), and System Status.
+    
+3. **CRC:** 2 bytes of mathematical verification.
+    
+
+---
+
+## Why this is important for RLNC (Network Coding)
+
+In your PhD setup, when you use **Kodo** for Network Coding, you are taking these **binary MAVLink frames** and treating them as the "Symbols" or "Source Packets."
+
+Because MAVLink 2 is variable-length (due to payload truncation), your RLNC implementation must be able to handle "Maximum Transmission Unit" (MTU) sizes. You will likely pad the MAVLink packets to a fixed size before coding them, or use a "stream" coding approach.
+
+Would you like to see how to write a **parser in Python (pymavlink)** that extracts the `SYS_ID` and `MSG_ID` from a raw byte stream?
