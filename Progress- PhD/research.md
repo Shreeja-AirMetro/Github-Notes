@@ -891,3 +891,5 @@ By using this setup, your simulation data will show that even when **Link 1 (5G)
     
 
 **Would you like a more detailed breakdown of how to map the "Rank" of the decoding matrix to your "Resilience Index"?**
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329609 - Osel paper for diagram 
