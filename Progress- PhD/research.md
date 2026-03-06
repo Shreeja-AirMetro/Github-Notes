@@ -121,6 +121,8 @@ The financial model for these APIs has shifted. Telcos are moving away from flat
 
 System engineering 
 https://www.nasa.gov/reference/2-0-fundamentals-of-systems-engineering/
+https://www.eng.auburn.edu/~dbeale/ESMDCourse/Chapter2.htm
+
 ### Distinctions between Product Verification and Product Validation
 
 From a process perspective, the Product Verification and Product Validation processes may be similar in nature, but the objectives are fundamentally different:
