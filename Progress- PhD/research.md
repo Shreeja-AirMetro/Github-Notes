@@ -143,3 +143,53 @@ System Engineering V design - Enrique
 ![[Screenshot from 2026-03-06 12-24-51.png]]
 
 
+### Reliability: "The Ability to Not Fail"
+
+Reliability is a measure of how consistently a system performs its intended function under specified conditions for a specific period. For a UAV, this means the link stays up and the data arrives correctly.
+
+- **Key Metric:** Usually expressed as a probability (e.g., 99.999% or "five nines").
+    
+- **Focus:** Packet error rates, latency bounds, and signal-to-interference-plus-noise ratio (SINR).
+    
+
+### Resilience: "The Ability to Bounce Back"
+
+Resilience is the system's capacity to withstand and recover from disruptions (like jamming, hardware failure, or extreme weather). A resilient system assumes something _will_ go wrong and has a plan to handle it.
+
+- **Key Metric:** Recovery time (how fast does the link come back?) and graceful degradation (can the drone still fly if the video feed cuts out?).
+    
+- **Focus:** Redundancy, failovers, and adaptive rerouting.
+    
+
+---
+
+## 2. 3GPP Standards and Definitions
+
+The 3rd Generation Partnership Project (3GPP) provides the technical specifications for 4G (LTE) and 5G, which are increasingly used for UAV "Command and Control" (C2) and payload communication.
+
+### 3GPP Definition of Reliability
+
+In 3GPP TS 22.261 (Service requirements for the 5G system), reliability is defined as:
+
+> _"The ability to deliver a specific amount of data from a source to a destination within a given time constraint with a success probability."_
+
+For UAVs (specifically "Aerial UE"), the 3GPP Release 15 and 16 standards define **URLLC** (Ultra-Reliable Low-Latency Communications).
+
+- **Standard Target:** $1 - 10^{-5}$ (99.999%) success probability for a 32-byte packet within 1ms user-plane latency.
+    
+
+### 3GPP Approach to Resilience
+
+While 3GPP doesn't have a single "resilience coefficient," it addresses resilience through **Redundancy** and **Reliability Features**:
+
+- **Dual Connectivity (Multi-connectivity):** The UAV connects to two base stations (gNBs) simultaneously. If one fails, the other takes over instantly.
+    
+- **Path Redundancy:** Sending the same data over two different radio paths.
+    
+- **Network Slicing:** Reserving a specific "lane" of the network specifically for UAV C2 traffic so it isn't disrupted by high-volume smartphone traffic nearby.
+|**Organization**|**Term**|**Definition/Focus**|
+|---|---|---|
+|**ITU-T**|**Reliability**|The probability that an item can perform a required function under given conditions for a given time interval ($R(t)$).|
+|**IEEE 802.11ax/be**|**Robustness**|Often used in place of resilience; focuses on maintaining links in "dense" environments with high interference.|
+|**RTCA (DO-377A)**|**Continuity**|In aviation, this is the "resilience" of the link—the probability that the system will continue to perform its function without unscheduled interruption during an intended operation.| 
+
