@@ -794,3 +794,100 @@ Would you like a **sample C++ snippet** showing how to initialize a Kodo encoder
 https://blog.blockmagnates.com/inside-rlnc-a-technical-walkthrough-for-faster-broadcasting-in-p2p-networks-32caae2f5475
 
 https://www.youtube.com/watch?v=Ct2fyigNgPY&t=862s
+
+To visualize the **RLNC Pipe**, think of it as a "continuous stream of mathematical puzzles." Instead of sending a fragile glass vase (a raw packet) that breaks if it hits a bump (interference), the Ground Control Station (GCS) grinds the vase into a fine dust (coded coefficients) and pours it through several pipes at once. As long as the UAV collects enough "dust" from any combination of pipes, it can instantly remold the vase.
+
+---
+
+## 1. The Full System Architecture
+
+In a PhD setup using **Kodo**, you don't replace the communication protocol (like UDP or MAVLink); you wrap it.
+
+### The Coder (GCS Side)
+
+The Coder sits between your C2 application and the network interfaces.
+
+1. **Buffer:** It takes a group of MAVLink packets (e.g., 10 packets) and puts them in a "coding window."
+    
+2. **Linear Combination:** For every transmission slot, Kodo picks random numbers (coefficients) from the **Galois Field $GF(2^8)$**.
+    
+3. **Encapsulation:** It multiplies the packets by these numbers to create a **Coded Packet**.
+    
+4. **Multi-Link Distribution:** It sends these coded packets across **Link 1 (5G)** and **Link 2 (SatCom)** simultaneously.
+    
+
+### The Decoder (UAV Side)
+
+The Decoder sits on the UAV’s onboard computer (e.g., Raspberry Pi or Jetson).
+
+1. **Collection:** It doesn't care if a packet came from 5G or Satellite. It just collects any incoming coded packet.
+    
+2. **Matrix Solving:** Each packet is treated as a linear equation. Once the UAV has enough equations to match the number of original packets (the "degrees of freedom"), it performs **Gaussian Elimination** to solve the matrix.
+    
+3. **Delivery:** The original, clean MAVLink packets are "extracted" and sent to the Flight Controller (Pixhawk).
+    
+
+---
+
+## 2. The "Sliding Window" RLNC Implementation
+
+Because you are using **Sliding Window RLNC** for C2 (low latency), the setup doesn't wait for blocks.
+
+- **Continuous Flow:** As the GCS sends Command #11, it drops Command #1 from the coding window.
+    
+- **Instant Recovery:** If Command #5 was lost on the 5G link, the next coded packet sent (which includes a combination of 5, 6, 7, 8, 9, 10, 11) allows the UAV to "solve" for the missing Command #5 immediately.
+    
+
+---
+
+## 3. Implementing with Kodo (The Setup)
+
+Yes, Kodo provides both the **Encoder** and the **Decoder** classes. In your testbed or **ns-3** simulation, the setup looks like this:
+
+### Step 1: Initialization
+
+You define the Field (e.g., $GF(2^8)$) and the "Width" of your window.
+
+C++
+
+```
+// Logic for GCS Encoder
+auto encoder_factory = kodo::sliding_window::encoder_factory<fifi::binary8>(max_symbols, max_symbol_size);
+auto encoder = encoder_factory.build();
+```
+
+### Step 2: The Multi-Link "Pipe"
+
+Your code must decide how to spray the coded packets.
+
+- **Scenario A (Redundancy):** Send $1.2\times$ the amount of data needed (20% overhead) to ensure reliability without needing a back-and-forth "ACK" (Acknowledgement).
+    
+- **Scenario B (Resilience):** If the **ns-3** simulation shows 5G signal dropping (RSRP low), the GCS increases the "Coding Rate" (sends more coded packets per original packet).
+    
+
+### Step 3: Decoding at the UAV
+
+The UAV keeps a "decoding matrix." Each time a packet arrives:
+
+C++
+
+```
+// Logic for UAV Decoder
+decoder->read_payload(received_packet_buffer);
+if (decoder->is_symbol_decoded(index)) {
+    // Push original MAVLink command to Flight Controller
+}
+```
+
+---
+
+## 4. Why this proves "Resilience" for your PhD
+
+By using this setup, your simulation data will show that even when **Link 1 (5G)** has 20% packet loss, the **Transaction Time** (ICAO RCP) remains flat and stable.
+
+- **Without RLNC:** The system would wait for retransmissions (Latency spikes $\rightarrow$ Brittle).
+    
+- **With RLNC:** The "Pipe" absorbs the loss mathematically (Low Latency $\rightarrow$ Resilient).
+    
+
+**Would you like a more detailed breakdown of how to map the "Rank" of the decoding matrix to your "Resilience Index"?**
