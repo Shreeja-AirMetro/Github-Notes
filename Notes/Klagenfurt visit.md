@@ -119,3 +119,8 @@ kornelia.lienbacher@aau.at
 
 
 
+---
+Resilience 
+The term _resilience_ in this context refers to the capabilities that a system must possess in order to deal effectively with unanticipated events.[[1]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-1) Resilience engineering examines how systems build, sustain, degrade, and lose these capabilities.[[2]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-:5-2)
+
+Resilience engineering researchers have studied multiple safety-critical [domains](https://en.wikipedia.org/wiki/Domain_knowledge "Domain knowledge"), including [aviation](https://en.wikipedia.org/wiki/Aviation "Aviation"), [anesthesia](https://en.wikipedia.org/wiki/Anesthesia "Anesthesia"), [fire safety](https://en.wikipedia.org/wiki/Fire_safety "Fire safety"), space mission control, [military operations](https://en.wikipedia.org/wiki/Military_operation "Military operation"), power plants, air traffic control, [rail engineering](https://en.wikipedia.org/wiki/Railway_engineering "Railway engineering"), health care, and emergency response to both natural and industrial disasters.[[2]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-:5-2)[[3]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-:2-3)[[4]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-:3-4) Resilience engineering researchers have also studied the non-safety-critical domain of software operations.[[5]](https://en.wikipedia.org/wiki/Resilience_engineering#cite_note-5)
