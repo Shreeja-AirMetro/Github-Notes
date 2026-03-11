@@ -134,3 +134,10 @@ Hollnagel perspective -  Resilient performance as requiring four systemic potent
 
 This has been described in a White Paper from Eurocontrol on Systemic Potentials Management [https://skybrary.aero/bookshelf/systemic-potentials-management-building-basis-resilient-performance](https://skybrary.aero/bookshelf/systemic-potentials-management-building-basis-resilient-performance)
 
+ICAO - https://www.icao.int/sites/default/files/EURNAT/Documents/EUR%20and%20Nat%20Docs/EURNAT-DGCA%20Meetings/EURNAT-DGCA%202024/EURNATDGCA2024-WP04-AppA-EURDoc031.pdf
+
+Crisis A state where nominal and contingency procedures and resources are no longer adequate Resilience A set of properties that: • Protects against disruption • Support a quick recovery after a disruption Air Transportation System The complete set of elements that are necessary for the execution of air transport as defined in the Chicago convention, e.g.:
+A Black Swan effect is a metaphor for an unpredictable, high-impact event that is irrationalized in hindsight.
+
+Risk assessment 
+ALARP (As Low As Reasonably Practicable). Such criteria have major flaws such as: • What is reasonable? • What is practicable?
