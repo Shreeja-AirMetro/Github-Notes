@@ -414,3 +414,4 @@ Faulty tree analysis of the multi-link
 https://www.youtube.com/watch?v=OX3DLl_3FkU 
 Dissertation 
 Political - All reviewers comes with vanish points 
+![[Screenshot from 2026-03-11 09-20-54.png]]
