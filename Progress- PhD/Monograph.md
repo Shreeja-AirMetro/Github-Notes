@@ -409,3 +409,8 @@ Validation - what
 
 ----
 Faulty tree analysis of the multi-link 
+
+
+https://www.youtube.com/watch?v=OX3DLl_3FkU 
+Dissertation 
+Political - All reviewers comes with vanish points 
