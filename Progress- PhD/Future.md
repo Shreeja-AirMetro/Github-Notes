@@ -5123,3 +5123,8 @@ Q1 2028 is the critical window for electronics and uncrewed systems, starting wi
     
 
 **Would you like me to research specific satellite or defense-focused events for 2028 that cover the "Communications" and "Drone" overlap in more detail?**
+
+----
+
+
+// Proximity to capital is not accidental it is earned
