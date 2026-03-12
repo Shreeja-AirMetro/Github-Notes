@@ -415,3 +415,5 @@ https://www.youtube.com/watch?v=OX3DLl_3FkU
 Dissertation 
 Political - All reviewers comes with vanish points 
 ![[Screenshot from 2026-03-11 09-20-54.png]]
+
+Bring novelty in presentation - what is possible now that was impossible before 
