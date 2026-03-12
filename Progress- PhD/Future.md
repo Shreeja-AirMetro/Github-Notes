@@ -5139,3 +5139,9 @@ regulatory board - policy alignment
 soverign wealth funds
 
 work on level of synthesis - that brings forsight
+off shore FPV
+
+understand the structure before it speaks 
+orientation - permant read of environment 
+Its never about the money - its about the architecture 
+
