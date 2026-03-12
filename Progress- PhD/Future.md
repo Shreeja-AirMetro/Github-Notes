@@ -5128,3 +5128,8 @@ Q1 2028 is the critical window for electronics and uncrewed systems, starting wi
 
 
 // Proximity to capital is not accidental it is earned
+deals are about leverage, timing and network
+p and L
+Moral gray - compromise 
+level brings access  - leverage structure 
+
