@@ -422,3 +422,4 @@ support claim  - don't sound defensive or emotional
 time is important 
 
 
+Are machinese always efficient? I saw a worker using blower by to clean the mud, and leaves and push it down the roof. The device is heavy, and he muc
