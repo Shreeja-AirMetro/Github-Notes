@@ -5132,4 +5132,10 @@ deals are about leverage, timing and network
 p and L
 Moral gray - compromise 
 level brings access  - leverage structure 
+deploying captital 
 
+Language is insulation 
+regulatory board - policy alignment 
+soverign wealth funds
+
+work on level of synthesis - that brings forsight
