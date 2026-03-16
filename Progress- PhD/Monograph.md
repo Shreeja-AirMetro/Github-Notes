@@ -531,3 +531,9 @@ The point where the project _can_ be treated as independent is when it achieves 
 > **Crucial Difference:** In a sandbox, you are outside the fence. In this AAM setup, you are **inside the fence**, tethered to a legacy "safety anchor" until you prove your new technology can hold the weight of the sky on its own.
 
 **Would you like me to look into the specific EASA SC-VTOL or FAA Power-Lift certification paths to see how they "trail" from existing Part 23/27 regulations?**
+
+
+---
+
+
+**Brownfield development** is a term commonly used in the [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") industry to describe problem spaces needing the development and deployment of new [software](https://en.wikipedia.org/wiki/Software "Software") systems in the immediate presence of existing (legacy) software applications/systems. The term was introduced in 2008 by Hopkins and Jenkins.[[1]](https://en.wikipedia.org/wiki/Brownfield_\(software_development\)#cite_note-1) This implies that any new [software architecture](https://en.wikipedia.org/wiki/Software_architecture "Software architecture") must take into account and coexist with live software already [in situ](https://en.wikipedia.org/wiki/In_situ).
