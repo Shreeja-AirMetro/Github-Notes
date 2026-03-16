@@ -423,3 +423,9 @@ time is important
 
 
 Are machines always efficient? I saw a worker using blower by to clean the mud, and leaves and push it down the roof. The device is heavy, and he must use his legs sometime to push, I wonder why a shovel wasn't used?
+
+
+![[260225_TUD_Self-Assessment Report_2025_ohne Annex.pdf]]
+
+
+Idea for the plots and connects 
