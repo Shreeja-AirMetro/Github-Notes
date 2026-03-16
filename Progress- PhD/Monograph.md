@@ -537,3 +537,5 @@ The point where the project _can_ be treated as independent is when it achieves 
 
 
 **Brownfield development** is a term commonly used in the [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") industry to describe problem spaces needing the development and deployment of new [software](https://en.wikipedia.org/wiki/Software "Software") systems in the immediate presence of existing (legacy) software applications/systems. The term was introduced in 2008 by Hopkins and Jenkins.[[1]](https://en.wikipedia.org/wiki/Brownfield_\(software_development\)#cite_note-1) This implies that any new [software architecture](https://en.wikipedia.org/wiki/Software_architecture "Software architecture") must take into account and coexist with live software already [in situ](https://en.wikipedia.org/wiki/In_situ).
+![[Pasted image 20260316153727.png]]
+
