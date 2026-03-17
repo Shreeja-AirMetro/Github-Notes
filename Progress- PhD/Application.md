@@ -76,7 +76,7 @@ Fettweis
 
 
 ---
-
+Summer 2026 https://wwwdek.inf.tu-dresden.de/grist/module-table-inf25/
 Comnet 2 + traffic theory - 7
 comnet 1 -+ ICT - 7
 Prof. Dr. Christoph Sommer
