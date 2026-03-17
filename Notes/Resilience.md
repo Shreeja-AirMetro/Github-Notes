@@ -314,11 +314,17 @@ appropriate level of performance to provide
 services when needed to meet NAS resiliency
 goals?
 ![[Screenshot from 2026-03-17 15-28-17.png]]
+
 ---
+
 
 Aviation Safety Regulations versus CNS/ATM Systems and
 Functionalities
 Adeyinka Olumuyiwa Osunwusi
 National Open University of Nigeria, aosunwusi@yahoo.com
 
+---
+
+State of the art of unmanned aircraft transport systems in industry related to risks,
+vulnerabilities and improvement of safety
 
