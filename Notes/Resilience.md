@@ -313,3 +313,12 @@ have a sufficient functional architecture and
 appropriate level of performance to provide
 services when needed to meet NAS resiliency
 goals?
+![[Screenshot from 2026-03-17 15-28-17.png]]
+---
+
+Aviation Safety Regulations versus CNS/ATM Systems and
+Functionalities
+Adeyinka Olumuyiwa Osunwusi
+National Open University of Nigeria, aosunwusi@yahoo.com
+
+
