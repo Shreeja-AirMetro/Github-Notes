@@ -79,3 +79,6 @@ Fettweis
 
 Comnet 2 + traffic theory - 7
 comnet 1 -+ ICT - 7
+Prof. Dr. Christoph Sommer
+	Vehicular Networking - INF-25-Ma-FCP-C2X  - 6
+	Cooperative Mobile Systems - INF-25-Ma-FCP-CMS - 6
