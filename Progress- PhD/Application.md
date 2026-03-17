@@ -72,4 +72,9 @@ https://www.verw.tu-dresden.de/AmtBek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf
 Fettweis
 - Vertiefung Mobile Nachrichtensysteme - 7   - Winter
 - Grundlagen Mobiler Nachrichtensysteme -  SUmmer - 7
-- 
+
+
+
+---
+
+Comnet 2 + traffic theory - 7
