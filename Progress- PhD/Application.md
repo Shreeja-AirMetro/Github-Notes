@@ -78,3 +78,4 @@ Fettweis
 ---
 
 Comnet 2 + traffic theory - 7
+comnet 1 -+ ICT - 7
