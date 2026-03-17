@@ -539,3 +539,26 @@ The point where the project _can_ be treated as independent is when it achieves 
 **Brownfield development** is a term commonly used in the [information technology](https://en.wikipedia.org/wiki/Information_technology "Information technology") industry to describe problem spaces needing the development and deployment of new [software](https://en.wikipedia.org/wiki/Software "Software") systems in the immediate presence of existing (legacy) software applications/systems. The term was introduced in 2008 by Hopkins and Jenkins.[[1]](https://en.wikipedia.org/wiki/Brownfield_\(software_development\)#cite_note-1) This implies that any new [software architecture](https://en.wikipedia.org/wiki/Software_architecture "Software architecture") must take into account and coexist with live software already [in situ](https://en.wikipedia.org/wiki/In_situ).
 ![[Pasted image 20260316153727.png]]
 
+---
+
+// Space Weather and Low‐Altitude Drone Economy
+
+Reliable communication is fundamental to UAV operations, enabling command and control (C2), telemetry
+transmission, and data exchange between UAVs and ground stations (Javaid et al., 2023). UAV networks typi-
+cally combine cellular (4G, 5G, and 5G‐Advanced) (Zhang et al., 2025), satellite links for beyond‐visual‐line‐of‐
+sight missions (Sodha & Kumar, 2024), and VHF links for short‐range operations (Kabashkin et al., 2025).
+However, space weather can disrupt these channels through multiple mechanisms. Solar radio bursts cause
+broadband interference across VHF, UHF, L‐band, and satellite communication (SATCOM) frequencies, leading
+to signal loss (Buzulukova & Tsurutani, 2022; Gary & Bastian, 2021; McKee et al., 2023). Space weather events
+can trigger geomagnetic storms, generate prompt penetration electric fields (PPEFs), and cause associated dis-
+turbances in the ionosphere (Chen et al., 2025; Tsurutani et al., 2008), potentially causing signal delay, phase
+scintillation, and fading in SATCOM links (Miteva et al., 2023). In March 2002, equatorial plasma bubbles were
+implicated as a potential cause of UHF SATCOM disruptions during the U.S. military's Operation Anaconda
+(Kelly et al., 2014). Additionally, SEP events can increase ionospheric absorption, weakening high‐frequency
+components of 5G and satellite signals (Fiori et al., 2022). As UAVs rely on real‐time telemetry and control,
+such communication degradations can delay command execution, degrade link stability, or trigger autonomous
+fallback modes. Furthermore, some cellular systems rely on GNSS‐derived timing, meaning that GNSS signal
+loss or degradation could introduce additional communication risks for UAV operations, highlighting an
+important intersection between ionospheric and navigation‐related vulnerabilities. 
+
+---
