@@ -496,3 +496,6 @@ hardware components and accountability of actions (i.e. register of issued actio
 commands). These requirements have identified
 the need for a broader eco-system approach in developing the infrastructure and service
 environment of drones, as described by Johnsen et al. (2017).
+
+https://www.airbus.com/en/newsroom/stories/2023-02-safety-innovation-7-flight-envelope-protection
+https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/performance-envelopes/
