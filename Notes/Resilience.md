@@ -502,3 +502,7 @@ https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/perform
 
 https://ntrs.nasa.gov/api/citations/20205006661/downloads/UAM%20CNS%20Final%20Report%2080GRC019D0017%20with%20App%20A%20B%20C%20v2.pdf
 https://www.taylorfrancis.com/reader/read-online/7191fe11-6e58-4e59-8e27-30131fb9702e/book/epub?context=ubx
+
+https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/maneuvers-gusts/
+
+https://www.mdpi.com/2218-6581/10/3/97 
