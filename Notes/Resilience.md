@@ -499,3 +499,6 @@ environment of drones, as described by Johnsen et al. (2017).
 
 https://www.airbus.com/en/newsroom/stories/2023-02-safety-innovation-7-flight-envelope-protection
 https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/performance-envelopes/
+
+https://ntrs.nasa.gov/api/citations/20205006661/downloads/UAM%20CNS%20Final%20Report%2080GRC019D0017%20with%20App%20A%20B%20C%20v2.pdf
+https://www.taylorfrancis.com/reader/read-online/7191fe11-6e58-4e59-8e27-30131fb9702e/book/epub?context=ubx
