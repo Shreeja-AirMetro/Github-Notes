@@ -485,21 +485,14 @@ the video streams used to navigate the UAS.
 • Steal user data (pictures, streaming video, communication link) and related privacy issues – taking unauthorized video or pictures These vulnerabilities are due to several issues,
 such as lack of authentication (of the operator and devices), poor/ no encryption of communication, poor password protection. These issues can be
 mitigated as described in Valente (2017) by securing drone access by strong passwords in user
-authentication; limiting devices allowed to
-connect (i.e. enforce authentication); disabling
-services with poor security (Telnet, FTP);
-encrypting communication, certify software
+authentication; limiting devices allowed to connect (i.e. enforce authentication); disabling
+services with poor security (Telnet, FTP); encrypting communication, certify software
 dependent on risk levels and continuously
 upgrade software in use. A similar set of security
-requirements are suggested by Altawy et. al.
-(2016), i.e. only authorized access; specification
+requirements are suggested by Altawy et. al. (2016), i.e. only authorized access; specification
 of availability in operations; information
-confidentiality and integrity; system integrity i.e.
-ability to guarantee authenticity of software and
-hardware components and accountability of
-actions (i.e. register of issued actions/
+confidentiality and integrity; system integrity i.e. ability to guarantee authenticity of software and
+hardware components and accountability of actions (i.e. register of issued actions/
 commands). These requirements have identified
-the need for a broader eco-system approach in
-developing the infrastructure and service
-environment of drones, as described by Johnsen
-et al. (2017).
+the need for a broader eco-system approach in developing the infrastructure and service
+environment of drones, as described by Johnsen et al. (2017).
