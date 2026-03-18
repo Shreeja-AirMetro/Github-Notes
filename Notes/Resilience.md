@@ -471,3 +471,35 @@ Would you like me to dive deeper into the specific **EASA Special Conditions (SC
 
 ---
 
+on safety-oriented research to improve MTBF such as reliability of the power system and necessary research and requirements in relation to ground control
+systems.
+
+Threat Model - communication links to the environment and the ground control systems). 
+The capabilities of the adversary can be graded from low, medium to high (Altawy et al. 2016).
+Low is the ability to disclose information (getting access to communication or data stored in
+unencrypted form). Medium is the ability to be authenticated by the UAS system and gaining
+access to on-board data. High is the ability to control or disrupt the regular operation.
+Security  , privacy issues 
+• Loss of communication - Lock-out owner of the drone from connecting; or manipulating
+the video streams used to navigate the UAS.
+• Steal user data (pictures, streaming video, communication link) and related privacy issues – taking unauthorized video or pictures These vulnerabilities are due to several issues,
+such as lack of authentication (of the operator and devices), poor/ no encryption of communication, poor password protection. These issues can be
+mitigated as described in Valente (2017) by securing drone access by strong passwords in user
+authentication; limiting devices allowed to
+connect (i.e. enforce authentication); disabling
+services with poor security (Telnet, FTP);
+encrypting communication, certify software
+dependent on risk levels and continuously
+upgrade software in use. A similar set of security
+requirements are suggested by Altawy et. al.
+(2016), i.e. only authorized access; specification
+of availability in operations; information
+confidentiality and integrity; system integrity i.e.
+ability to guarantee authenticity of software and
+hardware components and accountability of
+actions (i.e. register of issued actions/
+commands). These requirements have identified
+the need for a broader eco-system approach in
+developing the infrastructure and service
+environment of drones, as described by Johnsen
+et al. (2017).
