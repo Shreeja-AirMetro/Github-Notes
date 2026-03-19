@@ -597,3 +597,6 @@ In OMNeT++/Simu5G, there is a critical distinction between **Units**:
     
 
 In **Code 1**, the NTN model (`nrChannelModel[1]`) used `ue_noise_figure = 0 dBm`. This is technically a syntax/logic error in the original code (mixing power units with ratio units). For a high-performance UAV NTN terminal, you should use: `*.uavs[*].cellularNic.nrChannelModel[1].ue_noise_figure = 5dB` (or 7dB to match the TN side).
+
+
+State of Art : https://github.com/EFontesP90/LLSim5G 
