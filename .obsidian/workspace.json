@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper-Writing/EW - 2026.md",
+                "file": "TODOS/mar 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EW - 2026"
+              "title": "mar 2026"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "bb2aae79c0ee15a2",
   "lastOpenFiles": [
-    "Notes/UTM- Data Mesh.md",
     "Paper-Writing/EW - 2026.md",
+    "Notes/UTM- Data Mesh.md",
     "Federated Multiaccess Edge Computing Architecture for Scalable and Secure U-Space - Final (1).pdf",
     "TODOS/mar 2026.md",
     "Notes/Omnet++ Simulator.md",
