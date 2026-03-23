@@ -15,4 +15,7 @@ Meeting with LyuQiao
 
 # Potential Methods - 1
 
-1. Directly use 
+1. Directly use Veins Leon 
+	- Veins-Leon is used for  Cars with Veins-Sumo Integration 
+	- Alter the speed and Add Z axis 
+	- DID NOT WORK - the Z-Axis mobility was not considered by the 
