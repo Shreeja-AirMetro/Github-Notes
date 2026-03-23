@@ -33,3 +33,7 @@ Meeting with LyuQiao
 ---
 
 # Method - 3
+
+3. INET 3D Spatial Mobility 
+	 - Remove the dependency of UE on Veins-SUMO 
+	 - Use the INET only superimposed mobility 
