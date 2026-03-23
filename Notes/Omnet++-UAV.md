@@ -45,3 +45,6 @@ Q: What all framework/code to be mindful
 # Outlook 
 
 1. What other possibility 
+To do: 
+Try 1, 3 methods
+Get the error and debug tre
