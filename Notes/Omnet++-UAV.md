@@ -37,3 +37,11 @@ Meeting with LyuQiao
 3. INET 3D Spatial Mobility 
 	 - Remove the dependency of UE on Veins-SUMO 
 	 - Use the INET only superimposed mobility 
+Q: What all framework/code to be mindful 
+
+
+---
+
+# Outlook 
+
+1. What other possibility 
