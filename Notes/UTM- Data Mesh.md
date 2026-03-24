@@ -2413,3 +2413,54 @@ Defense:
 The hong kong Polytechnic University - https://www.polyu.edu.hk/rclae/research/research-directions/ 
 
 
+LOOK AT THESE PAPERS AND RESULTS 
+
+The state-of-the-art for application migration in 5G/6G MEC environments focuses on shifting from **reactive** to **predictive** and **proactive** strategies to eliminate the performance "dips" during high-speed UAS or vehicular mobility.
+
+### 1. Predictive and AI-Driven Migration
+
+Modern frameworks utilize **Deep Reinforcement Learning (DRL)** and **Long Short-Term Memory (LSTM)** networks to predict a drone's trajectory and trigger "pre-emptive" migrations. Instead of waiting for a signal drop, the system initiates the container transfer to the target MEC node _before_ the handover occurs.
+
+- **CATS-MUP (Computing-Aware Traffic Steering):** A cutting-edge 6G framework that coordinates session-modification and uses an **SRv6-based buffering mechanism** to preserve continuity for segmented services, preventing packet loss during subtask migration \cite{1.4}.
+    
+- **DRACM (Deep Recurrent Actor-Critic Migration):** This algorithm uses LSTMs to extract hidden mobility patterns from past observations, allowing for near-optimal migration timing even in partially observable network states \cite{5.3}.
+    
+
+### 2. State Management and Synchronization
+
+To maintain "session continuity," the system must move the **application state** (the temporary data the drone was processing).
+
+- **Stateful Segmentation:** Instead of migrating a massive monolithic application, researchers are moving toward **Service Segmentation**. Only the critical "stateful" subtasks are migrated, while stateless functions are re-instantiated locally, significantly reducing the migration latency (often by 50% compared to traditional methods) \cite{1.3, 1.4}.
+    
+- **Digital Twins for Information Continuity:** Some 2024-2025 schemes use **Digital Twins** at the edge to map real-time traffic scenarios, ensuring that even if a physical link is momentarily interrupted, the "virtual" state remains synchronized across the MEC federator \cite{1.3}.
+    
+
+### 3. MEC Federation and Cross-Domain Continuity (ETSI MEC 040)
+
+The most recent standards (2025-2026) focus on **MEC Federation**, which is essential when a drone flies across areas covered by different operators (e.g., from a Vodafone 5G cell to a Deutsche Telekom cell).
+
+- **MEC Federator (MEF):** As defined in **ETSI GS MEC 040**, the Federator acts as a "broker" that manages registration and discovery across different administrative domains \cite{3.1, 3.4}.
+    
+- **Metrics Forwarder:** This component allows real-time policy-driven orchestration, ensuring that the "Quality of Service" (QoS) stays consistent even as the service moves across different provider infrastructures \cite{3.1}.
+    
+
+### 4. Age of Information (AoI) Aware Migration
+
+For UAS tactical deconfliction, the _freshness_ of data is more important than pure speed.
+
+- **AoI-aware Trajectory Planning:** New research (2025) optimizes the drone’s flight path _relative_ to the MEC migration schedule. The goal is to minimize the **Age of Information (AoI)**, ensuring that the conflict-resolution logic always operates on the most current telemetry, even during a host transition \cite{4.1, 4.4}.
+    
+
+### Summary Table: Migration State-of-the-Art (2024-2026)
+
+|**Migration Strategy**|**Technology Used**|**Best For**|**Key Advantage**|
+|---|---|---|---|
+|**Reactive**|Standard Handover|Non-critical apps|Simple, low overhead|
+|**Proactive (LSTM)**|Trajectory Prediction|**High-speed UAS**|Eliminates handover delay|
+|**Segmented**|Cloud-Native Microservices|**Stateful UTM Services**|Minimal data transfer volume|
+|**Federated (MEC 040)**|MEC Federator / Broker|**Cross-border / Multi-MNO**|Multi-operator interoperability|
+|**AoI-Optimized**|DRL / GNNs|**Tactical Deconfliction**|Guarantees data freshness|
+
+**Refinement for your paper:** You can use these points to justify why your "Data Mesh" approach is superior—while these migration strategies solve the _movement_ of data, your Data Mesh solves the _ownership and sovereignty_ of that data as it moves between different USSP domains at the edge.
+
+Furthermore, the placement of UTM functions—whether USSP-centric or CISP-centric—directly dictates the "Age of Information" (AoI), a metric increasingly used to evaluate the freshness of telemetry data in dynamic 5G/6G environments \cite{paper71, 30}.
