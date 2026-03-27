@@ -219,3 +219,4 @@ Public defense 30 mins
 - Part 3 - Selected results 
 READ STEFAN SENK THESIS
 Wireless system - fading
+H of information - instead of latency
