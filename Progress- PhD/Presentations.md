@@ -216,3 +216,4 @@ Public defense 30 mins
 	- Time aware shaper 
 - Part 2- Methodology - Build and conducting measurements 
 	- Build the use-case 
+- Part 3 - Selected results 
