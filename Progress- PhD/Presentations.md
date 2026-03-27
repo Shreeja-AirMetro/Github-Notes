@@ -204,3 +204,13 @@ Open Foam  - more case studies
 
 
 - 3D urban model 
+
+----
+Ideas from Stefan senk talk 
+
+Public defense 30 mins 
+- Part 1 - Investigation 
+	- Literature 
+	- Metrics 
+	- Packet delay variations PDV 
+	- Time aware shaper 
