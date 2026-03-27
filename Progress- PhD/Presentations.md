@@ -214,3 +214,5 @@ Public defense 30 mins
 	- Metrics 
 	- Packet delay variations PDV 
 	- Time aware shaper 
+- Part 2- Methodology - Build and conducting measurements 
+	- Build the use-case 
