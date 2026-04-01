@@ -169,9 +169,19 @@ liscenese from earlier patent holder to put out your patents
 Can patent be extended if licensed ?
 National rules 
 
-You  can protect legally original ideas by registering the
+You  can protect legally original ideas by registering them 
+
+Protection for any work in its fixed form (EU - BERN convention )
+US states - Copyright - to sue 
+Protectability of ideas - not done 
+
+Copyright -
+Dan brown only took ideas - ideas as ideas are not protectable 
+Copyright protects original work in fixed form 
+![[Screenshot from 2026-04-01 17-11-00.png]]
 
 
+Open-source IP
 
 
 ---
