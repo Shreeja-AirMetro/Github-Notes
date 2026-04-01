@@ -182,6 +182,7 @@ Copyright protects original work in fixed form
 
 
 Open-source IP
+Economic ad Moral rights 
 
 
 ---
