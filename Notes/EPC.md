@@ -110,8 +110,16 @@ Ingrita lecture - module 1
 - scale and functioning of IPR 
 - system 
 - Harald Haas European Inventor  - LiFi 
-- "motivated by thrill of creati"
-
+- "motivated by thrill of creation"
+- Buckets of players Investors and competitors 
+- Inventors - invent 
+- Competitors - benefit from efforts - heavy pressure may drive innovator out
+- IPR system  to balance this 
+-  IP - creations of mind 
+- IPR - Intellectual property rights - patents, tradmarks 
+- Nature of IP system - 3 aspects - Tangible, financial assets , IPR system - creator to control to involve who
+- IP limited in territory , time 
+- 
 
 
 
