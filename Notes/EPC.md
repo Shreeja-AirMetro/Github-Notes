@@ -75,3 +75,15 @@ This illustrates well how patents and trade secrets can operate in a complementa
 ---
 
 Moral rights generally remain with the author, while economic rights may be transferred and are exercised by the copyright owner. However, this depends on the jurisdiction: not all legal systems fully recognize moral rights. For instance, the United States does not provide a general regime of moral rights, although limited protection exists for certain works (works of visual art).
+
+---
+
+- Lundblad, Sebastian. "New Format for the Shower of the Future." (2016).
+- Hijosa, C. A. A. (2014). Piñatex, the design development of a new sustainable material (Order No. 10079693).
+- Matsuura, Jeffrey H. "An Overview of Intellectual Property and Intangible Asset Valuation Models." Research Management Review 14.1 (2004): 33-42.
+- WIPO Academy course: Intellectual Property Management, Module 2
+
+
+----
+
+First letcure April 1st 
