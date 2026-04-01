@@ -105,7 +105,12 @@ End of module quiz - complete all module
 
 2000 students 
 
+Ingrita lecture - module 1 
 
+- scale and functioning of IPR 
+- system 
+- Harald Haas European Inventor  - LiFi 
+- "motivated by thrill of creati"
 
 
 
