@@ -164,6 +164,14 @@ Patent is negative rights -
 liscenese from earlier patent holder to put out your patents 
 
 
+![[Screenshot from 2026-04-01 17-02-59.png]]
+
+Can patent be extended if licensed ?
+National rules 
+
+You  can protect legally original ideas by registering the
+
+
 
 
 ---
