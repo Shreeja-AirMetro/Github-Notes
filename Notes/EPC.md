@@ -184,5 +184,10 @@ Copyright protects original work in fixed form
 Open-source IP
 Economic ad Moral rights 
 
+the invention need not be perfect for it to start with patent process
+![[Screenshot from 2026-04-01 17-18-43.png]]
+
+![[Screenshot from 2026-04-01 17-21-42.png]]
+
 
 ---
