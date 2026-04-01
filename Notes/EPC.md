@@ -131,6 +131,16 @@ Ingrita lecture - module 1
 - Researchers are eager to shine 
 - University Tech transfer office 
 
+When a computer or a robot in the near future generates an idea or an invention, to whom will the intellectual property rights belong? To the owner of the machine? To the public domain (physical or intellectual)? To the company that manufactured the machine? Or to the individual who holds the rights to the algorithm used? - YET TO SOLVE 
+
+Hardware, software , algorithm have different rules 
+
+Smart watch 
+Trademarks 
+Copyriths - software, tones, images, apps 
+Patent and utility models - data processing methods, operating system and operation of user interface 
+trade scecrts 
+
 
 
 
