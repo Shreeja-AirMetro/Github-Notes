@@ -21,4 +21,11 @@ Module 1 provides an **introduction to intellectual property rights (IPRs)**, w
 IPR Types
 Patent - grant 20 year - new and inventive 
 2- utility model - shorter term - easier registration - conuntry based 
-trade se
+trade secret - not registered , not public, kept confidential (coke recipe)
+trade mark - origin of goods , word, sound, logo, color - indefinite available
+Design right - protect the outward appearance of the product - not tech function - new and diff - upto 25 years
+
+Industrial property right 
+
+Copyright is different - other of original founder sue / protect others from using (registered IPs) - available once any registration 
+
