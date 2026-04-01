@@ -97,3 +97,15 @@ Pratheeba vimalnath
 Ingrida Karina Berzina , IP litigator 
 Prof Laurent Manderieux
 Oana Boncea, private law office 
+
+
+Full module content 
+End of module quiz - complete all module 
+80%  quiz - any no of times
+
+
+
+
+
+
+---
