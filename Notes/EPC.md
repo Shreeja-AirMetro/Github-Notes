@@ -149,11 +149,16 @@ Highest hurdle, most money, time to get Patent
 
 50-60% for patent , for trademark its higher 
 
-All patents start out as trade scetrs , 
+All patents start out as trade sce, 
 Its about time - where we start 
 
+Does Patent provide IP worldwide 
+
+Technical soliution - Patent 
 
 
+![[Screenshot from 2026-04-01 16-53-45.png]]
+Patent cannot be renewed 
 
 
 
