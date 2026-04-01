@@ -88,4 +88,7 @@ Moral rights generally remain with the author, while economic rights may be tran
 
 First lecture April 1st 
 
+31 member states - 150 university 
 
+6th cohort 
+Foundational knowledge about IPR 
