@@ -54,4 +54,5 @@ Get the error and debug tree - update and discuss with lyuqiao
 Last meeting fro Lyuqiao 
 
 Points to test 
-1.- Do veins mobility have drone  - from Veins INET - extend teh 
+1.- Do veins mobility have drone  - from Veins INET - extend the x, y, z - rou file 
+2. Work with INET model
