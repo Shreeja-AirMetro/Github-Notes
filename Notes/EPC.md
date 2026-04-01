@@ -141,6 +141,20 @@ Copyriths - software, tones, images, apps
 Patent and utility models - data processing methods, operating system and operation of user interface 
 trade scecrts 
 
+patents - king of IP - centric 
+
+Product - captial 
+
+Highest hurdle, most money, time to get Patent 
+
+50-60% for patent , for trademark its higher 
+
+All patents start out as trade scetrs , 
+Its about time - where we start 
+
+
+
+
 
 
 
