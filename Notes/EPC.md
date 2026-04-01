@@ -160,6 +160,9 @@ Technical soliution - Patent
 ![[Screenshot from 2026-04-01 16-53-45.png]]
 Patent cannot be renewed 
 
+Patent is negative rights - 
+liscenese from earlier patent holder to put out your patents 
+
 
 
 
