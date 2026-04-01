@@ -86,4 +86,4 @@ Moral rights generally remain with the author, while economic rights may be tran
 
 ----
 
-First letcure April 1st 
+First lecture April 1st 
