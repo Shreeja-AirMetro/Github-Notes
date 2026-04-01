@@ -59,3 +59,19 @@ Ana María
 
 
 ---
+
+The symbol you mention (an “E” in a circle) is not a standard or widely recognised intellectual property symbol like ©, ® or ™. It may relate to a specific context, certification, or marking used in a particular sector or jurisdiction.
+It is at the copyright section of Orbital Systems' IP strategy, lesson 6 of 15, showing an example of the user manual, but looking at again I realize that it is an Euro sign not a 'E' and it's not suroundid by any circle.
+
+
+---
+Yes — your understanding is correct, and you are identifying an important practical aspect of how patents and trade secrets interact.  
+Once the patent expires (after 20 years), the patented product falls into the public domain. This means that third parties are, in principle, free to manufacture the filters.  
+As regards the production method, if it has not been patented but instead kept as a trade secret, third parties are also free to use that method — but only if they arrive at it through legitimate means. In other words, they may develop it independently or obtain it through reverse engineering (where this is technically possible), but they may not rely on unlawful or unfair means to access that know-how.  
+The key point, as you rightly note, is practical: if the method has not been disclosed and cannot be readily reverse engineered, competitors may face significant difficulties in reproducing the product in practice.  
+In that sense, while the patent protection has formally expired, the lack of disclosure of the production method may result in a continued de facto competitive advantage, as long as the underlying know-how remains undisclosed.  
+This illustrates well how patents and trade secrets can operate in a complementary manner in practice.
+
+---
+
+Moral rights generally remain with the author, while economic rights may be transferred and are exercised by the copyright owner. However, this depends on the jurisdiction: not all legal systems fully recognize moral rights. For instance, the United States does not provide a general regime of moral rights, although limited protection exists for certain works (works of visual art).
