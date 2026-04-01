@@ -28,4 +28,34 @@ Design right - protect the outward appearance of the product - not tech function
 Industrial property right 
 
 Copyright is different - other of original founder sue / protect others from using (registered IPs) - available once any registration 
+7  - Others geographical indications, plant varieties, semiconductor topographies , domain names, database 
+each type for each type of creativity 
+IP triangular stratergy - Protect, sell and enforce legally
 
+
+Q and A 
+The "Concepts to Study" section mentions the "**_Right to Priority_**", which I understand allows an applicant to rely on the _filing date_ of a first application when filing in another jurisdiction within 12 months (for patents particularly). However, I was wondering what objectively constitutes "_the same invention_" when claiming priority?   
+  
+In practice, how do patent offices, like the EPO, assess whether a later application is entitled to priority, particularly in cases where say, additional data or minor modifications may have been introduced?  
+  
+_Example:_ **First filing** in say India: Drug Compound A is introduced with certain benefits.  
+               **Second filing** in say Germany: Drug Compound A + a supporting compound added which acts as a  "_stabilizer_" to Compound A, but overall the product provides the same benefit as reported in the first application filing. Would this be considered the "same invention" for priority purposes, and granted the Right?
+Great question — this comes up quite often in practice.  
+  
+At the EPO, the approach is actually quite strict. For priority to be valid, the subject-matter in the later application must be directly and unambiguously derivable from the first filing.  
+  
+In practical terms, this means you can rely on priority for what was already disclosed, but not for new elements or combinations that were not clearly there from the beginning.  
+  
+In your example, if the first filing only discloses Compound A, and the second one adds a stabilizer, I would say that this combination would normally not benefit from priority — unless that stabilizer (or the combination) was already mentioned in the first application. So that part would get the later filing date.  
+  
+At the same time, claims directed just to Compound A could still benefit from priority.  
+  
+As for additional data, that is usually fine if it only supports what was already disclosed and does not add new subject-matter.  
+  
+So overall, it’s less about whether the invention is similar or has the same effect, and more about what was actually disclosed in the first filing.  
+  
+Best,  
+Ana María
+
+
+---
