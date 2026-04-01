@@ -119,6 +119,11 @@ Ingrita lecture - module 1
 - IPR - Intellectual property rights - patents, tradmarks 
 - Nature of IP system - 3 aspects - Tangible, financial assets , IPR system - creator to control to involve who
 - IP limited in territory , time 
+- often ppl patent more than one country 
+- Rights and life cycle of the products are not same 
+- WIPO 
+- IP intense industry 50% of GDP 
+- When invention kept confidential 
 - 
 
 
