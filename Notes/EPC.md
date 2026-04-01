@@ -92,3 +92,8 @@ First lecture April 1st
 
 6th cohort 
 Foundational knowledge about IPR 
+
+Pratheeba vimalnath 
+Ingrida Karina Berzina , IP litigator 
+Prof Laurent Manderieux
+Oana Boncea, private law office 
