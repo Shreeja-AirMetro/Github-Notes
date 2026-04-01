@@ -124,7 +124,12 @@ Ingrita lecture - module 1
 - WIPO 
 - IP intense industry 50% of GDP 
 - When invention kept confidential 
-- 
+-  conf  - conflidentiallity  - Kept close until data of filing 
+- IP is investment 
+- procecute 
+- Confidentiality is key - permits to obtain 
+- Researchers are eager to shine 
+- University Tech transfer office 
 
 
 
