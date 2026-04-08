@@ -2477,3 +2477,7 @@ A distributed [cloud](https://www.sdxcentral.com/cloud/definitions/what-is-clou
 - Inter- UAV / BVLOS network and intra USSP network within the actual big network
 - <span style="color:rgb(255, 0, 0)">So how to ensure redundancy and reliability</span> 
 obsidian://open?vault=Notes&file=Notes%2FICN.pdf 
+
+---
+
+
