@@ -138,3 +138,116 @@ mnet++ Air - NTN simulator
 
 Check notes
 Not using online since 24thfeb 2026 - Think on paper
+
+---
+
+# N2
+
+This is about creating a report about the funnel method research questions and state of art complete 
+
+### What is done
+- Have unorganized state of art 
+- have 4 Hypothesis 
+- Rough implementation actions
+
+### What to do 
+- Read and organize the SOA for hypothesis 1 to 4 
+- Write done what methods are done what you aim to do 
+- What is your base line test - show in simulation 
+- What is implementation steps and strategies for the actual implementation with flight test data 
+
+### Goal
+- presentation at klagenfurt 
+- Fix the research hypothesis
+
+
+### Random 
+
+- We have A2 A and A2G link known - are there standards? how this link orerate ? can there be a set of rules 
+- Guess - compare consequences - Compare to observations 
+
+
+13/1 
+How to back my hypothesis 
+- [x] Sort the mendeley - add bibtext in to phd folder latex
+- [ ] then structure the related SOA info into each segment 
+- [ ] Then add the following points - What is the gap - What is done and what can I try / what QOS can it measure 
+
+---
+
+# N0
+
+This is document with regards to NTN and omnet++ simulator froma wholistic perspective 
+
+### What is done 
+ - Lyuqiao Integration ISL 
+ - Sumo 
+ - V2X scenario
+ - TN and NTN integrated via SUMO
+
+### Open Tasks 
+- Can TN only be in SUMO - or Another Omnet can be used 
+- UAV fly via SUMO can be integrated 
+- Without UAV fly how to solve this
+
+### Plan of Action 
+- Complete open tasks by end of Feb 2026
+# Meetings - Collaboration with Satwat
+
+- Presentation  - meeting 
+
+### End Goal 
+- Tutorials paper in April 2026 
+- Lyuqiao conf or workshop paper
+
+---- 
+Check notes
+Not using online since 24thfeb 2026 - Think on paper
+
+
+---
+
+# N1
+
+This is Collab with T2 part with Roshan - Taking the basic Physical link characteriestics to Channel characteristics to params - protocol 
+
+### What is done
+- A pipeline of the poa is established
+- A trial version of a and tau to channel data is tested 
+- The need of RIS and use case esp placement of facade is done
+
+### What to do 
+- Coding from PPV and LDPC- need establish 
+- protocol header level code to complete 
+- Create report 
+- Edit the paper with all params and have a version 
+Target: end of 15th feb 2026 - revisit later 
+
+### End goal 
+
+- 2 publication with Roshan 
+
+
+### IEEE TVT Journal 
+
+- Pages 1-12 
+- Page 1- 3 - Introduction Motivation, Abstract, Related works  - Table and contribution 
+- Page 4-5  General system model 
+- page 6-7.5 - Problem formulation - implementation
+- Page 8 - 9.5 - Results and analysis 
+- Page 10-11 Dicsussion, conclusion, Table of conclusion  Acknow 
+- Page 12 - References, Biographies
+
+1. Abstract , title 
+2. Introduction 
+3. Background
+4. System model 
+5. System model diagram 
+6. Problem formulation and diagram 
+7. Impelmetation and table 
+8. Results plots
+9. Analysis 
+
+
+Check notes
+Not using online since 24thfeb 2026 - Think on paper

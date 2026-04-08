@@ -341,3 +341,156 @@ Since you are the "Logical Link" person, your results should show **Spectral Eff
     
 
 - _This "Saturation Curve" is a great graph to include to prove 10 MHz is the optimal choice._
+
+
+----
+
+
+- RF - LOS
+
+- Fresnel Region - First 3 wichtig
+
+- V-polarized wave in 1st Fresnel region
+
+- Same phase of LOS wave and reflected wave → total stronger signal
+
+- Second Fresnel region - opp phase - Weak signal
+
+- V-polarized antenna systems - odd zones stronger signal and weak signals from even zones
+
+- Horizontally polarized antenna system - vice versa
+
+- Position and phase of antenna is important
+
+- RF signal reflect from all kinds of surfaces - lakes, buildings
+
+- Longer the distance - bigger the frensel zone - more reflective elements
+
+- Beamwidth (not coverage) angular width of main lobe -6/-3 db below the antenna gain
+
+- PTP links
+
+- Coverage prediction (Antenna pattern, Gain, Radio Output power)
+
+- Coverage calc incude Geography, map accuracy, down tilt, Tower height
+
+- pseudo color for RF visualization
+
+- Noise floor, Channel width - Plot MCS ISO Surfaces
+
+- MIMO - for deducing fading effects, throughput capacity and coverage, reliability of wireless link
+
+- Rate gain - improve resistance to noise , better coverage , multiple path - successful data transfer
+
+- multiple data streams in same frequency channel - more capacity
+
+- 2 distinct channel links via 2 different polarization (double capacity)
+
+- MU-MIMO - pre and post processing happens at Access point - nothing to do with CPE (Customer premises equipment). Therefore multiple independent CPE
+
+- System requirements - Channel state information (Sounding) - test data and response,
+
+- Client side synchronization (delay) - each signal for each CPE mainlobe
+
+- Array resolution (limit # CPE) - group CPE scheme - which antenna array serve at same time
+
+- MU-MIMO Data transfer CPE served at same time at same frequency
+
+- knowledge of signal Prorogation characteristics
+
+- QAM modulation - encode information into an RF wave
+
+- RF wave 3 main properties that is used to encode infos
+
+- Amplitude, Frequency, Phase
+
+- QAM - uses amplitude and phase
+
+- Data 0s, 1s (symbols) QAM modulator - RF carrier
+
+- Length of the signal - Depth of the QAM modulator
+
+01 - QPSK
+0001 - 16 QAM
+001011 - 64 QAM
+
+- Symbols → constellation diagram
+
+- Noise based, fluctuation of bit point error
+
+- less symbol distance - less noise tolerance
+
+- High MCS rate needs higher SNR levels
+
+- MCS rate (802.11 std) - QAM modulation, No of spatial channels, coding rate
+
+- Antenna - parameters - front to back (mainlobe) ratio
+
+- Sidelobe level
+
+- Beam efficiency - main lobe energy/total energy
+
+- beam efficiency - side lobe measures
+
+- beam efficiency - over whole antenna - freq specturm with both polarization
+
+![[RF1 1.png]]  
+
+![[RF2.png]]
+
+### RIS
+![[ICNS_2025___RIS.pdf]] 
+
+
+![[CNS summary for Abstract.pdf]]
+
+To do read the followin 8/5
+ - resource orchestration for positioning, navigation, and timing systems 
+ - https://scholar.google.com.vn/citations?user=-c8vaNEAAAAJ&hl=vi
+ - https://dl.acm.org/doi/10.1145/3614454.3623001
+
+---
+8/9 
+Meeting - presentation by Roshan 
+mm-Wave communication for AAM 
+- Controllable communication environment 
+- energy conserved 
+- companies have initial versions of RIS 
+- Low hardware, cost
+- Active and passive elements 
+- passive materials are like mirrors 
+- dynamic operation active
+- Model EM behavior for active materials for drone operations 
+- multi field factors, far field metrics 
+- electro magnetic  - micro meter - Heat - meter scale 
+- diffraction gratings work similar to active meta materials 
+- field - u0, ud - angle of incidence and reflection (known and unknown field )
+- all the effects of diffraction grating 
+- waves come from different angle - and compressed - shift in wavelength (as example)
+- homogenization - 
+- thermo electro magnetic coupling 
+- effects from thermal 
+- passive implementations 
+- radar cross-section of aeroplanes 
+
+--
+vahana
+depriciation - years? 
+indirect costs - opex 
+slide 9 - monetory costs 
+control station ?!?!?
+
+---
+Geometric optic tools ray tracing 
+any EM waves interaction create Near field and far field
+LAWN - far field 
+RIS is complicated - always calculate near field before calculate far field 
+
+far field model  - assumes less complexity 
+
+Required signal quality in geographical 
+near field to computation heavy
+Traditional RIS - antenna and relay devices - electroactive and polymer active materials (used in space application)
+computational mechanics to communication 
+
+---
