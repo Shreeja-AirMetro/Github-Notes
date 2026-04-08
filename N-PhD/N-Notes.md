@@ -1,3 +1,4 @@
+# N7
 Check notes
 Not using online since 24thfeb 2026 - Think on paperNetwork coding 
 ### Coding for High Reliability (The "Safety" Link)
@@ -70,4 +71,70 @@ In 1948, Claude Shannon repurposed the word to describe the "information content
 - **The Vibe:** How much "surprise" is in a line of code or a sentence.
     
 - **The Math:** $H(X) = -\sum_{i=1}^{n} P(x_i) \log P(x_i)$
-- 
+-
+
+
+---
+
+# N4
+
+Mesh HW
+A2A communication 
+
+- Can we demonstrate air to air comm  - wifi , and landing or drone with wifi node
+- What is protocol
+# What is done 
+
+- Hardware procured - comm established 
+# What to do 
+- Test the operation 
+- Tests mavlink protocol 
+- Work on protocol 
+- test setup  - idea and to do 
+
+# Goal 
+
+
+End of march - figure out the protocol and setup to do 
+
+Check notes
+Not using online since 24thfeb 2026 - Think on paper
+
+---
+
+# N3
+
+mnet++ Air - NTN simulator 
+
+## What is done 
+
+- The baseline to evaluating the methods are setup 
+- Tools are  put in place
+## What need to be done 
+
+- Finish the change in simulator and run a test 
+- V1 results 
+### Goal
+
+- This simulator servers as a baseline to test my methods and compare with realistic multipath 
+
+
+
+16/2
+- Check the sumo extention on Omnet++ simulator #
+- What is the UAV.py extention fit to the storyline 
+
+### Insights 
+ - We divide the implementation into 3 parts 
+ - 1-  use the UAV.py plugin  in sumo 
+	 -  Sumo is just a mobility model and simulator
+	 - The network aspects are not present as default  - we need VANET or something like VEINS to enable the network properties
+	 - Else the UAV in this plugin is a aerial sensing/ monitor and provide only drone location data with geo coordinates 
+ -  2- Use the same SUMO from LEON VEINS and use the UAV as UE with mobility model and test TN and NTN handover 
+	 - First to try - VEINS and LEON setup with SUMO - Use a UAV instead of car 
+	 - Change  the UAV node - ned file , python mobility bridge and the omnet++ config
+ -  3- Create a separate TN- UAV as UE and run the test 
+
+
+Check notes
+Not using online since 24thfeb 2026 - Think on paper
