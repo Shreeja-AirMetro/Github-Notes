@@ -91,9 +91,10 @@ Upgrade Mobile Comm - 7
 
 ----
 
-New diplom student ordnung 
+New diploma student ordnung 
 
 1. Vertiefung Mobile Nachrichtensysteme - EuI-ET-E-MoNSV - 4/2/0 - Winter Sem - 7
 2. Kommunikationsnetze - EuI-ET-C-CN - 2/2/0 - Summer Sem -  5
 3. Advanced Communication Networks - EuI-ET-E-ACN - Summer - 5 (Changed for ET-12 10 05)
 4. Future Communication Networks - EuI-ET-E-FCN - 2/1/1 - Winter - 5
+5. Statistik - EuI-ET-E-STAT - 3/1/0 - Summer - 5
