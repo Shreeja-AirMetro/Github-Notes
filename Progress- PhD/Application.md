@@ -102,5 +102,5 @@ New diploma student ordnung  - 9/4/26
 
 https://www.verw.tu-dresden.de/Amtbek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf 
 
-1. Ober seminar
+1. Oberseminar
 2. Confirm the student ordnung and compulsory courses
