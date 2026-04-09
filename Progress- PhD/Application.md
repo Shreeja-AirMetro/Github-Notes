@@ -98,3 +98,5 @@ New diploma student ordnung
 3. Advanced Communication Networks - EuI-ET-E-ACN - Summer - 5 (Changed for ET-12 10 05)
 4. Future Communication Networks - EuI-ET-E-FCN - 2/1/1 - Winter - 5
 5. Statistik - EuI-ET-E-STAT - 3/1/0 - Summer - 5
+6. OberSeminar - 9th Sem - 4  (Winter or summer) 
+
