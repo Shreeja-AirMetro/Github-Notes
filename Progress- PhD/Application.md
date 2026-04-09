@@ -89,3 +89,10 @@ Comnets 3 with Problem solving  - 7
 Upgrade Mobile Comm - 7
 
 
+----
+
+New diplom student ordnung 
+
+1. Vertiefung Mobile Nachrichtensysteme - EuI-ET-E-MoNSV - 4/2/0 - Winter Sem - 7
+2. Kommunikationsnetze - EuI-ET-C-CN - 2/2/0 - 5
+3. 
