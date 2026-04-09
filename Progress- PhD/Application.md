@@ -96,4 +96,4 @@ New diplom student ordnung
 1. Vertiefung Mobile Nachrichtensysteme - EuI-ET-E-MoNSV - 4/2/0 - Winter Sem - 7
 2. Kommunikationsnetze - EuI-ET-C-CN - 2/2/0 - Summer Sem -  5
 3. Advanced Communication Networks - EuI-ET-E-ACN - Summer - 5 (Changed for ET-12 10 05)
-4. 
+4. Future Communication Networks - EuI-ET-E-FCN - 2/1/1 - Winter - 5
