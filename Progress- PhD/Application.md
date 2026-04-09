@@ -91,7 +91,7 @@ Upgrade Mobile Comm - 7
 
 ----
 
-New diploma student ordnung 
+New diploma student ordnung  - 9/4/26
 
 1. Vertiefung Mobile Nachrichtensysteme - EuI-ET-E-MoNSV - 4/2/0 - Winter Sem - 7
 2. Kommunikationsnetze - EuI-ET-C-CN - 2/2/0 - Summer Sem -  5
@@ -100,3 +100,7 @@ New diploma student ordnung
 5. Statistik - EuI-ET-E-STAT - 3/1/0 - Summer - 5
 6. OberSeminar - 9th Sem - 4  (Winter or summer) 
 
+https://www.verw.tu-dresden.de/Amtbek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf 
+
+1. Ober seminar
+2. Confirm the student ordnung and compulsory courses
