@@ -18,6 +18,7 @@
 	- Our research looks like a logical - functional architecture 
 	- Given the complexity and the differences in technology - layering to map key parameters or details of the map representation would be a good beginning approach - that is decentralized 
 	- This is today being tackled by UTM GIS planners 
+	- How today these SaaS Feet management work? gap here? 
 	- We can say Comm tech  provided this info on its own Map Then layered on top of Navigation map and compared the real-time with pre-planned 
 	- Comm Radio map can be between the known digital twin and the real-time onboard navigation map or its updates 
 	- To reduce the complexity and have effective results - Vertical category of the map information / parameters based on phases of a mission - like strategic, pre-tactical, tactical phases 
@@ -25,4 +26,5 @@
 	-  Layering of map C and N can address from the perspective of single UAV 
 	- But when it comes to Surveillance - Multiple UAV in the airspace must be taken into account - How to define this? 
 	-  Where does UTM play a role here - do we use U-space? 
-	-  Do the parameters that "validate" the common map representation align with the RCP, RNP, RSP metrics or recommendation - Is there a SoA to address these three alignments for AAM - If not addressing this will be good 
+	-  Do the parameters that "validate" the common map representation align with the RCP, RNP, RSP metrics or recommendation - Is there a SoA to address these three alignments for AAM - If not addressing this will be novel
+	- 
