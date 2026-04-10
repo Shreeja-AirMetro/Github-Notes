@@ -23,4 +23,5 @@
 	- The density of map information (for comm) can be seen through takeoff , cruising and landing perspective 
 	-  Layering of map C and N can address from the perspective of single UAV 
 	- But when it comes to Surveillance - Multiple UAV in the airspace must be taken into account - How to define this? 
+	-  Where does UTM play a role here - do we use U-space? 
 	- 
