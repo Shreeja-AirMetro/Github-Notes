@@ -16,8 +16,11 @@
 	-  This is interesting topic to tackle from technology that's new to AAM 
 	- Usually this CNS bridge with map is centralized with Radar system - therefore there is a huge involvement with ATM 
 	- Given the complexity and the differences in technology - layering to map key parameters or details of the map representation would be a good beginning approach - that is decentralized 
-	- This is today being tackeled by UTM GIS planners 
+	- This is today being tackled by UTM GIS planners 
 	- We can say Comm tech  provided this info on its own Map Then layered on top of Navigation map and compared the real-time with pre-planned 
 	- Comm Radio map can be between the known digital twin and the real-time onboard navigation map or its updates 
-	- To reduce the complexity and have effective results - Vertical category of the map information / parameters based on phases of a mission - like stratergic, pre-tactical, tactical phases 
-	- It can also be looked into 
+	- To reduce the complexity and have effective results - Vertical category of the map information / parameters based on phases of a mission - like strategic, pre-tactical, tactical phases 
+	- The density of map information (for comm) can be seen through takeoff , cruising and landing perspective 
+	-  Layering of map C and N can address from the perspective of single UAV 
+	- But when it comes to Surveillance - Multiple UAV in the airspace must be taken into account - How to define this? 
+	- 
