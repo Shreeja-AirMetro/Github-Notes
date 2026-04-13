@@ -502,3 +502,7 @@ T2 Presentation 13/4
 - controllable communication channel 
 - Physics based  less and more stochastic 
 - large surface area 
+- warping 
+- Macro Thermo mechnical to micro electro magnetic to macro electromagnetic 
+- Theromal boundary conditions - not flux conditions 
+- 
