@@ -504,7 +504,7 @@ T2 Presentation 13/4
 - large surface area 
 - warping 
 - Macro Thermo mechnical to micro electro magnetic to macro electromagnetic 
-- Theromal boundary conditions - not flux conditions 
+- Thermal boundary conditions - not flux conditions 
 - Radio cross section reducedby the pattern proposed by Zhang et all 
 - Far field amplituded - deformed and non - case 
 - 
