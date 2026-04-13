@@ -505,4 +505,5 @@ T2 Presentation 13/4
 - warping 
 - Macro Thermo mechnical to micro electro magnetic to macro electromagnetic 
 - Theromal boundary conditions - not flux conditions 
-- 
+- Radio cross section reducedby the pattern proposed by Zhang et all 
+- Far fie
