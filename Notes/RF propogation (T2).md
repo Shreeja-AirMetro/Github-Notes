@@ -494,3 +494,11 @@ Traditional RIS - antenna and relay devices - electroactive and polymer active m
 computational mechanics to communication 
 
 ---
+
+
+
+T2 Presentation 13/4
+
+- controllable communication channel 
+- Physics based  less and more stochastic 
+- large surface area 
