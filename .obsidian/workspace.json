@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "Paper-Writing/DRCN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNS"
+              "title": "DRCN"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "470d2bf2fd66134c",
   "lastOpenFiles": [
-    "TODOS/Apr 2026.md",
+    "KLU___TUDresde___RCP_for_unmanned_aerial_vehicles_in_NTN_networks.pdf",
     "Notes/CNS.md",
+    "TODOS/Apr 2026.md",
     "Notes/RF propogation (T2).md",
     "Notes/UAM-AAM.md",
     "Notes/T58.md",
@@ -213,7 +214,6 @@
     "Progress- PhD/Lit synthesis.md",
     "Progress- PhD/Lessons.md",
     "Progress- PhD/Idea - Research Gap.md",
-    "Progress- PhD/Future.md",
     "Notes/ICN.pdf",
     "Notes/ICN 1.pdf",
     "Screenshot from 2026-04-01 17-26-01.png",

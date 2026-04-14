@@ -36,3 +36,20 @@ Rules: English, IEEE Conference 2 column template, 5-8 pages
 
 ---
 # Implementation
+
+
+
+---
+
+
+# First draft by Enrique 
+
+![[KLU___TUDresde___RCP_for_unmanned_aerial_vehicles_in_NTN_networks.pdf]]
+Key points 
+- This work present a systematic methodology to generate a Required Communication Performance (RCP), reinterpreting the current aviation methodology to this drone’s
+air segment needs. We maps safety requirements from aviation industry to key performance indicators of 3GPP networks.
+- Drones in non-segregated airspace 
+- What is non-segregated airspace ? 
+- The RCP specification for a drone is not a static value but a safety-derived requirement based on the most stringent communication transaction necessary for the mission’s risk profile.
+- Methods - 4 phases 
+- Phase 1 :
