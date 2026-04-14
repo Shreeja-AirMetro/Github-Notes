@@ -52,4 +52,9 @@ air segment needs. We maps safety requirements from aviation industry to key per
 - What is non-segregated airspace ? 
 - The RCP specification for a drone is not a static value but a safety-derived requirement based on the most stringent communication transaction necessary for the mission’s risk profile.
 - Methods - 4 phases 
-- Phase 1 :
+- Phase 1 : Mission and Risk profiling 
+- Phase 2: Transaction Analysis 
+- Phase 3: RCP Metrics Specification 
+- Phase 4: Compliance and Allocation
+- As noted in [2], higher risk operations (e.g., Urban Beyond Visual Line of Sight - BVLOS necessitate more stringent RCP types (e.g., RCP 10) to ensure a Time to Intervention (TTI) sufficient for safety
+- 
