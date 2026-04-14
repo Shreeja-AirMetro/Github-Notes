@@ -62,7 +62,10 @@ air segment needs. We maps safety requirements from aviation industry to key per
 Shreeja Preparation 
 Run the simulator 
 - NTN separately 
-	- UAV from A to B flies at altitude of 60-100m  (25km)
+	- UAV from A to B flies at altitude of 60-100m  (25km) calculate the latency for C2 link 
+	- Uplink and Downlink data collection 
 - TN separately 
+	- UAV from A to B flies at altitude of 60-100m  (25km) calculate the latency for C2 link 
+	- Uplink and Downlink data collection 
 - TN -NTN together 
 - Data capture : RSSI, SINR, Throughput, Jitter , Packet loss 
