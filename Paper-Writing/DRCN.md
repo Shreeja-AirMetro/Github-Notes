@@ -57,4 +57,12 @@ air segment needs. We maps safety requirements from aviation industry to key per
 - Phase 3: RCP Metrics Specification 
 - Phase 4: Compliance and Allocation
 - As noted in [2], higher risk operations (e.g., Urban Beyond Visual Line of Sight - BVLOS necessitate more stringent RCP types (e.g., RCP 10) to ensure a Time to Intervention (TTI) sufficient for safety
-- 
+
+
+Shreeja Preparation 
+Run the simulator 
+- NTN separately 
+	- UAV from A to B flies at altitude of 60-100m  (25km)
+- TN separately 
+- TN -NTN together 
+- Data capture : RSSI, SINR, Throughput, Jitter , Packet loss 
