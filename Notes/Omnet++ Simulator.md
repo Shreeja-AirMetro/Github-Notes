@@ -600,3 +600,10 @@ In **Code 1**, the NTN model (`nrChannelModel[1]`) used `ue_noise_figure = 0 dBm
 
 
 State of Art : https://github.com/EFontesP90/LLSim5G 
+
+
+
+---
+
+
+/usr/include/x86_64-linux-gnu/curl
