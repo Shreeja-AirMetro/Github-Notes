@@ -282,4 +282,5 @@ Patentability - novelty
 - lot of argument on closest prior art 
 - Most countries have what is called an absolute novelty requirement, which means that if something is known in the prior art (in whatever country) novelty is gone. Howveer, there is a period of 18 months in which a patent application is not published. If company A files a patent in country A and before that application is published, a company B files a patent application on that same invention in country B, it could still be patented.
 - Be aware that the PSA is mainly used as a system to assess inventive step by the EPO. European courts and the US Patent and Trademark Office may have different tests to judge whether there is inventive step.
+- amend the claim to overcome objection 
 - 
