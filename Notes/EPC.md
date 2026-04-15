@@ -205,6 +205,19 @@ PCT - patent cooperation treaty - globally
 
 Requirements for Patent 
 - Novelty - not previously disclosed to people
+	- didn't exists in SoA - world wide publically available 
+	- Search opinion 
 - Inventive step not obvious to person
+	- EXAMINERS - problem solution approach 
+	- closest prior art
+	- technical problem 
+	- is it obvious 
 - industrial applicable 
-- 
+	- real world utility 
+	- Clarity 
+	- Single topic - full description 
+- EU grant procedure
+	- Applicant is filed searched and published
+	- then substantive examination - decision 
+	- Withdraw anytime 
+	- If exam success - must be validated - look for opposition and member state opinions
