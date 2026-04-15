@@ -8,5 +8,7 @@
 - smart grid -> control of generation and consumption 
 - 5-10ms 
 - 5 min kb of data - sachsen netze 
-- visulaie the energy grid 
+- visualize the energy grid 
+- dymobat , Mobilities for EU 
+- verify and optimize the communication
 - 
