@@ -13,3 +13,7 @@
 - verify and optimize the communication
 - Topics of interest fro students - Bidirectional charging 
 - Differences in Mobilities for EU - Dresden vs Madrid - Power + mobility + Comm 
+- smart home
+- electric network optimization and monitoring with comnets 
+- communication for virtual powerplant 
+- 
