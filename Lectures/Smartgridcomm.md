@@ -2,4 +2,11 @@
 - ICT for Smartgrid comm
 -  Discuss with lehnert - leistung punkte  - Student issue 
 - organization ablauf
+- motivation of the course -> reduce climate change -> emission and fossil energy 
+- mobility - energy efficiency sector 
+- Internet - control - drahtlose 
+- smart grid -> control of generation and consumption 
+- 5-10ms 
+- 5 min kb of data - sachsen netze 
+- visulaie the energy grid 
 - 
