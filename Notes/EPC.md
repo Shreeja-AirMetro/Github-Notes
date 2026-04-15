@@ -244,3 +244,11 @@ Compete on price and license
 
 basic principle of patent deal
 - file patent - describe in detail - enabling disclosure 
+- 18 months after submitted - published 
+- Business intelligence also goes into patents 
+
+Routes - invention and market size based idea 
+![[Screenshot from 2026-04-15 16-25-42.png]]
+
+Patent cooperation treaty (PCT) international procedure and not a patent 
+End of 30 months - then proceed to file patent in any of the countries 
