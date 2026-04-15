@@ -192,3 +192,19 @@ Cocaa-cola vault have legal status
 ![[Screenshot from 2026-04-01 17-26-01.png]]
 
 ---
+
+Module 2  - Quick video 
+Patent - Protect tech invention  
+Legal doc grants owner to stop others from using inventions
+patent - fair exchange - private reward and public 
+Inventors knowledge - temporary monopoly rights 
+patents are social contract 
+file once at EU - protect many 
+Patent in EU or specific countries like US
+PCT - patent cooperation treaty - globally
+
+Requirements for Patent 
+- Novelty - not previously disclosed to people
+- Inventive step not obvious to person
+- industrial applicable 
+- 
