@@ -16,4 +16,5 @@
 - smart home
 - electric network optimization and monitoring with comnets 
 - communication for virtual powerplant 
+- KI for Netzoptimization like with weather or external data  - Data from hospital study - prognose 
 - 
