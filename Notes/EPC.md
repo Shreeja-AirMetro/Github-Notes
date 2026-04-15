@@ -232,4 +232,15 @@ Patent Essential by Arthur Freitas
 smartphone even features have patents 
 Technical problem need not always be tech solution - its mechanical, chemical, biological
 
-Patent pending 
+Patent pending  - can have product out - marketing strategy 
+patent is negative right not enabling right 
+
+![[Screenshot from 2026-04-15 16-18-11.png]]
+
+![[Screenshot from 2026-04-15 16-19-22.png]]
+Answer:  No you cannot sell when there is generic one 
+
+Compete on price and license
+
+basic principle of patent deal
+- file patent - describe in detail - enabling disclosure 
