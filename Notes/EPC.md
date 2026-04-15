@@ -273,4 +273,6 @@ Patentability - novelty
 - ![[Screenshot from 2026-04-15 16-39-40.png]]
 - ![[Screenshot from 2026-04-15 16-42-35.png]]
 - ![[Screenshot from 2026-04-15 16-43-50.png]]
+- ![[Screenshot from 2026-04-15 16-51-20.png]]
+- specific disclosure  takes away generic broad claim 
 - 
