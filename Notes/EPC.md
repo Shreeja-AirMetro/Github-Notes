@@ -275,4 +275,5 @@ Patentability - novelty
 - ![[Screenshot from 2026-04-15 16-43-50.png]]
 - ![[Screenshot from 2026-04-15 16-51-20.png]]
 - specific disclosure  takes away generic broad claim 
+- https://intellectual-property-helpdesk.ec.europa.eu/ip-management-and-resources/publications_en?page=1
 - 
