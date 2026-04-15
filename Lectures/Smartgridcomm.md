@@ -11,4 +11,5 @@
 - visualize the energy grid 
 - dymobat , Mobilities for EU 
 - verify and optimize the communication
-- 
+- Topics of interest fro students - Bidirectional charging 
+- Differences in Mobilities for EU - Dresden vs Madrid - Power + mobility + Comm 
