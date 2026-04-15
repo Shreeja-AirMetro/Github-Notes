@@ -247,8 +247,15 @@ basic principle of patent deal
 - 18 months after submitted - published 
 - Business intelligence also goes into patents 
 
-Routes - invention and market size based idea 
+Routes - invention and market size based idea -> National, EU or international 
 ![[Screenshot from 2026-04-15 16-25-42.png]]
 
 Patent cooperation treaty (PCT) international procedure and not a patent 
 End of 30 months - then proceed to file patent in any of the countries 
+
+Description , one or more claims, diagrams or drawings (a picture is worth thousand words)
+![[Screenshot from 2026-04-15 16-30-01.png]]
+![[Screenshot from 2026-04-15 16-30-41.png]]
+CLAIMS ARE DEFINING WHAT IS BEING PROTECTED THERE 
+
+Claims can be dependent or independent 
