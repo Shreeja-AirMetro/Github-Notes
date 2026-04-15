@@ -276,4 +276,7 @@ Patentability - novelty
 - ![[Screenshot from 2026-04-15 16-51-20.png]]
 - specific disclosure  takes away generic broad claim 
 - https://intellectual-property-helpdesk.ec.europa.eu/ip-management-and-resources/publications_en?page=1
+- ![[Screenshot from 2026-04-15 16-57-49.png]]
+- Problem solution approach - eliminate hinsight bias 
+- identify closest prior art - find many features - one or two gaps - formulate problem 
 - 
