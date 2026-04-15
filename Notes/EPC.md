@@ -221,3 +221,7 @@ Requirements for Patent
 	- then substantive examination - decision 
 	- Withdraw anytime 
 	- If exam success - must be validated - look for opposition and member state opinions
+
+---
+
+Lecture 2 - based on Module 2 Patents - 15/4 
