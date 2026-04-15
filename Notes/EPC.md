@@ -263,7 +263,12 @@ Claims can be dependent or independent
 Claim that's long as rule of thumb  not very good 
 
 Claim the world - largest protect - but that's trap
-dependent patents are also advantages 
-
+dependent patents are also advantages  - the latter is product, liscense deal is away from patent 
 
 Patentability - novelty 
+
+- Be new invention
+- Inventive step
+- Industry application
+- ![[Screenshot from 2026-04-15 16-39-40.png]]
+- 
