@@ -231,3 +231,5 @@ Patent Essential by Arthur Freitas
 
 smartphone even features have patents 
 Technical problem need not always be tech solution - its mechanical, chemical, biological
+
+Patent pending 
