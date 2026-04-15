@@ -271,4 +271,6 @@ Patentability - novelty
 - Inventive step
 - Industry application
 - ![[Screenshot from 2026-04-15 16-39-40.png]]
+- ![[Screenshot from 2026-04-15 16-42-35.png]]
+- ![[Screenshot from 2026-04-15 16-43-50.png]]
 - 
