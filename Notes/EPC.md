@@ -225,3 +225,9 @@ Requirements for Patent
 ---
 
 Lecture 2 - based on Module 2 Patents - 15/4 
+
+Patent Essential by Arthur Freitas 
+![[Screenshot from 2026-04-15 16-09-53.png]]
+
+smartphone even features have patents 
+Technical problem need not always be tech solution - its mechanical, chemical, biological
