@@ -259,3 +259,11 @@ Description , one or more claims, diagrams or drawings (a picture is worth thous
 CLAIMS ARE DEFINING WHAT IS BEING PROTECTED THERE 
 
 Claims can be dependent or independent 
+
+Claim that's long as rule of thumb  not very good 
+
+Claim the world - largest protect - but that's trap
+dependent patents are also advantages 
+
+
+Patentability - novelty 
