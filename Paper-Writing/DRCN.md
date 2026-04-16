@@ -69,3 +69,8 @@ Run the simulator
 	- Uplink and Downlink data collection 
 - TN -NTN together 
 - Data capture : RSSI, SINR, Throughput, Jitter , Packet loss 
+
+
+
+---
+
