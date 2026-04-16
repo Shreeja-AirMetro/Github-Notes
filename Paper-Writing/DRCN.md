@@ -91,6 +91,6 @@ Risk profile
 - Latency , SINR <span style="color:rgb(255, 0, 0)"><br>- Check for what are the results required </span> 
 
 
-Shreeja test 
-- Only LEO Based sat - LEON - Uplink and Downlink 
+Shreeja test - to dos
+- Only LEO Based sat - LEON - Uplink and Downlink  - no gateway in LEON v1
 - 
