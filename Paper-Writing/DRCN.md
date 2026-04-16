@@ -89,4 +89,9 @@ interaction with Air Traffic Management (ATM).  <span style="color:rgb(255, 0, 0
 - Operational Communication Transaction”. [2]. An
 RCP specification is driven strictly by the most time-critical
 transaction required to maintain safety boundaries. <span style="color:rgb(255, 0, 0)">TRANSACTION TIME - Is it END TO END</span> 
+- The second consist of an additional non-terrestrial segment (LEO satellite
+constellation).
+
+- RCP Safety Limit (Expiration Time) remains 8.0 s. <span style="color:rgb(255, 0, 0)">WHERE IS THIS FROM </span> 
+- <span style="color:rgb(255, 0, 0)">Eq 4  - End to ENd </span> 
 - 
