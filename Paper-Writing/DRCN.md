@@ -88,7 +88,7 @@ Risk profile
 
 - RCP Safety Limit (Expiration Time) remains 8.0 s. <span style="color:rgb(255, 0, 0)">WHERE IS THIS FROM </span> 
 	- Similar to displacement and expiration time 
-	- 
+	- change the trajectory - waypoint update transaction time 
 - <span style="color:rgb(255, 0, 0)">Eq 4  - End to ENd </span> 
 - Latency , SINR <span style="color:rgb(255, 0, 0)"><br>- Check for what are the results required </span> 
 
@@ -98,4 +98,6 @@ To send to Enrique - Monday
 1, Output of LEO sat only uplink and downlink 
 2, update on TN + NTN setup 
 
+-  Do uplink and downlink  - one way transaction 
+- patch  - synthetic latency  - synchronize timestamps 
 - 
