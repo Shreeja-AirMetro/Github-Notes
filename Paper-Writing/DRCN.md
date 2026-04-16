@@ -92,5 +92,8 @@ Risk profile
 
 
 Shreeja test - to dos
-- Only LEO Based sat - LEON - Uplink and Downlink  - no gateway in LEON v1
+To send to Enrique - Monday 
+1, Output of LEO sat only uplink and downlink 
+2, update on TN + NTN setup 
+
 - 
