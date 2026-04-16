@@ -74,24 +74,23 @@ Run the simulator
 
 ---
 
-
-- The RCP specification for a drone is not a static value but a
-safety-derived requirement based on the most stringent com-
-munication transaction necessary for the mission’s risk profile. 
+Meeting with Enrique 16/4 
+Question (Red) and his points -> Shreeja To dos 
 
 
+- The RCP specification for a drone is not a static value but a safety-derived requirement based on the most stringent communication transaction necessary for the mission’s risk profile. 
 Risk profile 
 - Categorize the type  
-- Missions occurring in Controlled Airspace (Classes A to C)
-impose stricter availability requirements due to the need for
-interaction with Air Traffic Management (ATM).  <span style="color:rgb(255, 0, 0)">DO WE SHOW IN RESULTS</span> 
+- Missions occurring in Controlled Airspace (Classes A to C) impose stricter availability requirements due to the need for interaction with Air Traffic Management (ATM).  <span style="color:rgb(255, 0, 0)">DO WE SHOW IN RESULTS</span> 
 
-- Operational Communication Transaction”. [2]. An
-RCP specification is driven strictly by the most time-critical
-transaction required to maintain safety boundaries. <span style="color:rgb(255, 0, 0)">TRANSACTION TIME - Is it END TO END</span> 
-- The second consist of an additional non-terrestrial segment (LEO satellite
-constellation).
+- Operational Communication Transaction”. [2]. An RCP specification is driven strictly by the most time-critical transaction required to maintain safety boundaries. <span style="color:rgb(255, 0, 0)">TRANSACTION TIME - Is it END TO END</span> 
+- <span style="color:rgb(255, 0, 0)">The second consist of an additional non-terrestrial segment (LEO satellite constellation).</span>
 
 - RCP Safety Limit (Expiration Time) remains 8.0 s. <span style="color:rgb(255, 0, 0)">WHERE IS THIS FROM </span> 
 - <span style="color:rgb(255, 0, 0)">Eq 4  - End to ENd </span> 
+- Latency , SINR <span style="color:rgb(255, 0, 0)"><br>- Check for what are the results required </span> 
+
+
+Shreeja test 
+- Only LEO Based sat - LEON - Uplink and Downlink 
 - 
