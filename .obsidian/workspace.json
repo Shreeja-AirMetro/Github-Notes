@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Apr 2026.md",
+                "file": "Paper-Writing/DRCN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apr 2026"
+              "title": "DRCN"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "470d2bf2fd66134c",
   "lastOpenFiles": [
+    "TODOS/Apr 2026.md",
     "TODOS/Dec 2025.md",
     "Paper-Writing/DRCN.md",
     "Notes/EPC.md",
@@ -199,7 +200,6 @@
     "Screenshot from 2026-04-15 16-30-01.png",
     "Screenshot from 2026-04-15 16-25-42.png",
     "Lectures/Smartgridcomm.md",
-    "TODOS/Apr 2026.md",
     "Lectures",
     "Notes/Omnet++ Simulator.md",
     "Notes/Omnet++-UAV.md",
