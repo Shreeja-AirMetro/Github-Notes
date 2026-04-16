@@ -81,4 +81,12 @@ munication transaction necessary for the mission’s risk profile.
 
 
 Risk profile 
-- Categorize the type of 
+- Categorize the type  
+- Missions occurring in Controlled Airspace (Classes A to C)
+impose stricter availability requirements due to the need for
+interaction with Air Traffic Management (ATM).  <span style="color:rgb(255, 0, 0)">DO WE SHOW IN RESULTS</span> 
+
+- Operational Communication Transaction”. [2]. An
+RCP specification is driven strictly by the most time-critical
+transaction required to maintain safety boundaries. <span style="color:rgb(255, 0, 0)">TRANSACTION TIME - Is it END TO END</span> 
+- 
