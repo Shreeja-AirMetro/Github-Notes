@@ -87,6 +87,8 @@ Risk profile
 - <span style="color:rgb(255, 0, 0)">The second consist of an additional non-terrestrial segment (LEO satellite constellation).</span>
 
 - RCP Safety Limit (Expiration Time) remains 8.0 s. <span style="color:rgb(255, 0, 0)">WHERE IS THIS FROM </span> 
+	- Similar to displacement and expiration time 
+	- 
 - <span style="color:rgb(255, 0, 0)">Eq 4  - End to ENd </span> 
 - Latency , SINR <span style="color:rgb(255, 0, 0)"><br>- Check for what are the results required </span> 
 
