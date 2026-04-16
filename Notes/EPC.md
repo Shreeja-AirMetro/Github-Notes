@@ -286,4 +286,40 @@ Patentability - novelty
 - Industrial application 
 - ![[Screenshot from 2026-04-15 17-15-03.png]]
 - ![[Screenshot from 2026-04-15 17-16-47.png]]
-- 
+---
+Module 2 forum discussion 
+
+ As heralded in my previous post, a case study is presented here to foster discussion on the topics covered in the Module. Please take a look at the case study below and try to provide some answers and post these here for discussion purposes. Please, be assured that your submissions will only be used for discussion purposes (and will not count for the final examination).
+
+Bart
+
+**Case background**
+
+Carla van der Meer has a life-long experience in the culturing of orchids. In the normal situation, she imports small plantlets from tissue culture farms in China, Taiwan and Vietnam, which are further cultured by her to mature plants having the typical flower stalks with large flowers (left image).
+
+![image.png](https://e-courses.epo.org/pluginfile.php/253501/mod_forum/post/48598/image.png)![image%20%281%29.png](https://e-courses.epo.org/pluginfile.php/253501/mod_forum/post/48598/image%20%281%29.png)  
+
+When she made a mistake when watering the plantlets upon arrival from China by not giving them water but a solution with cytokine (a plant hormone) she observed that these plants a couple of weeks later were developing additional flower stalks, which meant that she now could grow plants with three or four flower stalks (right image).
+
+**Discussion points**
+
+Can Carla protect this discovery? When is a discovery considered to be an invention?
+
+What exactly could be protected?
+
+If so, how can Carla show that someone is copying?
+   
+   
+   [LAMBERTUS VAN WEZENBEEK](https://e-courses.epo.org/user/view.php?id=113856&course=590)
+Dear all,  
+Thank you for your valuable contributions. Let me address a few misconceptions here:  
+- Is the invention patentable? A few of you have argued that these kind of plant hormones were already used in orchid culturing and that it would be difficult to get patent protection. First of all, you are all correct in that it should be studied exactly what is known with respect to the use of cytokinin in plants, specially orchids. Since this has been a real case, I can inform you that it proved to be possible to get a European patent (EP1956886), of course with some clever claim drafting to overcome prior art objections. In the model answer that will be posted in due time here, I will further provide some examples of claims that could be obtained.  
+- a second misconception that was presented in one of the responses was that Carla should be careful not to infringe anybody else's patent rights. Although this is certainly true for building a business and being able to produce the plants on an industrial scale, it is of no influence at all on the patentability of an invention. Even if something is patented, it would be possible to patent a further improvement. The only problem lies in the commercial marketing of such an improvement which would not be possible without a license on the earlier patent. These kind of situations will be certainly discussed in the advanced MIPEF course.  
+- a third issue is the protection of plant varieties versus the protection of Carla's invention. First of all, the invention does not cause the production of a new variety of orchid. In contrast, when the invention is applied to a young plant, it will only effect the appearance of the more mature plant later. This was proven to work for all kinds of orchid varieties, especially varieties of the genera Phalaenopsis and Dorothaenopsis. Be aware that the genus Phalaenopsis has about 70 different species, but that within these species thousands of different varieties (also called cultivars) are known! So the invention is not limited to a specific plant variety and plant variety protection is of no use here.  
+- Another misconception may be the 'trial and error' that would be involved with doing an invention. In this case the invention came suddenly (because Carla had made an initial mistake). This is perfectly possible. Also be reminded that the Post-It invention was inadvertently found in a research program for a very strong adhesive! In most cases  
+  
+Just to be complete: the European patent I listed above was in the end revoked in court because it was found not to be inventive over an earlier prior art document in the Korean language
+
+---
+
+
