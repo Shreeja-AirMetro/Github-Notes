@@ -74,3 +74,11 @@ Run the simulator
 
 ---
 
+
+- The RCP specification for a drone is not a static value but a
+safety-derived requirement based on the most stringent com-
+munication transaction necessary for the mission’s risk profile. 
+
+
+Risk profile 
+- Categorize the type of 
