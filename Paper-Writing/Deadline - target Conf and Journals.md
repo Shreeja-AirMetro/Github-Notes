@@ -565,4 +565,10 @@ Potential Thesis work / studenten arbeit
 
 
 2026 - 2027 Target 
-- PIMRC
+- PIMRC - B - A1
+- GloBECOM - B - A1
+- DRCN - B2 
+- ICC - A2 
+- VTC - A1 - B
+- WCNC - A2 - B 
+- 
