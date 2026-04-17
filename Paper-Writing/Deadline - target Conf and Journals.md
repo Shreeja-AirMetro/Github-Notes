@@ -44,6 +44,7 @@ Deadline
 - 5G /Satcom- testbed  (Protocol analysis) - Phases of flight - -<span style="color:rgb(0, 176, 80)"> VTC Spring 2027  Deadline Sep 1st 2026 </span>
 -  <span style="color:rgb(255, 0, 0)">Methodology for TN and NTN </span>
 - Handover in Simulator from TN to NTN 
+- Reliability and Resilience framework for C2 communication (DACUS, ICNS)
 
 
 # Journals 
