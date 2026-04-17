@@ -561,3 +561,8 @@ Potential Thesis work / studenten arbeit
 - Area based clustering  - TN and NTN network 
 - C2 protocol study 
 - Multilink - regression and other analysis 
+
+
+
+2026 - 2027 Target 
+- PIMRC
