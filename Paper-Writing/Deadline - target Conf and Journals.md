@@ -33,7 +33,7 @@ Deadline
 # UTM  (2) 
 - <span style="color:rgb(255, 0, 0)">Data Mesh architecture of MEC</span>
 - Protocol and messaging for tactical deconfliction (like in ISAC)
-- Increase in fleet and density <span style="color:rgb(0, 176, 80)">( Aug-Sep 2026)</span>
+- Increase in fleet and density <span style="color:rgb(0, 176, 80)">( June 2026 - FNFW)</span>
 - 
 # A2A (1)
 - Mesh network I<span style="color:rgb(0, 176, 80)">FIP / Globecom 2027 (Jan - Apr 2027)</span>
