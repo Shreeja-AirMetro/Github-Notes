@@ -55,44 +55,17 @@ Deadline
 - [ ] Communication in RPAS - UTM  - Specifically C2<span style="color:rgb(0, 176, 80)"> (end 2027)</span>
 
 
+# Research collaboration
+
+- <span style="color:rgb(0, 176, 80)">Prof Bettstetter  - AAU- Lakeside Labs - Austria</span> 
+- **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php Northeastern USA
+- Prof kamesh Namudri University of North Texas, USA
+- Prof Ismail  Guvenc (North Carolina State University)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----
 
 
 Paper topic area 
@@ -662,9 +635,3 @@ Potential Thesis work / studenten arbeit
 
 
 
-# Research collaboration
-
-- <span style="color:rgb(0, 176, 80)">Prof Bettstetter  - AAU- Lakeside Labs - Austria</span> 
-- **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php North eastern USA
-- Prof kamesh Namudri 
-- Prof Ismail 
