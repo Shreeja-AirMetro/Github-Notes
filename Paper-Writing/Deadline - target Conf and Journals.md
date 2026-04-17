@@ -59,7 +59,7 @@ Deadline
 
 - <span style="color:rgb(0, 176, 80)">Prof Bettstetter  - AAU- Lakeside Labs - Austria</span> 
 - One of following in 2027 
-	- **Hwangnam Kim** Korea University 
+	- **Hwangnam Kim** Korea University  https://wine.korea.ac.kr/publications
 	- **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php Northeastern USA
 	- **Prof kamesh Namudri** University of North Texas, USA
 	- **Prof Ismail  Guvenc** (North Carolina State University)
