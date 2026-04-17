@@ -47,7 +47,7 @@ Deadline
 
 # Journals 
 
-
+- [ ] 
 - [ ] Multi-link Dataport (5G, Satcom and Wifi based mesh dataset)<span style="color:rgb(0, 176, 80)"> (end 2026)</span>
 - [ ] Optimized multi-link management system  (network coding, protocol) <span style="color:rgb(0, 176, 80)">(mid 2027)</span>
 - [ ] Communication in RPAS - UTM  - Specifically C2<span style="color:rgb(0, 176, 80)"> (end 2027)</span>
