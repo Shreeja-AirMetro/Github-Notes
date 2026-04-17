@@ -666,4 +666,5 @@ Potential Thesis work / studenten arbeit
 
 - <span style="color:rgb(0, 176, 80)">Prof Bettstetter  - AAU- Lakeside Labs - Austria</span> 
 - **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php North eastern USA
-- 
+- Prof kamesh Namudri 
+- Prof Ismail 
