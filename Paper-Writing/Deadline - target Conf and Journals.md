@@ -574,5 +574,7 @@ Potential Thesis work / studenten arbeit
 - CCNC - B
 - MOBICOM A
 - ACM Mobisys - B
-- ACMMM - A
+- INFOCOM - A
+- IFIP - A
+
 - 
