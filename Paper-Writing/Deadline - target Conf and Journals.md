@@ -29,20 +29,28 @@ Deadline
 
 # 2026-27 Publication Plan - CONFERENCE
 
-# UTM 
+# UTM  (2) 
 - <span style="color:rgb(255, 0, 0)">Data Mesh architecture of MEC</span>
 - Protocol and messaging for tactical deconfliction (like in ISAC)
 - Increase in fleet and density
 - 
-# A2A
-- Mesh newtork
+# A2A (1)
+- Mesh network
 - Protocol 
 
-# A2G 
+# A2G  (4)
 - Mesh A2G link 
-- 5G 
+- 5G /Satcom- testbed  (Protocol analysis) - Phases of flight
+-  <span style="color:rgb(255, 0, 0)">Methodology for TN and NTN </span>
+- Handover in Simulator from TN to NTN 
 
 
+# Journals 
+
+
+- [ ] Multi-link Dataport (5G, Satcom and Wifi based mesh dataset) (end 2026)
+- [ ] Optimized multi-link management system  (network coding, protocol) (mid 2027)
+- [ ] Communication in RPAS - UTM  - Specifically C2 (end 2027)
 
 
 
