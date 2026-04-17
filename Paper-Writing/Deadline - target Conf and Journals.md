@@ -571,4 +571,8 @@ Potential Thesis work / studenten arbeit
 - ICC - A2 
 - VTC - A1 - B
 - WCNC - A2 - B 
+- CCNC - B
+- MOBICOM A
+- ACM Mobisys - B
+- ACMMM - A
 - 
