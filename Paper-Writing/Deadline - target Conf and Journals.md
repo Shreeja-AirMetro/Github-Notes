@@ -35,12 +35,12 @@ Deadline
 - Increase in fleet and density <span style="color:rgb(0, 176, 80)">( Aug-Sep 2026)</span>
 - 
 # A2A (1)
-- Mesh network
+- Mesh network I<span style="color:rgb(0, 176, 80)">FIP / Globecom 2027 (Jan - Apr 2027)</span>
 - Protocol 
 
 # A2G  (4)
-- <span style="color:rgb(0, 176, 80)">Mesh A2G link  - VTC Spring 2027  Deadline Sep 1st 2026 </span>
-- 5G /Satcom- testbed  (Protocol analysis) - Phases of flight
+- <span style="color:rgb(0, 176, 80)">Mesh A2G link  - WCNC  - Sep 15th  </span>
+- 5G /Satcom- testbed  (Protocol analysis) - Phases of flight - -<span style="color:rgb(0, 176, 80)"> VTC Spring 2027  Deadline Sep 1st 2026 </span>
 -  <span style="color:rgb(255, 0, 0)">Methodology for TN and NTN </span>
 - Handover in Simulator from TN to NTN 
 
