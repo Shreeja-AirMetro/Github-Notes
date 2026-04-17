@@ -64,6 +64,8 @@ Deadline
 	- **Prof kamesh Namudri** University of North Texas, USA
 	- **Prof Ismail  Guvenc** (North Carolina State University)
 	- **Nei Kato**Tohoku University
+	-  **Prof. Giovanni Geraci** (Universitat Pompeu Fabra, Spain) Scope: The world's leading academic voice on **3GPP UAV Standardization**.
+	- #### **Prof. Sofie Pollin & Dr. Evgenii Vinogradov** (KU Leuven, Belgium) **Scope:** **BVLOS Network Planning** and Cellular-to-UAV interference.
 
 
 
