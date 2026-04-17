@@ -1,3 +1,81 @@
+
+
+
+2026 - 2027 Target 
+- PIMRC - B - A1
+- GloBECOM - B - A1
+- DRCN - B2 
+- ICC - A2 
+- VTC - A1 - B
+- WCNC - A2 - B 
+- CCNC - B
+- MOBICOM A
+- ACM Mobisys - B
+- INFOCOM - A
+- IFIP - A
+
+Deadline 
+
+| Conf                 | Submission (approx) |
+| -------------------- | ------------------- |
+| INFOCOM              | July                |
+| MOBICOM (Dual Cycle) | Jan , August        |
+| Mobisys              | December            |
+| IFIP                 | Jan                 |
+| GLOBECOM             | April               |
+| ICC                  | October             |
+| WCNC                 | September           |
+| PIMRC                | March               |
+| CCNC                 | August              |
+
+# 2026-27 Publication Plan - CONFERENCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Paper topic area 
 
 - https://events.vtsociety.org/vtc2025-fall/conference-sessions/workshops-currently-available/w15-international-workshop-on-low-altitude-intelligent-network-lain-2025/ 
@@ -564,29 +642,4 @@ Potential Thesis work / studenten arbeit
 
 
 
-2026 - 2027 Target 
-- PIMRC - B - A1
-- GloBECOM - B - A1
-- DRCN - B2 
-- ICC - A2 
-- VTC - A1 - B
-- WCNC - A2 - B 
-- CCNC - B
-- MOBICOM A
-- ACM Mobisys - B
-- INFOCOM - A
-- IFIP - A
 
-Deadline 
-
-| Conf                 | Submission (approx) |
-| -------------------- | ------------------- |
-| INFOCOM              | July                |
-| MOBICOM (Dual Cycle) | Jan , August        |
-| Mobisys              | December            |
-| IFIP                 | Jan                 |
-| GLOBECOM             | April               |
-| ICC                  | October             |
-| WCNC                 | September           |
-| PIMRC                | March               |
-| CCNC                 |                     |
