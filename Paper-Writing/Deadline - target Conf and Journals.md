@@ -44,7 +44,7 @@ Deadline
 - 5G /Satcom- testbed  (Protocol analysis) - Phases of flight - -<span style="color:rgb(0, 176, 80)"> VTC Spring 2027  Deadline Sep 1st 2026 </span>
 -  <span style="color:rgb(255, 0, 0)">Methodology for TN and NTN </span>
 - Handover in Simulator from TN to NTN 
-- Reliability and Resilience framework for C2 communication (ICUAS, ICNS) (mid 2027)
+- Reliability and Resilience framework for C2 communication <span style="color:rgb(0, 176, 80)">(ICUAS, ICNS) (mid 2027)</span>
 
 
 # Journals 
@@ -65,7 +65,8 @@ Deadline
 	- **Prof Ismail  Guvenc** (North Carolina State University)
 	- **Nei Kato**Tohoku University
 	-  **Prof. Giovanni Geraci** (Universitat Pompeu Fabra, Spain) Scope: The world's leading academic voice on **3GPP UAV Standardization**.
-	- #### **Prof. Sofie Pollin & Dr. Evgenii Vinogradov** (KU Leuven, Belgium) **Scope:** **BVLOS Network Planning** and Cellular-to-UAV interference.
+	- **Prof. Sofie Pollin & Dr. Evgenii Vinogradov**(KU Leuven, Belgium) Scope:** **BVLOS Network Planning** and Cellular-to-UAV interference.
+	-  **Prof. Christian Wietfeld** (TU Dortmund, Germany) Scope:** **Empirical 4G/5G Performance** for UAS. (RCP 240)
 
 
 
