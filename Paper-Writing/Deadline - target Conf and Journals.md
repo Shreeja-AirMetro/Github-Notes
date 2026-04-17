@@ -58,9 +58,12 @@ Deadline
 # Research collaboration
 
 - <span style="color:rgb(0, 176, 80)">Prof Bettstetter  - AAU- Lakeside Labs - Austria</span> 
-- **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php Northeastern USA
-- Prof kamesh Namudri University of North Texas, USA
-- Prof Ismail  Guvenc (North Carolina State University)
+- One of following in 2027 
+	- **Hwangnam Kim** Korea University 
+	- **Prof. Tommaso Melodia:** https://ece.northeastern.edu/wineslab/index.php Northeastern USA
+	- **Prof kamesh Namudri** University of North Texas, USA
+	- **Prof Ismail  Guvenc** (North Carolina State University)
+	- **Nei Kato**Tohoku University
 
 
 
