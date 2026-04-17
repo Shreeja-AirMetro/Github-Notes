@@ -29,7 +29,11 @@ Deadline
 
 # 2026-27 Publication Plan - CONFERENCE
 
-
+# UTM 
+	- Data Mesh architecture of MEC
+	- Protocol and messaging for tactical deconfliction (like in ISAC)
+	- Increase in fleet and density 
+	- 
 
 
 
