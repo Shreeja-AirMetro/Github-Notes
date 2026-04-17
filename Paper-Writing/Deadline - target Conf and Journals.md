@@ -30,11 +30,17 @@ Deadline
 # 2026-27 Publication Plan - CONFERENCE
 
 # UTM 
-	- Data Mesh architecture of MEC
-	- Protocol and messaging for tactical deconfliction (like in ISAC)
-	- Increase in fleet and density 
-	- 
+- <span style="color:rgb(255, 0, 0)">Data Mesh architecture of MEC</span>
+- Protocol and messaging for tactical deconfliction (like in ISAC)
+- Increase in fleet and density
+- 
+# A2A
+- Mesh newtork
+- Protocol 
 
+# A2G 
+- Mesh A2G link 
+- 5G 
 
 
 
