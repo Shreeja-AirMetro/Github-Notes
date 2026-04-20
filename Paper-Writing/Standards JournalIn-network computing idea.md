@@ -1,3 +1,4 @@
+
 - Future core network - communication standard magazine
 - in-network computing - academia 
 - Nokia guy - semantic - goal-oriented communication 
