@@ -186,3 +186,9 @@ ADS-L is a low-cost, low-power electronic conspicuity standard introduced by EAS
 
 ---
 Multipath - idea  ![[ANYWI_DemoPresentation.pdf]]
+---
+
+
+No Direct Peer-to-Peer Connection: Due to CarrierGrade Network Address Translation (CGNAT) employed by cellular providers, a direct peer-to-peer communication link between the drone and ground controller cannot be established. This necessitates routing all data through the EC2 server, introducing delays of up to 4–5 seconds for video feed transmission, which is critical for real-time monitoring. Attempts to use UDP holepunching to bypass CGNAT are ineffective, as CGNAT’s dynamic IP allocation prevents consistent port mapping, further complicating low-latency applications like live video streaming or immediate control feedback.
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11351453
+
