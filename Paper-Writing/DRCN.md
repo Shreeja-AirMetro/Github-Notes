@@ -107,7 +107,14 @@ To send to Enrique - Monday
 # 20/4 Shreeja Simulator to do 
 
 - [ ] Adapt the code veins inet mobiliy in veins leon 
-- [ ] Downlink TN , 
-- [ ] Downlink NTN 
+	- [ ] Check veins leon output
+	- [ ] Altitude in Veins Inet 
+	- [ ] Questions on Air layer with veinsinet mobility 
+	- [ ] Complete adapt code 
+	- [ ] version for TN only 
+	- [ ] Version for NTN only
+	- [ ] Compile 
+- [ ] Downlink TN  - data
+- [ ] Downlink NTN  - data
 - [ ] Uplink TN 
 - [ ] Uplink NTN
