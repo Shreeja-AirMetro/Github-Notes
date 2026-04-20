@@ -53,6 +53,7 @@ Deadline
 - [ ] Multi-link Dataport (5G, Satcom and Wifi based mesh dataset)<span style="color:rgb(0, 176, 80)"> (end 2026)</span>
 - [ ] Optimized multi-link management system  (network coding, protocol) <span style="color:rgb(0, 176, 80)">(mid 2027)</span> - OJVT or comsoc journals
 - [ ] Communication in RPAS - UTM  - Specifically C2<span style="color:rgb(0, 176, 80)"> (end 2027)</span>
+- [ ] IEEE VTS (10 Pages) - Summaries of SoA, comments on Papers, original findings
 
 
 # Research collaboration
