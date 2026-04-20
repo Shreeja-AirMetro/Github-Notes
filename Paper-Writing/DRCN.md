@@ -107,9 +107,9 @@ To send to Enrique - Monday
 # 20/4 Shreeja Simulator to do 
 
 - [ ] Adapt the code veins inet mobiliy in veins leon 
-	- [ ] Check veins leon output
+	- [x] Check veins leon output
 	- [ ] Altitude in Veins Inet 
-	- [ ] Questions on Air layer with veinsinet mobility 
+	- [ ] Questions on Air layer with veins inet mobility 
 	- [ ] Complete adapt code 
 	- [ ] version for TN only 
 	- [ ] Version for NTN only
