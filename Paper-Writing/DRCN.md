@@ -100,4 +100,14 @@ To send to Enrique - Monday
 
 -  Do uplink and downlink  - one way transaction 
 - patch  - synthetic latency  - synchronize timestamps 
-- 
+
+
+---
+
+# 20/4 Shreeja Simulator to do 
+
+- [ ] Adapt the code veins inet mobiliy in veins leon 
+- [ ] Downlink TN , 
+- [ ] Downlink NTN 
+- [ ] Uplink TN 
+- [ ] Uplink NTN
