@@ -2484,3 +2484,10 @@ https://dl.acm.org/doi/pdf/10.1145/3617992
 
 A measure of effectiveness (MOE) is a qualitative evaluation associated to each system requirement. The quantitative aspect is expressed using the Measures of Performance (MOPs). For each MOE are associated one or more MOPs.
 In the context of the UTM, the timely and accurate exchange of information with relevant entities holds significant importance. The freshness of information is a critical aspect and is quantified using the Age of Information (AoI) as a performance metric within the communication system
+
+
+---
+
+- **Blockchain** → _trust and tamper-proof data across untrusted parties_
+- **Data Mesh** → _scaling data ownership and analytics inside organizations_
+- 
