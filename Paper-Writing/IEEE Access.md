@@ -11,7 +11,7 @@ Unpublished version
 # Paper structure 
 
 - Introduction  (3)
-	- NTN netwroks 6G and use-case verticals 
+	- NTN networks 6G and use-case verticals 
 	- Need for open source simulator 
 	- Role of Academia in NTN 
 	- Contributions
@@ -30,6 +30,7 @@ Unpublished version
 	- SIB and Car - Veins Leon 
 	- UAV Case
 	- HAP case 
+- Github repository  -. Guide, Code, Csv dataset for above use-cases
 - Potential Expansion of the network , Discussion (1)
 	- Implementation ideas and structure
 	- Hap Use-case 2
@@ -50,7 +51,7 @@ Unpublished version
 		- Network parameters genera
 		-  Operational parameters for each simulators 
 		- KPI comparision table for each use case
-	- Plots  (KPI) - SIB - heuristic, Latency, Throughput , Packet loss Ratio , SINR /RSSi  - vs Time - Uplink and downlink as sub plot
+	- Plots  (KPI) - SIB - heuristic, Latency, Throughput , Packet loss Ratio , SINR /RSSI  - vs Time - Uplink and downlink as sub plot
 		- Leon - plot 
 		- SIB and Car Plot 
 		- UAV handover plot 
