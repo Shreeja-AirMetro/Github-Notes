@@ -32,15 +32,31 @@ Unpublished version
 	- HAP case 
 - Potential Expansion of the network , Discussion (1)
 	- Implementation ideas and structure
+	- Hap Use-case 2
+	- MEC
 - Conclusion and future work (1)
 	- Control Plane 
 	- Focus on IP networking 
+	- Multi-user scenario 
 - References 
 	- Writing 20-21 pages 
 	- Figures 
-		- V
+		- Intans architecture
+		- Simulator figure 
+		- Layers, Modules figure and connection 
+		- Event analysis 
 	- Tables
 		- State of art 
 		- Network parameters genera
 		-  Operational parameters for each simulators 
 		- KPI comparision table for each use case
+	- Plots  (KPI) - SIB - heuristic, Latency, Throughput , Packet loss Ratio , SINR /RSSi  - vs Time - Uplink and downlink as sub plot
+		- Leon - plot 
+		- SIB and Car Plot 
+		- UAV handover plot 
+		- HAP plot 
+
+
+
+
+**First Version Submission Target JUNE 1st** 
