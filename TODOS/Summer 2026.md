@@ -47,13 +47,15 @@
 
 
 # Progress - Monograph 
-# July - August 2026
+# June - August 2026
 - [ ] Literature sort 
 - [ ] Write Literature chapter by August 
 - [ ] Reliability Matrix , methods to test 
+
+# July - Aug 2026
 - [ ] Resilience of link availability 
 - [ ] Operational Margin 
 
 
-
+# TAC MEETING 
 
