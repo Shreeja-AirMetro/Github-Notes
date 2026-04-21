@@ -108,9 +108,9 @@ To send to Enrique - Monday
 
 - [ ] Adapt the code veins inet mobiliy in veins leon 
 	- [x] Check veins leon output
-	- [ ] Altitude in Veins Inet 
-	- [ ] Questions on Air layer with veins inet mobility 
-	- [ ] Complete adapt code 
+	- [x] Altitude in Veins Inet 
+	- [x] Questions on Air layer with veins inet mobility 
+	- [x] Complete adapt code 
 	- [ ] version for TN only 
 	- [ ] Version for NTN only
 	- [ ] Compile 
