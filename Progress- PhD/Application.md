@@ -133,4 +133,6 @@ Waiting for response
 # My plan 
 
 - Approval and Complete Summer Semester courses
-- Write letter 
+- Write letter Aug /Sep - Winter sem courses 
+- Complete winter sem courses and Thesis report - grades (with defense) 
+- Final submission of all documents / acceptance in April - May 2027
