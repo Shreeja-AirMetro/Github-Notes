@@ -9,3 +9,7 @@
 - [ ] Full scenario Setup and code base setup 
 - [ ] Open-source 
 - [ ] IEEE Access
+
+# PhD 
+- [ ] Decision on Summer courses
+- [ ] Complete Summer courses 
