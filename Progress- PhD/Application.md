@@ -123,3 +123,14 @@ https://www.verw.tu-dresden.de/Amtbek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf
 1. Nov reply /letter from Uta has a mistake - the changed courses are not accepted 
 2. SELMA have form for registration - so the prof can know the exam reghistered student - Contact Uta before exams in Summer Semester to get form 
 3. 2.5 and above for 60 credits 
+4. International office can accept as student  - with the letter 
+5. Graduate academy courses can be done with letter- or Inform them to write email to Uta 
+
+Waiting for response
+	Agree on courses for summer semester and write letter in august for winter semester 
+	Quantity and Quality of publication - letter 
+
+# My plan 
+
+- Approval and Complete Summer Semester courses
+- Write letter 
