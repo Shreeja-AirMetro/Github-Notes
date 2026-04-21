@@ -17,4 +17,9 @@
 - [ ] Graduate academy 
 
 # Progress - Hardware
+- [ ] Mesh hardware desk setup
+- [ ] Mesh hardware - Drone 
+- [ ] To get Iridium plan 
+- [ ] Setup iridium and 5G modem - bench test 
+- [ ] Setup iridium and 5G link - Flight test and data recording 
 - [ ] 
