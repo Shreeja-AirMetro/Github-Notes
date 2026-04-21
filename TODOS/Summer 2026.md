@@ -1,7 +1,7 @@
 
 **Tasks for April - May - June- July and August 2026**
 
-# Simulator 
+# Progress - Simulator 
 
 - [ ] Results and submission for DRCN 
 - [ ] Handover scenario for Same methodology for DRCN 
@@ -10,6 +10,11 @@
 - [ ] Open-source 
 - [ ] IEEE Access
 
-# PhD 
+# PhD  registration
 - [ ] Decision on Summer courses
-- [ ] Complete Summer courses 
+- [ ] Complete Summer courses exam 
+- [ ] Plan for winter courses 
+- [ ] Graduate academy 
+
+# Progress - Hardware
+- [ ] 
