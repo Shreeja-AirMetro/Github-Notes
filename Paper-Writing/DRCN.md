@@ -113,6 +113,7 @@ To send to Enrique - Monday
 	- [x] Complete adapt code 
 	- [ ] Compare with Lyuqiao code
 	- [ ] Change/ reduce the distance and cell size 
+	- [ ] Test this part 
 	- [ ] version for TN only 
 	- [ ] Version for NTN only
 	- [ ] Compile 
