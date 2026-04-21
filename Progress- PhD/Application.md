@@ -112,4 +112,14 @@ https://www.verw.tu-dresden.de/Amtbek/PDF-Dateien/2024-03/06_12soD26.04.2024.pdf
 - Comnet 1 + Smart Grid - 7 (SS)
 - Comnets 2 + traffic theory - 7  (SS)
 - Vertifung - 7 (WS)
-- Comnets 3 - 5 + Problem based solving - 5 (WS)
+- Comnets 3 - 5 (WS)
+- Problem based solving - 5 (WS) / Industry visit and report 
+
+
+
+---
+# Talk with Uta 21/4
+
+1. Nov reply /letter from Uta has a mistake - the changed courses are not accepted 
+2. SELMA have form for registration - so the prof can know the exam reghistered student - Contact Uta before exams in Summer Semester to get form 
+3. 2.5 and above for 60 credits 
