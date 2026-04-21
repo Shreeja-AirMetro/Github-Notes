@@ -111,6 +111,8 @@ To send to Enrique - Monday
 	- [x] Altitude in Veins Inet 
 	- [x] Questions on Air layer with veins inet mobility 
 	- [x] Complete adapt code 
+	- [ ] Compare with Lyuqiao code
+	- [ ] Change/ reduce the distance and cell size 
 	- [ ] version for TN only 
 	- [ ] Version for NTN only
 	- [ ] Compile 
