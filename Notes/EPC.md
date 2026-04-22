@@ -344,3 +344,10 @@ Coanda effect - what are the applications
 What is patent family 
 Paris convention  - same priority and they contain same technical info 
 subgroup  and main class 
+
+![[Screenshot from 2026-04-22 16-25-42.png]]
+![[Screenshot from 2026-04-22 16-26-42.png]]
+A patent family consists of all patent applications and granted patents that claim priority from the same initial filing (priority application).
+Simple example: File in Germany → then file in US, Japan, EPO within 12 months citing German priority → that's one patent family covering the same invention across multiple territories.
+Same invention, multiple countries, one family!
+
