@@ -111,13 +111,21 @@ To send to Enrique - Monday
 	- [x] Altitude in Veins Inet 
 	- [x] Questions on Air layer with veins inet mobility 
 	- [x] Complete adapt code 
-	- [ ] Compare with Lyuqiao code
-	- [ ] Change/ reduce the distance and cell size 
-	- [ ] Test this part 
-	- [ ] version for TN only 
-	- [ ] Version for NTN only
-	- [ ] Compile 
+22/4 
+ - [ ] Compare with Lyuqiao code
+ - [ ] Change/ reduce the distance and cell size 
+ - [ ] Test this part 
+ - [ ] Downlink data - check - initial plot 
+ - [ ] prep for tomorrow meeting 
+ - [ ] Send to Lyuqiao 
+23/4
+ - [ ] version for TN only  
+- [ ] Version for NTN only
+- [ ] Compile 
+
+Final dataset (before 3/5)
 - [ ] Downlink TN  - data
 - [ ] Downlink NTN  - data
 - [ ] Uplink TN 
 - [ ] Uplink NTN
+- [ ] Plots
