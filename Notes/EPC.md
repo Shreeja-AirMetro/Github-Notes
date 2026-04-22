@@ -323,3 +323,5 @@ Just to be complete: the European patent I listed above was in the end revoked i
 ---
 
 
+# Masterclass 3 - with module 3 and 4 
+
