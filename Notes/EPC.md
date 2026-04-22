@@ -338,4 +338,8 @@ BIG JOURNEY BEGINS WITH SMALL STEPS
 
 
 Coanda effect - what are the applications 
- - Aerodynamic effect 
+ - Aerodynamic effect  
+ -  in database - this have 20k + in this patent family 
+
+What is patent family 
+Paris convention  - same priority and they contain same technical info 
