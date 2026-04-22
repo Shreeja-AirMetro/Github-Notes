@@ -353,3 +353,12 @@ Same invention, multiple countries, one family!
 
 check prior art through the process and moment you have idea 
 ![[Screenshot from 2026-04-22 16-38-56.png]]
+
+
+# UAV communication 
+C2 protocol patents 
+https://worldwide.espacenet.com/patent/search/family/090737876/publication/EP4607846A1?q=C2%20protocol
+
+https://worldwide.espacenet.com/patent/search/family/089977654/publication/WO2024064973A2?q=C2%20protocol
+
+
