@@ -367,3 +367,11 @@ Patent classification system
 ![[Screenshot from 2026-04-22 17-03-33.png]]
 ![[Screenshot from 2026-04-22 17-18-45.png]]
 ![[Screenshot from 2026-04-22 17-18-59.png]]
+
+# Exam 
+
+Open on 18th may  - 25th  - 2 hours only (one go)
+16 MCQ  - 40%
+250-500 words applied questions - case study 
+requirements  - from learning plan 
+complete all 5  module quiz 
