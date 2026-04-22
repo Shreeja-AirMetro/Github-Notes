@@ -1,4 +1,5 @@
-
+ - Target position with global experience 
+ - 
 # Types of industry roles & employers that will hire you
 
 - **Telecom vendors / infrastructure (Ericsson, Nokia, Qualcomm, Huawei)** — roles: research engineer, system architect for aerial UEs and NTN. [connectivity.technology+1](https://www.connectivity.technology/2021/08/ericsson-explains-internet-of-drones.html?utm_source=chatgpt.com)
