@@ -325,3 +325,11 @@ Just to be complete: the European patent I listed above was in the end revoked i
 
 # Masterclass 3 - with module 3 and 4 
 
+- Complete modules for final exams
+
+Dominico Golzio 
+Avionic Engineer 
+Search tool database for patent information 
+
+From patent information to latent information 
+Es PACE NET 
