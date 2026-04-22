@@ -65,3 +65,12 @@ Unpublished version
 
 
 # Simulator Discussion Points for Open Source 
+
+- Focus on 4 use-cases  (HAP is not mandatory)
+- Run the existing simulator , clean up data - have them with proper structure of data collected 
+- KPIs - RSRP, RSSI,SINR , Frame level, Packet level  Latency PLR, Throughput
+- Tap into all possible data in analysis - excel in analysis part 
+- Physical layer throught (MCS theoritical upper bound) application layer throughput (recieved packets)
+- Latency - frame level and E2E
+- Check old results and format it
+- 

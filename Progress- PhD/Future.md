@@ -95,15 +95,11 @@ This is where **protocol developers live**.
 - Covers:
     
     - `sk_buff`
-        
     - Netfilter hooks
-        
     - TCP/IP stack internals
-        
     - Routing & neighbor subsystem
-        
     - SoftIRQ / NAPI
-        
+
 - 👉 Gold standard for kernel networking
     
 
@@ -131,22 +127,16 @@ You **do not** need to be a kernel maintainer — but you must be comfortable mo
 **Recommended:**
 
 - **Linux Kernel Internals (Linux Foundation LFD420)**
-    
 - Writing kernel modules
-    
 - Kernel synchronization
-    
 - Debugging kernel crashes
     
 
 **What to focus on:**
 
 - Netlink sockets
-    
 - Kernel timers
-    
 - Workqueues
-    
 - Locking in networking paths
     
 
