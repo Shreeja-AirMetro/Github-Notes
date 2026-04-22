@@ -332,4 +332,10 @@ Avionic Engineer
 Search tool database for patent information 
 
 From patent information to latent information 
-Es PACE NET 
+Es PACE NET  - https://worldwide.espacenet.com/
+
+BIG JOURNEY BEGINS WITH SMALL STEPS
+
+
+Coanda effect - what are the applications 
+ - Aerodynamic effect 
