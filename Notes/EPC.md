@@ -343,3 +343,4 @@ Coanda effect - what are the applications
 
 What is patent family 
 Paris convention  - same priority and they contain same technical info 
+subgroup  and main class 
