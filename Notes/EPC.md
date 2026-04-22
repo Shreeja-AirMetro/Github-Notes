@@ -365,3 +365,5 @@ https://worldwide.espacenet.com/patent/search/family/089977654/publication/WO202
 Patent classification system
 
 ![[Screenshot from 2026-04-22 17-03-33.png]]
+![[Screenshot from 2026-04-22 17-18-45.png]]
+![[Screenshot from 2026-04-22 17-18-59.png]]
