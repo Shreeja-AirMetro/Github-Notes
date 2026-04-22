@@ -372,6 +372,10 @@ Patent classification system
 
 Open on 18th may  - 25th  - 2 hours only (one go)
 16 MCQ  - 40%
-250-500 words applied questions - case study 
+250-500 words applied questions - case study  - open ended - 60% 
+
+min 70% 
+Grades 8th June 
+
 requirements  - from learning plan 
 complete all 5  module quiz 
