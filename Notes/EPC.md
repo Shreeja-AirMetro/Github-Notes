@@ -352,3 +352,4 @@ Simple example: File in Germany → then file in US, Japan, EPO within 12 months
 Same invention, multiple countries, one family!
 
 check prior art through the process and moment you have idea 
+![[Screenshot from 2026-04-22 16-38-56.png]]
