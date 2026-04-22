@@ -351,3 +351,4 @@ A patent family consists of all patent applications and granted patents that cla
 Simple example: File in Germany → then file in US, Japan, EPO within 12 months citing German priority → that's one patent family covering the same invention across multiple territories.
 Same invention, multiple countries, one family!
 
+check prior art through the process and moment you have idea 
