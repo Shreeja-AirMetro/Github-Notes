@@ -111,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from main"
             }
           },
           {
@@ -139,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Dec 2025.md",
+                "file": "main.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dec 2025"
+              "title": "Outline of main"
             }
           },
           {
@@ -158,11 +159,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "710dba136d04e193",
   "lastOpenFiles": [
     "Annotate.md",
+    "Notes/NTN.md",
     "main.pdf",
     "2026-04-24.md",
     "Untitled 5.canvas",
     "Untitled 2.base",
-    "Notes/NTN.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "Annotate",
     "CNS summary for Abstract.pdf",

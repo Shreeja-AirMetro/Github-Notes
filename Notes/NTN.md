@@ -1021,3 +1021,10 @@ Analogy: SINR is like the precise temperature reading in a room, while CQI is l
 
 ![[main.pdf]]
 
+
+
+```md
+---
+annotation-target: obsidian://open?vault=Notes&file=main.pdf
+---
+```
