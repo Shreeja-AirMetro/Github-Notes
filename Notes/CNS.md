@@ -27,4 +27,17 @@ Sss- Check CNS channels - for discussion related notes
 	- But when it comes to Surveillance - Multiple UAV in the airspace must be taken into account - How to define this? 
 	-  Where does UTM play a role here - do we use U-space? 
 	-  Do the parameters that "validate" the common map representation align with the RCP, RNP, RSP metrics or recommendation - Is there a SoA to address these three alignments for AAM - If not addressing this will be novel
-	- 
+
+
+# CNS cluster common map representation
+
+- Common thing Data for safe operation of drone 
+- Intentional target : Between drone and GCS 
+- Type of data  : C: 
+- N: 
+- Surveillance  
+- Goal: 
+- Gap:
+- Theoritical frmework 
+- Planned actions: 
+- 
