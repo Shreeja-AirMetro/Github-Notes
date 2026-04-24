@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9513bdcf07b8a1c",
+        "id": "086493318f94d362",
         "type": "tabs",
         "children": [
           {
-            "id": "ef37292e8bfaa640",
+            "id": "370f64887f77482e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NTN.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NTN"
             }
           }
         ]
@@ -179,10 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef37292e8bfaa640",
+  "active": "afb092e45cbe1933",
   "lastOpenFiles": [
+    "Untitled",
     "main.pdf",
     "Notes/NTN.md",
+    "CNS summary for Abstract.pdf",
+    "download.jpeg",
+    "260225_TUD_Self-Assessment Report_2025_ohne Annex.pdf",
+    "main 1.pdf",
     "TODOS/Apr 2026.md",
     "Notes/CNS.md",
     "Notes/Data Management.md",
@@ -217,15 +226,11 @@
     "Screenshot from 2026-04-15 17-16-47.png",
     "Screenshot from 2026-04-15 17-15-03.png",
     "Screenshot from 2026-04-15 16-57-49.png",
-    "Screenshot from 2026-04-15 16-51-20.png",
     "Lectures",
     "KLU___TUDresde___RCP_for_unmanned_aerial_vehicles_in_NTN_networks.pdf",
     "Literature- organize.pdf",
     "1571272294 paper (1).pdf",
     "Notes/ICN.pdf",
-    "Notes/ICN 1.pdf",
-    "Federated Multiaccess Edge Computing Architecture for Scalable and Secure U-Space - Final (1).pdf",
-    "260225_TUD_Self-Assessment Report_2025_ohne Annex.pdf",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

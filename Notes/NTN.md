@@ -1016,3 +1016,8 @@ Analogy: SINR is like the precise temperature reading in a room, while CQI is l
 - What is green and white in slide 21 
 - What are the parameters ? 
 - Berlin - 
+
+![[main 1.pdf]]
+
+![[main.pdf]]
+
