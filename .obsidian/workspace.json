@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "370f64887f77482e",
+            "id": "2a19471f36809083",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/NTN.md",
-                "mode": "source",
-                "source": false
+                "file": "main.pdf"
               },
-              "icon": "lucide-file",
-              "title": "NTN"
+              "icon": "lucide-file-text",
+              "title": "main"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "main.pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,11 +182,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "2a19471f36809083",
   "lastOpenFiles": [
-    "Untitled",
-    "main.pdf",
+    "2026-04-24.md",
+    "Untitled 5.canvas",
+    "Untitled 2.base",
     "Notes/NTN.md",
+    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
+    "Annotate.md",
+    "main.pdf",
+    "Annotate",
     "CNS summary for Abstract.pdf",
     "download.jpeg",
     "260225_TUD_Self-Assessment Report_2025_ohne Annex.pdf",
@@ -206,7 +210,6 @@
     "Paper-Writing/DRCN.md",
     "Paper-Writing/IEEE Access.md",
     "Progress- PhD/Future.md",
-    "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
     "TODOS/Summer 2026.md",
     "Progress- PhD/Application.md",
     "Notes/Multi-link communication.md",
@@ -221,16 +224,12 @@
     "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/CeTI book.md",
     "Notes/UTM- Data Mesh.md",
-    "Paper-Writing/Deadline - target Conf and Journals.md",
-    "Progress- PhD/Research stay.md",
     "Screenshot from 2026-04-15 17-16-47.png",
     "Screenshot from 2026-04-15 17-15-03.png",
     "Screenshot from 2026-04-15 16-57-49.png",
     "Lectures",
     "KLU___TUDresde___RCP_for_unmanned_aerial_vehicles_in_NTN_networks.pdf",
     "Literature- organize.pdf",
-    "1571272294 paper (1).pdf",
-    "Notes/ICN.pdf",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
