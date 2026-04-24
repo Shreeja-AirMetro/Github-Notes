@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "086493318f94d362",
+        "id": "995263853e92e0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "2a19471f36809083",
+            "id": "710dba136d04e193",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "main.pdf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collab-external/Anywi.md",
+                "file": "main.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anywi"
+              "title": "Backlinks for main"
             }
           },
           {
@@ -112,12 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Drones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drones"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,8 +158,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,15 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a19471f36809083",
+  "active": "afb092e45cbe1933",
   "lastOpenFiles": [
+    "Annotate.md",
+    "main.pdf",
     "2026-04-24.md",
     "Untitled 5.canvas",
     "Untitled 2.base",
     "Notes/NTN.md",
     "Paper-Writing/IEEE Transactions on Vehicular Technology  Special Issue on Low-Altitude Wireless Networks (LAWN).md",
-    "Annotate.md",
-    "main.pdf",
     "Annotate",
     "CNS summary for Abstract.pdf",
     "download.jpeg",
