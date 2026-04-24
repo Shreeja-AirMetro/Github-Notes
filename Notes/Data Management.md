@@ -163,3 +163,10 @@ how do we use it
 	6. Transmit power (in dBm)
 	7. Polarization (vertical, horizontal, cross, etc.)
 Rest similar  to other templates: links , reference image, text description
+
+
+
+---
+
+
+ElabFTW ENtry 24/3
