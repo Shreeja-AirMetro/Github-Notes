@@ -8,7 +8,7 @@
   "debugLogging": false,
   "customDefaultPath": "",
   "epubSettings": {
-    "readingMode": "pagination",
+    "readingMode": "scroll",
     "fontSize": 100
   },
   "annotationMarkdownSettings": {
