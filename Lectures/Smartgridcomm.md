@@ -19,3 +19,11 @@
 - KI for Netzoptimization like with weather or external data  - Data from hospital study - prognose 
 - Oral exam - dates and appointments are flexible 
 - upload the lecture a week prior 
+
+
+
+29/4 Lecture 3 
+
+Power line communication (PLC) by Prof Lehnert
+
+- 
