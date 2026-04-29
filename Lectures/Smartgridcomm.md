@@ -39,4 +39,6 @@ Power line communication (PLC) by Prof Lehnert
 	- 98s broadband PLC 
 	- Incompatibility of solutions 
 	- 2000s IEEE 1901 BBPLC , 1901.2 NB PLC standard  for meter reading anwendung  then ITU G.hn BB over coax cable , fiber, PLC
-- Today 
+- Today application 
+	- Smart meter , EV charging (Typ2, AC, CCS, DC)  ladecable (NB-PLC)
+	- LAN over powerline 
