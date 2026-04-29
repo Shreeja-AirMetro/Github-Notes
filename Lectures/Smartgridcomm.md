@@ -94,4 +94,10 @@ PLC in H
 - WAN  - DLC access node - And Repeater 
 - ITU-G.hn - home networking 
 	- OFDM 
-	- Further stds - G 9960, 9961, 9963  - system architecture PhY , DA
+	- Further stds - G 9960, 9961, 9963  - system architecture PhY , DATA link , MIMO and power spectral density 
+	- masked subcarrier  - notching 
+	- PHY frame 
+		-  12 types of frames 
+		- No HARQ? - retransmission 
+	- FEC - block size - repitiotion encoder 
+	- 
