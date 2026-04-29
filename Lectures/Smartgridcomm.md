@@ -89,7 +89,7 @@ Questions - distance  , PoE later then PLC - complimentary?
 - Mobilefunk channel model  Standard impulse scenario
 - PLC topography 
 - PLC in LV network 
-PLC in H
+PLC in Home
 - Distribution Line carrier 
 - WAN  - DLC access node - And Repeater 
 - ITU-G.hn - home networking 
@@ -111,4 +111,8 @@ PLC in H
 - Adaptive MAC switching mechanism 
 - P-persistent CSMA , non persistent CSMA 
 - switching mechanism - polling 
+- ns3 simulation 
+- Realistic Phy Throughput 
+- 2 simple access mechanism instead of 1 complicated 
+- Tm Tool performance measurement  - traffic management and analysis 
 - 
