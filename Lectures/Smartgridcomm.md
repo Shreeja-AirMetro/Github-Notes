@@ -32,4 +32,10 @@ Power line communication (PLC) by Prof Lehnert
 - we see only powerline as comm medium 
 - smart meter reading done PLC
 - standard name as G.hn - ITU standard 
-- 
+- Stan - Adaptive MAC layer switching - PhD 
+- History of PLC 
+	- 30s carrier fre transmission on HV Power lines - amplitude modulation @ 150khz 
+	- digital transmission FSK 
+	- 98s broadband PLC 
+	- 2000s IEEE 1901 BBPLC , 1901.2 NB PLC standard  then ITU G.hn BB over cable , fiber, PLC
+	- 
