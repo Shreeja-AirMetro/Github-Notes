@@ -50,6 +50,9 @@ Power line communication (PLC) by Prof Lehnert
 - Peak load clipping 
 - Network specification 
 	- As a channel  -> Highly distributed physical channel 
-	- Background noise, 
+	- Background noise, Impulsive noise , Impedance variations 
+- varying traffic on app. layer 
 
 Questions - distance  , PoE later then PLC - complimentary?
+ shared bus from BS distribution - Logical bus structure 
+ 
