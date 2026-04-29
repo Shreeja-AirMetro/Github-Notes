@@ -58,4 +58,15 @@ Questions - distance  , PoE later then PLC - complimentary?
  - Logical bus structure 
  - high signal attenation - repeater necessary 
  - FDMA . Problem  - Bi directional propogation 
- - filter - frequency - need more frequency  - frequency 
+ - filter - frequency - need more frequency  - frequency reuse 
+ - how conversion 
+ - Powerline signal transmission 
+	 - Attenuation 
+	 - Noise
+	 - Signal Reflections 
+	 - Varying char Impedence 
+	 - Multi-path propogation 
+	 - Frequency selective fading 
+	 - Distrurbances from network environment - RF sender - other PLC systems 
+- EMC problems
+	- upto 85 Mhz 
