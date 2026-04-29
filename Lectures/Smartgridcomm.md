@@ -79,3 +79,13 @@ Questions - distance  , PoE later then PLC - complimentary?
 	- NB PLC -5km 
 	- BB PLC - 250m 
 - PRIME; G3 , iAd (German) , 
+- Survice  NB - PRIME and G3
+- OFDM 
+- ITU G.hn 
+- PLC : PHY model interface, Adaotaton layer to PLC, Application Interfare IP  
+- PLC: Adaptation Layer and IPV6
+- Instalattion with PLC layers are standards 
+- see how the full PLC or adaptation in model happens
+- Mobilefunk channel model  Standard impulse scenario
+- PLC topography 
+- PLC in LV network 
