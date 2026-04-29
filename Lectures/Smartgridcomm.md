@@ -70,3 +70,10 @@ Questions - distance  , PoE later then PLC - complimentary?
 	 - Distrurbances from network environment - RF sender - other PLC systems 
 - EMC problems
 	- upto 85 Mhz 
+	- Notching 
+- Countermeasures 
+	- Spreadspectrum - ultra wideband
+	- OFDM 
+	- MAC layer 
+	- Qos and error handling mechanism 
+	- NB PLC . 
