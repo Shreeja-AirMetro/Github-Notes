@@ -26,4 +26,10 @@
 
 Power line communication (PLC) by Prof Lehnert
 
+- old technology but new research work for digital communication - eg for OFDM and related frameworks 
+- hochspannungs leichtung 
+- standard for PLC 
+- we see only powerline as comm medium 
+- smart meter reading done PLC
+- standard name as G.hn - ITU standard 
 - 
