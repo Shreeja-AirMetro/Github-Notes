@@ -89,3 +89,9 @@ Questions - distance  , PoE later then PLC - complimentary?
 - Mobilefunk channel model  Standard impulse scenario
 - PLC topography 
 - PLC in LV network 
+PLC in H
+- Distribution Line carrier 
+- WAN  - DLC access node - And Repeater 
+- ITU-G.hn - home networking 
+	- OFDM 
+	- Further stds - G 9960, 9961, 9963  - system architecture PhY , DA
