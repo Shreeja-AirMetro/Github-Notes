@@ -76,4 +76,6 @@ Questions - distance  , PoE later then PLC - complimentary?
 	- OFDM 
 	- MAC layer 
 	- Qos and error handling mechanism 
-	- NB PLC . 
+	- NB PLC -5km 
+	- BB PLC - 250m 
+- PRIME; G3 , iAd (German) , 
