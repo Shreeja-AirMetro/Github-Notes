@@ -100,4 +100,9 @@ PLC in H
 		-  12 types of frames 
 		- No HARQ? - retransmission 
 	- FEC - block size - repitiotion encoder 
-	- 
+	- Payload duration 
+		- Size, FEC block, FEC rate without repition , freq band 
+- MAC Layer - CSMA / CA Contention 
+- collision 
+- Probability of successful transmission 
+- bigger contention wind
