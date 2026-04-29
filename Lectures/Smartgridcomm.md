@@ -105,4 +105,10 @@ PLC in H
 - MAC Layer - CSMA / CA Contention 
 - collision 
 - Probability of successful transmission 
-- bigger contention wind
+- bigger contention window is a disadvantage  
+- Access protocol and its performance 
+- Throughput to normalized transfer delay 
+- Adaptive MAC switching mechanism 
+- P-persistent CSMA , non persistent CSMA 
+- switching mechanism - polling 
+- 
