@@ -35,7 +35,8 @@ Power line communication (PLC) by Prof Lehnert
 - Stan - Adaptive MAC layer switching - PhD 
 - History of PLC 
 	- 30s carrier fre transmission on HV Power lines - amplitude modulation @ 150khz 
-	- digital transmission FSK 
+	- digital transmission FSK  - product standard KNX and used in home automation 
 	- 98s broadband PLC 
-	- 2000s IEEE 1901 BBPLC , 1901.2 NB PLC standard  then ITU G.hn BB over cable , fiber, PLC
-	- 
+	- Incompatibility of solutions 
+	- 2000s IEEE 1901 BBPLC , 1901.2 NB PLC standard  for meter reading anwendung  then ITU G.hn BB over coax cable , fiber, PLC
+- Today 
