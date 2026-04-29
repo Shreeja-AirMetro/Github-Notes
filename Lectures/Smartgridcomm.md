@@ -55,4 +55,7 @@ Power line communication (PLC) by Prof Lehnert
 
 Questions - distance  , PoE later then PLC - complimentary?
  shared bus from BS distribution - Logical bus structure 
- 
+ - Logical bus structure 
+ - high signal attenation - repeater necessary 
+ - FDMA . Problem  - Bi directional propogation 
+ - filter - frequency - need more frequency  - frequency 
