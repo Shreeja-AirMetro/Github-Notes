@@ -115,4 +115,5 @@ PLC in Home
 - Realistic Phy Throughput 
 - 2 simple access mechanism instead of 1 complicated 
 - Tm Tool performance measurement  - traffic management and analysis 
-- 
+- seit abhanging 
+- Ref - Lampe Book , Smartgrid comm 
