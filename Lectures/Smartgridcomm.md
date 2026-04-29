@@ -42,3 +42,14 @@ Power line communication (PLC) by Prof Lehnert
 - Today application 
 	- Smart meter , EV charging (Typ2, AC, CCS, DC)  ladecable (NB-PLC)
 	- LAN over powerline 
+- Diss - Stan 
+	- PLC modem with IP packet 
+- Data traffic in smart grid
+	- control traffic - smart packets and short delay requirement , load is small 
+	- firmware update - overload may happen 
+- Peak load clipping 
+- Network specification 
+	- As a channel  -> Highly distributed physical channel 
+	- Background noise, 
+
+Questions - distance  , PoE later then PLC - complimentary?
