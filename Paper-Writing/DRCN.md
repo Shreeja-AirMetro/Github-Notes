@@ -130,3 +130,89 @@ Final dataset (before 3/5)
 - [ ] Uplink TN 
 - [ ] Uplink NTN
 - [ ] Plots
+
+
+
+
+---
+
+Based on your `.ini` file and the UAV scenario described (100m altitude, 10m/s, intermittent GNB connectivity), your setup is largely correct for a **TN/NTN (Terrestrial/Non-Terrestrial Network)** hybrid simulation.
+
+However, to strictly satisfy **ICAO RCP** validation, there are missing configurations in your `.ini` to ensure all necessary data is recorded in your `.vec` file.
+
+### 1. Verification of Scenario Parameters
+
+- **Altitude & Speed:** Your altitude is set via `*.cars[0].mobility.height = 100 m` (which is standard for small UAVs). At 10m/s, crossing the 800m gaps between your GNBs (defined at 1m, 800m, 1600m) will take about 80 seconds per segment. This provides a good window for handover and "no-connection" analysis.
+    
+- **Intermittent Connectivity:** You have a large gap between `gNodeB[2]` (1600m) and `gNodeB[3]` (10000m). This perfectly simulates the "no available base station" section you mentioned.
+    
+- **Dual Connectivity:** You are using `CbrSenderDualConnectivity`. Since RCP applies to the _entire_ communication transaction, this is good for showing how NTN (Satellite) might maintain Continuity/Availability when the TN (GNBs) fails.
+    
+
+### 2. Missing `.vec` Records for RCP Analysis
+
+Currently, your `.ini` only explicitly records `endToEndDelay`. To plot against ICAO RCP for **Availability** and **Continuity**, you need to add the following to your `[General]` or `[Config HOdebug]` section:
+
+#### A. Record SINR (For Physical Layer Context)
+
+As we discussed, SINR explains _why_ a transaction failed. Add this to capture the radio quality:
+
+Ini, TOML
+
+```
+# Record SINR for both TN and NTN carriers
+**.cars[*].cellularNic.nrPhy.sinr:vector.record = true
+**.cars[*].cellularNic.nrPhy.snir:vector.record = true
+```
+
+#### B. Record Throughput & Packet Success (For Availability)
+
+Availability is calculated based on successful delivery. You need the counts of sent vs. received.
+
+Ini, TOML
+
+```
+# App level counts for Availability (PDR)
+**.app[*].sentPk:vector.record = true
+**.app[*].rcvdPk:vector.record = true
+
+# Throughput to see if the link bandwidth meets RCP minimums
+**.app[*].throughput:vector.record = true
+```
+
+#### C. Record Packet Drop (For Continuity)
+
+To calculate Continuity, you must know where and why packets were lost (e.g., during the GNB gap).
+
+Ini, TOML
+
+```
+# Record drops at the MAC and PHY layers
+**.nrMac.packetDrop:vector.record = true
+**.nrPhy.packetDrop:vector.record = true
+```
+
+### 3. Critical Fix for Transaction Time ($ET$)
+
+The ICAO RCP $ET$ (Expiration Time) is the **round-trip** or **one-way latency** (depending on the specific RCP type). You have:
+
+`.app[*].endToEndDelay:vector.record = true`
+
+**Warning:** In many frameworks (like Simu5G or INET), `endToEndDelay` is only recorded for _received_ packets. For RCP, you also need to account for packets that **never arrived**.
+
+> **Tip:** In your post-simulation analysis (Python/MATLAB), you must treat "Dropped" or "Lost" packets as having an infinite delay ($ET = \infty$) when calculating your Continuity percentiles.
+
+### 4. Summary Checklist for your `.vec` results
+
+After running the simulation, check that your `.vec` file contains these columns:
+
+1. **`timestamp`**: To map results to the UAV's position (especially in the "gap").
+    
+2. **`endToEndDelay`**: To compare against $TT_{95}$ and $TT_{99.9}$.
+    
+3. **`sinr`**: To correlate signal drops with the no-coverage area.
+    
+4. **`rcvdPk` vs `sentPk`**: To calculate the Availability percentage over the total flight duration.
+    
+
+Do you plan to use the **NTN (Satellite) link** to fill the gap between GNB 2 and GNB 3, or is the intention to show a complete loss of service in that area?
