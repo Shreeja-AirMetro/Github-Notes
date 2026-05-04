@@ -230,3 +230,8 @@ Do you plan to use the **NTN (Satellite) link** to fill the gap between GNB 2 an
 Intro 
 	Integration drones 
 		C2 link relaibility 
+		Current landscape of drones 
+		Why we are doing and what we are doing 
+		How to advanced 
+		3GPP 
+	
