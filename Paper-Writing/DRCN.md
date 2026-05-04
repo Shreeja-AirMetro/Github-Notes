@@ -234,4 +234,9 @@ Intro
 		Why we are doing and what we are doing 
 		How to advanced 
 		3GPP 
-	
+	Research contribution 
+	- Simulator build to validate results 
+
+- System model 
+- Use-case - requirements - as the target 
+- 
