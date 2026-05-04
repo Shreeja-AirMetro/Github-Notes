@@ -216,3 +216,9 @@ After running the simulation, check that your `.vec` file contains these columns
     
 
 Do you plan to use the **NTN (Satellite) link** to fill the gap between GNB 2 and GNB 3, or is the intention to show a complete loss of service in that area?
+
+
+
+
+# Discussion points with Enrique
+1. S
