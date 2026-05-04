@@ -242,3 +242,16 @@ Intro
 
 
 delay | higher than transaction time - continuity 
+
+Say  - RCP - Klügel work based  - Agnostics - why 
+Stats of TN 
+Availability 
+Latency
+Continuity 
+explore why 
+Enrique - explanation 
+
+NTN 
+including NTN - could help with outage - Implication in PBCS
+
+Safe way 
