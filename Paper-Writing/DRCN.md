@@ -225,4 +225,8 @@ Do you plan to use the **NTN (Satellite) link** to fill the gap between GNB 2 an
 2. Intro and background
 3. Research goals
 4. How to show results 
-5. 
+
+
+Intro 
+	Integration drones 
+		C2 link relaibility 
