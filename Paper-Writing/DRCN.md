@@ -221,4 +221,8 @@ Do you plan to use the **NTN (Satellite) link** to fill the gap between GNB 2 an
 
 
 # Discussion points with Enrique
-1. S
+1. Structure of doc 
+2. Intro and background
+3. Research goals
+4. How to show results 
+5. 
