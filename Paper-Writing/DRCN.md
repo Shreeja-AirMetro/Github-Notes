@@ -239,4 +239,6 @@ Intro
 
 - System model 
 - Use-case - requirements - as the target 
-- 
+
+
+delay | higher than transaction time - continuity 
