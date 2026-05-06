@@ -417,3 +417,9 @@ it is not just the battery - but all aspects for it to be sold (like charging, c
 
 India, Turkey have obligation to use IP 
 Non producing entity - patents 
+
+
+Novelty 
+Ownership
+
+Scenario 1 and 2 - company ownership 
