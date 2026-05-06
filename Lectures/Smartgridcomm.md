@@ -151,4 +151,6 @@ OCPP - dual structure protocols
  common standard between any type of charging station and central energy grid system 
  OCPP 1.6 - smart charging in uni directional 
  OCPP 2.0.1 for bi directional
- 
+ OCPP is not a standardized protocol 
+ - division of rules between ISO 15118 and  OCPP 
+
