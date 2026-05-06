@@ -387,4 +387,16 @@ Lecture on 6th May
 - IP stratergy
 - ben neuburger
 
-an organization need a stratergy to reacj
+an organization need a stratergy to reach obj and goals
+
+Astratergy takes into account all relevant aspects of the orga in specific environments
+Customers, suppliers, market , legal 
+IP 
+part of IP is patents 
+
+The patent stratergy is derived from the organisations' stratergy  - aims to support the organisation stratergy
+
+![[Screenshot from 2026-05-06 16-11-15.png]]
+
+
+Spin off and start ups 
