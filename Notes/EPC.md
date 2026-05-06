@@ -410,4 +410,6 @@ Spin off and start ups
 ![[Screenshot from 2026-05-06 16-21-29.png]]
 Invention and Patent Protection 
 
-Battery invention -> 
+Battery invention ->  power supply (applied patent in broad) -> lot of patents have more protection scope 
+
+it is not just the battery - but all aspects for it to be sold (like charging, cables...) Freedom to analysis is important 
