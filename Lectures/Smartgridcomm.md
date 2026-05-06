@@ -137,4 +137,13 @@ Categories
 - Remote terminal unit and TCP (types)
 - MOdbus - master slaves-> multiple slaves - reliability  (interference) and security 
 - MQTT based IOT protocols 
-- 
+- "near real time"
+- Topic based messaging  -- single level, multi-levels
+Protocols and QoS 
+
+
+LEVELS OF QOS - Timestamp SINR - PAket 
+Then whole simulation / one data collection cycle 
+Then continuity flight 
+Micro - to-macroscopic levels 
+
