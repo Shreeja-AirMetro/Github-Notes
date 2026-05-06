@@ -383,3 +383,8 @@ complete all 5  module quiz
 
 
 Lecture on 6th May
+
+- IP stratergy
+- ben neuburger
+
+an organization need a stratergy to reacj
