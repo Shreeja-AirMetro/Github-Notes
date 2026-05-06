@@ -154,3 +154,6 @@ OCPP - dual structure protocols
  OCPP is not a standardized protocol 
  - division of rules between ISO 15118 and  OCPP 
 
+EEBUS dual bus energy protocol 
+
+EEBUS - two protocol stack - SPINE (what) , SHIP (How - path)
