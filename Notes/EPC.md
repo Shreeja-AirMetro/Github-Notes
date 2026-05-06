@@ -400,3 +400,7 @@ The patent stratergy is derived from the organisations' stratergy  - aims to sup
 
 
 Spin off and start ups 
+- often need a strong market position 
+- IP is expensive and needs funding 
+- IP at university is  Tech transfers  - beyond protection - broader on patents and  could become a start up
+- 
