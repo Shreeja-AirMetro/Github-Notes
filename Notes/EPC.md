@@ -429,3 +429,9 @@ Case study discussion
 
 
 University -> patent and License 
+
+The ownership of the patent is determined on basis of the relation at the time of doing the invention If that was an employer-employee relationship, normally the employer will be entitled to the patent and will get the benefits thereof. It will however depend on the contract between inventor and employer if the inventor also benefits and in what way and during what time.
+
+University owner of patent - University license it 
+
+Filing date is secured  in scenario 4 
