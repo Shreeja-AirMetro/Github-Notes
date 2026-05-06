@@ -389,7 +389,7 @@ Lecture on 6th May
 
 an organization need a stratergy to reach obj and goals
 
-Astratergy takes into account all relevant aspects of the orga in specific environments
+A stratergy takes into account all relevant aspects of the orga in specific environments
 Customers, suppliers, market , legal 
 IP 
 part of IP is patents 
@@ -403,4 +403,11 @@ Spin off and start ups
 - often need a strong market position 
 - IP is expensive and needs funding 
 - IP at university is  Tech transfers  - beyond protection - broader on patents and  could become a start up
-- 
+- collaborative innovation between university and Industry - interesting - based on IP agreement 
+- Patent troll 
+-
+
+![[Screenshot from 2026-05-06 16-21-29.png]]
+Invention and Patent Protection 
+
+Battery invention -> 
