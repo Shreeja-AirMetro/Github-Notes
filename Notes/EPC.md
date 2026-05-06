@@ -413,3 +413,7 @@ Invention and Patent Protection
 Battery invention ->  power supply (applied patent in broad) -> lot of patents have more protection scope 
 
 it is not just the battery - but all aspects for it to be sold (like charging, cables...) Freedom to analysis is important 
+
+
+India, Turkey have obligation to use IP 
+Non producing entity - patents 
