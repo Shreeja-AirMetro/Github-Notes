@@ -423,3 +423,7 @@ Novelty
 Ownership
 
 Scenario 1 and 2 - company ownership 
+
+
+Case study discussion
+
