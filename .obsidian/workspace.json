@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Smartgridcomm.md",
+                "file": "TODOS/May 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smartgridcomm"
+              "title": "May 2026"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Smartgridcomm.md",
+                "file": "TODOS/May 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Smartgridcomm"
+              "title": "Outline of May 2026"
             }
           },
           {
@@ -185,6 +185,7 @@
   },
   "active": "3243e9a7af519f9e",
   "lastOpenFiles": [
+    "Lectures/Smartgridcomm.md",
     "TODOS/2026.md",
     "TODOS/2027.md",
     "TODOS/May 2026.md",
@@ -192,7 +193,6 @@
     "TODOS/Apr 2026.md",
     "Paper-Writing/DRCN.md",
     "TODOS/AirMetro-Student-Meeting-2701.md",
-    "Lectures/Smartgridcomm.md",
     "TODOS/Summer 2026.md",
     "Annotate.md.md",
     "main.pdf",
