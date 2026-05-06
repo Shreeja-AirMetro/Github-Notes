@@ -131,8 +131,10 @@ Categories
 	- Energy 
 	- Dual - purpose 
 - tradicational comm protocols Modbus 
-- SCADA systems 
+- SCADA systems  monitoring and control 
 - protocol categories, transmissio media 
 	- Query architecture 
 - Remote terminal unit and TCP (types)
+- MOdbus - master slaves-> multiple slaves - reliability  (interference) and security 
+- MQTT based IOT protocols 
 - 
