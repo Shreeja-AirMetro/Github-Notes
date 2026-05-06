@@ -130,3 +130,9 @@ Categories
 	- communication 
 	- Energy 
 	- Dual - purpose 
+- tradicational comm protocols Modbus 
+- SCADA systems 
+- protocol categories, transmissio media 
+	- Query architecture 
+- Remote terminal unit and TCP (types)
+- 
