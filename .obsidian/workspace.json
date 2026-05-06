@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/2026.md",
+                "file": "Lectures/Smartgridcomm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026"
+              "title": "Smartgridcomm"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/2026.md",
+                "file": "Lectures/Smartgridcomm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026"
+              "title": "Outline of Smartgridcomm"
             }
           },
           {
@@ -185,8 +185,8 @@
   },
   "active": "3243e9a7af519f9e",
   "lastOpenFiles": [
-    "TODOS/2027.md",
     "TODOS/2026.md",
+    "TODOS/2027.md",
     "TODOS/May 2026.md",
     "Paper-Writing/EW - 2026.md",
     "TODOS/Apr 2026.md",

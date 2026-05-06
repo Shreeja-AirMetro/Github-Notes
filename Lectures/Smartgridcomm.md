@@ -117,3 +117,16 @@ PLC in Home
 - Tm Tool performance measurement  - traffic management and analysis 
 - seit abhanging 
 - Ref - Lampe Book , Smartgrid comm 
+
+---
+
+protocols 
+
+Smartgrid - digital power based communication network 
+ - real time connection between producer and user 
+
+Protocol- facilitiate data exchange and energy management 
+Categories 
+	- communication 
+	- Energy 
+	- Dual - purpose 
