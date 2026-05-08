@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Lectures/Comnet2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May 2026"
+              "title": "Comnet2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Lectures/Comnet2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for May 2026"
+              "title": "Backlinks for Comnet2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Lectures/Comnet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from May 2026"
+              "title": "Outgoing links from Comnet2"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Lectures/Comnet2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of May 2026"
+              "title": "Outline of Comnet2"
             }
           },
           {
@@ -183,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fad98bf614fc1d77",
+  "active": "3243e9a7af519f9e",
   "lastOpenFiles": [
-    "Paper-Writing/DRCN.md",
     "TODOS/May 2026.md",
+    "Lectures/Comnet2.md",
+    "Paper-Writing/DRCN.md",
     "Notes/EPC.md",
     "Screenshot from 2026-05-06 16-21-29.png",
     "Screenshot from 2026-05-06 16-11-15.png",
