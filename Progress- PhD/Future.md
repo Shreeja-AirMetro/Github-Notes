@@ -5993,3 +5993,334 @@ That sector is receiving money simultaneously from:
     
 
 That’s unusually strong positioning for a PhD career between now and 2028.
+
+---
+
+## Top drone & autonomy VCs to follow in 2026
+
+These firms are shaping the current drone / autonomous systems / defense-tech wave, especially around AI-enabled drones, counter-UAS, swarm autonomy, and dual-use infrastructure.
+
+### 1. [Drone Fund](https://dronefund.vc/?utm_source=chatgpt.com)
+
+One of the earliest dedicated drone-focused VCs globally. Based in Japan/U.S., they backed companies across:
+
+- autonomous flight
+    
+- air mobility
+    
+- industrial drones
+    
+- robotics infrastructure
+    
+
+Still influential because many current “defense autonomy” themes evolved from their earlier commercial drone thesis.
+
+### 2. [Unmanned.vc](https://unmanned.vc/?utm_source=chatgpt.com)
+
+A newer Europe-focused specialist VC investing directly in:
+
+- drones
+    
+- AI autonomy
+    
+- robotics
+    
+- defense tech
+    
+- cybersecurity
+    
+
+They’re becoming one of the clearest “pure-play” autonomy investors in Europe. ([Unmanned](https://unmanned.vc/?utm_source=chatgpt.com "Unmanned.vc | Early-Stage VC for Defence, Drone & Autonomous Startups"))
+
+### 3. [In-Q-Tel](https://www.iqt.org/?utm_source=chatgpt.com)
+
+The CIA-linked strategic investment arm is heavily increasing focus on:
+
+- autonomy
+    
+- contested logistics
+    
+- battlefield AI
+    
+- next-gen unmanned systems
+    
+
+Their 2026 strategy pivot toward “forward-deployed warfare” is one of the biggest signals in defense VC right now. ([Axios](https://www.axios.com/2026/05/05/inqtel-cia-venture-investing-autonomy?utm_source=chatgpt.com "Exclusive: In-Q-Tel pivots strategy for \"forward-deployed\" warfare and espionage"))
+
+### 4. [Founders Fund](https://foundersfund.com/?utm_source=chatgpt.com)
+
+A major force behind the defense-tech boom through bets on companies like:
+
+- Anduril
+    
+- SpaceX
+    
+- autonomous military systems
+    
+
+Very aggressive on sovereign-tech and defense manufacturing themes.
+
+### 5. [Lux Capital](https://www.luxcapital.com/?utm_source=chatgpt.com)
+
+One of the strongest deep-tech firms for:
+
+- robotics
+    
+- aerospace
+    
+- autonomy
+    
+- dual-use AI
+    
+- hard-tech manufacturing
+    
+
+Widely respected among technical founders.
+
+### 6. [Shield Capital](https://shieldcap.com/?utm_source=chatgpt.com)
+
+Specialized defense-tech investor focused on:
+
+- national security
+    
+- AI
+    
+- autonomous systems
+    
+- cyber-defense
+    
+
+Increasingly visible in NATO-aligned drone ecosystems.
+
+### 7. [a16z American Dynamism](https://a16z.com/american-dynamism/?utm_source=chatgpt.com)
+
+Andreessen Horowitz’s industrial/defense initiative backing:
+
+- autonomous logistics
+    
+- defense manufacturing
+    
+- robotics
+    
+- aerospace infrastructure
+    
+
+One of the strongest narrative drivers behind “re-industrialization + autonomy.”
+
+### 8. [Point72 Ventures](https://p72.vc/?utm_source=chatgpt.com)
+
+Quietly active in:
+
+- AI robotics
+    
+- autonomy
+    
+- industrial sensing
+    
+- aerospace software
+    
+
+Often appears in late-stage deep-tech rounds.
+
+---
+
+# Hottest drone startups right now (2026)
+
+These are the companies getting the most momentum from defense budgets, autonomy breakthroughs, or rapid deployment demand.
+
+## Helsing
+
+Europe’s biggest defense-AI breakout.
+
+Now expanding aggressively into:
+
+- autonomous strike drones
+    
+- underwater systems
+    
+- AI battlefield coordination
+    
+
+Reportedly raising at an ~$18B valuation. ([VCBacked](https://www.vcbacked.co/defense-1000?utm_source=chatgpt.com "Defense 1000 Index - Top 1,000 Funded Defense Tech Companies & Fundraising Data | VCbacked | VCBacked"))
+
+## Quantum Systems
+
+Probably Europe’s most important drone startup right now.
+
+Focus:
+
+- ISR drones
+    
+- AI-enabled reconnaissance
+    
+- battlefield mapping
+    
+- dual-use UAV systems
+    
+
+Huge growth from NATO demand and Ukraine-related procurement. ([StartupHub](https://www.startuphub.ai/lists/top-drone-startups-of-2026-4657f4e2?utm_source=chatgpt.com "Top Drone Startups of 2026 | StartupHub.ai | StartupHub.ai"))
+
+## Skydio
+
+Still considered the autonomy benchmark for U.S.-made drones.
+
+Strengths:
+
+- obstacle avoidance
+    
+- autonomous tracking
+    
+- enterprise + defense deployments
+    
+- “drone as first responder” systems
+    
+
+The company keeps winning credibility with military and public-safety deployments. ([Reddit](https://www.reddit.com/r/DFRDrone/comments/1s7zr5y/the_dfr_landscape_in_2026_a_state_of_the_union/?utm_source=chatgpt.com "The DFR Landscape in 2026: A State of the Union"))
+
+## BRINC
+
+Fast-rising tactical/public safety drone company.
+
+Known for:
+
+- emergency response drones
+    
+- police deployment systems
+    
+- indoor tactical drones
+    
+- autonomous response workflows
+    
+
+Frequently mentioned alongside Axon/Flock ecosystems. ([Reddit](https://www.reddit.com/r/DFRDrone/comments/1s7zr5y/the_dfr_landscape_in_2026_a_state_of_the_union/?utm_source=chatgpt.com "The DFR Landscape in 2026: A State of the Union"))
+
+## Auterion
+
+A key autonomy software layer for military drones.
+
+Think:
+
+- drone operating systems
+    
+- autonomy stack
+    
+- AI mission control
+    
+- open drone architecture
+    
+
+Increasingly important in NATO/U.S. defense interoperability discussions. ([Reddit](https://www.reddit.com/r/RedCatHoldings/comments/1re40uk/daily_discussion_february_25_2026/?utm_source=chatgpt.com "Daily Discussion - February 25, 2026"))
+
+## Firestorm Labs
+
+One of the most talked-about next-gen defense drone startups.
+
+Core angle:
+
+- rapidly manufactured drones
+    
+- additive manufacturing
+    
+- attritable low-cost systems
+    
+
+Very aligned with Pentagon “mass drone” strategies. ([Reddit](https://www.reddit.com/r/RedCatHoldings/comments/1re40uk/daily_discussion_february_25_2026/?utm_source=chatgpt.com "Daily Discussion - February 25, 2026"))
+
+## Apollyon Dynamics
+
+Extremely early-stage but gaining attention fast.
+
+What makes them notable:
+
+- kamikaze drones
+    
+- rapid iteration
+    
+- ultra-fast military prototyping
+    
+- founder-led engineering culture
+    
+
+Raised pre-seed shortly after launching. ([The Times of India](https://timesofindia.indiatimes.com/city/hyderabad/bits-startup-raises-rs-4-cr-eyes-faster-smarter-def-systems/articleshow/130810996.cms?utm_source=chatgpt.com "BITS startup raises Rs 4 cr, eyes faster, smarter def systems"))
+
+## AirKamuy
+
+A fascinating emerging player making ultra-cheap cardboard drones for swarm warfare.
+
+This reflects a major trend:
+
+- low-cost expendable drones
+    
+- distributed swarms
+    
+- mass production over exquisite hardware
+    
+
+Potentially very disruptive economically. ([TechRadar](https://www.techradar.com/pro/from-the-inventors-of-origami-japan-joins-australia-in-building-cardboard-drones-designed-for-one-way-missions-and-swarming-targets-and-at-just-usd2-000-theyre-scarily-cheap?utm_source=chatgpt.com "'From the inventors of origami': Japan joins Australia in building cardboard drones designed for one-way missions and swarming targets - and at just $2,000, they're scarily cheap"))
+
+## Anduril Industries
+
+Not purely a drone company anymore — now a full-stack autonomous defense platform.
+
+But still central to:
+
+- autonomous air systems
+    
+- counter-UAS
+    
+- AI battlefield systems
+    
+- autonomous perimeter security
+    
+
+Probably the defining defense-tech company of this era. ([VCBacked](https://www.vcbacked.co/defense-1000?utm_source=chatgpt.com "Defense 1000 Index - Top 1,000 Funded Defense Tech Companies & Fundraising Data | VCbacked | VCBacked"))
+
+## Teal Drones
+
+A major U.S.-made tactical drone player under Red Cat Holdings.
+
+Strong momentum because:
+
+- Blue UAS certification
+    
+- domestic supply chain
+    
+- secure military-grade systems
+    
+
+Frequently appears in Pentagon-related discussions. ([Reddit](https://www.reddit.com/r/RedCatHoldings/comments/1re40uk/daily_discussion_february_25_2026/?utm_source=chatgpt.com "Daily Discussion - February 25, 2026"))
+
+---
+
+## Biggest trend across all of them
+
+The market is shifting from:
+
+- expensive exquisite drones
+    
+
+toward:
+
+- AI autonomy
+    
+- swarm coordination
+    
+- cheap attritable systems
+    
+- GPS-denied navigation
+    
+- battlefield software layers
+    
+- integrated drone ecosystems
+    
+
+The most valuable companies increasingly look more like:
+
+- AI companies
+    
+- software platforms
+    
+- autonomy operating systems
+    
+
+…rather than traditional hardware manufacturers.
