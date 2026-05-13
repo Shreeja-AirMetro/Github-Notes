@@ -195,4 +195,5 @@ Bidirectional charging
 - Average Emission factors , Marginal emission factor - for planning charging 
 - EV - battery degradation - calendar and cycling aging 
 - "90% simulation don't work exactly in real-life"
+- Use-cases -> Solution from WPs
 - 
