@@ -176,5 +176,7 @@ Bidirectional charging
 - Types of control reserves
 - FCR type is expensive 
 - stand by and react - market to capacity for grid control | Standby and mileage pay
+- Bidirectional charging - target service group - FCR
+- parking lot fuse constraints 
 - 
 - 
