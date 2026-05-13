@@ -266,3 +266,16 @@ Shreeja To do
  - [ ]  ISl Drop 
  - [ ] Sync  background intro Pending parts
  - [ ] EDAS
+
+--
+
+
+NEver attach antenna to carbon fiber - a lot of static 
+PLA
+decouble the joint of the housing - to the carbon fiber 
+Plate have a damper 
+fuel engine drones 
+disruption in EM wave 
+
+
+Enrique - sionna 
