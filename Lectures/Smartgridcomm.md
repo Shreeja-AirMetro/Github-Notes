@@ -187,4 +187,6 @@ Bidirectional charging
 - optimization locally
 - parking garage - 5G network instability 
 - mesh network for indoor area 
+- eMSPs
+- energy management locally - > global central coordination 
 - 
