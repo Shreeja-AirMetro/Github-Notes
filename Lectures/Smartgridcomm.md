@@ -175,3 +175,6 @@ Bidirectional charging
 - Traditional way to manage imbalance is control reserve - maintain power at 50 Hz 
 - Types of control reserves
 - FCR type is expensive 
+- stand by and react - market to capacity for grid control | Standby and mileage pay
+- 
+- 
