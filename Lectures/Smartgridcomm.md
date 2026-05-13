@@ -157,3 +157,12 @@ OCPP - dual structure protocols
 EEBUS dual bus energy protocol 
 
 EEBUS - two protocol stack - SPINE (what) , SHIP (How - path)
+
+
+13/5 
+Bidirectional charging 
+
+- production is not certain 
+- Demands for EV (esp in earl evening high demand)
+- Transmission system operator has huge responsibility in grid stability 
+- Air
