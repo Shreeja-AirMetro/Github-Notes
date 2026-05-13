@@ -165,4 +165,11 @@ Bidirectional charging
 - production is not certain 
 - Demands for EV (esp in earl evening high demand)
 - Transmission system operator has huge responsibility in grid stability 
-- Air
+- Required from Kinetic energy to electrical 
+	- Physics based stability
+	- Software based stability 
+- no meter - no monitoring - no control 
+- energy imbalance - frequency imbalance in real time 
+- by rule of thumb - 15 min resolution round 
+- Spain - So many fluctuation - conventional power plant cannot hold certain frequency 
+- 
