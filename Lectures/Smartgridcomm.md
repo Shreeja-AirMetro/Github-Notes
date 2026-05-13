@@ -196,4 +196,5 @@ Bidirectional charging
 - EV - battery degradation - calendar and cycling aging 
 - "90% simulation don't work exactly in real-life"
 - Use-cases -> Solution from WPs
-- 
+- MILP and heuristics > better than DRL (agents - rewards) for charging plan generation 
+-  
