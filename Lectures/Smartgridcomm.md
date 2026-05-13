@@ -172,4 +172,6 @@ Bidirectional charging
 - energy imbalance - frequency imbalance in real time 
 - by rule of thumb - 15 min resolution round 
 - Spain - So many fluctuation - conventional power plant cannot hold certain frequency 
-- 
+- Traditional way to manage imbalance is control reserve - maintain power at 50 Hz 
+- Types of control reserves
+- FCR type is expensive 
