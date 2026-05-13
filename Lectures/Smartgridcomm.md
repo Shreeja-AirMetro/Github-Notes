@@ -184,4 +184,7 @@ Bidirectional charging
 	- Bi directional - time, power and direction of power 
 	- Mobility of the EV cas spatial disadvantage 
 		- soln - mobility aware bi-directional charging 
+- optimization locally
+- parking garage - 5G network instability 
+- mesh network for indoor area 
 - 
