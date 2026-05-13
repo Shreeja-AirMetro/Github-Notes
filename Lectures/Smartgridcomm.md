@@ -191,5 +191,7 @@ Bidirectional charging
 - energy management locally - > global central coordination 
 -  EV - AC and DC charger - BMS of car - issue 
 - prediction algorithm for Smart charging in buildings
-- sustainablesmart charging station 
+- sustainable smart charging station 
+- Average Emission factors 
+- Marginal emission factor
 - 
