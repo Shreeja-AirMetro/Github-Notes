@@ -178,5 +178,10 @@ Bidirectional charging
 - stand by and react - market to capacity for grid control | Standby and mileage pay
 - Bidirectional charging - target service group - FCR
 - parking lot fuse constraints 
-- 
+- uncoordinated EV charging introduced PEak usages (highly likely in buildings)
+- Degree of freedom 
+	- Uni direction - Time and Power 
+	- Bi directional - time, power and direction of power 
+	- Mobility of the EV cas spatial disadvantage 
+		- soln - mobility aware bi-directional charging 
 - 
