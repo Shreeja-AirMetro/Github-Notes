@@ -267,7 +267,8 @@ Shreeja To do
  - [ ] Sync  background intro Pending parts
  - [ ] EDAS
 
---
+---
+
 
 
 NEver attach antenna to carbon fiber - a lot of static 
@@ -279,3 +280,7 @@ disruption in EM wave
 
 
 Enrique - sionna 
+
+
+---
+
