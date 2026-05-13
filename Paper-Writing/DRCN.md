@@ -243,7 +243,7 @@ Intro
 
 delay | higher than transaction time - continuity 
 
-Say  - RCP - Klügel work based  - Agnostics - why 
+Say  - RCP - Klügel work based  - Agnostics - why  - Pending
 Stats of TN 
 Availability 
 Latency
@@ -255,3 +255,14 @@ NTN
 including NTN - could help with outage - Implication in PBCS
 
 Safe way 
+
+
+
+---
+
+To Dos  and Plan for next week 
+
+Shreeja To do 
+ - [ ]  ISl Drop 
+ - [ ] Sync  background intro Pending parts
+ - [ ] EDAS
