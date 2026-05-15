@@ -73,4 +73,14 @@ Unpublished version
 - Physical layer throught (MCS theoritical upper bound) application layer throughput (recieved packets)
 - Latency - frame level and E2E
 - Check old results and format it
-- 
+
+
+
+# To do Deadline 
+
+- [ ] Introduction - Sunday 17th May 
+- [ ] Background - Sort Monday 18th
+- [ ] Finish Background - Thursday 21st
+- [ ] Theoritical Framework - Friday 15th
+- [ ] Simulator tools design  - Thur 21st
+- [ ] Usecases and conclusion / future work  - Friday 22nd
