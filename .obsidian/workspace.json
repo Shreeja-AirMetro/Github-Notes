@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Paper-Writing/IEEE Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May 2026"
+              "title": "IEEE Access"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/May 2026.md",
+                "file": "Paper-Writing/IEEE Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of May 2026"
+              "title": "Outline of IEEE Access"
             }
           },
           {
@@ -199,11 +199,11 @@
   },
   "active": "3243e9a7af519f9e",
   "lastOpenFiles": [
+    "TODOS/May 2026.md",
     "Paper-Writing/DRCN.md",
     "Paper-Writing/EW - 2026.md",
     "Lectures/Smartgridcomm.md",
     "Lectures/Comnet2.md",
-    "TODOS/May 2026.md",
     "Paper-Writing/IEEE Access.md",
     "Progress- PhD/Future.md",
     "Notes/EPC.md",
