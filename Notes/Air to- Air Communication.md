@@ -10,9 +10,13 @@
 		What is synonyms to A2A from Telecommunication and its standards -  3GPP (telecom standard orchestrator)3GPP terminology, 3GPP terminology, A2A (Air-to-Air) communication for drones is increasingly treated as a form of D2D (Device-to-Device) communication implemented through 5G sidelink technology.
 		5G sidelink  used instead of  - Drone A -> base station -> core network -> basestation-> drone B - it reduces the communication latency as drone A to Drone B 
 			The autonomous cars evaluate sidelink - broadcast, unicast messaging systems for collision avoidance , low latency situational awareness 
+			https://www.sciencedirect.com/science/article/pii/S0140366422001967
+			https://arxiv.org/pdf/2104.11135
 		Prominent project for Communication in AAM https://ieeexplore.ieee.org/document/10539166
-2. Its role 
+2. Its role  - A2A communication is only can be used for situational awareless which can provide some support for conflict avoidance. This is due to limitations of 5G propogation challenges , interference and 3D mobility
 3. How is it different from Conflict detection and resolution 
+			Today EASA  - U-space doesn't allow or envision a communication link only based conflict detection and resolution. 
+			The network assisted UTM  - U-Space digital services have 4 categories 
 4. Tools and Network 
 5. State of Art 
 		1. Air to Air is from a extension of 5G network perspective where UAV is a base station that can provide communication to aerial users (UAVs) - https://ieeexplore.ieee.org/abstract/document/9151343 - <span style="color:rgb(255, 0, 0)">this doesn't fit the IAM goal </span> 
