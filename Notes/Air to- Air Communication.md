@@ -6,8 +6,10 @@
 		Audio at a particular frequency  - A2A
 		A2G -  LDCAS https://elib.dlr.de/128456/1/uploaded_PID6048681.pdf, ACARS ARINC protocol
 			Note : The ATM gives instructions on which aircraft does which flight procedure for avoiding conflict
-		Goal of A2A in IAM - **Air-to-Air** communication, coordination, or sensing between aircraft/UAVs operating in the same airspace. This does not resolve conflict , it try to avoid conflict by providing situation awareness - position , altitude, heading, speed and fligh
-		What is synonyms to A2A from Telecommunication and its standards - 
+		Goal of A2A in IAM - **Air-to-Air** communication, coordination, or sensing between aircraft/UAVs operating in the same airspace. This does not resolve conflict , it try to avoid conflict by providing situation awareness - position , altitude, heading, speed and flight path
+		What is synonyms to A2A from Telecommunication and its standards -  3GPP (telecom standard orchestrator)3GPP terminology, 3GPP terminology, A2A (Air-to-Air) communication for drones is increasingly treated as a form of D2D (Device-to-Device) communication implemented through 5G sidelink technology.
+		5G sidelink  used instead of  - Drone A -> base station -> core network -> basestation-> drone B - it reduces the communication latency as drone A to Drone B 
+			The autonomous cars evaluate sidelink - broadcast, unicast messaging systems for collision avoidance , low latency situational awareness 
 		Prominent project for Communication in AAM https://ieeexplore.ieee.org/document/10539166
 2. Its role 
 3. How is it different from Conflict detection and resolution 
