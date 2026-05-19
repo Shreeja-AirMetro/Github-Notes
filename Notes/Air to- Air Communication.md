@@ -17,7 +17,18 @@
 3. How is it different from Conflict detection and resolution 
 			Today EASA  - U-space doesn't allow or envision a communication link only based conflict detection and resolution. 
 			The network assisted UTM  - U-Space digital services have 4 categories 
+			U1 provides basic foundational services such as UAS registration, identification, support for flight preparation. U2 provides initial operational
+			services - flight trajectory planning, safety radius around each
+			UAS trajectory and separation margin. U3 introduces advanced
+			operational capabilities like real-time geo-awareness of the
+			airspace, automated traffic management, tactical deconfliction
+			(E2E process of detection, resolution, prevention). Finally, U4
+			enables highly automated and fully integrated U-space services
+			for seamless integration and coordination with manned aviation for very high-density airspace. 
+			The Telecom (5G an)
 4. Tools and Network 
+		Situational awareness - 5G, Wifi based solution where Drone A and Drone B within a free pathloss range - can exchange - Bidirectional. 
+		Gap: Message protocol is not present and there is no instrument / tools on how a flight controller act to it. This needs a backend support with remote operator (A2G) link
 5. State of Art 
 		1. Air to Air is from a extension of 5G network perspective where UAV is a base station that can provide communication to aerial users (UAVs) - https://ieeexplore.ieee.org/abstract/document/9151343 - <span style="color:rgb(255, 0, 0)">this doesn't fit the IAM goal </span> 
 		2. 
