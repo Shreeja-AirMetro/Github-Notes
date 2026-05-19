@@ -25,10 +25,10 @@
 			(E2E process of detection, resolution, prevention). Finally, U4
 			enables highly automated and fully integrated U-space services
 			for seamless integration and coordination with manned aviation for very high-density airspace. 
-			The Telecom (5G an)
+			The Telecom (5G) have not reached TRL level for U3
 4. Tools and Network 
 		Situational awareness - 5G, Wifi based solution where Drone A and Drone B within a free pathloss range - can exchange - Bidirectional. 
-		Gap: Message protocol is not present and there is no instrument / tools on how a flight controller act to it. This needs a backend support with remote operator (A2G) link
-5. State of Art 
+		Gap: Message protocol is not present and there is no instrument / tools on how a flight controller act to it. This needs a back end support with remote operator (A2G) link
+	Misc (Drone used for extending communication where A2A is available but not for conflict awareness purpose)
 		1. Air to Air is from a extension of 5G network perspective where UAV is a base station that can provide communication to aerial users (UAVs) - https://ieeexplore.ieee.org/abstract/document/9151343 - <span style="color:rgb(255, 0, 0)">this doesn't fit the IAM goal </span> 
-		2. 
+		
