@@ -283,3 +283,149 @@ Setup 1
 Setup 2
 
 ---
+Welcome to working with Doodle Labs hardware! The **Doodle Labs Mini OEM (such as the RM-2450-12M3)** and its Evaluation (EVK) kit can seem a bit daunting because they use industrial-grade, defense-heritage Mobile Ad-hoc Network (MANET) technology rather than consumer Wi-Fi plug-and-play standards.
+
+Here is a comprehensive, step-by-step implementation guide tailored for a beginner to get your kits physically connected, booted up, and configured for the first time.
+
+### Step 1: Unbox and Identify Your Components
+
+Your Doodle Labs Evaluation Kit typically contains two nodes (as you need at least two to build a mesh network). For each node, locate:
+
+1. **The RM-2450-12M3 Mini OEM Radio Module** (the small metal-shielded board).
+    
+2. **The Ethernet Test Board / Evaluation Board (EVK)** (the carrier board that the radio snaps onto or is wired to).
+    
+3. **2x Antennas** (Matching 2.4 GHz frequency).
+    
+4. **2x MMCX-to-SMA or MMCX-to-RP-SMA RF cables** (pigtails).
+    
+5. **Power Cable / Wall Adapter** (usually a 2.5mm barrel jack power supply or a screw terminal block).
+    
+6. **Ethernet Data Cable (RJ45)**.
+    
+
+### Step 2: Physical Hardware Connection (Crucial Step)
+
+- **CRITICAL WARNING:** **NEVER power on a radio without the antennas securely attached.** Powering on an RF amplifier without a load (antenna) will reflect the energy back into the chip and permanently fry your $1,400+ radio module.
+    
+
+1. **Attach the Antennas:** Take the small MMCX connectors on the pigtail cables and press them firmly onto the `ANT0` and `ANT1` tiny round gold ports on the radio module until they click. Screw the large rubber ducky antennas onto the other end of those cables.
+    
+2. **Mount the Radio:** If it isn't already, secure the Mini OEM radio to the Evaluation Board.
+    
+3. **Connect to Your PC:** Plug one end of an Ethernet cable into the RJ45 jack on the EVK board, and the other end directly into your computer's Ethernet port.
+    
+4. **Plug in the Power:** Insert the power supply into the EVK board's barrel jack (or terminal block), but **do not switch on the wall socket yet** until you read the networking step below.
+    
+
+### Step 3: Configure Your PC’s Static Network Settings
+
+Doodle Labs radios do not have a built-in DHCP server running on their setup ports by default. They use a unique static IP tracking system based on their MAC addresses, falling into the `10.223.0.0/16` subnet.
+
+To communicate with the radio, you must manually give your PC a static IP address in that exact range:
+
+1. Look at the sticker on your **RM-2450** radio. It will state its default IP address (usually something like `10.223.XX.YY`, where XX and YY correspond to parts of its MAC address or serial ID).
+    
+2. **On your Windows PC:** Go to _Settings > Network & Internet > Ethernet > Change Adapter Options_. Right-click your Ethernet adapter and choose _Properties_. Double-click _Internet Protocol Version 4 (TCP/IPv4)_.
+    
+3. **On your Mac:** Go to _System Settings > Network > Ethernet > Details > TCP/IP_ and set "Configure IPv4" to _Manually_.
+    
+4. Change the settings to the following:
+    
+    - **IP Address:** `10.223.0.100` _(Choose any variation, just ensure it does not conflict with the radio’s exact IP sticker)._
+        
+    - **Subnet Mask:** `255.255.0.0` _(This allows your PC to look across the whole 10.223.x.x network)._
+        
+    - **Default Gateway:** Leave blank.
+        
+
+### Step 4: First Boot and Initial To-Do
+
+Now that your network environment is ready, you can access the radio's built-in operating system (Mesh Rider OS / OpenWrt).
+
+1. **Power up the unit:** Turn on the power supply. You should see the LEDs on the EVK board begin to blink, indicating the radio is booting up. Wait about 60 to 90 seconds for it to fully initialize.
+    
+2. **Open a Web Browser:** Open Chrome or Firefox and type the radio's sticker IP address into the URL bar (e.g., `http://10.223.XX.YY`).
+    
+3. **Bypass the Security Warning:** Because the radio uses a self-signed local certificate, your browser will say "Your connection is not private". Click **Advanced** and then click **Proceed / Accept the Risk and Continue**.
+    
+4. **The Login Screen:** The login page will appear.
+    
+    - **Username:** `root`
+        
+    - **Password:** _Leave blank_ (There is no default password). Click **Login**.
+        
+
+### Step 5: Essential Initial Configuration Tasks
+
+Once inside the Mesh Rider GUI, complete these four "Initial To-Dos" to establish your first functional mesh link:
+
+1. **Set a Secure Password:**
+    
+    - Go to **System > Administration**.
+        
+    - Enter a strong router password and click **Save & Apply**. Do this immediately so your device is protected.
+        
+2. **Verify/Match Mesh Frequency & Bandwidth:**
+    
+    - Navigate to the **Network > Mesh Rider** (or Wireless) tab.
+        
+    - To get two radios talking to each other, they **must** have identical settings here. Ensure both radios are configured to the same channel frequency (e.g., 2450 MHz) and Channel Bandwidth (usually start with a conservative `5 MHz` or `10 MHz` for initial testing, though it supports up to 20 MHz).
+        
+3. **Configure the Mesh ID and Encryption Key:**
+    
+    - On the same Mesh Rider settings page, look for the **Mesh ID** (ESSID) and **Key** (Encryption string).
+        
+    - Make sure both nodes share the exact same Mesh ID and Password so they recognize each other's encrypted handshakes.
+        
+4. **Boot up Node 2 and Test the Mesh:**
+    
+    - Perform Steps 2, 3, and 4 on your second RM-2450 radio node (remembering its unique sticker IP).
+        
+    - Once both units are powered on and configured with matching Mesh parameters, look at the **Mesh Rider Interface / Status Dashboard** in the web GUI. You should see Node 2 appear under the "Associated Stations" or "Mesh Peers" list, showing a live signal bar (RSSI) measured in dBm (aim for between -30 and -60 dBm on a test bench).
+        
+
+_Quick Troubleshooting Tip:_ If they are sitting right next to each other on your desk, the signal might be too strong and "deafen" the receivers. Move them at least 2–3 meters apart or turn down the **Transmit (Tx) Power** in the software settings to around `10 dBm` for bench testing.
+
+Perfect! Knowing you have the exact model **RM-2450-12M3-A100-D3325** simplifies things immensely.
+
+This model is the **Mini OEM (Smart Radio)** form factor using **JST wire harness connectors** rather than header pins. This means it relies on **Method A** for physical mounting and uses miniature wire bundles to pass data and power between the radio module and your Evaluation Board (EVK).
+
+Here is your exact step-by-step instruction for mechanical mounting, wiring, and initial checks for this specific model.
+
+### Step 1: Secure the Radio Mechanically (Mounting)
+
+Because this module is incredibly light but gets warm during extended transmission, it needs to be securely fastened to the EVK for stability and a bit of passive grounding.
+
+1. **Locate your hardware:** Inside your kit box, you should find a tiny plastic bag containing **4x short threaded standoffs** (usually brass or nylon M2 or M2.5 size) and **8x matching tiny screws**.
+    
+2. **Install the standoffs on the EVK:** Take 4 screws, insert them from the _bottom_ of the larger Evaluation carrier board upward through the corner mounting holes, and screw the 4 hex standoffs onto them from the top. Tighten until finger-tight.
+    
+3. **Place the RM-2450:** Align the 4 corner holes of the RM-2450 radio shield over the top of those 4 standoffs.
+    
+4. **Fasten down:** Drop the remaining 4 screws through the top of the radio corners into the standoffs. Gently tighten them down using a precision cross-pattern (top-left, then bottom-right, etc.) so the radio sits completely level.
+    
+
+### Step 2: Plug in the JST Cable Harnesses (Wiring)
+
+Your **RM-2450-12M3** utilizes miniature white JST locking sockets on the side of the board to route power and Ethernet signals.
+
+1. **Locate the Main Cable Assembly:** In your kit, find the custom wire harness. One side features small, multi-pin white JST plastic housings, and the other side splits into plugs that match the sockets on your Evaluation board.
+    
+2. **Connect to the Radio:** Look closely at the white sockets on the side of your RM-2450 module. The plastic JST plugs on your cable have tiny "fins" or keys on one side—**they will only glide into the radio socket smoothly in one direction.**
+    
+3. **Firmly Click Them In:** Push the wire harness plug into the radio socket until you feel or hear a micro-click. _Do not pull on the raw colored wires; always push using the white plastic housing._
+    
+4. **Connect to the EVK:** Plug the other end of that cable assembly into the designated expansion header or socket on your Evaluation Board.
+    
+
+### Step 3: Fasten RF Pigtails & Confirm Setup
+
+Now that the module is clamped down and wired for data, finish the critical RF paths:
+
+1. **The MMCX Snaps:** Press your two MMCX pigtail cables directly down onto the gold ANT0 and ANT1 round micro-ports on the module until they click into place. They should be able to spin freely but shouldn't wobble or come off with a light tug.
+    
+2. **Mount to Chassis / Desk:** Ensure your antennas are screwed tight to the other side of those cables and are propped upright.
+    
+
+> 🚀 **Ready for Boot-up:** With the JST wire harness plugged in and the radio screwed down, you can now safely apply power to the EVK board via its barrel jack, connect your PC to the EVK's RJ45 Ethernet port, and log in using the static IP method outlined earlier (10.223.XX.YY).
