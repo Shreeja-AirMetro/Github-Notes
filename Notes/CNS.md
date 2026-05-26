@@ -46,7 +46,9 @@ Sss- Check CNS channels - for discussion related notes
 
 # CNS meeting - 26th May 
 
-1. What are the flight phases 
+1. What are the flight phases  -> Strategic, pre-tactical and tactical 
+	1. https://www.easa.europa.eu/sites/default/files/dfu/20230622-_U-space_workshop_-_7bis.pdf
+	2. U-space provide set of digital requirements / services at each pha
 2. What are the requirements of each flight phases 
 3. CDM - common operation picture  in aviation aviation is ==an operational philosophy where airlines, air traffic controllers, and airport operators share real-time data to optimize flights==. This alignment minimizes delays, reduces fuel burn from taxiing, and maximizes runway efficiency through a "common operating picture
 
