@@ -461,3 +461,47 @@ below for more details).
 
 Applied knowledge that corresponds to particular legal requirements may be protected by
 its proprietor as intellectual property, thereby becoming intangible resources.
+Protected" means the right holder may prevent others from using the IP and/or have the
+exclusive right to use it.
+
+▪Motivation: without IP rights, inventors and creators would not be able to recoup their
+investment of time, effort and creativity, because competitors could readily copy the results
+of this effort and sell at a lower price.
+▪IP rights restore this balance. They give tangible value to intangible assets.
+▪Benefits of IP rights: owners can forbid others from using their technology, trade marks,
+designs or copyright-protected works. Society benefits from a greater pool of public
+knowledge, which fosters social, cultural and economic growth and employment,
+innovation and creation. The market benefits from fair competition.
+
+Limitsin territory: all IPRs are valid and enforceable only in the specific country or
+region in which they were granted. IPRs granted in one country are independent of
+those granted elsewhere. This is called territoriality.
+Certain uses of IPRs may not be prevented by the right holder, such as private or
+experimental use for non-commercial purposes.
+Some types of IP require specific conduct, for example:
+
+To be granted a patent, the inventor must fully disclose the invention.
+To maintain a trade mark registration, the owner must use it in commerce.
+To maintain a trade secret, the owner must keep it secret.
+
+
+Pursuant to the Paris Convention, an applicant that files a patent, trade mark, utility model or
+design right in any member state of the Convention may rely on that same filing date when
+subsequently filing in another Paris Convention country within the priority period, which is six
+months for designs/trade marks and 12 months for patents/utility models. Subsequent
+applications are treated as if they were filed on the same day as the first application.
+![[Screenshot from 2026-05-26 08-13-17.png]]![[Screenshot from 2026-05-26 08-13-51.png]]
+![[Screenshot from 2026-05-26 08-14-31.png]]![[Screenshot from 2026-05-26 08-15-03.png]]
+![[Screenshot from 2026-05-26 08-15-22.png]]Knowledge and ideas are intangible resources that can easily be copied by others.
+▪In the knowledge economy, the creation of wealth is based on intangible resources.
+▪Some creations can be registered as Intellectual Property (IP) to secure ownership.
+Registers are public, so information is shared.
+▪IP can be used to create exclusivity, foster innovation and help attract funding.
+▪Knowledge sharing in exchange for IP provides a framework for further innovation and
+creation.
+▪A single product can be protected using different types of IP rights (IPRs).
+▪Specific national and international regulations apply to each IP right.
+
+A domain name identifies a website by connecting letters/numbers to underlying numeric
+Internet Protocol (IP) addresses. These are registered on a first-come, first-served basis, but
+trade mark holders may be able to institute proceedings against cybersquatters.
