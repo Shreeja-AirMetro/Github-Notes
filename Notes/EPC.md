@@ -439,3 +439,25 @@ Filing date is secured  in scenario 4  - patent or other IP trademark
 
 IP.com - publish in service pages -> 
 Liberal licensing
+
+----
+
+
+# Summary 
+
+Creations of the mind, such as inventions; literary and artistic works; designs; and symbols,
+names and images used in commerce. (WIPO)
+
+**1.2 Intellectual property rights (IPRs)**
+The legal rights that allow inventors, artists, scientists and businesses to protect their
+innovation and creations such as technological inventions, music, brands, product designs,
+games, software or performance. Depending on the creation to be protected, different types of
+intellectual property rights are available. They are divided in two categories: industrial property
+rights, and copyrights and related rights:
+![[Screenshot from 2026-05-26 08-10-31.png]]
+
+while copyrights and related rights do not require a formal examination or registration (see
+below for more details).
+
+Applied knowledge that corresponds to particular legal requirements may be protected by
+its proprietor as intellectual property, thereby becoming intangible resources.
