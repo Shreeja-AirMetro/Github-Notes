@@ -574,3 +574,12 @@ The study, [Patents, Trade and FDI in the European Union](http://www.epo.org/se
 According to the study, while patents already have a positive effect on trade and FDI in Europe, their impact is currently hindered by the lack of truly barrier-free EU-wide patent protection. Today companies are still faced with a fragmented system following the grant of a patent by the EPO. These include national validation and maintenance fees payable in each country in which protection is desired. In addition, patents are subject to uneven levels of national protection and to the risk of parallel litigation, with the potential for different outcomes in different countries.
 
 https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis
+
+https://www.epo.org/en/legal/epc/2020/apre.html
+DESIRING, for this purpose, to conclude a Convention which establishes a European Patent Organisation and which constitutes a special agreement within the meaning of [Article 19 of the Convention for the Protection of Industrial Property, signed in Paris](https://wipolex.wipo.int/en/text/288514) on 20 March 1883 and last revised on 14 July 1967, and a regional patent treaty within the meaning of [Article 45, paragraph 1, of the Patent Cooperation Treaty](https://www.wipo.int/en/web/pct-system/texts/articles/a45 "Article 45 Regional Patent Treaties") of 19 June 1970,
+![[Screenshot from 2026-05-26 08-28-36.png]]
+https://www.wipo.int/meetings/en/details.jsp?meeting_id=92528
+
+
+
+![[ssrn-1429049.pdf]]
