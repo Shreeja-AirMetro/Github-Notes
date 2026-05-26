@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "TODOS/May 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNS"
+              "title": "May 2026"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "TODOS/May 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CNS"
+              "title": "Outline of May 2026"
             }
           },
           {
@@ -183,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3243e9a7af519f9e",
+  "active": "afb092e45cbe1933",
   "lastOpenFiles": [
+    "Notes/CNS.md",
     "TODOS/May 2026.md",
     "TODOS/2026.md",
     "Notes/EPC.md",
@@ -224,7 +225,6 @@
     "download.jpeg",
     "260225_TUD_Self-Assessment Report_2025_ohne Annex.pdf",
     "main 1.pdf",
-    "Notes/CNS.md",
     "Notes/Data Management.md",
     "Progress- PhD/First TAC meeting.md",
     "Progress- PhD/Application.md",
