@@ -51,4 +51,5 @@ Sss- Check CNS channels - for discussion related notes
 3. CDM - common operation picture  in aviation aviation is ==an operational philosophy where airlines, air traffic controllers, and airport operators share real-time data to optimize flights==. This alignment minimizes delays, reduces fuel burn from taxiing, and maximizes runway efficiency through a "common operating picture
 
 
-Technical , economical, regulatory 
+Technical , economical, regulatory -> QOS, Methods of execution, scalability
+1. Questions corresponding to that 
