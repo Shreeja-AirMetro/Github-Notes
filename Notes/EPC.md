@@ -505,3 +505,60 @@ creation.
 A domain name identifies a website by connecting letters/numbers to underlying numeric
 Internet Protocol (IP) addresses. These are registered on a first-come, first-served basis, but
 trade mark holders may be able to institute proceedings against cybersquatters.
+
+---
+
+## Creating an effective exit strategy
+
+To create a good exit strategy, startups and SMEs need to consider which IP rights are relevant to their business, and at what stage to protect their IP assets.
+
+In many ways, entrepreneurs are also investors. They allocate their precious time and money into building and growing their business. When it comes to IP, all companies need to take a broad view of their business and how it fits into the wider commercial landscape; they need to ensure IP is fully integrated into their business plans, and they need to think about what they need to do to ensure their IP assets are managed effectively by their people.
+
+The people component involves enhancing IP awareness and the acquisition of IP skills and expertise. This can be done by engaging qualified IP counsel or consultants; they often start by putting into place simple measures to ensure that sensitive business information is protected and by inserting clauses into employment contracts that clarify how IP rights are assigned and who owns them.
+
+On the business side, business owners need a basic understanding of how different IP rights can be used to advance business goals and how to secure them. Certain types of IP rights require that very specific steps are taken before they can be secured. In the case of patents, for example, the ability to claim patent rights for an invention hinges on its novelty, among other factors. So a business should take steps to avoid any leakage of information about their new technical developments before they have submitted a patent application.
+
+The way claims are written in the patent application is also critical. Claims define the scope of the patent and can determine whether a competing product or service infringes the patent. All too frequently, applicants define their technology too narrowly when drafting the claims in their patent applications. As a consequence, the resulting patents can't be used to block competitors because others can easily design around the patented technology. Investors want to see that a company has secured IP rights for all relevant assets and that management of its IP portfolio is fully aligned with its objectives and processes.
+
+## Five common pitfalls
+
+All too often, as SMEs charge ahead with building their business, they make decisions with unforeseen, but potentially far-reaching, consequences in relation to the following:
+
+1. Open-source issues: Startups and SMEs often ignore the total cost implications of the computer system and software choices they make in the early days of their business. Many overlook the fact that open-source components are “free,” but only under certain conditions. These conditions often include a requirement to make the resulting code freely available to the public. Investors running a due-diligence check on a potential investment would see this as an IP risk stemming from potential non-compliance with a third party’s rights.
+2. Trade secrets: SMEs are often unable to take advantage of trade secrets protection because they cannot prove they have taken reasonable steps to prevent the public disclosure of relevant confidential information. These companies fail to restrict how their key information is shared internally and externally. It's a common mistake and is avoidable with careful planning.
+3. Managing and monitoring IP assets: Startups and SMEs need to think about how they are going to manage their IP assets; how they are going to defend them against abuse or infringement; and how they are going to exploit them to generate new income streams and expand market share. Ever more frequently, investors are engaging IP consultants to navigate complex IP portfolios. Implementation of a robust IP strategy ensures there are no deal-breaking surprises.
+4. Timing is always a factor when implementing an IP strategy. Many investors require that IP protections are put in place before they invest, especially when a company is considering international expansion through licensing or franchising agreements. Investors usually want their capital to be put to the most efficient use, on things like product development and scaling up sales - so it’s always worth thinking about the exact sequencing of your IP strategy.
+5. Companies with an eye on foreign markets should always carry out country-specific clearance searches to determine their freedom to operate in those markets. In general, such searches are the easiest way to de-risk expansion into a new geography. When conducted by an IP expert, they can lead to insights around competitors and how they are approaching different markets. Where relevant, they can also identify public domain works on which new creations or products may be developed. SMEs can benefit from the information gleaned from publicly available IP databases such as WIPO's PATENTSCOPE and the Global Brand Database when positioning themselves for acquisition.
+
+## IP as a risk-allocation exercise
+
+Early-stage investors see the process of securing IP rights as a risk-allocation exercise. To acquire IP rights, you need to be the first to file an application to secure those rights, otherwise you may lose out. Speed is of the essence. In a crowded marketplace, securing IP rights is all about minimizing the risk of being challenged with an infringement claim.
+
+For any company interested in harnessing IP opportunities, the first steps are to identify and quantify existing IP assets (e.g. know-how, client lists, inventions, website, creative content, and more). Then they need to understand their value and how best to protect them.
+
+> Early-stage investors see the process of securing IP rights as a risk-allocation exercise.
+
+Startups and SMEs should take advantage of government schemes to encourage them to use IP rights. Many countries offer tax rebates and other IP-related deductions. For younger companies, these can determine their ability to take on another employee or even make it through a difficult quarter.
+
+## Four reasons to get pro## fessional IP advice
+
+First, doing an audit of your IP assets is a useful way to identify work that can actually be used or even repurposed. It can also surface IP assets that your business is using, but which belong to others. IP diagnostic tools (e.g. [WIPO IP Diagnostics](https://www.wipo.int/ipdiagnostic/)) can help kick-start this process, but it almost always makes sense to hire an IP consultant for this purpose. Why? Because IP assets may never come to fruition if relevant application procedures are not adhered to correctly. And when acquired, they can lapse if not properly maintained or managed.
+
+Second, a conversation with an experienced IP practitioner about how your IP is currently used, how to protect any unregistered or new IP assets and an optimal IP plan that best serves your exit strategy is a key to success. This can also serve as a starting point for a conversation with potential investors who are keen to show how they can add value to your business, beyond the cash they inject.
+
+Third, IP laws and the interpretation of them are constantly changing. A qualified IP expert will be aware how such changes will affect your business.
+
+Fourth, startups and SMEs also need to think through their approach to litigation, which can be costly but is avoidable, almost always. Many law firms offer startups and SMEs attractive pricing packages; some even offer free initial consultations and deferred payment plans.
+
+## What investors look out for
+
+Just as entrepreneurs learn from their predecessors' mistakes, investors are becoming more streetwise. Through bitter experience, we have learned the importance of due diligence and the need to ensure that companies own what they think or say they own and can use those assets as intended. We check whether appropriate IP assignments have been made; we validate measures to protect trade secrets, infringement notices and other internal policies.
+
+The fall-out that comes with the heightened levels of competition our portfolio companies face is clear to us. We now expect that the number of IP infringement claims against them will grow as their profile rises. This is just a fact of life and one that companies need to be able to manage.
+
+As investors, we have learned that while IP is a valuable asset, there are no guarantees of the financial value or utility of a company’s IP portfolio. That said, in general, IP assets increase corporate valuations or add significantly to the company’s actual and perceived value. In the merger and acquisition context, they strengthen the exiting company's negotiating position.
+
+**I leave you with two takeaways. First, be proactive in making your IP strategy central to your pre-launch business strategy. Work on a plan before you’ve even spoken to your first real customers. And second, seek the advice of a qualified IP professional to ensure your IP strategy is tailored to your specific situation and goals. Sometimes, you can even get this advice for free.**
+https://www.wipo.int/en/web/wipo-magazine/articles/how-startups-and-smes-should-think-about-ip-an-investors-perspective-42059
+
+https://www.wipo.int/en/web/wipo-magazine/archive?url=https://www.wipo.int/wipo_magazine/en/2021/01/article_0003.html
