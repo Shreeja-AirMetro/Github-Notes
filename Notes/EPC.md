@@ -562,3 +562,15 @@ As investors, we have learned that while IP is a valuable asset, there are no gu
 https://www.wipo.int/en/web/wipo-magazine/articles/how-startups-and-smes-should-think-about-ip-an-investors-perspective-42059
 
 https://www.wipo.int/en/web/wipo-magazine/archive?url=https://www.wipo.int/wipo_magazine/en/2021/01/article_0003.html
+
+### The Unitary Patent: a boon to SMEs
+
+https://report-archive.epo.org/about-us/annual-reports-statistics/annual-report/2017/highlights/importance-of-patents-for-smes.html
+
+In order to quantify these benefits, the EPO published a study in October 2017 that looked at the potential impact on the European economy of greater harmonisation of EU patent protection.
+
+The study, [Patents, Trade and FDI in the European Union](http://www.epo.org/service-support/publications.html?pubid=162#tab3), was conducted by a team of economists from the EPO, the University of Colorado Boulder and the London School of Economics. It found that greater harmonisation of patent protection in the EU could significantly enhance technology transfer through greater trade and foreign direct investment (FDI). It also found that improved harmonisation of Europe's patent system has the potential to increase trade and FDI in high-tech sectors in the EU by up to 2% and 15% respectively. This could lead to annual gains of EUR 14.6 billion in trade and EUR 1.8 billion in FDI.
+
+According to the study, while patents already have a positive effect on trade and FDI in Europe, their impact is currently hindered by the lack of truly barrier-free EU-wide patent protection. Today companies are still faced with a fragmented system following the grant of a patent by the EPO. These include national validation and maintenance fees payable in each country in which protection is desired. In addition, patents are subject to uneven levels of national protection and to the risk of parallel litigation, with the potential for different outcomes in different countries.
+
+https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis
