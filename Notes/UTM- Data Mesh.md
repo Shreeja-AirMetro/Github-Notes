@@ -2550,8 +2550,10 @@ Vogel, S., & Schier-Morgenthal, S. (2024). Detection of UAS Conflicts in Air Tra
 # Collaboration extension with Mahdi 
 
 1. Mahdi topic - service migration -> Latency in MEC and his algorithm optimize the mobility, scalability and fault tolerance. 
-2. Improves on SDN - NF to improve the latency (preporatory phase)
+2. Improves on SDN - NF to improve the latency (preparatory phase)
 
 Drone UTM - MEC far edge use-case
 
-1. drones flying from Ato B in a preplanned path will have  handover between basestations - So their bath/ active state information must be transfered from BS to BS. 
+1. drones flying from Ato B in a pre-planned path will have  handover between basestations - So their bath/ active state information must be transferred from BS to BS.  - Latency in only the migration and notification factor 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10759014
+
