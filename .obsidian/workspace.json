@@ -35,8 +35,7 @@
               "title": "June 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/June 2026.md",
+                "file": "Paper-Writing/EW - 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of June 2026"
+              "title": "Outline of EW - 2026"
             }
           },
           {
@@ -198,12 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbaadd4a9d3499a7",
+  "active": "3243e9a7af519f9e",
   "lastOpenFiles": [
-    "TODOS/May 2026.md",
+    "Notes/UTM- Data Mesh.md",
     "Paper-Writing/EW - 2026.md",
-    "Notes/CNS.md",
     "TODOS/June 2026.md",
+    "TODOS/May 2026.md",
+    "Notes/CNS.md",
     "TODOS/2026.md",
     "Notes/EPC.md",
     "ssrn-1429049.pdf",
