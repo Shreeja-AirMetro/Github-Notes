@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "EW - 2026"
             }
+          },
+          {
+            "id": "dbaadd4a9d3499a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOS/June 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "June 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper-Writing/EW - 2026.md",
+                "file": "TODOS/June 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EW - 2026"
+              "title": "Outline of June 2026"
             }
           },
           {
@@ -183,9 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3243e9a7af519f9e",
+  "active": "dbaadd4a9d3499a7",
   "lastOpenFiles": [
     "TODOS/May 2026.md",
+    "Paper-Writing/EW - 2026.md",
     "Notes/CNS.md",
     "TODOS/June 2026.md",
     "TODOS/2026.md",
@@ -200,7 +216,6 @@
     "Screenshot from 2026-05-26 08-10-31.png",
     "Notes/Air-Air comm.md",
     "Notes/Air to- Air Communication.md",
-    "Paper-Writing/EW - 2026.md",
     "Paper-Writing/IEEE Access.md",
     "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/DRCN.md",
