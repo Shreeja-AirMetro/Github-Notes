@@ -2912,3 +2912,22 @@ Where:
     
 
 That becomes close to a digital twin of a real UTM system.
+
+
+---
+
+That is actually extremely valuable for UTM because UTM is fundamentally a **state-heavy distributed system**.
+
+Your opportunity is to reinterpret:
+
+- “network function state”  
+    as
+- “UTM operational state”
+
+The major challenge in MEC-assisted UTM is:
+
+> How do you maintain ultra-low-latency UTM services while drones move rapidly across edge domains?
+
+That is exactly where StateProc fits.
+
+
