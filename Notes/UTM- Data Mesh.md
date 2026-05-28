@@ -2931,3 +2931,190 @@ The major challenge in MEC-assisted UTM is:
 That is exactly where StateProc fits.
 
 
+- handover delays occur,
+- collision prediction resets,
+- safety latency increases.
+
+StateProc directly addresses this issue by accelerating state transfer and processing.
+Drone
+  ↓
+gNB
+  ↓
+Far-edge MEC A
+  ├─ local UTM NF
+  ├─ collision detection
+  ├─ trajectory prediction
+  └─ telemetry cache
+
+       ⇅ StateProc transfer
+
+Far-edge MEC B
+  ├─ migrated UTM NF state
+  ├─ continuity support
+  └─ handover preparation
+
+
+---
+
+Reactive/ proactive migration 
+
+IDEAS
+
+# What You Add Beyond the Original Paper
+
+The original paper focuses on:
+
+- generic NFs,
+- robotics,
+- autonomous driving.
+
+You extend it into:
+
+- aerial mobility,
+- drone swarm management,
+- distributed UTM,
+- mobility-aware edge orchestration.
+
+That is novel.
+
+---
+
+# Best Research Contributions
+
+## 1. Stateful UTM Session Migration
+
+Main idea:
+
+When UAV moves:
+
+```
+MEC1 → MEC2
+```
+
+StateProc transfers:
+
+- trajectory state,
+- risk assessment state,
+- geofence state,
+- AI model cache.
+
+Goal:
+
+- zero-interruption UTM continuity.
+
+---
+
+# 2. Predictive State Transfer
+
+Very strong idea.
+
+Instead of reactive migration:
+
+```
+Drone approaching edge boundary      ↓Predict next MEC      ↓Pre-transfer partial UTM state
+```
+
+This aligns perfectly with:
+
+- StateProc custom processing,
+- edge intelligence,
+- mobility prediction.
+
+---
+
+# 3. Delta-Based UTM Synchronization
+
+The paper already discusses delta encoding and selective state transfer.
+
+In UTM:
+
+- drone state changes incrementally,
+- full synchronization is wasteful.
+
+So transfer only:
+
+- coordinate delta,
+- velocity delta,
+- updated risk map.
+
+This is extremely suitable for:
+
+- high-density urban drone traffic.
+
+---
+
+# 4. Distributed Collision Detection
+
+You can distribute conflict detection across MECs.
+
+Example:
+
+```
+MEC A manages Zone AMEC B manages Zone B
+```
+
+StateProc synchronizes:
+
+- border drone states,
+- shared conflict regions,
+- swarm transitions.
+
+This creates:
+
+- scalable UTM,
+- distributed airspace control.
+
+---
+
+# Strong Simulation Scenario
+
+## Scenario
+
+```
+50 drones3 gNBs3 MEC servers1 regional UTM orchestrator
+```
+
+Each MEC runs:
+
+- local UTM NF,
+- collision detection,
+- telemetry aggregation.
+
+StateProc handles:
+
+- state migration,
+- synchronization,
+- resilience.
+
+---
+
+# Metrics You Should Measure
+
+|KPI|Importance|
+|---|---|
+|State transfer latency|core StateProc metric|
+|UTM interruption time|mobility continuity|
+|Collision detection delay|safety|
+|Packet loss during handover|reliability|
+|MEC CPU overhead|scalability|
+|Drone session recovery time|resilience|
+
+---
+
+# Very Strong Novel Contribution
+
+## “UTM State Classes”
+
+This could become your paper’s novelty.
+
+Define:
+
+|State Type|Criticality|
+|---|---|
+|Flight control state|ultra-critical|
+|Collision state|ultra-critical|
+|Telemetry history|medium|
+|Video analytics cache|low|
+
+
+MEC - near the BS and 
