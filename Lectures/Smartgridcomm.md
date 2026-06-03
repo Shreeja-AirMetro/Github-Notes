@@ -297,4 +297,14 @@ USer
 
 data requirements - network slice 
 
+flexibity  - integrated and independent 
+
+cost factor 
+
+
+slice - based on estimation 
+
+demands  - over provisioning of the demands 
+
+
 
