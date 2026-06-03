@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Notes/ESA- OPS SAT VOLT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "ESA- OPS SAT VOLT"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Notes/ESA- OPS SAT VOLT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NTN"
+              "title": "Outline of ESA- OPS SAT VOLT"
             }
           },
           {
@@ -199,6 +199,8 @@
   },
   "active": "9090b3db77cf9dce",
   "lastOpenFiles": [
+    "Notes/EPC.md",
+    "Notes/NTN.md",
     "Notes/ESA- OPS SAT VOLT.md",
     "TODOS/June 2026.md",
     "Screenshot from 2026-06-03 08-40-40.png",
@@ -208,7 +210,6 @@
     "TODOS/2026.md",
     "Paper-Writing/EW - 2026.md",
     "Notes/CNS.md",
-    "Notes/EPC.md",
     "ssrn-1429049.pdf",
     "Screenshot from 2026-05-26 08-28-36.png",
     "Screenshot from 2026-05-26 08-15-22.png",
@@ -232,7 +233,6 @@
     "TODOS/Summer 2026.md",
     "Annotate.md.md",
     "main.pdf",
-    "Notes/NTN.md",
     "2026-04-24.md",
     "Untitled 5.canvas",
     "Untitled 2.base",

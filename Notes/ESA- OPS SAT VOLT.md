@@ -97,3 +97,5 @@ If you are writing this for a class, thesis, or technical report, structure your
 
 # TOPIC IDEAS
 
+Data bottle necks
+security - QKD
