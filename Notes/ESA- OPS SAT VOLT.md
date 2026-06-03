@@ -50,12 +50,12 @@ Here are the best topics you can address for a case study based on the VOLT expe
         
     - How the simulator models photon detection efficiency and dark counts (false detections) at the ground station receiver.
         
-    - The synchronization methods used to align the satellite's quantum transmitter clock with the ground station receiver down to the picosecond level.
+    - The synchronization methods used to align the satellite's quantum transmitter clock with the ground station receiver down to the pico second level.
         
 
 ### Topic 3: Software-Defined Radio (SDR) & Cognitive Communications
 
-- **The Angle:** Dynamic, flexible spectrum usage in a sandboxed space environment.
+- **The Angle:** Dynamic, flexible spectrum usage in a sand boxed space environment.
     
 - **What to Address:** Like its predecessor, VOLT utilizes flexible SDR architectures. You can study how an SDR on a CubeSat can adapt its modulation, coding, and frequency on the fly based on real-time channel conditions.
     

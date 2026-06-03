@@ -1045,3 +1045,5 @@ what NTN means to 6G and its use-cases
 where are we now - industrial 
 Why academia play a key role 
 What academia is lacking and what we aim to solve 
+
+ Ma
