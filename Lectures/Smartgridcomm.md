@@ -273,6 +273,17 @@ mesh nodes - access point - management of the network and clients mode
 
 mobilities for EU
 
+ostra - flooding area - technical infra cannot be permanently installed 
 
+centralized control center 
+
+slicing concept for various operations 
+	1. Safety and control 
+	2. Video and perception 
+	3. IOT and infrastructure 
+	4. User and service s
+traffic pattern 
+network characteristics 
+(bandwidth , latency, reliable, energy )
 
 
