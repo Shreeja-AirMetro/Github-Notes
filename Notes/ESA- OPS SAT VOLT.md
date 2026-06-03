@@ -95,3 +95,20 @@ If you are writing this for a class, thesis, or technical report, structure your
 
 Data bottle necks
 security - QKD
+
+
+
+---
+
+model based engg
+
+redundancy in revalidation and verification
+track and pre-short issues 
+
+Formal verification - Stream based formulation verification (NASA - NFM)
+
+stream based runtime 
+
+peripherals - monitoring - requirement 
+
+
