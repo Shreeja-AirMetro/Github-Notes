@@ -233,3 +233,29 @@ user path - UE- RAN - UPF - DN
 edge computing 
 
 sensor perform task and other end there is a controller 
+
+computation closer to the user
+
+network slicing 
+
+end to end approach - logically isolated domains
+virtual resource separation 
+
+service level agreement 
+
+no slice - all compete against each  other -> uncoordinated 
+
+slicing in a way coordinated the resources 
+
+private 5G network 
+
+
+public network have lot of dependencies 
+external users affecting 
+
+architecture 
+can be deployed as a part of public network  - integrated private network 
+
+Independent private networks 
+
+spectrum usea
