@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Lectures/Smartgridcomm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "Smartgridcomm"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Lectures/Smartgridcomm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NTN"
+              "title": "Outline of Smartgridcomm"
             }
           },
           {
@@ -199,9 +199,11 @@
   },
   "active": "9090b3db77cf9dce",
   "lastOpenFiles": [
+    "Lectures/Comnet2.md",
+    "Lectures/Smartgridcomm.md",
+    "Notes/NTN.md",
     "Notes/ESA- OPS SAT VOLT.md",
     "Notes/EPC.md",
-    "Notes/NTN.md",
     "TODOS/June 2026.md",
     "Screenshot from 2026-06-03 08-40-40.png",
     "Screenshot from 2026-06-03 08-39-13.png",
@@ -223,8 +225,6 @@
     "Paper-Writing/IEEE Access.md",
     "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/DRCN.md",
-    "Lectures/Smartgridcomm.md",
-    "Lectures/Comnet2.md",
     "Progress- PhD/Future.md",
     "Screenshot from 2026-05-06 16-21-29.png",
     "TODOS/2027.md",
