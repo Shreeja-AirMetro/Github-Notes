@@ -258,4 +258,21 @@ can be deployed as a part of public network  - integrated private network
 
 Independent private networks 
 
-spectrum usea
+spectrum usage 
+
+low frequency - higher range 
+
+private networks own frequency domain - 3.7 - 3.8 ghz - BNetzA licenses
+
+
+Mesh networks 
+
+mesh nodes - access point - management of the network and clients mode 
+- self-healing 
+- self-configuring 
+
+mobilities for EU
+
+
+
+
