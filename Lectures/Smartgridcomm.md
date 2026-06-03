@@ -285,5 +285,16 @@ slicing concept for various operations
 traffic pattern 
 network characteristics 
 (bandwidth , latency, reliable, energy )
+which layer of network place what functions 
+
+5G network layer and functional layer 
+
+Data network 
+UPF
+Edge
+RAN
+USer
+
+data requirements - network slice 
 
 
