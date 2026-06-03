@@ -1028,3 +1028,20 @@ Analogy: SINR is like the precise temperature reading in a room, while CQI is l
 annotation-target: obsidian://open?vault=Notes&file=main.pdf
 ---
 ```
+
+
+
+
+
+---
+
+
+# INTANS JOURNAL PAPER 
+
+Intro 
+
+Goal of NTN from UN and 3GPP
+what NTN means to 6G and its use-cases 
+where are we now - industrial 
+Why academia play a key role 
+What academia is lacking and what we aim to solve 
