@@ -102,7 +102,7 @@ security - QKD
 
 model based engg
 
-redundancy in revalidation and verification
+redundancy in re-validation and verification
 track and pre-short issues 
 
 Formal verification - Stream based formulation verification (NASA - NFM)
@@ -110,5 +110,24 @@ Formal verification - Stream based formulation verification (NASA - NFM)
 stream based runtime 
 
 peripherals - monitoring - requirement 
+functional -> deterministic  R2U2
+resource aware architecture 
+
+propogation delay scemantics 
+
+
+target in cubesat - classical optical/ quatum system 
+
+quantum-optical system 
+
+math work 
+ 
+ comm protocols  - quantum optical and classical optical 
+agnostic to the experiment 
+correctness of the system
+
+
+
+
 
 
