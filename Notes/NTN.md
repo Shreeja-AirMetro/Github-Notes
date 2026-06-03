@@ -1046,4 +1046,8 @@ where are we now - industrial
 Why academia play a key role 
 What academia is lacking and what we aim to solve 
 
- Ma
+
+
+# Main reference 
+
+1. https://www.emerald.com/ftnet/article-pdf/14/3/160/11044100/1300000072en.pdf
