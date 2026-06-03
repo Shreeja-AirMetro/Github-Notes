@@ -223,3 +223,13 @@ edge computing and network slicing
 
 latency compute triangle
 autonomous cars - at low latency typical target less than 1ms
+increase reliability - whats the mechanism 
+ network architecture 
+ UE- RAN- core and data network 
+4 towers - connected via wired link - radio access network 
+
+user path - UE- RAN - UPF - DN 
+
+edge computing 
+
+sensor perform task and other end there is a controller 
