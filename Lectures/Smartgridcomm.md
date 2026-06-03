@@ -209,3 +209,17 @@ power plants are distributed across households
 
 energy - transportation- communication 
 
+private network - tailored network performance 
+data privacy - does not leave local premises 
+geographically limited 
+
+sensor to intelligence to actual point - latency is key factor 
+
+edge computing and network slicing 
+
+
+5G network 
+ applications - eMBB, mMTC, URLLC (latency - bandwidth tradeoff)
+
+latency compute triangle
+autonomous cars - at low latency typical target less than 1ms
