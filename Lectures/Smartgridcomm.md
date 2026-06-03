@@ -198,4 +198,10 @@ Bidirectional charging
 - Use-cases -> Solution from WPs
 - MILP and heuristics > better than DRL (agents - rewards) for charging plan generation 
 -  redispatch - 3.0
-- 
+
+---
+Comm networks
+
+Christopher lecture 
+
+Conventional powergrid
