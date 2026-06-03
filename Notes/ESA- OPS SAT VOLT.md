@@ -86,13 +86,9 @@ Here are the best topics you can address for a case study based on the VOLT expe
 If you are writing this for a class, thesis, or technical report, structure your analysis around the VOLT **Simulator vs. Orbit Reality** loop:
 
 1. **The Communication Constraint:** Identify a specific limitation (e.g., _Laser beam misalignment due to satellite jitter_).
-    
 2. **The Simulator Approach:** Explain how the ESA/Craft Prospect simulation software models this communication channel mathematically.
-    
 3. **The Experimental Payload:** Describe the actual onboard hardware (e.g., the laser terminal, the quantum source) being validated.
-    
 4. **The Engineering Verdict:** Detail how this experiment moves the space industry closer to building a scalable, hybrid RF-Optical space internet.
-
 
 
 # TOPIC IDEAS
