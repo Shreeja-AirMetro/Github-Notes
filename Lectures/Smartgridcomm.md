@@ -204,4 +204,8 @@ Comm networks
 
 Christopher lecture 
 
-Conventional powergrid
+Conventional power grid
+power plants are distributed across households 
+
+energy - transportation- communication 
+
