@@ -49,7 +49,8 @@
               "title": "June 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Smartgridcomm.md",
+                "file": "TODOS/June 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Smartgridcomm"
+              "title": "Outline of June 2026"
             }
           },
           {
@@ -211,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9090b3db77cf9dce",
+  "active": "a56e49bcf34683f3",
   "lastOpenFiles": [
     "Notes/ESA- OPS SAT VOLT.md",
     "Lectures/Smartgridcomm.md",
