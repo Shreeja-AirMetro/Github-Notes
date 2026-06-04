@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software package.md",
+                "file": "Notes/Reliability and Resilience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software package"
+              "title": "Reliability and Resilience"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Software package.md",
+                "file": "Notes/Reliability and Resilience.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software package"
+              "title": "Outline of Reliability and Resilience"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "967a125614950d21",
   "lastOpenFiles": [
-    "Notes/ROS2 101 with Tushar.md",
     "Notes/Software package.md",
+    "Notes/Reliability and Resilience.md",
+    "Notes/ROS2 101 with Tushar.md",
     "Notes/T58.md",
     "Notes/GA -GSC Modules.md",
     "Notes/Klagenfurt visit.md",
@@ -236,7 +237,6 @@
     "TODOS/2027.md",
     "TODOS/Apr 2026.md",
     "TODOS/AirMetro-Student-Meeting-2701.md",
-    "TODOS/Summer 2026.md",
     "main.pdf",
     "Untitled 5.canvas",
     "Untitled 2.base",
