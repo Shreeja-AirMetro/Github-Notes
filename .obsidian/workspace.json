@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Smartgridcomm.md",
+                "file": "Notes/ESA- OPS SAT VOLT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smartgridcomm"
+              "title": "ESA- OPS SAT VOLT"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "June 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/June 2026.md",
+                "file": "Notes/ESA- OPS SAT VOLT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of June 2026"
+              "title": "Outline of ESA- OPS SAT VOLT"
             }
           },
           {
@@ -198,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "967a125614950d21",
+  "active": "9090b3db77cf9dce",
   "lastOpenFiles": [
-    "Notes/ESA- OPS SAT VOLT.md",
-    "TODOS/June 2026.md",
     "Lectures/Smartgridcomm.md",
+    "TODOS/June 2026.md",
+    "Notes/ESA- OPS SAT VOLT.md",
     "Lectures/Comnet2.md",
     "Notes/NTN.md",
     "Notes/EPC.md",
