@@ -172,3 +172,12 @@ EUROCAE creates the granular, technical Minimum Operational Performance Standard
     
 
 Are you developing hardware/software to comply with a specific SORA SAIL level, or are you designing a U-space service?
+
+
+---
+
+https://www.preprints.org/manuscript/202602.0402
+
+
+https://github.com/nareshdama/UTMsim
+
