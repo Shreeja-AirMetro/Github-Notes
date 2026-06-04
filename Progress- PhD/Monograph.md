@@ -669,9 +669,9 @@ Would you like to zoom in on any specific chapter and map out its precise sectio
 
 
 
-- **Introduction + R obj**
-**• Background and related works**
-**• system architecture**
+- **Introduction + R obj** (10 pg) 
+**• Background and related works** (15 pg)
+**• system architecture** (10)
 **• Testbed and Emperical Reliability profiling**
 **• C2 system verification, validation and resilience**
 **• UTM**
