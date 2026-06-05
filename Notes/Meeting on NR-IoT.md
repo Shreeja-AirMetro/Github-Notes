@@ -45,7 +45,13 @@ packet budget - per month per sim profile
 
 
 
-UE - Uplink 
+UE - Uplink and downlink 
+
+
+
+20 MB
+
+
 
 
 
