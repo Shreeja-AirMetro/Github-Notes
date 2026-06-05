@@ -204,3 +204,6 @@ explicit event processing, parametric traffic generation (Poisson arrivals), and
 # ICAO Annex 10  Vol 2
 
 ![[Screenshot from 2026-06-05 13-09-53.png]]
+![[Screenshot from 2026-06-05 13-11-09.png]]
+![[Screenshot from 2026-06-05 13-11-54.png]]![[Screenshot from 2026-06-05 13-12-19.png]]
+
