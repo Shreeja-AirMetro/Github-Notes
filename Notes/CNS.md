@@ -198,10 +198,6 @@ explicit event processing, parametric traffic generation (Poisson arrivals), and
 
 **Do communication have exponential delays** 
 
-
-
-
-
 ---
 
 
