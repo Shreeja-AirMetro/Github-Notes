@@ -20,6 +20,24 @@ vs code c
 
 
 GNSS down link 
+location and network profile 
+
+LTE satcom modem 
+ 1 min to connect 
+UDP - sockets 
+
+
+echo tests 
+NTN and TN profile - switch between profile 
+
+context preservation 
+
+Uplink and downlink 
+
+
+flash c code on modem and run tests
+
+
 
 
 
