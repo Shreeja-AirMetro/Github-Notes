@@ -35,8 +35,7 @@
               "title": "June 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/June 2026.md",
+                "file": "Notes/CNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of June 2026"
+              "title": "Outline of CNS"
             }
           },
           {
@@ -198,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8989f4004f056fd",
+  "active": "967a125614950d21",
   "lastOpenFiles": [
-    "Notes/CNS.md",
+    "Screenshot from 2026-06-05 13-09-53.png",
     "TODOS/June 2026.md",
+    "Notes/CNS.md",
     "TODOS/2026.md",
     "Progress- PhD/Monograph.md",
     "Notes/ESA- OPS SAT VOLT.md",
@@ -236,7 +236,6 @@
     "Progress- PhD/Future.md",
     "Screenshot from 2026-05-06 16-21-29.png",
     "TODOS/2027.md",
-    "TODOS/Apr 2026.md",
     "main.pdf",
     "Untitled 5.canvas",
     "Untitled 2.base",
