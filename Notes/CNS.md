@@ -181,7 +181,13 @@ https://www.preprints.org/manuscript/202602.0402
 https://github.com/nareshdama/UTMsim
 
 - findings quantified the operational envelope where multi-provider coordination provides net benefit and established empirical baselines for federated UTM deployment strategies.
-- 
+- International Civil Aviation Organization (ICAO) guidance, the Federal Aviation Administration (FAA) UTM Concept of Operations version 2.0, NASA’s Technical Capability Level (TCL) demonstrations, and the European U-space framework collectively defined core service requirements including International Civil Aviation Organization (ICAO) guidance, the Federal Aviation Administration (FAA) UTM Concept of Operations version 2.0, NASA’s Technical Capability Level (TCL) demonstrations, and the European U-space framework collectively defined** **core service requirements including strategic conflict management, tactical deconfliction, conformance monitoring, and distributed information sharing**
+
+frameworks anticipated operational ecosystems consisting of multiple UAS Service Suppliers (USS) or Common Information Service (CIS) providers interconnected through standardized exchanges and supervised by air navigation service providers or competent authorities
+
+, existing guidance documents intentionally remained implementation-agnostic regarding detailed technical architectures, explicit module boundaries, federation protocols, and ecosystem-level monitoring arrangements. While this flexibility supported innovation, it created challenges for interoperability verification, systematic performance comparison, and the development of evidence-based standards
+
+
 
 ---
 
