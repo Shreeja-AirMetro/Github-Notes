@@ -52,6 +52,13 @@ UE - Uplink and downlink
 20 MB
 
 
+# Follow up 
+1. UDP vs CoAp 
+2. Latency burst 
+3. Ping  frequency
+4. Reproduce - Dominic Richter - thesis results 
+5. 
+
 
 
 
