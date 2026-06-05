@@ -180,7 +180,8 @@ https://www.preprints.org/manuscript/202602.0402
 
 https://github.com/nareshdama/UTMsim
 
-
+- findings quantified the operational envelope where multi-provider coordination provides net benefit and established empirical baselines for federated UTM deployment strategies.
+- 
 
 ---
 
