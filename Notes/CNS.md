@@ -185,7 +185,20 @@ https://github.com/nareshdama/UTMsim
 
 frameworks anticipated operational ecosystems consisting of multiple UAS Service Suppliers (USS) or Common Information Service (CIS) providers interconnected through standardized exchanges and supervised by air navigation service providers or competent authorities
 
-, existing guidance documents intentionally remained implementation-agnostic regarding detailed technical architectures, explicit module boundaries, federation protocols, and ecosystem-level monitoring arrangements. While this flexibility supported innovation, it created challenges for interoperability verification, systematic performance comparison, and the development of evidence-based standards
+, existing guidance documents intentionally remained implementation-agnostic regarding detailed technical architectures, explicit module boundaries, federation protocols, and ecosystem-level monitoring arrangements. While this flexibility supported innovation, it created challenges for interoperability verification, systematic performance comparison, and the development of evidence-based standards.  flexibility supported innovation, it created challenges for interoperability verification, systematic performance comparison, and the development of evidence-based standards
+
+**Architectural specification gap**: Absence of published experimental frameworks with explicit module boundaries, standardized interfaces, and clear separation of concerns aligned with international frameworks.
+
+**Federation mechanism gap**: Lack of concrete, evaluable implementations for multi-provider coordination including intent exchange protocols, constraint dissemination patterns, and health monitoring aggregation.
+
+**Quantitative evaluation gap**: Limited empirical evidence characterizing performance trade-offs of federated versus centralized configurations across operationally relevant demand and communication regimes.
+
+Research output - five-layer decomposition (strategic planning, tactical monitoring, safety/ecosystem monitoring, identity/security, federation/energy interfaces)
+explicit event processing, parametric traffic generation (Poisson arrivals), and communication modeling (exponential delays),
+
+**Do communication have exponential delays** 
+
+
 
 
 
