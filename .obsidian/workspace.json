@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fdefcb277ce3c789",
+        "id": "3bc9b56eff7538f6",
         "type": "tabs",
         "children": [
           {
@@ -35,8 +35,7 @@
               "title": "June 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/June 2026.md",
+                "file": "Notes/CNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of June 2026"
+              "title": "Outline of CNS"
             }
           },
           {
@@ -198,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8989f4004f056fd",
+  "active": "967a125614950d21",
   "lastOpenFiles": [
+    "TODOS/June 2026.md",
     "Notes/CNS.md",
     "Notes/Meeting on NR-IoT.md",
     "Screenshot from 2026-06-05 13-27-50.png",
@@ -207,7 +207,6 @@
     "Screenshot from 2026-06-05 13-11-54.png",
     "Screenshot from 2026-06-05 13-11-09.png",
     "Screenshot from 2026-06-05 13-09-53.png",
-    "TODOS/June 2026.md",
     "TODOS/2026.md",
     "Progress- PhD/Monograph.md",
     "Notes/ESA- OPS SAT VOLT.md",
