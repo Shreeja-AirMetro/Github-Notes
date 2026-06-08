@@ -35,7 +35,8 @@
               "title": "June 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "TODOS/June 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CNS"
+              "title": "Outline of June 2026"
             }
           },
           {
@@ -197,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "967a125614950d21",
+  "active": "d8989f4004f056fd",
   "lastOpenFiles": [
-    "Notes/Meeting on NR-IoT.md",
     "Notes/CNS.md",
+    "Notes/Meeting on NR-IoT.md",
     "Screenshot from 2026-06-05 13-27-50.png",
     "Screenshot from 2026-06-05 13-12-19.png",
     "Screenshot from 2026-06-05 13-11-54.png",
