@@ -219,3 +219,4 @@ explicit event processing, parametric traffic generation (Poisson arrivals), and
 
 PBCS 9869
 ![[Screenshot from 2026-06-08 10-26-37.png]]![[Pasted image 20260608102744.png]]
+![[Screenshot from 2026-06-08 10-39-08.png]]
