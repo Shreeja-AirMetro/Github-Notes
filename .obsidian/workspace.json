@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Meeting on NR-IoT.md",
+                "file": "Notes/CNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting on NR-IoT"
+              "title": "CNS"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Meeting on NR-IoT.md",
+                "file": "Notes/CNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meeting on NR-IoT"
+              "title": "Outline of CNS"
             }
           },
           {
@@ -199,8 +199,8 @@
   },
   "active": "967a125614950d21",
   "lastOpenFiles": [
-    "Notes/CNS.md",
     "Notes/Meeting on NR-IoT.md",
+    "Notes/CNS.md",
     "Screenshot from 2026-06-05 13-27-50.png",
     "Screenshot from 2026-06-05 13-12-19.png",
     "Screenshot from 2026-06-05 13-11-54.png",
