@@ -207,4 +207,4 @@ explicit event processing, parametric traffic generation (Poisson arrivals), and
 ![[Screenshot from 2026-06-05 13-11-09.png]]
 ![[Screenshot from 2026-06-05 13-11-54.png]]![[Screenshot from 2026-06-05 13-12-19.png]]
 
-![[Screenshot from 2026-06-05 13-27-50.png]]
+![[Screenshot from 2026-06-05 13-27-50.png]]![[Screenshot from 2026-06-08 09-43-52.png]]
