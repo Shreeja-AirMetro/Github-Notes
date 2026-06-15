@@ -35,8 +35,7 @@
               "title": "UTM- Data Mesh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/UTM- Data Mesh.md",
+                "file": "Notes/CNS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UTM- Data Mesh"
+              "title": "Outline of CNS"
             }
           },
           {
@@ -198,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8989f4004f056fd",
+  "active": "967a125614950d21",
   "lastOpenFiles": [
+    "Notes/UTM- Data Mesh.md",
     "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/EW - 2026.md",
     "TODOS/June 2026.md",
@@ -231,7 +231,6 @@
     "Lectures/Comnet2.md",
     "Notes/NTN.md",
     "Notes/EPC.md",
-    "Notes/UTM- Data Mesh.md",
     "TODOS/May 2026.md",
     "ssrn-1429049.pdf",
     "Notes/Air-Air comm.md",
