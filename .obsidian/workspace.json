@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "TODOS/June 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNS"
+              "title": "June 2026"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/CNS.md",
+                "file": "TODOS/June 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CNS"
+              "title": "Outline of June 2026"
             }
           },
           {
@@ -199,12 +199,13 @@
   },
   "active": "967a125614950d21",
   "lastOpenFiles": [
+    "TODOS/May 2026.md",
+    "Notes/CNS.md",
     "Notes/UTM- Data Mesh.md",
     "Paper-Writing/IEEE Survey.md",
     "Paper-Writing/EW - 2026.md",
     "TODOS/June 2026.md",
     "Notes/Hardware.md",
-    "Notes/CNS.md",
     "Untitled.md",
     "Screenshot from 2026-06-08 12-15-25.png",
     "Screenshot from 2026-06-08 12-15-01.png",
@@ -231,7 +232,6 @@
     "Lectures/Comnet2.md",
     "Notes/NTN.md",
     "Notes/EPC.md",
-    "TODOS/May 2026.md",
     "ssrn-1429049.pdf",
     "Notes/Air-Air comm.md",
     "Notes/Air to- Air Communication.md",
