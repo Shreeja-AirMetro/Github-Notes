@@ -74,10 +74,26 @@ low-altitude space
 faa level uam conops 
 
 xtm 
- FAA CONOPS -  infrastructure adn 
+ FAA CONOPS -  infrastructure and 
+ florida roadmap 
+Suntrax air ground 
+EIP 
+Joby, archer, Beta 
+wisk aero from boeing 
+electra 
+
+USF research 
+
+
+
+
+
  NASA UAM research 
 ques
 operators  - tech providers 
-regulation 
+regulation  - tests 
 statelevel or faa level 
+
+traditional aviat
+
 
