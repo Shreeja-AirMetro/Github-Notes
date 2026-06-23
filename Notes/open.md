@@ -57,4 +57,27 @@ Christian Vielhaus defense
 - Multipath variance
 
 ---
-Lecture by Yu Yu Zhang - 
+Lecture by Yu Yu Zhang - USF, Tempa - 23 June 2026
+
+SUM-Lab - 2008
+Smart Urban Mobility Lab
+Air traffic management, multi-modal transportation system 
+CAMM 
+
+AAM - KAIST , Tokyo and othe rinternational collab 
+
+
+AAM in US 1320 pounds - uam, ram 
+
+low-altitude space
+
+faa level uam conops 
+
+xtm 
+ FAA CONOPS -  infrastructure adn 
+ NASA UAM research 
+ques
+operators  - tech providers 
+regulation 
+statelevel or faa level 
+
