@@ -107,6 +107,8 @@ end to end system
 
 Aviation playbook 
 
+pricing scheme 
+cost 
 
 ques
 operators  - tech providers 
