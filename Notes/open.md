@@ -56,3 +56,5 @@ Christian Vielhaus defense
 - **Be careful of data collection campaign 
 - Multipath variance
 
+---
+Lecture by Yu Yu Zhang - 
