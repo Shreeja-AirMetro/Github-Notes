@@ -105,6 +105,9 @@ Map and LAMS and LTMS
 
 end to end system 
 
+Aviation playbook 
+
+
 ques
 operators  - tech providers 
 regulation  - tests 
