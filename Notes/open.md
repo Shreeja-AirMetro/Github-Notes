@@ -97,12 +97,18 @@ grid lock - unavailable passengers or unavailble vertiport
 NASA UAM research 
 
 AAM operations at airport - affect flights - FAA 
+AAm as new weight class-  different separation requirement 
+2.5 D airspace 
+
+Map and LAMS and LTMS 
+
+end to end system 
 
 ques
 operators  - tech providers 
 regulation  - tests 
 statelevel or faa level 
 
-traditional aviation 
+traditional aviation  
 
 
