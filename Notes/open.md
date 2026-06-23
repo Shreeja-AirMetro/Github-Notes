@@ -93,10 +93,11 @@ price equity , affordability , sliding-fee policy
 Ai based - AAM SIm - AI based simulation modelling 
 
 anylogic with visualization 
+grid lock - unavailable passengers or unavailble vertiport 
+NASA UAM research 
 
+AAM operations at airport - affect flights - FAA 
 
-
- NASA UAM research 
 ques
 operators  - tech providers 
 regulation  - tests 
