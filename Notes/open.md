@@ -99,6 +99,7 @@ NASA UAM research
 AAM operations at airport - affect flights - FAA 
 AAm as new weight class-  different separation requirement 
 2.5 D airspace 
+Today evtols - Needs envolope during takeoff - not completely 
 
 Map and LAMS and LTMS 
 
@@ -108,6 +109,8 @@ ques
 operators  - tech providers 
 regulation  - tests 
 statelevel or faa level 
+
+
 
 traditional aviation  
 
