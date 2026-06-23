@@ -85,6 +85,10 @@ electra
 USF research 
 
 check- transportation research part b (journal) 
+3 part chromosome representation 
+because of AAM - change in road is critical in US
+4 step Travel demand modeling (TDM)
+utility function 
 
 
 
