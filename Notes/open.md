@@ -84,7 +84,7 @@ electra
 
 USF research 
 
-
+check- transportation research part b (journal) 
 
 
 
@@ -94,6 +94,6 @@ operators  - tech providers
 regulation  - tests 
 statelevel or faa level 
 
-traditional aviat
+traditional aviation 
 
 
