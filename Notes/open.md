@@ -89,6 +89,10 @@ check- transportation research part b (journal)
 because of AAM - change in road is critical in US
 4 step Travel demand modeling (TDM)
 utility function 
+price equity , affordability , sliding-fee policy
+Ai based - AAM SIm - AI based simulation modelling 
+
+anylogic with visualization 
 
 
 
