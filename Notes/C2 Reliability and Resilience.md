@@ -1008,3 +1008,15 @@ Comm link happens between multiple entites - Reliability across the paradigm
 proactive 
 reactive 
 Restorative / maintainance
+
+# Key references
+
+
+Across these texts, a rigid line is drawn between two system properties:
+
+- **Reliability (The Competence Envelope):** This is the system's ability to operate accurately under _nominal, planned, or bounded deviations_ (e.g., standard packet loss, predicted traffic conflicts, or calculated delays). It focuses on minimizing component failures, optimizing hardware uptime, and following predefined logic rules to keep the aircraft "well clear" of other traffic.
+    
+- **Resilience (Adaptive Capacity):** This is the system’s capacity to dynamically adjust its behavior, restructure, or compensate when unexpected perturbations push it to or _beyond the edges of its designed competence envelope_. It explicitly handles situations the engineers could not model in advance.
+
+The core common premise is that **maximizing reliability does not equate to creating resilience.** In fact, optimizing a system solely for peak reliability frequently leaves it fragile when unmodeled anomalies cascade simultaneously.
+
