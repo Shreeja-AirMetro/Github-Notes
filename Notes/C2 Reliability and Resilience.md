@@ -992,3 +992,11 @@ able. The system is no longer able to accomplish its mission.
 ATM that focuses on resilience as adaptive capacity and performance
 
 variability management as well as resilience as related to crisis management.
+
+
+### The Reliability Paradigm (Safety-I)
+
+- **Focus:** "What goes wrong?"
+### 2. The Resilience Paradigm (Safety-II)
+
+- **Focus:** "How do we make sure things go right?"
