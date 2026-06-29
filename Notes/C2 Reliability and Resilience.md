@@ -1020,3 +1020,5 @@ Across these texts, a rigid line is drawn between two system properties:
 
 The core common premise is that **maximizing reliability does not equate to creating resilience.** In fact, optimizing a system solely for peak reliability frequently leaves it fragile when unmodeled anomalies cascade simultaneously.
 
+---
+
