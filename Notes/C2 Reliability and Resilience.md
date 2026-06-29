@@ -952,3 +952,43 @@ In your PhD thesis, you can frame the relationship like this:
 2. **Verification Model (The Core):** Uses those inputs to mathematically prove that your handover and failover logic is sound, deadlock-free, and bounded in time.
     
 3. **Resilience Testing (The Validation):** Injects faults into the physical hardware stack to validate that the real-world software handles unexpected chaos exactly as predicted by your verification model.
+
+
+---
+
+# Key points to build AIAA paper 
+
+to readiness and preparedness; response and adaptation; and recovery or adjustment and argue that researchers attempt to
+Additionally, adopting the studies by Robert et al. [9] and UC Quake Centre [10],
+
+five levels of service for a system are identified, as follows:
+
+• Optimal level of service (OpLoS): the theoretical condition for which the system
+
+was planned and designed.
+
+• Normal level of service (NLoS): The system is performing as required and
+
+expected, achieving its mission to supply the anticipated level of service, while all
+
+the systems outputs are in their normal state.
+
+• Acceptable level of service (ALoS): The systems performance is partially degraded,
+
+with one or more of the systems outputs in a disturbed mode. Still, due to the
+
+action(s) taken, i.e., contingency plan(s), the system can maintain the service qual-
+
+ity at acceptable levels and limit its degradation.
+
+• Unacceptable level of service (ULoS): The systems performance is severely
+
+degraded and despite the action(s) taken its degradation has become unaccept-
+
+able. The system is no longer able to accomplish its mission.
+
+• Out of service level (OLoS): Discontinuation of the service.
+
+ATM that focuses on resilience as adaptive capacity and performance
+
+variability management as well as resilience as related to crisis management.
