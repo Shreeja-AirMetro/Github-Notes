@@ -1000,3 +1000,11 @@ variability management as well as resilience as related to crisis management.
 ### 2. The Resilience Paradigm (Safety-II)
 
 - **Focus:** "How do we make sure things go right?"
+
+
+Comm link happens between multiple entites - Reliability across the paradigm
+
+
+proactive 
+reactive 
+Restorative / maintainance
