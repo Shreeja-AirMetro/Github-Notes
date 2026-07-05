@@ -36,7 +36,9 @@
 7. https://ieeexplore.ieee.org/document/9861699
 8. https://ieeexplore.ieee.org/document/9508471
 9. https://onlinelibrary.wiley.com/doi/abs/10.1002/sat.1456
-10. 
+10. https://arxiv.org/pdf/2304.13008
+11. https://ieeexplore.ieee.org/document/10016705
+12. https://ieeexplore.ieee.org/document/10486973
 
 # Simulation 
 
@@ -45,7 +47,7 @@
 3. https://arxiv.org/pdf/2601.14883
 4. https://ieeexplore.ieee.org/document/10261131 - OTFS - Modulation
 5. https://ieeexplore.ieee.org/document/9775203
-6. 
+6. https://arxiv.org/pdf/2305.10273 DT based for URLLC
 
 
 # Use case
