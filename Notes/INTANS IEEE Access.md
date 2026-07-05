@@ -27,4 +27,9 @@
 1. https://ieeexplore.ieee.org/document/11162227?denied=
 2. https://ieeexplore.ieee.org/document/11151907
 3. https://arxiv.org/pdf/2601.14883
-4. 
+
+
+# Use case
+
+1. https://ieeexplore.ieee.org/document/11390331
+2. 
