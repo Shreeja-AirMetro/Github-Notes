@@ -1,3 +1,296 @@
+
+ If you finish a PhD in drone communications in 2028, you will actually have a profile that many VC firms struggle to hire: someone who can distinguish genuinely novel technology from marketing. AI will change how analysis is done, but it won't eliminate the need for technical judgment, especially in deep tech.
+
+The key is that VCs and growth equity firms don't hire "technology experts." They hire people who can answer one question:
+
+> "Will this technology become a billion-dollar business?"
+
+That means you need to expand from engineering into investing.
+
+## What firms look for
+
+A technical analyst in venture capital is expected to evaluate:
+
+- Is the technology actually novel?
+    
+- Is the IP defensible?
+    
+- Can competitors copy it?
+    
+- Is there a market?
+    
+- Does the founding team have an advantage?
+    
+- What technical milestones remain?
+    
+- How much capital will be required?
+    
+
+A PhD already covers the first three. You need to learn the last four.
+
+---
+
+## Build three additional skill sets
+
+### 1. Business analysis
+
+Learn:
+
+- startup business models
+    
+- SaaS metrics
+    
+- manufacturing economics
+    
+- unit economics
+    
+- market sizing (TAM/SAM/SOM)
+    
+- pricing
+    
+- financial statements
+    
+
+Recommended books:
+
+- _Venture Deals_
+    
+- _Secrets of Sand Hill Road_
+    
+- _The Lean Startup_
+    
+- _Zero to One_
+    
+
+---
+
+### 2. Technology investing
+
+Become fluent in evaluating companies instead of papers.
+
+Practice by writing investment memos on startups.
+
+Example:
+
+> "Would I invest $5 million in this drone startup?"
+
+Analyze:
+
+- technology
+    
+- patents
+    
+- competition
+    
+- customers
+    
+- regulations
+    
+- revenue
+    
+- risks
+    
+- exit opportunities
+    
+
+Publishing 20–30 high-quality investment theses before graduating is much more valuable than another academic publication for VC recruiting.
+
+---
+
+### 3. Communication
+
+VCs spend much of their time explaining technology to partners and LPs who are not specialists.
+
+Learn to explain:
+
+- MIMO
+    
+- RF propagation
+    
+- mesh networking
+    
+- autonomous navigation
+    
+- edge AI
+    
+
+in plain English.
+
+This is a rare skill.
+
+---
+
+## AI won't replace this role
+
+AI is already good at:
+
+- summarizing papers
+    
+- comparing patents
+    
+- generating market reports
+    
+- finding competitors
+    
+
+It is much less reliable at:
+
+- spotting weak assumptions
+    
+- judging engineering feasibility
+    
+- assessing founder credibility
+    
+- understanding execution risk
+    
+- synthesizing subtle technical and commercial signals
+    
+
+The winning candidate will use AI to work faster rather than compete against it.
+
+---
+
+## Build a visible public portfolio
+
+Instead of only publishing research, publish analyses such as:
+
+- "Why this drone startup will fail."
+    
+- "The future of drone communication after 6G."
+    
+- "Five companies building autonomous BVLOS infrastructure."
+    
+- "Comparing military and commercial drone communication."
+    
+- "Investment thesis on autonomous logistics."
+    
+
+Publish on:
+
+- LinkedIn
+    
+- Medium
+    
+- Substack
+    
+- a personal website
+    
+
+Recruiters increasingly search for candidates with demonstrated thinking rather than relying only on résumés.
+
+---
+
+## Gain startup exposure
+
+The strongest profile by 2028 would look like:
+
+- PhD in drone communications
+    
+- 1–2 internships at startups
+    
+- one internship or fellowship with a VC
+    
+- publications
+    
+- patents
+    
+- startup consulting
+    
+- investment memos
+    
+- public technical writing
+    
+
+That profile is significantly stronger than a PhD alone.
+
+---
+
+## Learn finance—but enough, not everything
+
+You don't need to become an investment banker.
+
+Focus on:
+
+- venture capital
+    
+- startup valuation
+    
+- cap tables
+    
+- dilution
+    
+- fundraising
+    
+- term sheets
+    
+- exit scenarios
+    
+
+Knowing how venture economics work makes your technical recommendations much more useful.
+
+---
+
+## Network early
+
+Start in 2026–2027 rather than waiting until graduation.
+
+Attend:
+
+- deep-tech conferences
+    
+- startup demo days
+    
+- university incubators
+    
+- investor events
+    
+- accelerator showcases
+    
+
+Ask partners whether you can help with technical due diligence. Many firms welcome technically trained PhD students for part-time or project-based work.
+
+---
+
+## Career progression
+
+A realistic path could be:
+
+- **2028:** PhD in drone communications.
+    
+- **2028–2030:** Deep-tech analyst or technical due diligence specialist at a VC, corporate venture arm, consulting firm, or defense innovation organization.
+    
+- **2030–2033:** Senior investment associate or principal.
+    
+- **2033+:** Partner, launch your own fund, or become a CTO/founder.
+    
+
+---
+
+## Will firms still hire technical analysts in 2028?
+
+Yes, but expectations will be higher.
+
+A candidate who simply says, "I have a PhD," will face more competition because AI can assist with literature reviews and technical summaries.
+
+A candidate who can:
+
+- use AI to accelerate research,
+    
+- perform rigorous technical due diligence,
+    
+- evaluate commercial viability,
+    
+- write clear investment memos,
+    
+- communicate with founders and investors,
+    
+
+will likely be more valuable than today because the volume of startups and technical information continues to grow.
+
+Given your specialization in drone communications, you're also entering fields with sustained investment interest, including autonomous systems, defense technology, robotics, edge AI, and wireless infrastructure. Developing expertise at the intersection of these areas and investment analysis would give you a distinctive profile for deep-tech VC or growth equity roles.
+ 
+ 
+ 
  - Target position with global experience 
 
  
