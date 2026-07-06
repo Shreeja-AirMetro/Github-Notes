@@ -35,8 +35,7 @@
               "title": "PhD 2028"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress- PhD/PhD 2028.md",
+                "file": "Notes/INTANS IEEE Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD 2028"
+              "title": "Outline of INTANS IEEE Access"
             }
           },
           {
@@ -198,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12de883ec2d1de82",
+  "active": "65b5c8526e3ab761",
   "lastOpenFiles": [
+    "Progress- PhD/PhD 2028.md",
     "Progress- PhD/Future.md",
     "Progress- PhD/Lessons.md",
-    "Progress- PhD/PhD 2028.md",
     "Progress- PhD/Application.md",
     "Progress- PhD/TAC meeting.md",
     "Progress- PhD/Milestones.md",

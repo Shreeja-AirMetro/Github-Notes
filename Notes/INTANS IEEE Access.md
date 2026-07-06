@@ -59,4 +59,9 @@
 # Paid wall
 
 1. https://www.emerald.com/ftnet/article-abstract/14/3/160/1328324/A-Tutorial-on-Non-Terrestrial-Networks-Towards?redirectedFrom=PDF
-2. 
+
+
+
+---
+
+System Model
