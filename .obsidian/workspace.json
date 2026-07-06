@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "INTANS IEEE Access"
             }
+          },
+          {
+            "id": "12de883ec2d1de82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOS/July 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "July 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/INTANS IEEE Access.md",
+                "file": "TODOS/July 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of INTANS IEEE Access"
+              "title": "Outline of July 2026"
             }
           },
           {
@@ -183,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b5c8526e3ab761",
+  "active": "12de883ec2d1de82",
   "lastOpenFiles": [
-    "TODOS/July 2026.md",
     "Notes/INTANS IEEE Access.md",
+    "TODOS/July 2026.md",
     "Notes/C2 Reliability and Resilience.md",
     "Paper-Writing/DRCN.md",
     "TODOS/June 2026.md",

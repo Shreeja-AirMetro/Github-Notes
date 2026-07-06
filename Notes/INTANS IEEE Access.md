@@ -22,7 +22,7 @@
 8. https://ieeexplore.ieee.org/document/10355104
 9. https://onlinelibrary.wiley.com/doi/10.1002/sat.1471
 10. https://onlinelibrary.wiley.com/toc/15420981/2023/41/3
-11. 
+11. ESA TN and NT white paper , ETSI, ITU and 3GPP
 12. 
 
 # Survey
