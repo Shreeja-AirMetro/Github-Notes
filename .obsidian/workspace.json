@@ -11,14 +11,16 @@
             "id": "65b5c8526e3ab761",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Progress- PhD/PhD 2028.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "PhD 2028"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban 1"
             }
           }
         ]
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress- PhD/PhD 2028.md",
+                "file": "Untitled Kanban 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PhD 2028"
+              "title": "Outline of Untitled Kanban 1"
             }
           },
           {
@@ -162,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -185,9 +188,12 @@
   },
   "active": "65b5c8526e3ab761",
   "lastOpenFiles": [
+    "Untitled Kanban 1.md",
+    "2026-07-06.md",
+    "Untitled 6.canvas",
+    "Progress- PhD/PhD 2028.md",
     "Progress- PhD/Presentations.md",
     "Notes/INTANS IEEE Access.md",
-    "Progress- PhD/PhD 2028.md",
     "Progress- PhD/Future.md",
     "Progress- PhD/Lessons.md",
     "Progress- PhD/Application.md",
@@ -210,8 +216,6 @@
     "TODOS/Nov 2025.md",
     "TODOS/Todos.md",
     "TODOS/AirMetro-Student-Meeting-2701.md",
-    "TODOS/2027.md",
-    "Paper-Writing/planned Ideas.md",
     "IMG20260701083417.jpg",
     "Pasted image 20260629144356.png",
     "Pasted image 20260625102518.png",
