@@ -507,4 +507,26 @@ T2 Presentation 13/4
 - Thermal boundary conditions - not flux conditions 
 - Radio cross section reducedby the pattern proposed by Zhang et all 
 - Far field amplituded - deformed and non - case 
-- 
+
+
+
+
+---
+
+# Collaboration - to read  6/7/26
+
+### References
+
+- Licea, D. B., Silano, G., Ghogho, M., & Saska, M. (2023). Optimum Trajectory Planning for Multi-Rotor UAV Relays with Tilt and Antenna Orientation Variations. _29th European Signal Processing Conference (EUSIPCO)_, 1586-1590. [https://doi.org/10.23919/EUSIPCO54536.2021.9616232](https://www.google.com/search?q=https://doi.org/10.23919/EUSIPCO54536.2021.9616232)
+`
+        
+- Nekrasov, M., Allen, R., Artamonova, I., & Belding, E. (2019). Optimizing 802.15.4 Outdoor IoT Sensor Networks for Aerial Data Collection. _Sensors_, _19_(16), 3479. [https://doi.org/10.3390/s19163479](https://www.google.com/search?q=https://doi.org/10.3390/s19163479)
+
+        
+- Qi, F., Li, W., Yu, P., Feng, L., & Zhou, F. (2021). Shape-adaptive IRS-based SAG IoT network. _EURASIP Journal on Wireless Communications and Networking_, _2021_. [https://doi.org/10.1186/s13638-021-02069-0](https://www.google.com/search?q=https://doi.org/10.1186/s13638-021-02069-0)
+
+        
+- Svedin, J., Bernland, A., Gustafsson, A., Claar, E., & Luong, J. (2021). Small UAV-based SAR system using low-cost radar, position, and attitude sensors with onboard imaging capability. _International Journal of Microwave and Wireless Technologies_, _13_(7), 602-613. [https://doi.org/10.1017/s1759078721000416](https://doi.org/10.1017/s1759078721000416)
+    
+
+- Tezergil, B., & Onur, E. (2022). Wireless Backhaul in 5G and Beyond: Issues, Challenges and Opportunities. _IEEE Communications Surveys & Tutorials_, _24_(4), 2579-2632. [https://doi.org/10.1109/comst.2022.3203578](https://www.google.com/search?q=https://doi.org/10.1109/comst.2022.3203578)
