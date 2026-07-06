@@ -35,8 +35,7 @@
               "title": "Presentations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress- PhD/Presentations.md",
+                "file": "Notes/INTANS IEEE Access.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Presentations"
+              "title": "Outline of INTANS IEEE Access"
             }
           },
           {
@@ -198,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12de883ec2d1de82",
+  "active": "65b5c8526e3ab761",
   "lastOpenFiles": [
+    "Progress- PhD/Presentations.md",
     "Progress- PhD/PhD 2028.md",
     "Notes/INTANS IEEE Access.md",
     "Progress- PhD/Future.md",
@@ -209,7 +209,6 @@
     "Progress- PhD/Milestones.md",
     "Progress- PhD/Research stay.md",
     "Progress- PhD/Purpose.md",
-    "Progress- PhD/Presentations.md",
     "Progress- PhD/Monograph.md",
     "Progress- PhD/Lit synthesis.md",
     "TODOS/July 2026.md",
