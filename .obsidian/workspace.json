@@ -35,8 +35,7 @@
               "title": "NTN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e56bf38153ef429",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
+    "Notes/NTN.md",
     "Paper-Writing/IEEE Access.md",
     "TODOS/July 2026.md",
     "Untitled 1.md",
@@ -227,7 +227,6 @@
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Screenshot from 2026-07-02 14-15-06.png",
     "TODOS/August 2026.md",
-    "TODOS/mar 2026.md",
     "IMG20260701083417.jpg",
     "Pasted image 20260629144356.png",
     "Pasted image 20260625102518.png",
