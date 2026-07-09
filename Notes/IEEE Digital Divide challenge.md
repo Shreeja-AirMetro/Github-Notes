@@ -26,3 +26,8 @@ Theme of 2023-25 local, decentralized, resilient networks
 
 # 2026 issues 
 
+1. Link loss - NTN - Geo political issue 
+2. Internet source of economy
+3. AI 
+4. NB-IOt base tool kit 
+5. 
