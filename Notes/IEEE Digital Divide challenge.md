@@ -17,6 +17,9 @@ Theme:
 
 ![[Phase-2-KPIs-for-contestants_07272023-1.pdf]]
 # State of Art 
-
-
+1. Get people onboard to access - addressing the absolute lack of physical infrastructure 
+2. gender, refugee inclusivity - educating the digital world 
+3. Climate sustainability and network survivability - Symbiotic networks 
+Branches : technical, societial , community establishments , business 
+Theme of 2023-25 local, decen
 # Ideas 
