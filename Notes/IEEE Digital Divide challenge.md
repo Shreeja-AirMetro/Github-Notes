@@ -30,4 +30,4 @@ Theme of 2023-25 local, decentralized, resilient networks
 2. Internet source of economy
 3. AI 
 4. NB-IOt base tool kit 
-5. 
+5. soverignity 
