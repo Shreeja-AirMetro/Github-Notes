@@ -21,5 +21,8 @@ Theme:
 2. gender, refugee inclusivity - educating the digital world 
 3. Climate sustainability and network survivability - Symbiotic networks 
 Branches : technical, societial , community establishments , business 
-Theme of 2023-25 local, decen
+Theme of 2023-25 local, decentralized, resilient networks 
 # Ideas 
+
+# 2026 issues 
+
