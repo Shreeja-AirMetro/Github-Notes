@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper-Writing/IEEE Access.md",
+                "file": "Notes/IEEE Digital Divide challenge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IEEE Access"
+              "title": "Outline of IEEE Digital Divide challenge"
             }
           },
           {
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3554044b4782432d",
+  "active": "4313aba7b3d3b051",
   "lastOpenFiles": [
     "TODOS/July 2026.md",
     "Notes/IEEE Digital Divide challenge.md",
