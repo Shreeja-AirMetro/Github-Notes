@@ -33,6 +33,5 @@ Theme of 2023-25 local, decentralized, resilient networks
 5. soverignity 
 6. energy , hardware accessibility
 
-
 ---
 Climate resilience through IOT 
