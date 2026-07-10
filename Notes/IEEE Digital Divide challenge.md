@@ -32,4 +32,7 @@ Theme of 2023-25 local, decentralized, resilient networks
 4. NB-IOt base tool kit 
 5. soverignity 
 6. energy , hardware accessibility
-7. 
+
+
+---
+Climate resilience through IOT 
