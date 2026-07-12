@@ -49,7 +49,8 @@
               "title": "NTN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4313aba7b3d3b051",
+  "active": "ce9608fd5fb56f41",
   "lastOpenFiles": [
-    "TODOS/July 2026.md",
     "Notes/IEEE Digital Divide challenge.md",
+    "TODOS/July 2026.md",
     "2026-07-09.md",
     "Untitled 7.canvas",
     "TODOS/2026.md",
