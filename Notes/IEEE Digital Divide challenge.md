@@ -35,3 +35,7 @@ Theme of 2023-25 local, decentralized, resilient networks
 
 ---
 Climate resilience through IOT 
+
+Proof of concept 
+Climate resilience through NTN NB-IOT 
+Low power and Low cost device 
