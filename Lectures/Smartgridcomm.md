@@ -308,3 +308,11 @@ demands  - over provisioning of the demands
 
 
 
+---
+
+# Lecture 15th July
+
+Last content 
+- Forcasting, prediction and decision-making 
+- optimization from grid and user side based on cpacity- behaviour analyisi 
+- 
