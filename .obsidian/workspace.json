@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IEEE Digital Divide challenge.md",
+                "file": "TODOS/July 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IEEE Digital Divide challenge"
-            }
-          },
-          {
-            "id": "ce9608fd5fb56f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Smartgridcomm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Smartgridcomm"
+              "title": "July 2026"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "NTN"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce9608fd5fb56f41",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
-    "TODOS/July 2026.md",
     "Notes/IEEE Digital Divide challenge.md",
     "Notes/NTN.md",
+    "Lectures/Smartgridcomm.md",
+    "TODOS/July 2026.md",
     "2026-07-09.md",
     "Untitled 7.canvas",
     "TODOS/2026.md",
