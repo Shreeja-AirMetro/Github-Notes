@@ -325,7 +325,8 @@ Last content
 - feature category 
 - persistence 
 - ARIMA
-- 
+- ML - Linear regression - Desicion tree
+- diff tree models 
 
 Ques: 
 Cluster : 
