@@ -320,4 +320,11 @@ Last content
 - methods
 - duration 
 - key problems - variables, drivers, features 
+- event prediction - regression, classification and multi-step regression 
+- forcasting pipeline - 7 steps with pre and post processing 
+- feature category 
 - 
+
+Ques: 
+Cluster : 
+remove outliers 
