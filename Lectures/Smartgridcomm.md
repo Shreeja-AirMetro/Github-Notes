@@ -315,4 +315,9 @@ demands  - over provisioning of the demands
 Last content 
 - Forcasting, prediction and decision-making 
 - optimization from grid and user side based on cpacity- behaviour analyisi 
+- desicison and forcasting horizon
+- inputs
+- methods
+- duration 
+- key problems - variables, drivers, features 
 - 
