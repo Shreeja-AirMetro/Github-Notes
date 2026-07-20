@@ -42,12 +42,16 @@ Given ~4 hrs/week average, this gets you to a full v1 draft in about 20 weeks (~
 
 ---
 
-# Checks on Completeion of task 
+# Checks on Completion of task 
 
 
-
-
-
+- [ ] Week 1 - 20-24
+- [ ] Week 2 - 27 - 02.Aug
+- [ ] Week 3 - 3-9
+- [ ] Week 4 - 10-16
+- [ ] Week 5 - 17-23
+- [ ] Week 6 - 24-30
+- [ ] week 7 - 31 - 06 Sep 
 
 
 
