@@ -27,6 +27,17 @@ Smartgrid comm oral - 17th
 
 **Use Notebook LLM** 
 
-1. Comnets 2 
+1. Comnets 2  - Oral 
 	1. Total Material - 16 
-	2. Video - you
+	2. Video - youtube 
+	3. Osel prev question papers/ topics
+2. Comnets 1 - Written
+	1. 8 Exercises 
+	2. Lecture 13
+	3. Check MIT courseware 
+	4. Organize Dictionary / book 
+3. Smartgrid comm - oral 
+	1. Lecture and Lecture notes 
+4. Traffic Theory 
+	1. Ask Rico- prev questions 
+	2. 
