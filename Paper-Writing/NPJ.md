@@ -199,3 +199,45 @@ RCP isn't one number that _implies_ reliability — it **is** how reliability is
 
 1. build the algorithm 
 2. test with simulation data 
+
+
+ I pulled the actual npj Wireless Technology "Article" format requirements directly, so this isn't guesswork.
+
+## Official structure (Article type — what you want, not Perspective/Review)
+
+The journal **doesn't impose a strict word count** — it's online-only, fully open access — but the section rules are specific and matter more than length:
+
+|Section|Rule|
+|---|---|
+|Title|≤15 words, no punctuation/idioms/puns|
+|Abstract|≤150 words, **no subheadings**|
+|Introduction|**no subheadings**|
+|Results|**subheadings required**|
+|Discussion|**no subheadings, no separate Limitations or Conclusions section** — integrate both into the discussion prose|
+|Methods|subheadings required, comes **after** Discussion, full detail in main text (not Supplementary)|
+|References|≤60 (soft limit)|
+|Figure legends|≤350 words each|
+
+Note the ordering: **Introduction → Results → Discussion → Methods**, Nature-style — Methods goes last, not first. This matters for how you draft: readers hit your findings before your pipeline details.
+
+For length, this journal's page doesn't state a number, but a sibling npj journal's stated norm is a useful anchor: **~5,000 words of main text as a guide, with Methods excluded from that count**. That's roughly consistent with your original 6–10 page target — treat 5,000 words (excluding Methods, references, figure legends) as your working ceiling, not a hard rule.
+
+## Suggested section-by-section plan
+
+- **Abstract (≤150 words):** the gap (RCP defined top-down, 3GPP KPIs bottom-up, no formal bridge), your contribution (bias-corrected mapping + FSMC/EVT pipeline), and headline validation result (simulation ground-truth + field pilot).
+- **Introduction (no subheadings, ~600–800 words):** BVLOS/AAM motivation → PBCS/SORA regulatory context → the specific gap → your contribution stated plainly in the last paragraph. This is where your Annex 10 Vol VI / SORA-SAIL framing earns its keep.
+- **Results (subheadings, ~1,800–2,200 words):** structure by claim, not by method — e.g. "Simulation validates estimator accuracy under limited sampling," "RAT-specific bias is measurable and significant," "Fused multi-RAT reliability exceeds single-RAT baselines." Each subsection: what you found, one figure, minimal method explanation (that's what Methods is for).
+- **Discussion (no subheadings, ~800–1,000 words):** what the results mean for BVLOS C2 link certification evidence, how this connects to QoSD/SORA-OSO evidence generation, honest limitations (short campaign, Integrity as bounded estimate, deferred RSP/RNP/DAA) woven into the prose — not as a separate section, since the journal disallows one.
+- **Methods (subheadings, no length limit, likely your longest section):** testbed hardware, OMNeT++ TN/NTN simulation setup, FSMC fitting, EVT/POT tail estimation, RAT-bias regression, copula fusion, RCP parameter derivation — all the mathematical model from earlier in our conversation belongs here in full.
+
+## Research contributions (for your cover letter / significance framing)
+
+Distilled from what we've built across this conversation, in decreasing order of novelty:
+
+1. **A formal, testable mapping methodology** from heterogeneous physical/logical network metrics (3GPP-style KPIs) to ICAO C2 link RCP parameters, with an explicit, estimable RAT-specific bias-correction term — addressing a gap both GSMA and the RCP/RSP literature acknowledge but don't formally close.
+2. **A statistical pipeline suited to short measurement campaigns** — FSMC state modeling plus EVT/POT tail estimation, chosen specifically because they extrapolate rare-event (RCP-relevant) statistics from limited data rather than requiring long observation windows.
+3. **A simulation-validated estimator** — using OMNeT++ TN+NTN to establish ground truth and confirm the pipeline recovers accurate reliability estimates from realistically short sampling windows, before applying it to real hardware.
+4. **Real multi-RAT hardware validation** (5G, LEO SATCOM, mesh WiFi) — genuinely rare in this literature, directly responsive to the collection's explicit call for hardware/real-world experimentation.
+5. **Explicit regulatory positioning** — situating the methodology as an instrumentation approach for QoSD (Annex 10 Vol VI) and as a candidate mechanism for the C2-link evidence SORA's OSO/SAIL process currently lacks a systematic technical pathway for.
+
+That fifth point is your strongest single differentiator for the significance statement — it's the one thing almost nothing else in the literature does, and it directly answers "why should anyone outside wireless engineering care about this paper."
