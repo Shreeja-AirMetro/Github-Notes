@@ -35,8 +35,7 @@
               "title": "July 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bae77a55c5cfe37",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
     "TODOS/Exams - PhD Enrollment.md",
     "Paper-Writing/NPJ.md",
