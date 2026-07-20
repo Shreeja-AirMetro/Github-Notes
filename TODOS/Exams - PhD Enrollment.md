@@ -40,4 +40,6 @@ Smartgrid comm oral - 17th
 	1. Lecture and Lecture notes 
 4. Traffic Theory 
 	1. Ask Rico- prev questions 
-	2. 
+	2. Rico - translations 
+	3. 12 lecture and 8 exercise 
+	4. MiT Courseware 
