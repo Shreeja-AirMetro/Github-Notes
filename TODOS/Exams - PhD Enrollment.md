@@ -20,4 +20,13 @@ Smartgrid comm oral - 17th
 
 # Study 
 
-1. Comnets 2 -  25 and 26 weekend 
+1. Comnets 2 -  25 and 26 weekend , 1 and 2 weekend , 3rd 4th and 5th 
+2. Coments 2 - 25 and 26 weekend , 1 and 2 weekend ,  7, 8, 9 
+3. Smartgrid comm - 15, 16 weekend 
+4. Traffic Theory - 13, 14, 15 and 16 weekend, 17, 18, 19 
+
+**Use Notebook LLM** 
+
+1. Comnets 2 
+	1. Total Material - 16 
+	2. Video - you
