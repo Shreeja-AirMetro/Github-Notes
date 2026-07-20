@@ -1,6 +1,48 @@
 # 20th July  2026 - Plan for writing Dissertation 
 
+### Week 1-3 (End of Aug)
 
+- **Pull everything into one place.** Export your reference manager library (Zotero/Mendeley/EndNote) into a spreadsheet: title, year, authors, venue, and a blank column for "cluster/theme."
+- **Triage, don't re-read yet.** For each paper, spend 2-3 minutes: title + abstract + skim conclusion. Tag it as _core_ (directly supports your hypothesis/objectives), _context_ (background/field-setting), or _tangential_ (cut candidate). This alone often shrinks your working set by 30-40%.
+- Goal by end of Phase 1: a spreadsheet of maybe 60-150 papers, sorted into those three buckets, with tangential ones parked (not deleted — just deprioritized).
+### Phase 2: Deep read & extraction (weeks 4–10, ~4-5 hrs/week)
+
+For _core_ and _context_ papers only, do structured re-reads using a fixed extraction template so you're not rewriting the same cognitive work each time. A simple table per paper:
+
+|Field|What to capture|
+|---|---|
+|Research question/gap addressed|1 sentence|
+|Method|1 sentence|
+|Key finding|1-2 sentences|
+|Relation to my hypothesis|supports / contrasts / contextualizes|
+|Theme tag(s)|e.g. "measurement approach," "theoretical gap"|
+
+- Budget ~15-20 min per core paper, ~8-10 min per context paper. At 4 hrs/week that's roughly 12-15 papers/week.
+- Do this in a spreadsheet or a tool like Zotero + tags, or Notion/Airtable if you want filterable views — this becomes your "literature database," not just notes.
+
+### Phase 3: Clustering (weeks 11–13, ~3 hrs/week)
+
+- Once extraction is done, look at your theme tags and **let clusters emerge bottom-up** rather than forcing papers into themes you picked in advance. Sort/filter the spreadsheet by theme tag and see what groupings actually appear.
+- Typical thesis intro/background clusters: (1) the broad field/context, (2) the specific gap or debate your work sits in, (3) methodological precedents, (4) theoretical frameworks, (5) studies most directly adjacent to your own.
+- For each cluster, write a **one-paragraph synthesis** (not summary-by-summary — synthesis: what do these papers collectively establish, where do they disagree, what's missing). This paragraph is essentially a seed for that section of your chapter.
+
+### Phase 4: Structure & draft v1 (weeks 14–20, ~4-5 hrs/week)
+
+- Turn your cluster list into a chapter outline (headings = clusters, ordered from broad → narrow, ending at your gap/hypothesis).
+- Draft section by section using your synthesis paragraphs as scaffolding, pulling in specific citations from your extraction table as needed.
+- Leave the last 2-3 weeks purely for connective tissue: transitions, framing sentences that link background to your research objectives, and a closing "this is the gap I address" paragraph.
+
+### Practical tips for your time budget
+
+- **Batch by type, not paper.** Doing all triage in one stretch, then all extraction, then all clustering, is faster than doing full-cycle-per-paper — less context-switching.
+- **Cap re-reading time per paper** with a timer. It's easy to over-read a paper you already know well; the extraction template forces you to stop once you've captured what you need.
+- **Track weekly output**, not hours — e.g., "12 papers extracted" or "1 cluster synthesized." Hours are input, output is what moves the chapter forward.
+
+Given ~4 hrs/week average, this gets you to a full v1 draft in about 20 weeks (~5 months), leaving you a solid buffer before end of 2026 for revision or if your data collection pulls attention away some weeks.
+
+---
+
+# Checks on Completeion of task 
 
 
 
