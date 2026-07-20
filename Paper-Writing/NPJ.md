@@ -196,3 +196,6 @@ $$Availability_{fused} = 1 - C\big(1-Availability_1,, 1-Availability_2\big)$$ wh
 ## Does RCP "ensure" reliability, and where does Integrity fit?
 
 RCP isn't one number that _implies_ reliability — it **is** how reliability is operationally defined for a C2 link in this framework. A link can satisfy Availability, Continuity, and Transaction Time simultaneously and still be unreliable in the safety-relevant sense if it fails Integrity: it stays up, stays stable, and responds fast, but occasionally delivers a corrupted command without anyone knowing. That's precisely why Integrity is framed around _undetected_ failure — the other three parameters describe a link that's up and timely, Integrity is the one guaranteeing that what arrives is actually correct. An RCP type is only credited when all four thresholds are met jointly, not any one in isolation — so your paper's honest framing should be: reliability = joint compliance across Availability, Continuity, Transaction Time, _and_ Integrity, with the last being the hardest to establish from a short campaign and the one you should flag most explicitly as a bounded estimate rather than a directly validated figure.
+
+1. build the algorithm 
+2. test with simulation data 
