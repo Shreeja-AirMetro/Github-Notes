@@ -139,3 +139,60 @@ A few concrete reasons, any of which you can use directly in the scoping paragra
 **It's a natural, low-cost future-work line, not a dead end.** Because your pipeline (FSMC + EVT + bias-correction per RAT) is target-framework-agnostic, you can close the scoping paragraph by noting the same methodology extends to RSP by substituting its parameter definitions — signaling foresight without having to deliver it now.
 
 A ready-to-adapt sentence: _"While the same physical links also carry telemetry data relevant to RSP, this work addresses only the C2/RCP function; extending the proposed mapping to RSP's delivery-time and continuity parameters is a natural but separate direction, left to future work."_
+
+## Formal setup
+
+Let $r \in {5G, LEO, Mesh}$ index the RATs, and $t$ index discrete sample times at interval $\Delta t$.
+
+**Physical layer:** $X_r(t) = (SINR_r(t), RSSI_r(t))$. Discretize into a physical state via quantization: $s_r(t) = \phi(X_r(t)) \in {1,\dots,K}$.
+
+**Logical layer (MAVLink):** packet-error indicator $e_r(t)\in{0,1}$, latency $L_r(t)$ (command→ack), throughput $Th_r(t)$.
+
+**Active probes:** $L_r^{iperf}(t)$, $Th_r^{iperf}(t)$ (controlled-rate reference), $L_r^{RTT}(t)$ (ICMP/RTT baseline).
+
+**Compliance indicator**, thresholds set by the target RCP type: $$C_r(t) = \mathbb{1}{e_r(t)=0 ;\wedge; L_r(t)\le L_{max};\wedge;Th_r(t)\ge Th_{min}}$$
+
+## Stage 1 — vertical fusion (the bias-correction term)
+
+Model logical compliance conditional on physical state, per RAT, with an explicit RAT-interaction term: $$\text{logit},P(C_r(t)=1 \mid s_r(t)) = \alpha + \beta, s_r(t) + \gamma_r + \delta_r, s_r(t)$$
+
+$\gamma_r,\delta_r$ are your formal, reportable "technology-specific bias" coefficients — the same SINR bin producing different compliance probability on 5G vs. Iridium is captured exactly by $\delta_r$.
+
+## Stage 2 — per-RAT Markov model → Availability
+
+Estimate transition probabilities empirically from the joint (physical-state × compliance) sequence: $$p^r_{ij} = \frac{N^r_{i\to j}}{N^r_i}$$
+
+Steady-state $\pi_r$ solves $\pi_r P_r = \pi_r,; \sum_i \pi_r(i)=1$. Then: $$Availability_r = \sum_{j\in G} \pi_r(j)$$ where $G$ is the set of compliant states.
+
+## Continuity — first-passage over the transaction window
+
+Let $T$ = transaction duration (from your MAVLink command→ack cycle, or the RCP type's transaction expiration time), $n = T/\Delta t$ steps. Restrict $P_r$ to the compliant-state sub-matrix $Q_r$ (transitions among $G$ only): $$Continuity_r(n) = \sum_{i\in G}\frac{\pi_r(i)}{Availability_r}\sum_{j\in G}(Q_r^{,n})_{ij}$$
+
+This is the probability of remaining compliant for the whole transaction, given compliant at the start — directly checkable against your logged real command-ack success/failure sequence.
+
+## Transaction Time — empirical + tail extrapolation
+
+Empirical distribution from measured command-ack and iperf/RTT latencies: $F_r(x) = P(TT_r \le x)$, reported as $TT_r^{(p)} = F_r^{-1}(p)$ (95th/99th percentile, bootstrapped CI). For extrapolated worst-case beyond observed range, fit a Generalized Pareto Distribution to exceedances over threshold $u$: $$\bar F(x) \approx (1-F(u))\Big[1+\xi\frac{x-u}{\sigma}\Big]^{-1/\xi}, \quad x>u$$
+
+## Integrity — the honest caveat
+
+True undetected errors aren't directly observable in a short campaign (that's what "undetected" means). Treat it as a _bounded estimate_, not a measured quantity: $$Integrity_r \approx P(s_r(t) < s_{crit}) \times \big(1 - P_{detect}\big)$$ where $P(s_r<s_{crit})$ comes from the same EVT tail model on physical state, and $P_{detect}$ is the MAVLink/transport-level detection rate (sequence-number/CRC check success). State this explicitly as an estimated upper bound derived from physical-layer tail behavior, not a directly measured RCP-grade Integrity figure — reviewers will respect the honesty more than an overclaimed number.
+
+## Fusion across RATs (end-to-end)
+
+$$Availability_{fused} = 1 - C\big(1-Availability_1,, 1-Availability_2\big)$$ where $C$ is a fitted copula capturing dependence between RAT outage events (test independence first; if it holds, this reduces to the simple product rule). Continuity_fused and TT_fused are best obtained via Monte Carlo simulation of the joint process under your chosen redundancy policy, since the closed-form absorbing-state calculation gets unwieldy once dependence is included.
+
+## Data-to-RCP matrix
+
+|Data source|Availability|Continuity|Transaction Time|Integrity|
+|---|---|---|---|---|
+|SINR / RSSI (physical, per RAT)|Primary — drives Markov states $\to \pi_r$|Primary — defines $G$, feeds $Q_r$|Supporting — explains latency variance|Primary — EVT tail feeds estimate|
+|MAVLink packet error/loss|Primary — defines $C_r(t)$|Primary — detected-loss component|—|Supporting — flags detected vs. undetected split|
+|MAVLink latency (cmd→ack)|Supporting — contributes to $C_r(t)$|Supporting — transaction-window definition|Primary — direct measurement|—|
+|MAVLink throughput|Supporting|—|Supporting|—|
+|iperf throughput/loss (controlled load)|Supporting — RAT-comparable baseline|Supporting — cross-checks MAVLink-based continuity|Supporting — clean reference RTT|—|
+|ICMP/RTT probes|—|—|Primary — baseline TT, tail input|—|
+
+## Does RCP "ensure" reliability, and where does Integrity fit?
+
+RCP isn't one number that _implies_ reliability — it **is** how reliability is operationally defined for a C2 link in this framework. A link can satisfy Availability, Continuity, and Transaction Time simultaneously and still be unreliable in the safety-relevant sense if it fails Integrity: it stays up, stays stable, and responds fast, but occasionally delivers a corrupted command without anyone knowing. That's precisely why Integrity is framed around _undetected_ failure — the other three parameters describe a link that's up and timely, Integrity is the one guaranteeing that what arrives is actually correct. An RCP type is only credited when all four thresholds are met jointly, not any one in isolation — so your paper's honest framing should be: reliability = joint compliance across Availability, Continuity, Transaction Time, _and_ Integrity, with the last being the hardest to establish from a short campaign and the one you should flag most explicitly as a bounded estimate rather than a directly validated figure.
