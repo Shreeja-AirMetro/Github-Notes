@@ -120,3 +120,22 @@ BVLOS operations under SORA also carry **Tactical Mitigation Performance Require
 Every one of RCP/RSP/RNP and SORA's SAIL/OSO robustness levels ultimately trace back to a **Target Level of Safety** — the quantitative safety objective (e.g., an acceptable fatal-accident rate per flight hour) that the whole performance-based framework exists to satisfy. You don't need to derive numbers against TLS, but one sentence in your introduction or discussion connecting "RCP parameters exist to demonstrably support a TLS" shows you understand _why_ the four RCP parameters are the ones that matter, rather than treating them as an arbitrary checklist — which materially strengthens the paper's framing for reviewers from the aviation side.
 
 **For your paper**, I'd suggest a short subsection (half a page) situating your RCP-mapping methodology within this wider PBCS/SORA landscape — explicitly stating what you address (RCP, C2 only) and what you deliberately scope out (RSP/telemetry, DAA/TMPR, RNP) — rather than trying to cover all of it. That scoping statement is what turns "here's a metric mapping" into "here's a methodology positioned correctly within the actual regulatory pathway BVLOS operators need to satisfy."
+
+That's the shape your scoping subsection can follow: TLS anchors the whole framework, SORA determines what evidence is actually required (SAIL/OSO), and that requirement fans out across four performance domains — RCP, RSP, RNP, DAA/TMPR — of which your methodology addresses only RCP for the C2 link.
+
+In the half-page write-up, I'd keep this same order: one sentence on TLS/SORA as the reason RCP matters at all, one sentence naming the sibling domains (RSP, RNP, DAA/TMPR) and why each is out of scope, then transition straight into your RCP-mapping contribution. That's the paragraph a reviewer needs to see you've thought about the full picture without trying to solve all of it.
+![[rcp_scope_within_pbcs_sora.png]]
+
+A few concrete reasons, any of which you can use directly in the scoping paragraph:
+
+**RSP and RCP are formally separate specifications, even on the same link.** Under ICAO's PBCS framework, RCP governs the _communication_ function (commands to the aircraft) while RSP governs the _surveillance_ function (position/state data back to the ground) — each with its own delivery-time, continuity, availability, and integrity parameters, evaluated and certified separately even when carried over the same physical channel. Your MAVLink stream happens to carry both command traffic and telemetry, but that's an implementation detail of MAVLink, not a reason to treat them as one regulatory object.
+
+**The compliance thresholds don't transfer.** RSP designators (like RSP180) are defined against ATC surveillance-data-delivery expectations in a specific oceanic/procedural airspace context — they're not directly reusable for UAS telemetry without a separate derivation exercise. Folding RSP in would mean justifying a second set of thresholds from scratch, which is real additional work, not just relabeling your existing RCP thresholds.
+
+**It keeps your contribution legible.** Your mapping methodology's whole value is a clean chain: heterogeneous physical/logical metrics → one well-defined target (RCP). Adding RSP mid-paper turns one mapping problem into two, and a reviewer has to hold both threshold systems in mind to evaluate either — that dilutes rather than strengthens the standards-contribution framing.
+
+**It matches your realistic scope.** You have a bounded September campaign and a C2-transaction-centered methodology (MAVLink command→ack). Extending the empirical case study to also validate RSP-style delivery-time claims for telemetry would need its own test conditions and thresholds you haven't built yet.
+
+**It's a natural, low-cost future-work line, not a dead end.** Because your pipeline (FSMC + EVT + bias-correction per RAT) is target-framework-agnostic, you can close the scoping paragraph by noting the same methodology extends to RSP by substituting its parameter definitions — signaling foresight without having to deliver it now.
+
+A ready-to-adapt sentence: _"While the same physical links also carry telemetry data relevant to RSP, this work addresses only the C2/RCP function; extending the proposed mapping to RSP's delivery-time and continuity parameters is a natural but separate direction, left to future work."_
