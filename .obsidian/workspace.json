@@ -49,7 +49,8 @@
               "title": "NPJ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acb8fbe97103fbf",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
-    "Paper-Writing/IEEE Access.md",
+    "NTN_Literature_Review_Organization.md.pdf",
     "TODOS/July 2026.md",
+    "Paper-Writing/IEEE Access.md",
     "Paper-Writing/NPJ.md",
     "TODOS/Exams - PhD Enrollment.md",
     "rcp_scope_within_pbcs_sora.png",

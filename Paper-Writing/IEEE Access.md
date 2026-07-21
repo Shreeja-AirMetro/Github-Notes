@@ -87,3 +87,7 @@ Unpublished version
 ---- By Friday ----
 - [ ] Simulator tools design   _ Monday
 - [ ] Usecases and conclusion / future work  - Wednesday 29th
+
+
+---
+![[NTN_Literature_Review_Organization.md.pdf]]
