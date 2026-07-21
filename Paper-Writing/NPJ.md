@@ -241,3 +241,8 @@ Distilled from what we've built across this conversation, in decreasing order of
 5. **Explicit regulatory positioning** — situating the methodology as an instrumentation approach for QoSD (Annex 10 Vol VI) and as a candidate mechanism for the C2-link evidence SORA's OSO/SAIL process currently lacks a systematic technical pathway for.
 
 That fifth point is your strongest single differentiator for the significance statement — it's the one thing almost nothing else in the literature does, and it directly answers "why should anyone outside wireless engineering care about this paper."
+
+
+
+---
+[elabftw] review person -  
