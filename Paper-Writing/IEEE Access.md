@@ -78,11 +78,12 @@ Unpublished version
 
 # To do Deadline 
 
-- [ ] Introduction -
-	- [ ] Have a rough sketch - Later revision only 
+- [x] Introduction -
+	- [x] Have a rough sketch - Later revision only 
 - [ ] Background 
 	- [ ] Building 
-
 - [ ] Theoritical Framework 
-- [ ] Simulator tools design 
-- [ ] Usecases and conclusion / future work 
+	- [ ] Sec c 
+---- By Friday ----
+- [ ] Simulator tools design   _ Monday
+- [ ] Usecases and conclusion / future work  - Wednesday 29th
