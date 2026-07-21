@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3554044b4782432d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper-Writing/IEEE Access.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IEEE Access"
-            }
-          },
-          {
             "id": "6acb8fbe97103fbf",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "July 2026"
+            }
+          },
+          {
+            "id": "3554044b4782432d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper-Writing/IEEE Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IEEE Access"
             }
           },
           {
@@ -212,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acb8fbe97103fbf",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
-    "Paper-Writing/IEEE Access.md",
     "TODOS/July 2026.md",
+    "Paper-Writing/IEEE Access.md",
     "Paper-Writing/NPJ.md",
     "TODOS/Exams - PhD Enrollment.md",
     "rcp_scope_within_pbcs_sora.png",

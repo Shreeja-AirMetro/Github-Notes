@@ -78,9 +78,11 @@ Unpublished version
 
 # To do Deadline 
 
-- [ ] Introduction - Sunday 17th May 
-- [ ] Background - Sort Monday 18th
-- [ ] Finish Background - Thursday 21st
-- [ ] Theoritical Framework - Friday 15th
-- [ ] Simulator tools design  - Thur 21st
-- [ ] Usecases and conclusion / future work  - Friday 22nd
+- [ ] Introduction -
+	- [ ] Have a rough sketch - Later revision only 
+- [ ] Background 
+	- [ ] Building 
+
+- [ ] Theoritical Framework 
+- [ ] Simulator tools design 
+- [ ] Usecases and conclusion / future work 
