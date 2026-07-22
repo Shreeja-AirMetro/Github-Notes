@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NTN.md",
+                "file": "Paper-Writing/IEEE Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NTN"
+              "title": "IEEE Access"
             }
           },
           {
@@ -212,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3554044b4782432d",
+  "active": "afb092e45cbe1933",
   "lastOpenFiles": [
+    "Notes/NTN.md",
     "Paper-Writing/IEEE Access.md",
     "TODOS/July 2026.md",
     "NTN_Literature_Review_Organization.md.pdf",
@@ -234,7 +235,6 @@
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Paper-Writing/CeTI book.md",
     "Progress- PhD/Monograph.md",
-    "Notes/NTN.md",
     "Notes/IEEE Digital Divide challenge.md",
     "Lectures/Smartgridcomm.md",
     "2026-07-09.md",
