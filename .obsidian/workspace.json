@@ -49,8 +49,7 @@
               "title": "NPJ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "6acb8fbe97103fbf",
   "lastOpenFiles": [
-    "Notes/NTN.md",
     "Paper-Writing/IEEE Access.md",
+    "Notes/NTN.md",
     "TODOS/July 2026.md",
     "NTN_Literature_Review_Organization.md.pdf",
     "Paper-Writing/NPJ.md",
