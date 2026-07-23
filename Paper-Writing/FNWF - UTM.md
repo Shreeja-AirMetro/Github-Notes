@@ -104,4 +104,4 @@ FNWF technical track papers are typically 6 pages (IEEE double-column) including
 If it doesn't fit in 6 pages, the AirFogSim cross-validation (IV-D) is the first thing to cut to a single sentence or move to future work — it's the lowest-priority item relative to the sensitivity sweep and adaptive policy, which are your two headline contributions.
 
 1. Simulator and Results 
-2. 
+2. Paper 
