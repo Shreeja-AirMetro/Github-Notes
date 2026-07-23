@@ -49,7 +49,8 @@
               "title": "NPJ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,11 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acb8fbe97103fbf",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
+    "TODOS/2026.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/IEEE Access.md",
-    "TODOS/2026.md",
     "TODOS/2027.md",
     "Paper-Writing/FNWF - UTM.md",
     "TODOS/July 2026.md",
