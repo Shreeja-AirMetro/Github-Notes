@@ -95,3 +95,16 @@ For complexity reasons, propagation paths are only computed for direct links bet
 **who is transmitter, and reciever**
 
 
+lossless RIS 
+Sionna - Path and radiomap solver 
+
+2 model if RIS 
+Incoming way reflected - base don model 
+no diffused RIS 
+
+Assumptions 
+reradiated  and no reflection
+diffractiion around edge - ignored 
+ radiation to the back is ignored
+model 
+changing Amplitude and 
