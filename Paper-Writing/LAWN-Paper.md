@@ -81,3 +81,8 @@ Simulation setup:
 2. Details on RIS phase updates - useful?
 3. FEM not included. Still Novelty seen?
 
+
+
+---
+
+# RIS Tutorial Sionna 27th July 
