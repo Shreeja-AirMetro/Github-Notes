@@ -123,3 +123,6 @@ optimization algo for where RIS to be
 
 
 Timeline - End of August setup 
+
+
+1. to do Aug 12 - 5G-Satcom hardqware
