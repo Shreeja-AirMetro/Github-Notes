@@ -114,4 +114,8 @@ re-radiated filed is calculated with s, reception angle based mdel
  computation as a function of f (based on model)
  - unit cells, coordinates of sample insidence, incident and reflected angles, e filed vector, distance vector from source , spatial modulation cofeff - gamma - changes with every point sampled 
  - gamma profile decides how the ris behaves 
- - 
+
+optimization algo for where RIS to be 
+- max gain along the drone path 
+
+1. 
