@@ -5,3 +5,5 @@
 2. Drone Mesh Telemetry 
 3. Drone 5G , Satcom Telemetry 
 4. Drone mounting
+5. simcard
+6. 
