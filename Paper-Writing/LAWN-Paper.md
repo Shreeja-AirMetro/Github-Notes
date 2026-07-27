@@ -118,4 +118,8 @@ re-radiated filed is calculated with s, reception angle based mdel
 optimization algo for where RIS to be 
 - max gain along the drone path 
 
-1. 
+1. ris profile from outside model 
+
+
+
+TimeLine - End of August setup 
