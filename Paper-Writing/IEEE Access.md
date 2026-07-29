@@ -175,7 +175,7 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-  APP["uav.app CbrSenderDualConnectivity"] --> PHY["uav.cellularNic PHY/MAC/RLC/PDCP"]
+  APP["ue.app CbrSenderDualConnectivity"] --> PHY["ue.cellularNic PHY/MAC/RLC/PDCP"]
   PHY -->|"TN path"| GNB["gNodeB[i]"]
   PHY -->|"NTN path"| SAT["satellite[j]"]
   GNB -->|"GTP-U over PPP"| UPFTN["upfTn (GtpUser / TrafficFlowFilter)"]
@@ -326,3 +326,36 @@ Here's a standalone, compilable TikZ/PGF version of Fig. 4 (the handover decisio
 ```
 
 and wrap the `tikzpicture` in a `figure` environment with `\centering` and a `\caption{TN$\leftrightarrow$NTN handover decision state machine.}\label{fig:handover-fsm}`. Since it's fairly wide, `figure*` (double-column spa
+
+
+```mermaid
+flowchart LR
+  APP["UE app<br/>CbrSenderDualConnectivity (Tx) / CbrReceiver (Rx)"]
+  PHY["UE cellularNic<br/>PHY / MAC / RLC / PDCP"]
+  GNB["gNodeB[i]"]
+  SAT["satellite[j]"]
+  UPFTN["upfTn<br/>(GtpUser / TrafficFlowFilter)"]
+  UPFNTN["upfNtn"]
+  SRV["server"]
+
+  APP -->|"UL"| PHY
+  PHY -.->|"DL"| APP
+
+  PHY -->|"UL · TN path"| GNB
+  GNB -.->|"DL · TN path"| PHY
+
+  PHY -->|"UL · NTN path"| SAT
+  SAT -.->|"DL · NTN path"| PHY
+
+  GNB -->|"UL · GTP-U over PPP"| UPFTN
+  UPFTN -.->|"DL · GTP-U over PPP"| GNB
+
+  SAT -->|"UL · GTP-U via ntnGateway"| UPFNTN
+  UPFNTN -.->|"DL · GTP-U via ntnGateway"| SAT
+
+  UPFTN -->|"UL: decapsulate, route"| SRV
+  SRV -.->|"DL: encapsulate, tunnel"| UPFTN
+
+  UPFNTN -->|"UL: decapsulate, route"| SRV
+  SRV -.->|"DL: encapsulate, tunnel"| UPFNTN
+```
