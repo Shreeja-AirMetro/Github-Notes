@@ -146,14 +146,14 @@ The scenario network (`intans.simulations.uavTest.uavTest`) instantiates: one UA
 
 **TABLE 2. Node composition**
 
-|Node|Extends|Defining package|Role|
-|---|---|---|---|
-|`uav[0] : NtnNrUav`|`simu5g.nodes.cars.NRCar`|`intans.nodes`|UAV UE with dual TN/NTN radio, TraCI-driven ground track|
-|`gNodeB[6] : gNodeB`|`simu5g.nodes.NR.gNodeB`|`simu5g.nodes.NR`|Terrestrial 5G NR base stations, X2 ring-connected|
-|`satellite[N] : GNodeBSatellite`|`leon.node.GNodeBNtn`|`leon.node`|LEO satellite acting as an NTN gNB, SGP4-propagated|
-|`ntnGateway : NrUeWired`|`simu5g.nodes.NR.NRUe`|`leon.node`|Ground gateway bridging NTN radio ↔ wired core|
-|`upfTn`, `upfNtn : Upf`|Simu5G core|`simu5g.nodes`|GTP-U termination, IP routing toward `server`|
-|`server : StandardHost`|`inet.node.inet`|`inet`|External data-network endpoint (traffic sink/source)|
+| Node                             | Extends                   | Defining package  | Role                                                     |
+| -------------------------------- | ------------------------- | ----------------- | -------------------------------------------------------- |
+| `uav[0] : NtnNrUav`              | `simu5g.nodes.cars.NRCar` | `intans.nodes`    | UAV UE with dual TN/NTN radio, TraCI-driven ground track |
+| `gNodeB[6] : gNodeB`             | `simu5g.nodes.NR.gNodeB`  | `simu5g.nodes.NR` | Terrestrial 5G NR base stations, X2 ring-connected       |
+| `satellite[N] : GNodeBSatellite` | `leon.node.GNodeBNtn`     | `leon.node`       | LEO satellite acting as an NTN gNB, SGP4-propagated      |
+| `ntnGateway : NrUeWired`         | `simu5g.nodes.NR.NRUe`    | `leon.node`       | Ground gateway bridging NTN radio ↔ wired core           |
+| `upfTn`, `upfNtn : Upf`          | Simu5G core               | `simu5g.nodes`    | GTP-U termination, IP routing toward `server`            |
+| `server : StandardHost`          | `inet.node.inet`          | `inet`            | External data-network endpoint (traffic sink/source)     |
 
 ```mermaid
 flowchart LR
