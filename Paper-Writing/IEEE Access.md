@@ -127,15 +127,16 @@ flowchart TD
 
 **TABLE 1. Framework roles**
 
-|Framework|Role|Representative artifacts|
-|---|---|---|
-|OMNeT++ 6.1|Discrete-event simulation kernel, NED component model|`cSimpleModule`, `.ned` compound modules|
-|INET 4.5|General-purpose wired/wireless networking|`Ipv4`, `Udp`, `PppInterface`, `Router`, `StandardHost`|
-|Simu5G|3GPP 5G NR/LTE RAN and core network|`gNodeB`, `NRUe`, `Upf`, `GtpUser`, `X2App`, `Binder`|
-|Leon|NTN extension of Simu5G (satellites as gNBs)|`GNodeBSatellite`, `NrUeNtn`, `ConstellationManager`, `IslManager`, `Ip2NicGnbNtn`|
-|os3|Orbital mechanics|`SatSGP4Mobility`, `Norad` (libnorad SGP4/TLE propagation)|
-|Veins 5.3.1 / veins_inet|Microscopic road-traffic mobility via SUMO|`TraCIScenarioManager`, `VeinsInetManager`, `VeinsInetMobility`|
-|**intans**|Integration/glue layer (this work)|`NtnNrUav`, `GatewayNtn`, `NrPhyUeVeinsNtn`, `VeinsInetNtnMobility`|
+| Framework                | Role                                                  | Representative artifacts                                                           |
+| ------------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| OMNeT++ 6.1              | Discrete-event simulation kernel, NED component model | `cSimpleModule`, `.ned` compound modules                                           |
+| INET 4.5                 | General-purpose wired/wireless networking             | `Ipv4`, `Udp`, `PppInterface`, `Router`, `StandardHost`                            |
+| Simu5G                   | 3GPP 5G NR/LTE RAN and core network                   | `gNodeB`, `NRUe`, `Upf`, `GtpUser`, `X2App`, `Binder`                              |
+| Leon                     | NTN extension of Simu5G (satellites as gNBs)          | `GNodeBSatellite`, `NrUeNtn`, `ConstellationManager`, `IslManager`, `Ip2NicGnbNtn` |
+| os3                      | Orbital mechanics                                     | `SatSGP4Mobility`, `Norad` (libnorad SGP4/TLE propagation)                         |
+| Veins 5.3.1 / veins_inet | Microscopic road-traffic mobility via SUMO            | `TraCIScenarioManager`, `VeinsInetManager`, `VeinsInetMobility`                    |
+| **intans**               | Integration/glue layer (this work)                    | `NtnNrUav`, `GatewayNtn`, `NrPhyUeVeinsNtn`, `VeinsInetNtnMobility`                |
+|                          |                                                       |                                                                                    |
 
 A `patches/` directory in `intans` applies targeted patches to two upstream Simu5G core-network files (`GtpUser.cc`, `TrafficFlowFilter.cc`) to support NTN-aware GTP-U tunnel forwarding toward external (non-UE) data-network destinations — a reproducibility detail worth stating explicitly in the paper, since it means the simulator does not run against unmodified upstream Simu5G.
 
