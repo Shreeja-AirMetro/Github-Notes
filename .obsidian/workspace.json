@@ -77,8 +77,7 @@
               "title": "IEEE Access"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,13 +239,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a2ba1ca1167a967",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
-    "Paper-Writing/IEEE Access.md",
-    "TODOS/August 2026.md",
-    "Notes/Hardware.md",
-    "Notes/Drones.md",
     "TODOS/July 2026.md",
+    "Notes/Drones.md",
+    "TODOS/August 2026.md",
+    "Paper-Writing/IEEE Access.md",
+    "Notes/Hardware.md",
     "Lectures/Comnets 1.md",
     "Lectures/Comnet2.md",
     "Paper-Writing/LAWN-Paper.md",
