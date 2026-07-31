@@ -69,6 +69,7 @@ Open Tasks
 - [ ] Backup
 - [ ] Mesh hardware
 - [ ] Satcom 
+- [ ] Uspace - Mahdi
 
 
 

@@ -63,7 +63,8 @@
               "title": "FNWF - UTM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "744ae8294f226cfa",
+  "active": "07f654f381d972ed",
   "lastOpenFiles": [
-    "TODOS/July 2026.md",
     "TODOS/August 2026.md",
+    "TODOS/July 2026.md",
     "Notes/Drones.md",
     "Paper-Writing/FNWF - UTM.md",
     "Paper-Writing/IEEE Access.md",
