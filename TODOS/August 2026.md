@@ -25,19 +25,59 @@ Open Tasks
 - [ ] Mesh Hardware 
 - [ ] Student Task wiki 
 - [ ] Student meeting PPT 
-- [ ] IEEE Access Data Collection 
+- [ ] IEEE Access Data Collection - V1 complete
 - [ ] Bianca Docs submit 
 - [ ] Jiajing FNWF Discussion 
 
+### Monday
+
+- [ ] Tianxiong Meeting 
+- [ ] AirMetro Meeting 
+- [ ] Bianca bills + Excel sheet
+- [ ] Simcard issue Sebastian
+- [ ] Study Comnets 1
+- [ ] Student task Wiki 
+- [ ] Student task PPT
+### Tuesday 
+
+- [ ] Data Collection 
+- [ ] Mesh hardware
+
+
+### Wednesday 
+- [ ] Comnets 2 prep
+
+### Thursday
+- [ ] Coments 2 prep 
+- [ ] Oral exam 
+- [ ] FNWF discussion 
+- [ ] Comnets 1
+
+### Friday
+
+- [ ] Data collection 
+- [ ] IEEE V1
+- [ ] Comnets 1
+
+
+---
 
 # Week 33
 
 - [ ] Comnets 1 exam 
 - [ ] AirMetro Student Meeting 
+- [ ] Backup
+- [ ] Mesh hardware
+- [ ] Satcom 
 
+
+
+
+---
 # Week 34
 
 
 
+---
 
 # Week 35
