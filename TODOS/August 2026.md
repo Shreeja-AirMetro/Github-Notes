@@ -18,13 +18,22 @@ Open Tasks
 
 # Week 32
 
-- [ ] 
-
+- [ ] Coments 2 oral exam 
+- [ ] Tianxiong dicussion 
+- [ ] SIMCARD Issue - Sebastian
+- [ ] AirMetro Meeting 
+- [ ] Mesh Hardware 
+- [ ] Student Task wiki 
+- [ ] Student meeting PPT 
+- [ ] IEEE Access Data Collection 
+- [ ] Bianca Docs submit 
+- [ ] Jiajing FNWF Discussion 
 
 
 # Week 33
 
-
+- [ ] Comnets 1 exam 
+- [ ] AirMetro Student Meeting 
 
 # Week 34
 
