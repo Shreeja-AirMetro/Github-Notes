@@ -38,6 +38,7 @@ Open Tasks
 - [ ] Study Comnets 1
 - [ ] Student task Wiki 
 - [ ] Student task PPT
+- [ ] ElabFTW
 ### Tuesday 
 
 - [ ] Data Collection 
