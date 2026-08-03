@@ -33,7 +33,6 @@ Open Tasks
 
 - [x] Tianxiong Meeting 
 - [x] AirMetro Meeting 
-
 - [x] Simcard issue Sebastian
 - [x] Bianca bills + Excel sheet
 - [ ] Study Comnets 2 - finish and start revision 
@@ -42,13 +41,15 @@ Open Tasks
 	- [ ] SDN
 	- [ ] Core
 - [x] Student task PPT
-- [ ] FNWF -
+- [x] FNWF - initial skeleton
 
 ### Tuesday 
 
-- [ ] uplink 
+- [ ] FNFW run - data 
+
 - [ ] Comnets 1 
 - [ ] Comnets 
+- [ ] 
 - [ ] Jiajing Discussion
 - [ ] Sep event registration
 
@@ -63,6 +64,7 @@ Open Tasks
 - [ ] Oral exam 
 - [ ] FNWF discussion 
 - [ ] Comnets 1
+- [ ] - [ ] uplink 
 - [ ]  Student task Wiki 
 - [ ] Aeroconf paper - prep
 
