@@ -19,7 +19,7 @@ Open Tasks
 # Week 32
 
 - [ ] Coments 2 oral exam 
-- [ ] Tianxiong dicussion 
+- [x] Tianxiong dicussion 
 - [ ] SIMCARD Issue - Sebastian
 - [ ] AirMetro Meeting 
 - [ ] Mesh Hardware 
@@ -107,9 +107,11 @@ four layers of risks
 3. take off and landing 
 
 - model recovery 
-Mission siccess rate and 
+Mission success rate and 
 
 
-cube 100 - 
+cube 100 - 10 m/s - 10 s
 
 Drone lost - comm lost each grid MTBF
+
+to do: outage percube perspective 
