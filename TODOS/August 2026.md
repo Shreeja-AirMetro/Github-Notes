@@ -21,12 +21,12 @@ Open Tasks
 - [ ] Coments 2 oral exam 
 - [x] Tianxiong dicussion 
 - [ ] SIMCARD Issue - Sebastian
-- [ ] AirMetro Meeting 
+- [x] AirMetro Meeting 
 - [ ] Mesh Hardware 
 - [ ] Student Task wiki 
-- [ ] Student meeting PPT 
+- [x] Student meeting PPT 
 - [ ] IEEE Access Data Collection - V1 complete
-- [ ] Bianca Docs submit 
+- [x] Bianca Docs submit 
 - [ ] Jiajing FNWF Discussion 
 
 ### Monday
@@ -48,8 +48,8 @@ Open Tasks
 - [ ] FNFW run - data 
 
 - [ ] Comnets 1 
-- [ ] Comnets 
-- [ ] 
+- [ ] Comnets 2 - Rev 1
+
 - [ ] Jiajing Discussion
 - [ ] Sep event registration
 
