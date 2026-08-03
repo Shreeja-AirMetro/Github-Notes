@@ -1,4 +1,4 @@
-
+Can I say, I send packet via Stacom- via 5G - Semantic 
 # Deadline 
 
 1. DATE - Multipath 
