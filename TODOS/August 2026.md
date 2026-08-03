@@ -111,3 +111,5 @@ Mission siccess rate and
 
 
 cube 100 - 
+
+Drone lost - comm lost each grid MTBF
