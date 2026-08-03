@@ -36,7 +36,7 @@ Open Tasks
 - [x] Simcard issue Sebastian
 - [x] Bianca bills + Excel sheet
 - [ ] Study Comnets 2 - finish and start revision 
-	- [ ] MEC
+	- [x] MEC
 	- [ ] TSN
 	- [ ] SDN
 	- [ ] Core
