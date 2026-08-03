@@ -41,8 +41,7 @@ Open Tasks
 	- [ ] TSN
 	- [ ] SDN
 	- [ ] Core
-- [ ] Student task Wiki 
-- [ ] Student task PPT
+- [x] Student task PPT
 - [ ] FNWF
 
 ### Tuesday 
@@ -61,6 +60,7 @@ Open Tasks
 - [ ] Oral exam 
 - [ ] FNWF discussion 
 - [ ] Comnets 1
+- [ ]  Student task Wiki 
 
 
 ### Friday

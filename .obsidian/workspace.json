@@ -69,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -213,11 +215,11 @@
   },
   "active": "744ae8294f226cfa",
   "lastOpenFiles": [
+    "Paper-Writing/IEEE Access.md",
     "Paper-Writing/FNWF - UTM.md",
     "TODOS/August 2026.md",
     "TODOS/July 2026.md",
     "Notes/Drones.md",
-    "Paper-Writing/IEEE Access.md",
     "Notes/Hardware.md",
     "Lectures/Comnets 1.md",
     "Lectures/Comnet2.md",
