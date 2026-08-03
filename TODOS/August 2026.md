@@ -32,7 +32,7 @@ Open Tasks
 ### Monday
 
 - [x] Tianxiong Meeting 
-- [ ] AirMetro Meeting 
+- [x] AirMetro Meeting 
 
 - [x] Simcard issue Sebastian
 - [x] Bianca bills + Excel sheet
@@ -42,7 +42,7 @@ Open Tasks
 	- [ ] SDN
 	- [ ] Core
 - [x] Student task PPT
-- [ ] FNWF
+- [ ] FNWF -
 
 ### Tuesday 
 
