@@ -48,7 +48,9 @@ Open Tasks
 
 - [ ] uplink 
 - [ ] Comnets 1 
+- [ ] Comnets 
 - [ ] Jiajing Discussion
+- [ ] Sep event registration
 
 
 ### Wednesday 
