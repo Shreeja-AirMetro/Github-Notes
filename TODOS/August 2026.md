@@ -35,7 +35,7 @@ Open Tasks
 - [ ] AirMetro Meeting 
 
 - [x] Simcard issue Sebastian
-- [ ] Bianca bills + Excel sheet
+- [x] Bianca bills + Excel sheet
 - [ ] Study Comnets 2 - finish and start revision 
 	- [ ] MEC
 	- [ ] TSN
@@ -43,6 +43,7 @@ Open Tasks
 	- [ ] Core
 - [ ] Student task Wiki 
 - [ ] Student task PPT
+- [ ] FNWF
 
 ### Tuesday 
 
