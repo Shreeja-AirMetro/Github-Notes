@@ -31,7 +31,7 @@ Open Tasks
 
 ### Monday
 
-- [ ] Tianxiong Meeting 
+- [x] Tianxiong Meeting 
 - [ ] AirMetro Meeting -> skip
 
 - [ ] Simcard issue Sebastian
