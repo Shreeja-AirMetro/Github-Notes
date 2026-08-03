@@ -32,9 +32,9 @@ Open Tasks
 ### Monday
 
 - [x] Tianxiong Meeting 
-- [ ] AirMetro Meeting -> skip
+- [ ] AirMetro Meeting 
 
-- [ ] Simcard issue Sebastian
+- [x] Simcard issue Sebastian
 - [ ] Bianca bills + Excel sheet
 - [ ] Study Comnets 2 - finish and start revision 
 	- [ ] MEC
