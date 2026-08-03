@@ -61,6 +61,7 @@ Open Tasks
 - [ ] FNWF discussion 
 - [ ] Comnets 1
 - [ ]  Student task Wiki 
+- [ ] Aeroconf paper - prep
 
 
 ### Friday
