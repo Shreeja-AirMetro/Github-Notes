@@ -91,3 +91,20 @@ Open Tasks
 ---
 
 # Week 35
+
+
+
+
+---
+
+# Meeting with Tianxiong
+
+Parameters of bigraph model 
+
+four layers of risks 
+1. 
+2. communication  - no more, lost - 
+3. take off and landing 
+
+- model recovery 
+Mission siccess rate and 
