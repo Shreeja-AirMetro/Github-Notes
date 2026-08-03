@@ -32,27 +32,35 @@ Open Tasks
 ### Monday
 
 - [ ] Tianxiong Meeting 
-- [ ] AirMetro Meeting 
-- [ ] Bianca bills + Excel sheet
+- [ ] AirMetro Meeting -> skip
+
 - [ ] Simcard issue Sebastian
-- [ ] Study Comnets 1
+- [ ] Bianca bills + Excel sheet
+- [ ] Study Comnets 2 - finish and start revision 
+	- [ ] MEC
+	- [ ] TSN
+	- [ ] SDN
+	- [ ] Core
 - [ ] Student task Wiki 
 - [ ] Student task PPT
-- [ ] ElabFTW
+
 ### Tuesday 
 
-- [ ] Data Collection 
-- [ ] Mesh hardware
+- [ ] uplink 
+- [ ] Comnets 1 
 
 
 ### Wednesday 
 - [ ] Comnets 2 prep
+- [ ] Mesh hardware
 
 ### Thursday
 - [ ] Coments 2 prep 
+- [ ] ElabFTW
 - [ ] Oral exam 
 - [ ] FNWF discussion 
 - [ ] Comnets 1
+
 
 ### Friday
 
