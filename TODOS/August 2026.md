@@ -108,3 +108,6 @@ four layers of risks
 
 - model recovery 
 Mission siccess rate and 
+
+
+cube 100 - 
