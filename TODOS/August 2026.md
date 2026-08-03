@@ -49,6 +49,7 @@ Open Tasks
 
 - [ ] Comnets 1 
 - [ ] Comnets 2 - Rev 1
+- [ ] Call Email - Morten
 
 - [ ] Jiajing Discussion
 - [ ] Sep event registration
