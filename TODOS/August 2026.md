@@ -46,15 +46,20 @@ Open Tasks
 
 ### Tuesday 
 
-- [ ] Coments 2
+- [x] Coments 2
 	- [x] TSN
 	- [x] 5G
 - [ ] FNFW run - data 
 
 - [ ] Comnets 1 
+	- [ ] Intro 
+	- [ ] History
+	- [ ] Shannon
+	- [ ] Sorce coding
+	- [ ] Ex 1 to 8
 - [ ] Comnets 2 - Rev 1
-- [ ] Call Email - Morten
 
+- [ ] Call Email - Morten
 - [x] Sep event registration
 - [ ] ming reply
 
@@ -64,6 +69,13 @@ Open Tasks
 - [ ] Mesh hardware
 - [ ] simcard
 - [ ]  Jiajing Discussion
+- [ ] Comnets 1
+	- [ ]  Aloha
+	- [ ] Ethernet
+	- [ ] Graphs and Flows
+	- [ ] Routing
+	- [ ] Transport 
+	- [ ] NC - 1 and 2
 
 ### Thursday
 - [ ] Coments 2 prep 
