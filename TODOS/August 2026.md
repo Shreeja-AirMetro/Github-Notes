@@ -48,7 +48,7 @@ Open Tasks
 
 - [ ] Coments 2
 	- [ ] TSN
-	- [ ] 5G
+	- [x] 5G
 - [ ] FNFW run - data 
 
 - [ ] Comnets 1 
