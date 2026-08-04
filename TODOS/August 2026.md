@@ -38,8 +38,9 @@ Open Tasks
 - [ ] Study Comnets 2 - finish and start revision 
 	- [x] MEC
 	- [ ] TSN
-	- [ ] SDN
+	- [x] SDN
 	- [ ] Core
+	- [x] Slicing
 - [x] Student task PPT
 - [x] FNWF - initial skeleton
 
