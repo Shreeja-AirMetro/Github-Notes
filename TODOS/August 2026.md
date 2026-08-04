@@ -58,7 +58,7 @@ Open Tasks
 	- [ ] Source coding
 	- [ ] Ex 1 
 	- [ ] Ex 2
-- [ ] Comnets 2 - Rev  - 2 sets
+- [x] Comnets 2 - Rev  - 2 sets
 
 - [ ] Call Email - Morten
 - [x] Sep event registration
