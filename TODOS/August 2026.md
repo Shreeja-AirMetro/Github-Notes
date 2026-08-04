@@ -55,8 +55,9 @@ Open Tasks
 	- [ ] Intro 
 	- [ ] History
 	- [ ] Shannon
-	- [ ] Sorce coding
-	- [ ] Ex 1 to 8
+	- [ ] Source coding
+	- [ ] Ex 1 
+	- [ ] Ex 2
 - [ ] Comnets 2 - Rev 1
 
 - [ ] Call Email - Morten
