@@ -69,7 +69,7 @@ Open Tasks
 - [ ] Comnets 2 prep - 8 sets of question
 
 - [ ] simcard
-- [ ]  Jiajing Discussion
+
 - [ ] Comnets 1
 	- [ ]  Aloha
 	- [ ] Ethernet
@@ -77,7 +77,6 @@ Open Tasks
 	- [ ] Routing
 	- [ ] Transport 
 	- [ ] NC - 1 and 2
-- [ ] Mesh hardware
 
 ### Thursday
 - [ ] Coments 2 prep 
@@ -88,6 +87,7 @@ Open Tasks
 - [ ] - [ ] uplink 
 - [ ]  Student task Wiki 
 - [ ] Aeroconf paper - prep
+- [ ]  Mesh hardware
 
 
 ### Friday
