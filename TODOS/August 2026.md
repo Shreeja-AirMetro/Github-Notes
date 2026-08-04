@@ -46,6 +46,9 @@ Open Tasks
 
 ### Tuesday 
 
+- [ ] Coments 2
+	- [ ] TSN
+	- [ ] 5G
 - [ ] FNFW run - data 
 
 - [ ] Comnets 1 
@@ -53,7 +56,7 @@ Open Tasks
 - [ ] Call Email - Morten
 
 - [ ] Jiajing Discussion
-- [ ] Sep event registration
+- [x] Sep event registration
 - [ ] ming reply
 
 
