@@ -54,11 +54,13 @@ Open Tasks
 
 - [ ] Jiajing Discussion
 - [ ] Sep event registration
+- [ ] ming reply
 
 
 ### Wednesday 
 - [ ] Comnets 2 prep
 - [ ] Mesh hardware
+- [ ] simcard
 
 ### Thursday
 - [ ] Coments 2 prep 
