@@ -53,7 +53,7 @@ Open Tasks
 
 - [ ] Comnets 1 
 	- [x] Intro 
-	- [ ] History
+	- [x] History
 	- [ ] Shannon
 	- [ ] Source coding
 	- [ ] Ex 1 
