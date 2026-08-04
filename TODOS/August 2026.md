@@ -49,7 +49,7 @@ Open Tasks
 - [x] Coments 2
 	- [x] TSN
 	- [x] 5G
-- [ ] FNFW run - data 
+
 
 - [ ] Comnets 1 
 	- [x] Intro 
@@ -95,6 +95,7 @@ Open Tasks
 - [ ] Data collection 
 - [ ] IEEE V1
 - [ ] Comnets 1
+- [ ] - [ ] FNFW run - data 
 
 
 ---
