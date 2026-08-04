@@ -47,7 +47,7 @@ Open Tasks
 ### Tuesday 
 
 - [ ] Coments 2
-	- [ ] TSN
+	- [x] TSN
 	- [x] 5G
 - [ ] FNFW run - data 
 
