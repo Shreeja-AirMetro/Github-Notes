@@ -52,13 +52,13 @@ Open Tasks
 - [ ] FNFW run - data 
 
 - [ ] Comnets 1 
-	- [ ] Intro 
+	- [x] Intro 
 	- [ ] History
 	- [ ] Shannon
 	- [ ] Source coding
 	- [ ] Ex 1 
 	- [ ] Ex 2
-- [ ] Comnets 2 - Rev 1
+- [ ] Comnets 2 - Rev  - 2 sets
 
 - [ ] Call Email - Morten
 - [x] Sep event registration
@@ -66,8 +66,8 @@ Open Tasks
 
 
 ### Wednesday 
-- [ ] Comnets 2 prep
-- [ ] Mesh hardware
+- [ ] Comnets 2 prep - 8 sets of question
+
 - [ ] simcard
 - [ ]  Jiajing Discussion
 - [ ] Comnets 1
@@ -77,6 +77,7 @@ Open Tasks
 	- [ ] Routing
 	- [ ] Transport 
 	- [ ] NC - 1 and 2
+- [ ] Mesh hardware
 
 ### Thursday
 - [ ] Coments 2 prep 
