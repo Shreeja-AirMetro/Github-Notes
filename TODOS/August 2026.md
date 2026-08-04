@@ -55,7 +55,6 @@ Open Tasks
 - [ ] Comnets 2 - Rev 1
 - [ ] Call Email - Morten
 
-- [ ] Jiajing Discussion
 - [x] Sep event registration
 - [ ] ming reply
 
@@ -64,6 +63,7 @@ Open Tasks
 - [ ] Comnets 2 prep
 - [ ] Mesh hardware
 - [ ] simcard
+- [ ]  Jiajing Discussion
 
 ### Thursday
 - [ ] Coments 2 prep 
