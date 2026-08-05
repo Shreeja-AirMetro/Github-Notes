@@ -149,6 +149,11 @@ Drone communication - UAV air-to-ground (A2G) link reliability problem
 1. Availability - When BS provides connection 
 2. Continuity - non-continuity - extends - link loss/ outage condition 
 
-BS, Height of BS , uav altitude 
+BS, Height of BS   hBSh_{BS} hBS, uav altitude hUAV​
 
-General DIstance equation 
+General DIstance equation - 3D distance - I assume UAV is having a straight path 
+d(t)=(x(t)−xBS​)2+(y(t)−yBS​)2+(hUAV​−hBS​)2​
+
+where x(t),y(t)x(t), y(t) x(t),y(t) trace the UAV's straight-line path at 10 m/s through the cube. This gives you a distance profile d(t)d(t) d(t), and an elevation angle profile:
+
+θ(t)=arctan⁡ ⁣(hUAV−hBS(x(t)−xBS)2+(y(t)−yBS)2)\theta(t) = \arctan\!\left(\frac{h_{UAV}-h_{BS}}{\sqrt{(x(t)-x_{BS})^2+(y(t)-y_{BS})^2}}\right)θ(t)=arctan((x(t)−xBS​)2+(y(t)−yBS​)2​hUAV​−hBS​​)
