@@ -224,4 +224,170 @@ One O-CU pair can serve multiple O-DUs; one O-DU can serve multiple O-RUs. **Ope
 
 ---
 
-_Good luck. If your mind blanks on an acronym in the room, say what plane/interface it's on first ("that's a core control-plane function...") — it buys you a second and often the rest follows._
+# ComNets-2 — Full Term Glossary (one-line definitions)
+
+Organized by topic. Each line: **Term** — definition.
+
+---
+
+## NFV — Network Function Virtualization
+
+- **Middlebox** — any intermediary network device performing functions beyond standard IP router forwarding (RFC 3234).
+- **PNF (Physical Network Function)** — a network function tightly coupled to dedicated physical hardware.
+- **VNF (Virtual Network Function)** — the software equivalent of a PNF, running on general-purpose hardware, providing the same functional behavior.
+- **NFVI (NFV Infrastructure)** — the combined hardware and virtualization layer (compute, storage, network) on which VNFs run.
+- **MANO (Management and Orchestration)** — the ETSI framework layer responsible for orchestrating NFVI resources and VNF lifecycles.
+- **VIM (Virtualized Infrastructure Manager)** — manages/allocates virtualized compute, storage, and network resources within the NFVI.
+- **VNFM (VNF Manager)** — manages the lifecycle (instantiation, scaling, termination) of individual VNFs.
+- **NFVO (NFV Orchestrator)** — orchestrates end-to-end network services composed of multiple VNFs.
+- **Hypervisor (Type 1 / bare-metal)** — virtualization software running directly on hardware; more secure and performant, preferred in data centers.
+- **Hypervisor (Type 2 / hosted)** — virtualization software running as an application on top of a host operating system.
+- **SFC (Service Function Chaining)** — an ordered sequence of network functions that traffic must traverse, where the order affects correctness.
+- **DPDK (Data Plane Development Kit)** — a set of user-space libraries that bypass kernel packet processing to boost throughput, at the cost of hardware-specific complexity.
+- **eBPF (extended Berkeley Packet Filter)** — a technology for running sandboxed, verified programs inside the OS kernel at runtime without modifying the kernel itself.
+- **XDP (eXpress Data Path)** — an eBPF extension enabling very early, high-speed packet processing before the kernel's normal networking stack.
+- **CALVIN** — a low-latency vNF architecture that keeps each vNF entirely in kernel space or entirely in user space (never split) to eliminate context-switching overhead.
+- **Stateless NF** — a network function design that centralizes state outside the NF instance, enabling seamless elasticity and fast failover.
+- **Flow affinity** — the requirement that all packets of a flow be processed by the same (stateful) NF instance holding that flow's state.
+
+---
+
+## SDN — Software-Defined Networking
+
+- **Data plane** — the part of a network device that forwards packets according to its forwarding table.
+- **Control plane** — the logic (protocols like OSPF/BGP) that computes and populates forwarding tables.
+- **Management plane** — human/script-driven configuration and monitoring of network devices.
+- **Forwarding** — a data-plane action: sending a packet to an outgoing link based on a table lookup.
+- **Routing** — a control-plane process: computing the best paths packets should follow.
+- **NOS (Network Operating System)** — the SDN controller software that abstracts the network for control applications, analogous to an OS abstracting hardware.
+- **Flow** — a set of packets defined by a match/filter criterion that receive identical forwarding treatment.
+- **Southbound interface** — the interface between the SDN controller and the forwarding devices (e.g., OpenFlow).
+- **Northbound interface** — the interface between the SDN controller and network applications (typically REST APIs).
+- **OpenFlow** — the standard southbound protocol defining flow tables (match + action + counters) for programmable switches.
+- **TLV / OXM (Type-Length-Value / OpenFlow Extensible Match)** — an extensible field format introduced in OpenFlow v1.2+ for adding new match/port/table fields without redesigning the protocol.
+- **POF (Protocol Oblivious Forwarding)** — an approach where switches are protocol-agnostic "white boxes," with packet parsing delegated entirely to the controller.
+- **OVSDB (Open vSwitch Database protocol)** — a southbound protocol complementary to OpenFlow, used for advanced virtual switch configuration (QoS, tunnels, queues).
+- **ForCES (Forwarding and Control Element Separation)** — an IETF architecture separating control and data planes logically, without requiring a fully external centralized controller.
+- **FlowVisor** — an early network hypervisor that slices SDN infrastructure (bandwidth, topology, traffic, CPU, flow tables) across multiple controllers/tenants.
+- **Network hypervisor** — software that virtualizes SDN infrastructure so multiple logical networks can share the same physical substrate.
+
+---
+
+## MEC — Mobile/Multi-access Edge Cloud
+
+- **MEC (per ETSI)** — an IT service environment and cloud computing capability located at the edge of the mobile network, close to subscribers.
+- **Fog computing** — a distributed computing paradigm placing compute resources near end devices, potentially across multiple hops.
+- **Cloudlet** — a small-scale, locally installed cloud data center, typically one hop from the user.
+- **Full offloading** — sending an entire computation task from the mobile device to the MEC server.
+- **Partial offloading** — splitting a computation task between local device processing and MEC server processing.
+- **Mobile edge system level** — the MEC framework layer providing the global system view and handling requests.
+- **Mobile edge host level** — the MEC framework layer performing application lifecycle management on a specific host.
+- **Virtual machine (VM)** — a software emulation of a full computer, including its own OS, running on shared hardware.
+- **Container** — a lightweight packaging of application code and dependencies that shares the host OS kernel.
+
+---
+
+## Network Slicing & 5G Service Types
+
+- **Network slicing** — overlaying multiple isolated virtual networks on a shared physical network domain, each tailored to specific requirements.
+- **SST (Slice/Service Type)** — the basic type identifier of a network slice (e.g., eMBB, URLLC, mMTC).
+- **SD (Slice Differentiator)** — an identifier distinguishing multiple slices that share the same SST.
+- **eMBB (enhanced Mobile Broadband)** — 5G service type optimized for high data rates (e.g., streaming, up to ~20 Gbps peak).
+- **URLLC (Ultra-Reliable Low-Latency Communications)** — 5G service type optimized for near-real-time, highly reliable, low-latency applications (e.g., industrial control, robotics).
+- **mMTC (massive Machine-Type Communications)** — 5G service type optimized for very high device density, long battery life, and infrequent small data transmissions (e.g., smart metering).
+- **IMT-2020** — the ITU framework defining the requirement categories (eMBB/URLLC/mMTC) that 5G systems must meet.
+- **UE (User Equipment)** — the end-user device connecting to the mobile network.
+- **gNB (Next Generation Node B)** — the 5G base station supporting 5G New Radio.
+- **5GC (5G Core)** — the core network processing/control component of the 5G System.
+
+---
+
+## 5G Core Network
+
+- **SBA (Service-Based Architecture)** — the 5G Core design where network functions expose/consume services over a shared HTTP/2+REST bus, replacing fixed point-to-point interfaces.
+- **CUPS (Control and User Plane Separation)** — separating control-plane and user-plane network functions so the user plane can be placed closer to the user and scaled independently.
+- **NRF (Network Repository Function)** — the central registry where NFs register their capabilities and discover other NFs, enabling the 5G Core's cloud-native, dynamic composition.
+- **AMF (Access and Mobility Management Function)** — the first point of contact for RAN/UE, handling registration, connection, and mobility management.
+- **SMF (Session Management Function)** — manages PDU session lifecycle, UE IP allocation, and QoS, controlling the UPF via PFCP.
+- **UPF (User Plane Function)** — the data-plane gateway between the RAN (N3) and the Data Network (N6), enforcing QoS by marking/reading QFI.
+- **UDM (Unified Data Management)** — stores and manages subscriber data and subscription profiles.
+- **PCF (Policy Control Function)** — provides policy rules to control-plane functions to enforce network policies.
+- **NEF (Network Exposure Function)** — securely exposes 5G Core capabilities/data to external applications.
+- **AF (Application Function)** — represents third-party or operator applications interacting with the 5G Core (e.g., for policy influence).
+- **NAS (Non-Access Stratum)** — the signaling protocol carried between the UE and the core network (AMF), independent of the radio access technology.
+- **NGAP (NG Application Protocol)** — the signaling protocol used between the gNB and the AMF over the N2 interface.
+- **SBI (Service-Based Interface)** — the HTTP/2+REST interface used by NFs to communicate within the Service-Based Architecture.
+- **PFCP (Packet Forwarding Control Protocol)** — the control-plane protocol used by the SMF to configure and control the UPF, over the N4 interface.
+- **GTP-U (GPRS Tunneling Protocol – User plane)** — the protocol encapsulating user IP packets in a tunnel between the gNB and UPF (N3), typically over UDP port 2152.
+- **TEID (Tunnel Endpoint Identifier)** — a field in the GTP-U header identifying a specific tunnel/PDU session.
+- **SCTP (Stream Control Transmission Protocol)** — the transport protocol carrying NGAP signaling between gNB and AMF.
+- **5GMM (5G Mobility Management)** — the NAS sub-layer handling UE registration, authentication, mobility, and security procedures.
+- **5GSM (5G Session Management)** — the NAS sub-layer handling PDU session establishment, modification, and release.
+- **PDU Session** — the logical data connection/path between the UE and a Data Network, carrying one or more QoS flows.
+- **QFI (QoS Flow Identifier)** — an identifier marking which QoS flow a packet belongs to, used across RAN and Core.
+- **N1–N9** — the standardized 5G Core reference points/interfaces connecting specific pairs of network functions (e.g., N1=UE-AMF, N2=gNB-AMF, N3=gNB-UPF, N4=SMF-UPF, N6=UPF-DN).
+
+---
+
+## 5G RAN — Radio Access Network Protocol Stack
+
+- **SDAP (Service Data Adaptation Protocol)** — maps QoS flows (via QFI) from the core network onto radio bearers; user-plane only.
+- **RRC (Radio Resource Control)** — the control-plane protocol managing connection setup/release, mobility/handover, and radio bearer configuration.
+- **PDCP (Packet Data Convergence Protocol)** — performs ciphering, integrity protection, header compression, and in-order delivery, for both planes.
+- **RLC (Radio Link Control)** — handles segmentation/reassembly and (in some modes) retransmission of radio-layer data.
+- **RLC-TM (Transparent Mode)** — no segmentation, reassembly, or retransmission; used for minimal-overhead broadcast/paging messages.
+- **RLC-UM (Unacknowledged Mode)** — segmentation/reassembly without retransmission; used for delay-sensitive traffic.
+- **RLC-AM (Acknowledged Mode)** — segmentation/reassembly with ARQ retransmission; used for traffic requiring reliable delivery.
+- **MAC (Medium Access Control)** — handles scheduling, multiplexing of logical channels onto transport channels, and HARQ.
+- **PHY (Physical layer)** — performs coding, modulation, and the actual transmission over the air interface.
+- **Logical channel** — defines the type of data being carried between RLC and MAC (e.g., BCCH, PCCH, CCCH, DCCH, DTCH).
+- **Transport channel** — defines how data is transported over the radio between MAC and PHY (e.g., BCH, PCH, DL-SCH, UL-SCH).
+- **Physical channel** — the actual air-interface resource carrying a transport channel (e.g., PDSCH, PUSCH, PDCCH, PBCH, PRACH).
+- **MCG (Master Cell Group)** — the primary serving cell(s) anchored to the primary node, with its own MAC entity.
+- **SCG (Secondary Cell Group)** — additional cell(s) from a secondary node used in dual connectivity/carrier aggregation, with its own independent MAC entity.
+- **Functional split** — the 3GPP-defined boundary (Options 1–8) at which RAN processing is divided between centralized and distributed units; higher option number = more centralized, higher fronthaul demand.
+- **CPRI (Common Public Radio Interface)** — the traditional high-bandwidth fronthaul interface used for full centralization (Option 8-style) C-RAN deployments.
+
+---
+
+## Open RAN & O-RAN
+
+- **Open RAN** — the general industry principle that RAN components should communicate via open, standardized interfaces rather than proprietary ones.
+- **O-RAN (O-RAN Alliance)** — the specific organization and specification implementing Open RAN principles, defining O-RU/O-DU/O-CU, exact split points, and interfaces.
+- **O-RU (O-RAN Radio Unit)** — handles RF functions and low-PHY processing.
+- **O-DU (O-RAN Distributed Unit)** — handles high-PHY, MAC, and RLC layers; can serve multiple O-RUs.
+- **O-CU (O-RAN Central Unit)** — handles PDCP and RRC/SDAP; split into O-CU-CP and O-CU-UP; can serve multiple O-DUs.
+- **O-CU-CP (Control Plane)** — the O-CU component handling RRC and the control-plane part of PDCP.
+- **O-CU-UP (User Plane)** — the O-CU component handling SDAP and the user-plane part of PDCP.
+- **Open Fronthaul** — the O-RAN interface between O-RU and O-DU, using split 7.2x (a low-layer PHY split).
+- **F1 interface** — the O-RAN interface between O-DU and O-CU, using split 2 (the PDCP/RLC boundary).
+- **RIC (RAN Intelligent Controller)** — the O-RAN component enabling AI/ML-based network optimization via interfaces like A1 and E2.
+
+---
+
+## TSN — Time-Sensitive Networking
+
+- **TSN (Time-Sensitive Networking)** — a group of IEEE Ethernet standards enabling deterministic, low-latency, and reliable communication over standard Ethernet.
+- **Processing delay** — time spent on packet integrity checking, switching, and address lookup at a network device; address lookup introduces jitter.
+- **Queuing delay** — delay caused when multiple packets compete for the same egress port simultaneously.
+- **Transmission delay** — time required to push a packet's bits onto the link, determined by bandwidth.
+- **Propagation delay** — time for a signal to travel across the physical medium, determined by distance.
+- **PTP (Precision Time Protocol, IEEE 1588)** — the base protocol for network-wide clock synchronization used by TSN.
+- **802.1AS** — the TSN profile of PTP achieving nanosecond-level time synchronization via a master/slave clock hierarchy.
+- **802.1Qbv (Time-Aware Shaper, TAS)** — implements TDMA-like scheduled transmission windows ("gates") to protect time-critical traffic.
+- **802.1Qbu / 802.3br (Frame Preemption)** — allows an in-progress best-effort frame to be interrupted so a time-critical frame can be sent immediately, minimizing guard-band waste.
+- **802.1Qav (Credit-Based Shaper, CBS)** — a traffic shaping mechanism that smooths bursty traffic using accumulated "credits."
+- **802.1Qcr (Asynchronous Traffic Shaper, ATS)** — a shaper providing bounded latency for asynchronous (non-scheduled) traffic.
+- **802.1Qch (Cyclic Queuing and Forwarding, CQF)** — a simplified scheduling mechanism using fixed time cycles for queuing and forwarding.
+- **802.1CB (FRER — Frame Replication and Elimination for Reliability)** — duplicates frames across multiple paths and eliminates duplicates at the receiver to improve reliability.
+- **802.1Qca (Path Control and Reservation, PCR)** — enables explicit path control and resource reservation across the network.
+- **802.1Qci (Per-Stream Filtering and Policing, PSFP)** — filters and polices individual traffic streams to protect against misbehaving flows.
+- **802.1Qat (Stream Reservation Protocol, SRP)** — announces and reserves network resources along a path for a specific traffic stream.
+- **802.1Qcc** — an enhanced, centralized-configuration version of the Stream Reservation Protocol.
+- **5GS as virtual TSN bridge** — the 3GPP Release 16 concept of treating the 5G System as a single TSN bridge from the perspective of external TSN devices.
+- **DS-TT (Device-Side TSN Translator)** — translates between TSN and 5G QoS requirements on the UE side.
+- **NW-TT (Network-Side TSN Translator)** — translates between TSN and 5G QoS requirements on the network side.
+
+---
+
+_Use this alongside the concept-map revision sheet — that document shows how these terms connect; this one nails down exactly what each one means if you're asked to define it cold._
