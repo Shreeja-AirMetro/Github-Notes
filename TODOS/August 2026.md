@@ -49,8 +49,6 @@ Open Tasks
 - [x] Coments 2
 	- [x] TSN
 	- [x] 5G
-
-
 - [ ] Comnets 1 
 	- [x] Intro 
 	- [x] History
@@ -59,25 +57,22 @@ Open Tasks
 	- [ ] Ex 1 
 	- [ ] Ex 2
 - [x] Comnets 2 - Rev  - 2 sets
-
-- [ ] Call Email - Morten
 - [x] Sep event registration
-- [ ] ming reply
+
 
 
 ### Wednesday 
 - [ ] Comnets 2 prep - 8 sets of question
-
-- [ ] simcard
-
+- [x] simcard
 - [ ] Comnets 1
-	- [ ]  Aloha
+	- [ ] Source coding
+	- [ ] Aloha
 	- [ ] Ethernet
 	- [ ] Graphs and Flows
 	- [ ] Routing
 	- [ ] Transport 
 	- [ ] NC - 1 and 2
-
+- [ ] Tianxiong - 
 ### Thursday
 - [ ] Coments 2 prep 
 - [ ] ElabFTW
@@ -88,6 +83,8 @@ Open Tasks
 - [ ]  Student task Wiki 
 - [ ] Aeroconf paper - prep
 - [ ]  Mesh hardware
+- [ ] Call Email - Morten
+- [ ] ming reply
 
 
 ### Friday
