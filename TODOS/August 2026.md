@@ -79,6 +79,7 @@ Open Tasks
 
 - [ ] FNWF coding
 - [ ] FNWF discussion 
+
 - [ ] Comnets 1
 	- [ ] Ex 3,
 	- [ ] 4,
@@ -87,7 +88,6 @@ Open Tasks
 
 
 - [ ] Aeroconf paper - prep
-
 - [ ] Call Email - Morten
 - [ ] ming reply
 
