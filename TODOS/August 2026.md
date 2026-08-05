@@ -141,3 +141,14 @@ cube 100 - 10 m/s - 10 s
 Drone lost - comm lost each grid MTBF
 
 to do: outage percube perspective 
+
+
+---
+
+Drone communication - UAV air-to-ground (A2G) link reliability problem
+1. Availability - When BS provides connection 
+2. Continuity - non-continuity - extends - link loss/ outage condition 
+
+BS, Height of BS , uav altitude 
+
+General DIstance equation 
