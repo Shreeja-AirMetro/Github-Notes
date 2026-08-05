@@ -63,7 +63,8 @@
               "title": "FNWF - UTM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "744ae8294f226cfa",
+  "active": "ee9dd72c28bc3ffe",
   "lastOpenFiles": [
-    "Paper-Writing/IEEE Access.md",
     "Lectures/Comnet2.md",
+    "Paper-Writing/IEEE Access.md",
     "TODOS/August 2026.md",
     "Lectures/Comnets 1.md",
     "Paper-Writing/FNWF - UTM.md",
