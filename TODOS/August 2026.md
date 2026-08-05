@@ -62,37 +62,48 @@ Open Tasks
 
 
 ### Wednesday 
-- [ ] Comnets 2 prep - 8 sets of question
+- [x] Comnets 2 prep - 8 sets of question
 - [x] simcard
 - [ ] Comnets 1
-	- [ ] Source coding
-	- [ ] Aloha
-	- [ ] Ethernet
+	- [x] Source coding
+	- [x] Aloha
+	- [x] Ethernet
 	- [ ] Graphs and Flows
 	- [ ] Routing
 	- [ ] Transport 
 	- [ ] NC - 1 and 2
-- [ ] Tianxiong - 
+- [x] Tianxiong - 
 ### Thursday
 - [ ] Coments 2 prep 
-- [ ] ElabFTW
 - [ ] Oral exam 
+
+- [ ] FNWF coding
 - [ ] FNWF discussion 
 - [ ] Comnets 1
-- [ ] - [ ] uplink 
-- [ ]  Student task Wiki 
+	- [ ] Ex 3,
+	- [ ] 4,
+	- [ ] 5,
+	- [ ] 6
+
+
 - [ ] Aeroconf paper - prep
-- [ ]  Mesh hardware
+
 - [ ] Call Email - Morten
 - [ ] ming reply
 
 
 ### Friday
 
-- [ ] Data collection 
+- [ ] Data collection
+- [ ] Aeroconf - preparation 
+- [ ] Meeting-Enrique
 - [ ] IEEE V1
 - [ ] Comnets 1
 - [ ] - [ ] FNFW run - data 
+- [ ]  ElabFTW
+- [ ] - [ ] - [ ] uplink 
+- [ ]   Mesh hardware
+- [ ] - [ ]  Student task Wiki 
 
 
 ---
