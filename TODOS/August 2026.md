@@ -74,11 +74,10 @@ Open Tasks
 	- [ ] NC - 1 and 2
 - [x] Tianxiong - 
 ### Thursday
-- [ ] Coments 2 prep 
-- [ ] Oral exam 
+- [x] Coments 2 prep 
+- [x] Oral exam 
 
 - [ ] FNWF coding
-- [ ] FNWF discussion 
 
 - [ ] Comnets 1
 	- [ ] Ex 3,
@@ -90,6 +89,7 @@ Open Tasks
 - [ ] Aeroconf paper - prep
 - [ ] Call Email - Morten
 - [ ] ming reply
+- [ ] Bianca email 
 
 
 ### Friday
@@ -116,6 +116,7 @@ Open Tasks
 - [ ] Mesh hardware
 - [ ] Satcom 
 - [ ] Uspace - Mahdi
+- [ ] FNWF discussion 
 
 
 
