@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +228,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3554044b4782432d",
+  "active": "ee9dd72c28bc3ffe",
   "lastOpenFiles": [
+    "Paper-Writing/FNWF - UTM.md",
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
     "Lectures/Comnet2.md",
     "Paper-Writing/IEEE Access.md",
     "Lectures/Comnets 1.md",
-    "Paper-Writing/FNWF - UTM.md",
     "TODOS/July 2026.md",
     "Notes/Drones.md",
     "Notes/Hardware.md",
