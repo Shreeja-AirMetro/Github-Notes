@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee9dd72c28bc3ffe",
+  "active": "3554044b4782432d",
   "lastOpenFiles": [
+    "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
     "Lectures/Comnet2.md",
     "Paper-Writing/IEEE Access.md",
@@ -258,7 +259,6 @@
     "Paper-Writing/DRCN.md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
     "Paper-Writing/CeTI book.md",
-    "Progress- PhD/Monograph.md",
     "Untitled 7.canvas",
     "2026_CTU_Call_for_Participation_04-15-2026.pdf",
     "Phase-2-KPIs-for-contestants_07272023-1.pdf",
