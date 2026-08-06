@@ -55,7 +55,7 @@ Additionally, adopting the studies by Robert et al. [9] and UC Quake Centre [10]
 
 five levels of service for a system are identified, as follows:
 
-• Optimal level of service (OpLoS): the theoretical condition for which the system
+• **Optimal level of service (OpLoS)**: the theoretical condition for which the system
 
 was planned and designed.
 
@@ -65,7 +65,7 @@ expected, achieving its mission to supply the anticipated level of service, whil
 
 the systems outputs are in their normal state.
 
-• Acceptable level of service (ALoS): The systems performance is partially degraded,
+• A**cceptable level of service (ALoS):** The systems performance is partially degraded,
 
 with one or more of the systems outputs in a disturbed mode. Still, due to the
 
@@ -73,7 +73,7 @@ action(s) taken, i.e., contingency plan(s), the system can maintain the service 
 
 ity at acceptable levels and limit its degradation.
 
-• Unacceptable level of service (ULoS): The systems performance is severely
+• **Unacceptable level of service (ULoS)**: The systems performance is severely
 
 degraded and despite the action(s) taken its degradation has become unaccept-
 
