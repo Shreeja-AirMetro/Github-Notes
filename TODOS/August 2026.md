@@ -77,7 +77,7 @@ Open Tasks
 - [x] Coments 2 prep 
 - [x] Oral exam 
 
-- [ ] FNWF coding
+
 
 - [ ] Comnets 1
 	- [ ] Ex 3,
@@ -104,6 +104,7 @@ Open Tasks
 - [ ] - [ ] - [ ] uplink 
 - [ ]   Mesh hardware
 - [ ] - [ ]  Student task Wiki 
+- [ ] - [ ] FNWF coding
 
 
 ---

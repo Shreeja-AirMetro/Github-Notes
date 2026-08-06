@@ -1023,3 +1023,9 @@ The core common premise is that **maximizing reliability does not equate to crea
 ---
 From Reliability to Resilience: An Adaptive Operational Margin Framework for UAV BVLOS C2 Communications
 
+
+---
+
+# Aeroconf
+
+
