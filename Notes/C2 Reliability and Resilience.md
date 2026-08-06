@@ -1029,3 +1029,27 @@ From Reliability to Resilience: An Adaptive Operational Margin Framework for UAV
 # Aeroconf
 
 
+As the low-altitude economy accelerates, integrating UAVs into non-segregated airspace demands more than ’best-effort’ wireless connectivity. Moreover, reliability and resilience within the digital communication domain is now an urgent priority due to the unmanned and autonomous nature of UAVs. The Command and Control (C2) communication system, an essential safety tether for Beyond Visual Line of Sight (BVLOS) operations requires a rigorous framework to meet strict aviation specifications, deterministically reliable and resilient. The existing Required Communication Performance (RCP) defines reliability by setting strict static bounds on parameters like Transaction Time, Continuity, Availability, and Integrity. Beyond the scope of security resilience, C2 system requires a dedicated focus on communication and connectivity: verifying whether the C2 link is active or impending degradation in C2 message traffic. Therefore, in this work, we address the gap from C2 reliability to system-level resilience by focusing only on communication and connectivity paradigm. To achieve this, we introduce a behavioral connectivity re-
+silience model, resilience in connectivity, calibrating system
+behavior to the operationally functional boundary is built
+upon two key contributions. First, we develop a phase-based
+C2 system architecture spanning proactive, reactive, and post-
+corrective operational windows to dynamically manage the
+RCP under potential C2 degradation condition. The Proac-
+tive Phase anticipates and preemptively adjust transmission
+mechanisms on the C2 system. The Reactive Phase actively
+mitigates real-time network delays to maintain vehicle con-
+trol during active link stress, while the Post-Corrective Phase
+safely governs system resynchronization and state restora-
+tion. Second, we formulate a dynamic Operational Margin
+representation that envelopes these three phases specifically
+for Very Low Level (VLL) airspace. This time-variant
+behavioral framework is evaluated using a UAV equipped
+with a heterogeneous, multi-link communication suite (WiFi,
+5G, and LEO Satcom) compliant with Specific Assurance
+and Integrity Level III (SAIL III) and above. By analyzing
+performance metrics across each operational window, we
+present the derived operational margins for the evaluated
+system, demonstrating that the UAV can safely navigate com-
+munication anomalies through adaptive, behavioral control of
+the C2 system.
