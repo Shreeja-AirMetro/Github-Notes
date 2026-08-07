@@ -33,7 +33,6 @@ Open Tasks
 - [ ] Jiajing FNWF Discussion 
 
 ### Monday
-
 - [x] Tianxiong Meeting 
 - [x] AirMetro Meeting 
 - [x] Simcard issue Sebastian
@@ -48,7 +47,6 @@ Open Tasks
 - [x] FNWF - initial skeleton
 
 ### Tuesday 
-
 - [x] Coments 2
 	- [x] TSN
 	- [x] 5G
@@ -61,9 +59,6 @@ Open Tasks
 	- [ ] Ex 2
 - [x] Comnets 2 - Rev  - 2 sets
 - [x] Sep event registration
-
-
-
 ### Wednesday 
 - [x] Comnets 2 prep - 8 sets of question
 - [x] simcard
@@ -87,10 +82,7 @@ Open Tasks
 - [x] Aeroconf paper - prep
 - [x] Bianca email 
 
-
 ### Friday
-
-
  - [x] Meeting-Enrique
 	 - [x] List tasks 
 	 - [x] Overleaf
@@ -98,21 +90,24 @@ Open Tasks
  - [x] Berlin DR
  
  - [ ] Arrange my calculator 
- - [ ] Plan weekend and other tasks
+ - [x] Plan weekend and other tasks
 
- - [ ] Call Email - Morten
-- [ ] ming reply
 - [ ] Comnets 1 - Ex 1-6
 
 ---
 
 # Pending tasks 
 
+# email and admin work 
+- [ ]  ElabFTW
+- [ ] Call Email - Morten
+- [ ] ming reply
+
 #
 - [ ] Data collection
 - [ ] IEEE V1
 - [ ]  FNFW run - data 
-- [ ]  ElabFTW
+
 - [ ] uplink 
 - [ ]   Mesh hardware
 - [ ] FNWF coding
