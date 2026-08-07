@@ -88,7 +88,9 @@ Open Tasks
 ### Friday
 
 
- - [ ] Meeting-Enrique
+ - [x] Meeting-Enrique
+	 - [ ] List tasks 
+	 - [ ] Overleaf
  - [x] Student task Wiki 
  - [x] Berlin DR
  
