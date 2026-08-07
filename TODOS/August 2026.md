@@ -102,6 +102,7 @@ Open Tasks
 - [ ]   Mesh hardware
 - [ ] - [ ]  Student task Wiki 
 - [ ] - [ ] FNWF coding
+- [ ] calculator
 
 
 ---
