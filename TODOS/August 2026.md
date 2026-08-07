@@ -90,7 +90,7 @@ Open Tasks
 
  - [ ] Meeting-Enrique
  - [x] Student task Wiki 
- - [ ] Berlin DR
+ - [x] Berlin DR
  
  - [ ] Arrange my calculator 
  - [ ] Plan weekend and other tasks
