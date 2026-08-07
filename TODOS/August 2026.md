@@ -76,36 +76,40 @@ Open Tasks
 ### Thursday
 - [x] Coments 2 prep 
 - [x] Oral exam 
-
 - [ ] Comnets 1
 	- [ ] Ex 3,
 	- [ ] 4,
 	- [ ] 5,
 	- [ ] 6
-
 - [x] Aeroconf paper - prep
-- [ ] Call Email - Morten
-- [ ] ming reply
 - [x] Bianca email 
 
 
 ### Friday
 
-- [ ] Data collection
-- [ ] Aeroconf - preparation 
-- [ ] Meeting-Enrique
-- [ ] IEEE V1
-- [ ] Comnets 1
-- [ ] - [ ] FNFW run - data 
-- [ ]  ElabFTW
-- [ ] - [ ] - [ ] uplink 
-- [ ]   Mesh hardware
-- [ ] - [ ]  Student task Wiki 
-- [ ] - [ ] FNWF coding
-- [ ] calculator
 
+ - [ ] Meeting-Enrique
+ - [ ] Student task Wiki 
+ - [ ] Berlin DR
+ 
+ - [ ] Arrange my calculator 
+ - [ ] Plan weekend and other tasks
+
+ - [ ] Call Email - Morten
+- [ ] ming reply
+- [ ] Comnets 1 - Ex 1-6
 
 ---
+
+# Pending tasks 
+
+- [ ] Data collection
+- [ ] IEEE V1
+- [ ]  FNFW run - data 
+- [ ]  ElabFTW
+- [ ] uplink 
+- [ ]   Mesh hardware
+- [ ] FNWF coding
 
 # Week 33
 
@@ -114,7 +118,6 @@ Open Tasks
 - [ ] Backup
 - [ ] Mesh hardware
 - [ ] Satcom 
-- [ ] Uspace - Mahdi
 - [ ] FNWF discussion 
 
 
@@ -122,7 +125,9 @@ Open Tasks
 
 ---
 # Week 34
-
+- [ ] Uspace - Mahdi
+- [ ] Smartgrid
+- [ ] Traffic Theory exam 
 
 
 ---
