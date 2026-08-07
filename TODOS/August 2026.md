@@ -186,3 +186,9 @@ where x(t),y(t)x(t), y(t) x(t),y(t) trace the UAV's straight-line path at 10 m/s
 5. Operational margin 
 6. Communication Performance envelopes 
 7. Enhanced envelop with and without reactive area 
+Tasks 
+Break it into small parts 
+
+8. Brief to do list 
+
+
