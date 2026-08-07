@@ -103,24 +103,40 @@ Open Tasks
 - [ ] Call Email - Morten
 - [ ] ming reply
 
-#
+# Simulator 
+- [ ] uplink 
 - [ ] Data collection
 - [ ] IEEE V1
-- [ ]  FNFW run - data 
 
-- [ ] uplink 
-- [ ]   Mesh hardware
+# FNWF 
+- [ ]  FNFW run - data  
 - [ ] FNWF coding
 
+# Hardware 
+   - [ ] Mesh hardware
 # Week 33
 
 - [ ] Comnets 1 exam 
 - [ ] AirMetro Student Meeting 
 - [ ] Backup
 - [ ] Mesh hardware
-- [ ] Satcom 
+- [ ] Satcom  IOt hardware
 - [ ] FNWF discussion 
+# Monday
 
+- [ ] Comnets 1 exam prep and Exam
+# Tuesday
+
+- [ ] Study - Traffic Theory 
+- [ ] Mesh hardware
+
+# Wednesday
+- [ ] Student Meeting 
+- [ ] 
+
+# Thursday
+
+# Friday
 
 
 
