@@ -77,19 +77,16 @@ Open Tasks
 - [x] Coments 2 prep 
 - [x] Oral exam 
 
-
-
 - [ ] Comnets 1
 	- [ ] Ex 3,
 	- [ ] 4,
 	- [ ] 5,
 	- [ ] 6
 
-
-- [ ] Aeroconf paper - prep
+- [x] Aeroconf paper - prep
 - [ ] Call Email - Morten
 - [ ] ming reply
-- [ ] Bianca email 
+- [x] Bianca email 
 
 
 ### Friday
