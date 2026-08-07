@@ -118,7 +118,7 @@ Open Tasks
 
 - [ ] Comnets 1 exam 
 - [ ] AirMetro Student Meeting 
-- [ ] Backup
+
 - [ ] Mesh hardware
 - [ ] Satcom  IOt hardware
 - [ ] FNWF discussion 
@@ -132,25 +132,30 @@ Open Tasks
 
 # Wednesday
 - [ ] Student Meeting 
-- [ ] 
+- [ ] FNWF prep - Discussion Paper 
+- [ ] Study Traffic Theory 
 
 # Thursday
+ - [ ] FNWF prep - writing
+- [ ] Study Traffic Theory 
 
 # Friday
 
-
+ - [ ] Study Traffic Theory 
+ - [ ] Study Smartgridcomm
+ 
 
 ---
 # Week 34
 - [ ] Uspace - Mahdi
-- [ ] Smartgrid
+- [ ] Smartgrid exam
 - [ ] Traffic Theory exam 
 
 
 ---
 
 # Week 35
-
+- [ ] Backup
 
 
 
