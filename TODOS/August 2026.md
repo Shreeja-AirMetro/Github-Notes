@@ -182,4 +182,7 @@ where x(t),y(t)x(t), y(t) x(t),y(t) trace the UAV's straight-line path at 10 m/s
 1. prior 
 2. Operational margin 
 3. Latency, Velocity operational margin 
-4. 
+4. Prevention - inner loops 
+5. Operational margin 
+6. Communication Performance envelopes 
+7. Enhanced envelop with and without reactive area 
