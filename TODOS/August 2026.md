@@ -1,4 +1,7 @@
 Can I say, I send packet via Stacom- via 5G - Semantic 
+https://esra.website/esrel
+
+
 # Deadline 
 
 1. DATE - Multipath 
