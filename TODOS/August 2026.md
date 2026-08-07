@@ -92,8 +92,8 @@ Open Tasks
 
 
  - [x] Meeting-Enrique
-	 - [ ] List tasks 
-	 - [ ] Overleaf
+	 - [x] List tasks 
+	 - [x] Overleaf
  - [x] Student task Wiki 
  - [x] Berlin DR
  
