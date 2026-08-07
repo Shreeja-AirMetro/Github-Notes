@@ -21,12 +21,12 @@ Open Tasks
 
 # Week 32
 
-- [ ] Coments 2 oral exam 
+- [x] Coments 2 oral exam 
 - [x] Tianxiong dicussion 
-- [ ] SIMCARD Issue - Sebastian
+- [x] SIMCARD Issue - Sebastian
 - [x] AirMetro Meeting 
 - [ ] Mesh Hardware 
-- [ ] Student Task wiki 
+- [x] Student Task wiki 
 - [x] Student meeting PPT 
 - [ ] IEEE Access Data Collection - V1 complete
 - [x] Bianca Docs submit 
@@ -118,13 +118,13 @@ Open Tasks
 
 - [ ] Comnets 1 exam 
 - [ ] AirMetro Student Meeting 
-
 - [ ] Mesh hardware
 - [ ] Satcom  IOt hardware
 - [ ] FNWF discussion 
 # Monday
 
 - [ ] Comnets 1 exam prep and Exam
+- [ ] Admin  tasks 
 # Tuesday
 
 - [ ] Study - Traffic Theory 
