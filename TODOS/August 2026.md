@@ -89,7 +89,7 @@ Open Tasks
 
 
  - [ ] Meeting-Enrique
- - [ ] Student task Wiki 
+ - [x] Student task Wiki 
  - [ ] Berlin DR
  
  - [ ] Arrange my calculator 
