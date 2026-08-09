@@ -247,3 +247,45 @@ End-to-end delay = PD + MD + SAD + QAD + CD (summed over every hop/node in the p
 ---
 
 _This guide consolidates both your lecture slides (L03–L13) and the worked tutorial exercises (2, 3, 4 solved in detail earlier in this chat). Good luck tomorrow!_
+
+
+Fair warning upfront: this is pattern-matching across just 6 data points, not real statistics — treat these as informed hunches for prioritizing study time, not guarantees.
+
+
+Fair warning upfront: this is pattern-matching across just 6 data points, not real statistics — treat these as informed hunches for prioritizing study time, not guarantees.
+
+|Topic|Appeared|Streak / pattern|My estimate|
+|---|---|---|---|
+|**ISO/OSI Model** (layer matching)|6/6 years|Every single year, same format|**Very high (~95%)** — structurally guaranteed|
+|**Mixed Questions** (NAT, TLS, DHCP, DNS, source/channel coding)|6/6 years|Every year, same question pool rotates|**Very high (~90%)**|
+|**Hamming Code** (parity/syndrome)|6/6 years|Every year; exact numbers reused in blocks (2021-23 identical, 2024-25 identical)|**Very high (~95%)** for the concept; the _specific_ 2024/25 bit-sequence likely gets swapped out this year (blocks seem to refresh every ~3 years)|
+|**Network Flow (Ford-Fulkerson) + Subnetting**|6/6 years|Every year, values change each time|**Very high (~90%)**|
+|**Transport Layer / TCP congestion control (cwnd, RTT)**|6/6 years|Every year; cwnd-sketch sub-question specifically since ~2022|**Very high (~90%)**|
+|**Reverse-Dijkstra ("stammt von der ETH Zürich")**|5/6 years (all except 2020)|Unbroken streak 2021→2025|**High (~85%)**|
+|**Kombiniertes Netzwerk ("Alice's laptop" DHCP/ARP/DNS/TCP)**|5/6 years (all except 2020)|Unbroken streak 2021→2025|**High (~85%)**|
+|**Ethernet + AS/BGP**|6/6 years|Every year, but sub-question style shifts a lot (BGP hijack story vs. AS-path routing puzzle vs. plain definitions)|**High (~80%)** for _some_ Ethernet+BGP question; lower (~40%) for a specific sub-format repeating exactly|
+|**IEEE 802.11**|6/6 years|Every year, but **DIFS/SIFS timing calculation** only appeared 2020-2022, replaced by conceptual questions (components, CSMA/CA reasoning, hidden-terminal) 2023-2025|Topic itself: **very high (~90%)**. Specifically a numeric DIFS/SIFS calculation: **low-moderate (~30%)** — trend has moved away from it|
+|**ARQ (Stop&Wait/GBN/SR efficiency)**|4/6 years (2020-2023), **absent 2024 & 2025**|Was a fixture, then dropped two years running|**Moderate-low (~35%)** — could return, but the recent trend replaced it with the security/molecular-communication material|
+|**"Sichere vernetzte Systeme" (WiFi security, WPA2, MITM)**|2/6 years (2024, 2025 only)|Brand new, appeared both of the last 2 years|**Moderate-high (~65%)** — too new to be sure it's a permanent fixture, but a live 2-year streak|
+|**Molecular communication twist on Hamming/On-Off-Keying**|2/6 years (2024, 2025)|New theme, appeared 2 years running|**Moderate (~50%)** — same caveat, could be this professor's "current interest" rather than a permanent staple|
+|**Bonus question theme**|Highly variable — mesh/IoT (2020-22), "guess the professor" + pseudocode (2023, 2025), QUIC/DNS troubleshooting (2024)|No consistent pattern|**Low predictability** — I wouldn't bet on a specific bonus format, just be ready for "some kind of applied reasoning/pseudocode-reading question"|
+
+
+
+start with 
+1. ISO
+2. TLS..
+3. Hamming 
+4. Networkflow
+5. TCP
+
+---
+1. Combine Ntwork
+2. Rever dijistra
+3. Ethernet 
+4. 802.11
+5. ArQ
+6. Security
+
+---
+Bonus
