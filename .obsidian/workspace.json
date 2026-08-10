@@ -35,7 +35,8 @@
               "title": "Comnets 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "86f26920a58cba44",
   "lastOpenFiles": [
+    "TODOS/August 2026.md",
     "Paper-Writing/FNWF - UTM.md",
     "Lectures/Comnets 1.md",
-    "TODOS/August 2026.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/IEEE Access.md",
     "Notes/C2 Reliability and Resilience.md",
