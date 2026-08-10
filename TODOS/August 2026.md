@@ -123,19 +123,34 @@ Open Tasks
 
 - [x] Comnets 1 exam prep and Exam
 - [x] Admin  tasks 
+- [ ] Traffic Theory - L1, L2, L3
 # Tuesday
 
 - [ ] Study - Traffic Theory 
+	- [ ] L4
+	- [ ] L5
+	- [ ] L6
+	- [ ] L7
 - [ ] Mesh hardware
 
 # Wednesday
 - [ ] Student Meeting 
 - [ ] FNWF prep - Discussion Paper 
 - [ ] Study Traffic Theory 
+	- [ ] L8, L9
+	- [ ] L10
+	- [ ] L11
+	- [ ] L12
+	- [ ] L13
 
 # Thursday
  - [ ] FNWF prep - writing
 - [ ] Study Traffic Theory 
+	- [ ] Ex 1
+	- [ ] Ex 2
+	- [ ] Ex 3
+	- [ ] Ex 4
+	- [ ] Ex 5
 
 # Friday
 
