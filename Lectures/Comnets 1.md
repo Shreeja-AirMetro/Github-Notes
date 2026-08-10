@@ -289,3 +289,203 @@ start with
 
 ---
 Bonus
+
+# ComNets 1 — Master Formula Sheet
+
+## ⚠️ FIRST: the L vs T notation that keeps tripping you up
+
+**L = LENGTH (a size, in bits or Bytes) — never has units of time.** **T = TIME (a duration, in seconds/ms/µs) — never has units of data.**
+
+You get from one to the other with exactly one formula, always: $$T = \frac{L}{R}$$ _(time to transmit = size ÷ data rate)_
+
+|Symbol|Means|Example|
+|---|---|---|
+|L_P|Length of a **data packet** (bits)|L_P = 8000 bit|
+|L_ACK|Length of an **ACK** (bits)|L_ACK = 800 bit|
+|T_P|**Time** to transmit that packet = L_P/R|T_P = 8000/20e6 = 0.4 ms|
+|T_ACK / T_S|**Time** to transmit the ACK = L_ACK/R|T_ACK = 800/20e6 = 0.04 ms|
+|T_L|**Propagation delay** (one-way) — NOT derived from any L, it's a separate given physical value|T_L = 2 ms|
+|R|Data **rate** (bit/s) — the thing you divide by|R = 20 Mbit/s|
+
+**The rule that resolves 90% of confusion:** if a symbol is a lowercase-ish size (L_something), it's bits — plug it into `L/R` to get a time. If it's already `T_something`, it's already a time — use it directly in a sum, never divide it by R again.
+
+---
+
+## 1. Source Coding — Huffman & Entropy
+
+**Entropy (theoretical minimum bits/symbol):** $$H = -\sum_i p_i \log_2(p_i)$$
+
+**Huffman average codeword length:** $$L = \sum_i p_i \cdot l_i$$ _(where l_i = length of symbol i's codeword)_
+
+**Huffman construction rule:** repeatedly merge the two lowest-probability nodes; the two least-probable symbols always end up as sibling leaves at the same depth.
+
+**Efficiency:** η = H / L (always H ≤ L)
+
+---
+
+## 2. Channel Coding — Hamming, Parity, CRC
+
+**Hamming(7,4) parity equations** (parity bits at positions 1,2,4; data at 3,5,6,7):
+
+- p1 = b1⊕b2⊕b4
+- p2 = b1⊕b3⊕b4
+- p3 = b2⊕b3⊕b4
+
+**Hamming(15,11)** (parity bits at 1,2,4,8; data at the rest):
+
+- p1 covers all positions with bit0=1 (odd positions)
+- p2 covers all positions with bit1=1
+- p3 covers all positions with bit2=1
+- p4 covers all positions with bit3=1
+
+**Syndrome → error position:** XOR received-vs-recomputed parity bits (order p_highest...p1) → binary result = position of the flipped bit.
+
+**Hamming distance rules:**
+
+- Detects up to **d_min − 1** errors
+- Corrects up to **⌊(d_min−1)/2⌋** errors
+- Standard Hamming code: **d_min = 3** → corrects 1, detects 2
+
+**Repetition code (factor r):** d_min = r
+
+---
+
+## 3. Multiple Access — ALOHA
+
+**Offered load (normalized, unitless):** $$G = \lambda \cdot t_{packet}$$ where λ = arrival rate (packets/s), t_packet = L_P/R (transmission time of one packet)
+
+**Pure ALOHA throughput:** $$S = G \cdot e^{-2G}$$ (max ≈ 18.4% at G=0.5 — vulnerable period = 2× packet time)
+
+**Slotted ALOHA throughput:** $$S = G \cdot e^{-G}$$ (max ≈ 36.8% at G=1 — vulnerable period = 1× packet time)
+
+---
+
+## 4. Polling Cycle Time
+
+$$T_C = n \cdot (T_Z + T_P + T_S + T_N) + 2\sum_i T_L(i)$$
+
+- T_Z = central station response time
+- T_P = peripheral response time
+- T_S = signaling message transmit time = L_SOH/R
+- T_N = data message transmit time = (L_SOH+L_SP)/R
+- T_L(i) = one-way propagation to station i; the **2×** accounts for round trip
+- n = number of stations
+
+---
+
+## 5. ARQ — Stop-and-Wait, Go-Back-N, Selective-Repeat
+
+**Stop-and-Wait cycle time (this is where L→T confusion happens most):** $$T_{cycle} = T_P + T_L + T_{ACK} + T_L$$ where **T_P = L_P/R** and **T_ACK = L_ACK/R** (both computed FROM lengths), while T_L is given directly as a time.
+
+**Stop-and-Wait throughput:** $$\text{Throughput} = \frac{L_P}{T_{cycle}} \quad \text{or equivalently} \quad \eta = \frac{L_P}{L_P+L_{ACK}+2 \cdot T_L \cdot R}$$ _(this second form is just the first one with everything multiplied through by R — same answer, useful when the problem gives you the formula pre-combined like this)_
+
+**Go-Back-N (window=W, packet #k always fails first try):**
+
+- On failure, sender must resend the failed packet **and everything after it in that window** (receiver discards out-of-order arrivals)
+- Total transmissions per W delivered = W + (W − k + 1)
+- η = W / [total transmissions]
+
+**Selective-Repeat (same setup):**
+
+- Only the single failed packet is resent (receiver buffers out-of-order correct packets)
+- Total transmissions per W delivered = W + 1
+- η = W / (W+1)
+
+**Rule of thumb: η(SR) is always ≥ η(GBN)** — if your numbers come out the other way, you've swapped the two rules.
+
+---
+
+## 6. IEEE 802.11 Timing (DIFS/SIFS)
+
+Given: T_DIFS, T_SIFS, T_D (data transmit time), T_S (ACK transmit time) — **these are already given as times, not lengths, in this question type** — no L/R conversion needed here, just addition.
+
+**Sequence (no RTS/CTS):**
+
+1. Data sent: t₀ → t₀+T_D
+2. ACK starts after SIFS: **t = T_D + T_SIFS**
+3. ACK ends: + T_S
+4. Next Contention Window starts after DIFS: **t = T_D + T_SIFS + T_S + T_DIFS**
+
+**With RTS/CTS**, chain SIFS gaps between every exchange: RTS → SIFS → CTS → SIFS → DATA → SIFS → ACK → (repeat DATA/ACK for more packets) → DIFS → next CW.
+
+---
+
+## 7. Efficiency / Optimal Packet Size
+
+$$\eta(L) = \frac{L}{L+H} \cdot (1-P_0)^{L+H}$$
+
+- L = payload size, H = header/overhead size, P₀ = per-bit error probability
+- Optimal L found by setting dη/dL = 0 → quadratic: **L² + HL + H/ln(1−P₀) = 0**, solve, take positive root.
+
+---
+
+## 8. Network Flow — Ford-Fulkerson
+
+**Method, not a formula:** repeatedly find an augmenting path (source→sink with spare capacity in every edge along it), push the **bottleneck** (= minimum residual capacity along that path), update residual capacities (subtract forward, add backward/reverse), repeat until no augmenting path exists.
+
+**Max-flow = min-cut** always. Min cut = capacity of edges crossing from the "reachable from source" set to the rest, in the final residual graph.
+
+---
+
+## 9. Subnetting
+
+- Host bits = 32 − prefix
+- Block size = 2^(host bits)
+- Broadcast address = network address + block size − 1
+- Usable addresses = 2^(host bits) − 2
+
+|Host bits|Block size|Usable|Prefix|
+|---|---|---|---|
+|2|4|2|/30|
+|3|8|6|/29|
+|4|16|14|/28|
+|5|32|30|/27|
+|6|64|62|/26|
+|7|128|126|/25|
+|8|256|254|/24|
+|15|32768|32766|/17|
+
+---
+
+## 10. Reverse-Dijkstra
+
+**Forward reading (edge from table):** if node X has predecessor P and distance d(X): **edge P→X exists, weight = d(X) − d(P)**
+
+**Hidden-edge bonus question:** any undetected edge V→Y must satisfy **weight ≥ d(Y) − d(V)** (otherwise Dijkstra would have used it and it would appear in the table).
+
+---
+
+## 11. TCP Congestion Control (NewReno)
+
+**Per-ACK update:** $$cwnd \leftarrow \begin{cases} cwnd + 1 & \text{if } cwnd < ssthresh \text{ (Slow Start)} \ cwnd + \frac{1}{cwnd} & \text{if } cwnd \geq ssthresh \text{ (Congestion Avoidance)} \end{cases}$$
+
+_(Per-RTT view, easier to sketch: Slow Start = doubles every RTT; Congestion Avoidance = +1 per RTT)_
+
+**On loss:**
+
+- Timeout → cwnd = 1, back to full Slow Start
+- Triple-duplicate ACK (Fast Retransmit/Recovery) → **ssthresh = cwnd/2**, **cwnd = new ssthresh** (not reset to 1)
+
+---
+
+## 12. M/M/1 Queueing
+
+- ρ = λ/μ (utilization; must be <1)
+- L = ρ/(1−ρ) (avg. number in system)
+- L_q = ρ²/(1−ρ) (avg. number waiting)
+- W = 1/(μ−λ) (avg. total delay)
+- W_q = ρ/(μ−λ) (avg. queue wait only)
+- P₀ = 1−ρ (probability system is empty)
+- **Little's Law (ties it all together): L = λW**
+
+---
+
+## 13. Coupon Collector (Network Coding / RLNC full rank)
+
+$$\mathbb{E}[T_n] = n \cdot H_n = n\sum_{k=1}^n \frac{1}{k} \quad \text{(expected draws to collect all } n \text{)}$$
+
+$$\mathbb{E}[T_m] = n(H_n - H_{n-m}) \quad \text{(expected draws to collect just } m \text{ of } n \text{)}$$
+
+---
+
+_Print or keep this open in a separate tab during your final review — it's organized by exam task number, so you can cross-reference directly against whichever year's paper you're practicing._
