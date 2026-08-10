@@ -100,7 +100,7 @@ Open Tasks
 
 # email and admin work 
 
-- [ ] ming reply
+- [x] ming reply
 # Simulator 
 - [ ] uplink 
 - [ ] Data collection
@@ -122,7 +122,7 @@ Open Tasks
 # Monday
 
 - [x] Comnets 1 exam prep and Exam
-- [ ] Admin  tasks 
+- [x] Admin  tasks 
 # Tuesday
 
 - [ ] Study - Traffic Theory 
