@@ -99,10 +99,8 @@ Open Tasks
 # Pending tasks 
 
 # email and admin work 
-- [ ]  ElabFTW
-- [ ] Call Email - Morten
-- [ ] ming reply
 
+- [ ] ming reply
 # Simulator 
 - [ ] uplink 
 - [ ] Data collection
@@ -123,7 +121,7 @@ Open Tasks
 - [ ] FNWF discussion 
 # Monday
 
-- [ ] Comnets 1 exam prep and Exam
+- [x] Comnets 1 exam prep and Exam
 - [ ] Admin  tasks 
 # Tuesday
 
@@ -150,13 +148,14 @@ Open Tasks
 - [ ] Uspace - Mahdi
 - [ ] Smartgrid exam
 - [ ] Traffic Theory exam 
+- [ ]  Call Email - Morten
 
 
 ---
 
 # Week 35
 - [ ] Backup
-
+- [ ]  ElabFTW
 
 
 ---
