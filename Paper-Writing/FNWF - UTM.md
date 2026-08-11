@@ -161,3 +161,37 @@ Installed and inspected (`pip install airfogsim`, v1.1.1). It's a legitimate, ac
 - `analyze.py` — figures, tables, crossover extraction
 - `out/fig_heatmap_mean_latency.png`, `out/fig_crossover_map.png`, `out/fig_adaptive_vs_static.png` — the three headline figures
 - `out/grid_density_ussp.csv`, `out/lhs_design.csv`, `out/lhs_summary.csv`, `out/table_adaptive_vs_static.csv` — raw and aggregated results
+
+
+python3 sweep.py                  # 1. core DOE: factorial grid + LHS design
+                                   #    -> out/grid_density_ussp.csv, lhs_design.csv
+                                   #    ~3 seconds
+
+python3 analyze.py                # 2. heatmaps, crossover points, adaptive-vs-static table
+                                   #    -> out/fig_heatmap_mean_latency.png, fig_crossover_map.png,
+                                   #       fig_adaptive_vs_static.png, table_adaptive_vs_static.csv,
+                                   #       lhs_summary.csv
+                                   #    requires step 1's CSVs; ~instant
+
+python3 dense_sweep.py            # 3. finer 20x10 grid, needed for smooth 3D surfaces
+                                   #    -> out/dense_grid.csv
+                                   #    ~15-30 seconds
+
+python3 plot3d.py                 # 4. 3D surface (coarse) + 3D LHS scatter
+                                   #    -> out/fig_3d_surfaces.png, fig_3d_lhs_scatter.png
+                                   #    requires steps 1 & 3's CSVs; ~instant
+
+python3 plot3d_smooth.py          # 5. smooth MATLAB-style interpolated 3D surfaces
+                                   #    -> out/fig_3d_surfaces_smooth.png
+                                   #    requires step 3's CSV; ~instant
+
+python3 robustness_experiments.py # 6. freshness sweep, trust/misreport robustness,
+                                   #    significance tests, round-robin comparison
+                                   #    -> out/freshness_sweep.csv, trust_robustness_sweep.csv,
+                                   #       significance_tests.csv, round_robin_comparison.csv
+                                   #    ~10-20 seconds
+
+python3 plot_robustness.py        # 7. plots for step 6
+                                   #    -> out/fig_robustness_experiments.png,
+                                   #       fig_round_robin_comparison.png
+                                   #    requires step 6's CSVs; ~instant
