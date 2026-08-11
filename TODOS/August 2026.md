@@ -114,6 +114,8 @@ Open Tasks
 # Hardware 
    - [ ] Mesh hardware
 	   - [ ] Help from krishna
+	   - [ ] Visit - Basic setup
+	   - [ ] Review other parts
 # Week 33
 
 - [ ] Comnets 1 exam 
