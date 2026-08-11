@@ -118,7 +118,7 @@ Open Tasks
 	   - [ ] Review other parts
 # Week 33
 
-- [ ] Comnets 1 exam 
+- [x] Comnets 1 exam 
 - [ ] AirMetro Student Meeting 
 - [ ] Mesh hardware
 - [ ] Satcom  IOt hardware
@@ -135,8 +135,11 @@ Open Tasks
 	- [ ] L5
 	- [ ] L6
 	- [ ] L7
-- [ ] Mesh hardware - help from Krishna 
+- [x] Mesh hardware - help from Krishna requested 
+- [ ] Simcard
 
+https://kb.doodlelabs.com/starlink-satcom-integration-guide
+https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHARED/%21qrj7yyGkC7ddf30uyg3kVGjq3YxZH9155dSoa1pzk/wXGsdYeksvloAM1W#/
 # Wednesday
 - [ ] Student Meeting 
 - [ ] FNWF prep - Discussion Paper 
