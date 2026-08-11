@@ -113,6 +113,7 @@ Open Tasks
 
 # Hardware 
    - [ ] Mesh hardware
+	   - [ ] Help from krishna
 # Week 33
 
 - [ ] Comnets 1 exam 
@@ -132,7 +133,7 @@ Open Tasks
 	- [ ] L5
 	- [ ] L6
 	- [ ] L7
-- [ ] Mesh hardware
+- [ ] Mesh hardware - help from Krishna 
 
 # Wednesday
 - [ ] Student Meeting 
