@@ -145,7 +145,6 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [x] Omnet++ simulator 
 - [x] Meet Jonas
 - [x]  Sarah message
-- [ ] FNWF prep - Discussion Paper 
 
 - [ ] Student Meeting
 	- [ ] MM prep
@@ -155,6 +154,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 # Thursday
  - [ ] FNWF prep - writing
+ - [ ]  FNWF prep - Discussion Paper 
 - [ ] Study Traffic Theory 
 	- [ ] Ex 1
 	- [ ] Ex 2
