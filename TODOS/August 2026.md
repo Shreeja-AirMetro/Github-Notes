@@ -143,7 +143,7 @@ https://kb.doodlelabs.com/starlink-satcom-integration-guide
 https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHARED/%21qrj7yyGkC7ddf30uyg3kVGjq3YxZH9155dSoa1pzk/wXGsdYeksvloAM1W#/
 # Wednesday
 - [ ] Omnet++ simulator 
-- [ ]  Sarah message
+- [x]  Sarah message
 - [ ] FNWF prep - Discussion Paper 
 
 - [ ] Student Meeting
