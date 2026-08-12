@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "0eecc2b790c29f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4734de7824db7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOS/August 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "August 2026"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3554044b4782432d",
+  "active": "af4734de7824db7c",
   "lastOpenFiles": [
+    "Paper-Writing/FNWF - UTM.md",
     "TODOS/August 2026.md",
     "Lectures/Comnets 1.md",
-    "Paper-Writing/FNWF - UTM.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/IEEE Access.md",
     "Notes/C2 Reliability and Resilience.md",
