@@ -157,7 +157,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [ ] FNWF prep - writing
  - [ ]  FNWF prep - Discussion Paper 
 
- - [ ] Tasks of paper - Krim
+ - [x] Tasks of paper - Krim
 - [ ] Study Traffic Theory 
 
 # Friday
