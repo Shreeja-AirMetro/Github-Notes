@@ -155,6 +155,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Thursday
  - [ ] FNWF prep - writing
  - [ ]  FNWF prep - Discussion Paper 
+ - [ ] Tasks of paper
 - [ ] Study Traffic Theory 
 	- [ ] Ex 1
 	- [ ] Ex 2
