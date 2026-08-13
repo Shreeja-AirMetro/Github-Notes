@@ -146,8 +146,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [x] Meet Jonas
 - [x]  Sarah message
 
-- [ ] Student Meeting
-	- [ ] MM prep
+- [x] Student Meeting
+	- [x] MM prep
 - [ ] Study Traffic Theory 
 - [ ] Study smartgrid comm
 
