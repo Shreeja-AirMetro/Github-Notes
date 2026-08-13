@@ -153,25 +153,19 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 
 # Thursday
- - [ ] Study Smartgrid comm
+ - [x] Study Smartgrid comm
  - [ ] FNWF prep - writing
  - [ ]  FNWF prep - Discussion Paper 
+
  - [ ] Tasks of paper - Krim
 - [ ] Study Traffic Theory 
-	- [ ] Ex 1
-	- [ ] Ex 2
-	- [ ] Ex 3
-	- [ ] Ex 4
-	- [ ] Ex 5
-	- [ ] Ex 6
-	- [ ] Ex 7
-	- [ ] Ex 8
 
 # Friday
 
  - [ ] Study Traffic Theory 
  - [ ] Study Smartgridcomm
  - [ ] Another simcard
+ - [ ] email Krishna
  
 
 ---
