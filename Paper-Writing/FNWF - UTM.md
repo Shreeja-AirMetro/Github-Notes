@@ -199,3 +199,9 @@ python3 plot_robustness.py        # 7. plots for step 6
 
 ---
 
+- distance is one critical factor in dynamic environment 
+- Age of information is critical 
+- find a deconfliction algorithm and evaluate on it - and validate 
+- Jusify the configurations and workload 
+- dig more into deconfliction 
+- find the complexity in linear increase in number of drones , type of drones and deconfliction procedure , keep the configuration common for resource allocation and occupier - therefore, it is negligible. 
