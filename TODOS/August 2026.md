@@ -159,7 +159,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
  - [ ] Study Traffic Theory 
  - [x] Study Smartgridcomm
- - [ ] Plan Week
+ - [x] Plan Week
+ - [ ] CNS cluster meeting
 
  - [x] Another simcard
  - [x] email Krishna
@@ -175,35 +176,42 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Week 34
 - [ ] Smartgrid exam
 - [ ] Traffic Theory exam 
+
 - [ ]  Call Email - Morten
 - [ ] Visa appointment friday 
+
 - [ ] NB IOT setup 
 - [ ] UTM - Deconfliction 
+
 - [ ] Satcom Hardware
 - [ ] Mesh hardware 
-
-
 # Monday
 
 - [ ] Exam 
+- [ ] Study TT
+- [ ] Call email -Check Morten 
+- [ ] NB IOT setup 
 
 # Tuesday
 
-
-
+- [ ] Satcom Contact Bianca and next steps 
+- [ ] Study TT
+- [ ] UTM-Deconfliction
 
 # Wednesday 
 
 - [ ] Exam prep 
-
-
+- [ ] Docs Prep
 # Thursday 
 
 - [ ] Exam 
+- [ ] Satcom Terminal
+- [ ] Plan and prep for next week 
 
 # Friday 
 
 - [ ] Vacation Berlin appointment
+- [ ] Aeroconf paper Lit review
 
 ---
 
