@@ -15,10 +15,10 @@ https://esra.website/esrel
 Open Tasks 
 1. Study Comnets 1 and 2
 2. Setup testbed to data collectiong 
-3. FNWF
-4. ElabFTW
-5. Student tasks Wiki
-6. IEEE Access
+<span style="color:rgb(255, 0, 0)">3. FNWF</span>
+3. ElabFTW
+4. Student tasks Wiki
+5. IEEE Access
 
 # Week 32
 
