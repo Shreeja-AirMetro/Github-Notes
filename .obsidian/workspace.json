@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed73d6e129e8d6aa",
-        "type": "tabs",
-        "dimension": 43.43329886246122,
-        "children": [
-          {
-            "id": "3554044b4782432d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper-Writing/FNWF - UTM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FNWF - UTM"
-            }
-          }
-        ]
-      },
-      {
         "id": "0eecc2b790c29f22",
         "type": "tabs",
-        "dimension": 56.56670113753878,
         "children": [
           {
-            "id": "af4734de7824db7c",
+            "id": "31b287045fffeb31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,6 +19,26 @@
               },
               "icon": "lucide-file",
               "title": "August 2026"
+            }
+          }
+        ]
+      },
+      {
+        "id": "38d0b22049e3cfe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38597ff820fa03e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/TT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TT"
             }
           }
         ]
@@ -207,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af4734de7824db7c",
+  "active": "38597ff820fa03e7",
   "lastOpenFiles": [
-    "Paper-Writing/FNWF - UTM.md",
     "TODOS/August 2026.md",
+    "Lectures/TT.md",
+    "Paper-Writing/FNWF - UTM.md",
     "Lectures/Comnets 1.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/IEEE Access.md",
@@ -237,7 +236,6 @@
     "Paper-Writing/EW - 2026.md",
     "Paper-Writing/DRCN.md",
     "Paper-Writing/Deadline - target Conf and Journals.md",
-    "Paper-Writing/CeTI book.md",
     "Untitled 7.canvas",
     "2026_CTU_Call_for_Participation_04-15-2026.pdf",
     "Phase-2-KPIs-for-contestants_07272023-1.pdf",
