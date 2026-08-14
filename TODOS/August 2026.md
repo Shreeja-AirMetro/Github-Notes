@@ -173,11 +173,37 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 ---
 # Week 34
-- [ ] Uspace - Mahdi
 - [ ] Smartgrid exam
 - [ ] Traffic Theory exam 
 - [ ]  Call Email - Morten
+- [ ] Visa appointment friday 
+- [ ] NB IOT setup 
+- [ ] UTM - Deconfliction 
+- [ ] Satcom Hardware
+- [ ] Mesh hardware 
 
+
+# Monday
+
+- [ ] Exam 
+
+# Tuesday
+
+
+
+
+# Wednesday 
+
+- [ ] Exam prep 
+
+
+# Thursday 
+
+- [ ] Exam 
+
+# Friday 
+
+- [ ] Vacation Berlin appointment
 
 ---
 
@@ -185,6 +211,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Backup
 - [ ]  ElabFTW
 - [ ] Uta Letter
+- [ ]  Uspace - Mahdi
 
 
 ---
