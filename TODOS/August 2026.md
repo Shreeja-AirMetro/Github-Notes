@@ -161,7 +161,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [x] Study Smartgridcomm
  - [ ] Plan Week
 
- - [ ] Another simcard
+ - [x] Another simcard
  - [ ] email Krishna
 
  - [ ] Meeting with Jiajing Krim 
