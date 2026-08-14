@@ -167,7 +167,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
  - [ ] Meeting with Jiajing Krim 
  - [ ] Bronchi 
- - [ ] Shangqing 
+ - [x] Shangqing 
  - [ ] Photo dm 
 
  - [ ] Visa docs - upload
