@@ -162,7 +162,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [ ] Plan Week
 
  - [x] Another simcard
- - [ ] email Krishna
+ - [x] email Krishna
 
  - [ ] Meeting with Jiajing Krim 
  - [ ] Bronchi 
