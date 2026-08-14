@@ -160,7 +160,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [ ] Study Traffic Theory 
  - [x] Study Smartgridcomm
  - [x] Plan Week
- - [ ] CNS cluster meeting
+ - [x] CNS cluster meeting
 
  - [x] Another simcard
  - [x] email Krishna
