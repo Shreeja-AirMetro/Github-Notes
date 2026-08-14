@@ -158,7 +158,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Friday
 
  - [ ] Study Traffic Theory 
- - [ ] Study Smartgridcomm
+ - [x] Study Smartgridcomm
  - [ ] Plan Week
 
  - [ ] Another simcard
