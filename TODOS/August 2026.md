@@ -147,8 +147,6 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 	- [x] MM prep
 - [ ] Study Traffic Theory 
 - [ ] Study smartgrid comm
-
-
 # Thursday
  - [x] Study Smartgrid comm
  - [ ] FNWF prep 
@@ -171,9 +169,6 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [ ] Photo dm 
 
  - [ ] Visa docs - upload
-
-
- 
 
 ---
 # Week 34

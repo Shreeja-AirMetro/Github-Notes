@@ -6,6 +6,7 @@
       {
         "id": "ed73d6e129e8d6aa",
         "type": "tabs",
+        "dimension": 43.43329886246122,
         "children": [
           {
             "id": "3554044b4782432d",
@@ -26,6 +27,7 @@
       {
         "id": "0eecc2b790c29f22",
         "type": "tabs",
+        "dimension": 56.56670113753878,
         "children": [
           {
             "id": "af4734de7824db7c",
@@ -205,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3554044b4782432d",
+  "active": "af4734de7824db7c",
   "lastOpenFiles": [
-    "TODOS/August 2026.md",
     "Paper-Writing/FNWF - UTM.md",
+    "TODOS/August 2026.md",
     "Lectures/Comnets 1.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/IEEE Access.md",
