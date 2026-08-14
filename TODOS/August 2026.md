@@ -159,6 +159,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
  - [ ] Study Traffic Theory 
  - [ ] Study Smartgridcomm
+ - [ ] Plan Week
 
  - [ ] Another simcard
  - [ ] email Krishna
