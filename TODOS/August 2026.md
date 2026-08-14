@@ -107,9 +107,7 @@ Open Tasks
 - [ ] Data collection
 - [ ] IEEE V1
 
-# FNWF 
-- [ ]  FNFW run - data  
-- [ ] FNWF coding
+<span style="color:rgb(255, 0, 0)"># FNWF  (cancel)<br>- [x]  FNFW run - data  <br>- [x] FNWF coding</span>
 
 # Hardware 
    - [ ] Mesh hardware
@@ -122,7 +120,6 @@ Open Tasks
 - [ ] AirMetro Student Meeting 
 - [ ] Mesh hardware
 - [ ] Satcom  IOt hardware
-- [ ] FNWF discussion 
 # Monday
 
 - [x] Comnets 1 exam prep and Exam
@@ -137,7 +134,7 @@ Open Tasks
 	- [ ] L7
 - [x] Mesh hardware - help from Krishna requested 
 - [x] Simcard
-- [ ] Sarah reply
+- [x] Sarah reply
 
 https://kb.doodlelabs.com/starlink-satcom-integration-guide
 https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHARED/%21qrj7yyGkC7ddf30uyg3kVGjq3YxZH9155dSoa1pzk/wXGsdYeksvloAM1W#/
@@ -164,8 +161,14 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
  - [ ] Study Traffic Theory 
  - [ ] Study Smartgridcomm
+
  - [ ] Another simcard
  - [ ] email Krishna
+
+ - [ ] Meeting with Jiajing Krim 
+ - [ ] Bronchi 
+ - [ ] Shangqing 
+ - [ ] Photo dm 
  
 
 ---
