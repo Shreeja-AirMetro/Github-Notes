@@ -165,10 +165,11 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
  - [x] Another simcard
  - [x] email Krishna
 
- - [ ] Meeting with Jiajing Krim 
+ - [x] Meeting with Jiajing Krim 
  - [ ] Bronchi 
  - [x] Shangqing 
  - [ ] Photo dm 
+ - [ ] Send diagram to Ntn team
 
  - [ ] Visa docs - upload
 
