@@ -190,10 +190,12 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 - [ ] Prep smartgrid comm
 - [ ] Exam 
+- [ ] TT - English - Talk to Rico
 
-- [ ] Study TT
+- [ ] Study TT 
+	- [ ] Ex 2-3
+	- [ ] Ex 4-5-6
 
-- [ ] Call email -Check Morten 
 - [ ] NB IOT setup
 	- [ ] Slide 2 version
 - [ ] Photo
@@ -218,6 +220,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 - [ ] Vacation Berlin appointment
 - [ ] Aeroconf paper Lit review
+- [ ] Call email -Check Morten 
 
 ---
 
