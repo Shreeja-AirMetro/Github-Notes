@@ -199,13 +199,11 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] NB IOT setup
 	- [ ] Slide 2 version
 - [ ] Photo
-
 # Tuesday
 
 - [ ] Satcom Contact Bianca and next steps 
 - [ ] Study TT
 - [ ] UTM-Deconfliction
-
 # Wednesday 
 
 - [ ] Exam prep 
@@ -238,9 +236,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 Parameters of bigraph model 
 
 four layers of risks 
-1. 
-2. communication  - no more, lost - 
-3. take off and landing 
+1. communication  - no more, lost - 
+2. take off and landing 
 
 - model recovery 
 Mission success rate and 
