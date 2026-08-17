@@ -187,8 +187,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 - [x] Prep smartgrid comm
 - [x] Exam 
-- [ ] NB IOT setup
-	- [ ] Slide 2 version
+- [x] NB IOT setup
+	- [x] Slide 2 version
 - [ ] Photo
 # Tuesday
 
