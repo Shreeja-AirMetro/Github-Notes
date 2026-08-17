@@ -188,14 +188,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Mesh hardware 
 # Monday
 
-- [ ] Prep smartgrid comm
-- [ ] Exam 
-- [ ] TT - English - Talk to Rico
-
-- [ ] Study TT 
-	- [ ] Ex 2-3
-	- [ ] Ex 4-5-6
-
+- [x] Prep smartgrid comm
+- [x] Exam 
 - [ ] NB IOT setup
 	- [ ] Slide 2 version
 - [ ] Photo
