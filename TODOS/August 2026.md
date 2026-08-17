@@ -174,9 +174,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 ---
 # Week 34
-- [ ] Smartgrid exam
-- [ ] Traffic Theory exam 
-
+- [x] Smartgrid exam
 - [ ]  Call Email - Morten
 - [ ] Visa appointment friday 
 
