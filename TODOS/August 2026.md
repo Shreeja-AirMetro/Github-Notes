@@ -157,7 +157,6 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 # Friday
 
- - [ ] Study Traffic Theory 
  - [x] Study Smartgridcomm
  - [x] Plan Week
  - [x] CNS cluster meeting
@@ -196,15 +195,11 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Tuesday
 
 - [ ] Satcom Contact Bianca and next steps 
-- [ ] Study TT
 - [ ] UTM-Deconfliction
 # Wednesday 
-
-- [ ] Exam prep 
 - [ ] Docs Prep
 # Thursday 
 
-- [ ] Exam 
 - [ ] Satcom Terminal
 - [ ] Plan and prep for next week 
 
