@@ -199,6 +199,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Docs Prep
 # Thursday 
 
+- [ ] Vacation Day
 - [ ] Satcom Terminal
 - [ ] Plan and prep for next week 
 
