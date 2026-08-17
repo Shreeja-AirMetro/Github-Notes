@@ -225,10 +225,8 @@ Parameters of bigraph model
 four layers of risks 
 1. communication  - no more, lost - 
 2. take off and landing 
-
 - model recovery 
 Mission success rate and 
-
 
 cube 100 - 10 m/s - 10 s
 
@@ -271,6 +269,4 @@ Break it into small parts
 
 NVDIA Tool  - Omniverse 
 
-
-
-
+---
