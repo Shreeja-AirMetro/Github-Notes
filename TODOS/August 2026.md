@@ -193,15 +193,18 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Tuesday
 
 - [x] Letter Uta
-- [ ] Satcom Contact Bianca and next steps 
-- [ ] UTM-Deconfliction
+- [ ] NB IOT 
+- [ ] Aeroconf
+- [ ] Thesis revisit and plan 
 # Wednesday 
 - [ ] Docs Prep
+- [ ]  Satcom Contact Bianca and next steps 
 # Thursday 
 
 - [ ] Vacation Day
 - [ ] Satcom Terminal
 - [ ] Plan and prep for next week 
+- [ ] UTM-Deconfliction
 
 # Friday 
 
@@ -273,4 +276,3 @@ NVDIA Tool  - Omniverse
 
 ---
 
-# Open task and carry forward 
