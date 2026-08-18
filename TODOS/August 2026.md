@@ -196,6 +196,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] NB IOT 
 - [ ] Aeroconf
 - [ ] Thesis revisit and plan 
+- [ ] 
 # Wednesday 
 - [ ] Docs Prep
 - [ ]  Satcom Contact Bianca and next steps 
