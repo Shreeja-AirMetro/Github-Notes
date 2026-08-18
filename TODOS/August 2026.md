@@ -200,7 +200,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Wednesday 
 - [ ] Docs Prep
 - [ ]  Satcom Contact Bianca and next steps 
-- [ ] Mathematical base for thesis
+- [ ] Mathematical base for thesis - goal 
 # Thursday 
 
 - [ ] Vacation Day
