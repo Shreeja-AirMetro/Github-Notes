@@ -189,10 +189,10 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [x] Exam 
 - [x] NB IOT setup
 	- [x] Slide 2 version
-- [ ] Photo
+- [x] Photo
 # Tuesday
 
-- [ ] Letter Uta
+- [x] Letter Uta
 - [ ] Satcom Contact Bianca and next steps 
 - [ ] UTM-Deconfliction
 # Wednesday 
@@ -214,7 +214,6 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 # Week 35
 - [ ] Backup
 - [ ]  ElabFTW
-- [ ] Uta Letter
 - [ ]  Uspace - Mahdi
 - [ ] Digital certificate
 
@@ -273,3 +272,5 @@ Break it into small parts
 NVDIA Tool  - Omniverse 
 
 ---
+
+# Open task and carry forward 
