@@ -199,7 +199,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 
 # Wednesday 
 - [ ]  Satcom Contact Bianca and next steps + The  klagenfurt bills
-- [ ] Terrence - issue 
+- [ ] Terrence - issue - 15
 - [ ] NB-IOT
 - [ ] Aeroconf
 - [ ] Docs - sabbu
