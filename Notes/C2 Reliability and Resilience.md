@@ -1055,3 +1055,10 @@ Good cross-domain hits. Here's the sweep, then concrete method recommendations p
 **Post-Corrective → Staged resynchronization state machine with mandatory signal-validity dwell time + sequence/timestamp-gated state acceptance (tiered MRC-style, not single binary restore).** Logic: this is your weakest-covered phase in existing UAV literature (mostly patent-level ad hoc failsafe logic), so borrowing the AV domain's **hierarchy-of-MRCs** concept is both novel and logically necessary — instantly returning full control authority the moment signal reappears risks accepting stale/flapping data exactly as your table's "avoid stale information" goal states. A dwell-time-gated re-arm, as already validated operationally in flight-controller failsafe design control is only returned when the RC signal has recovered for longer than the failsafe_recovery_delay period, combined with sequence-numbered/timestamped state vectors (borrowed from distributed-systems resynchronization practice) gives you a principled, testable method rather than an arbitrary timer. This is the phase where you have the most room to contribute a genuinely new formal model, since neither the ground-robot buffering patents nor consumer flight-stack failsafes formalize it as a resilience-curve "recovery" segment the way grid literature does.
 
 **One structural suggestion for the paper:** since the grid literature explicitly plots performance Φ(t) across all phases on one resilience curve/trapezoid, consider rendering your Operational Margin the same way — a single time-variant envelope figure with your three phases as labeled regions on it. That single figure would visually unify the whole contribution and is the kind of figure Aeroconf reviewers respond well to, since it's immediately legible against the grid-resilience convention they may already know.
+
+
+
+---
+
+# Aeroconf 
+
