@@ -1074,6 +1074,6 @@ Gaps and what methods we add
 
 ### Questions to Enrique
 
-1. RLP, RCP in SORA TErms 
+1. RLP, RCP in SORA Terms 
 2. latency percentiles, outage rates, coverage maps. A latency CDF cannot explain why one system degrades gradually and recovers quickly from one that fails abruptly and recovers slowly. However, these two scnearios are two different problems for a remote pilot.
 3. 
