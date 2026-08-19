@@ -201,7 +201,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ]  Satcom Contact Bianca and next steps + The  klagenfurt bills
 - [ ] Terrence - issue - 15
 - [ ] NB-IOT
-	- [ ] Figures and notes 
+	- [x] Figures and notes 
 	- [ ] Setup
 - [ ] Aeroconf
 	- [x] Read Enrique
