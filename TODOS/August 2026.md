@@ -202,6 +202,10 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Terrence - issue - 15
 - [ ] NB-IOT
 - [ ] Aeroconf
+	- [x] Read Enrique
+	- [ ] Methods brainstorm to allocate with the background
+	- [ ] Math foundation 
+	- [ ] Implementation
 - [x] Docs - sabbu
 # Thursday 
 
