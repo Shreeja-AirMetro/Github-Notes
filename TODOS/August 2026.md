@@ -202,7 +202,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Terrence - issue - 15
 - [ ] NB-IOT
 - [ ] Aeroconf
-- [ ] Docs - sabbu
+- [x] Docs - sabbu
 # Thursday 
 
 - [ ] Vacation Day
