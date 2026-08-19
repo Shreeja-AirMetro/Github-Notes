@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14738d5600c68e1f",
+  "active": "3e74f0cd1ee1e976",
   "lastOpenFiles": [
+    "TODOS/August 2026.md",
     "TODOS/June 2026.md",
     "TODOS/2026.md",
-    "TODOS/August 2026.md",
     "Notes/C2 Reliability and Resilience.md",
     "Screenshot from 2026-08-19 10-57-11.png",
     "AeroConf_2026.pdf",
