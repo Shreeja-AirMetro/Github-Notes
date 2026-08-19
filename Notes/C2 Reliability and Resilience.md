@@ -1069,9 +1069,11 @@ Good cross-domain hits. Here's the sweep, then concrete method recommendations p
 Gaps and what methods we add
 - Every parameter is a bound: a transaction either completes before its deadline or not, and continuity measures the success probability over a population of transactions. Second, these bounds are static. The framework budgets a nominal transaction ignoring how the system behaves when it exceeds this budget or how long recovery takes. 
 - We treat degradation as a time-varying condition, thus the dynamics become critical.
+-  Resilience as time dependent systems
 - 
 
 ### Questions to Enrique
 
 1. RLP, RCP in SORA TErms 
-2. 
+2. latency percentiles, outage rates, coverage maps. A latency CDF cannot explain why one system degrades gradually and recovers quickly from one that fails abruptly and recovers slowly. However, these two scnearios are two different problems for a remote pilot.
+3. 
