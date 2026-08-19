@@ -1067,3 +1067,8 @@ Good cross-domain hits. Here's the sweep, then concrete method recommendations p
 
 
 Gaps and what methods we add
+
+### Questions to Enrique
+
+1. RLP, RCP in SORA TErms 
+2. 
