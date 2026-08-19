@@ -1062,3 +1062,8 @@ Good cross-domain hits. Here's the sweep, then concrete method recommendations p
 
 # Aeroconf 
 
+![[AeroConf_2026.pdf]]
+
+
+
+Gaps and what methods we add
