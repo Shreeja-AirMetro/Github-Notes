@@ -1070,7 +1070,42 @@ Gaps and what methods we add
 - Every parameter is a bound: a transaction either completes before its deadline or not, and continuity measures the success probability over a population of transactions. Second, these bounds are static. The framework budgets a nominal transaction ignoring how the system behaves when it exceeds this budget or how long recovery takes. 
 - We treat degradation as a time-varying condition, thus the dynamics become critical.
 -  Resilience as time dependent systems
-- 
+- Reactive— Mechanisms to sustain a link under stress are
+mature. Key approaches include multi-connectivity [29],
+packet duplication [30], and handover outage mitigation [31].
+Three contributions closely relate to our work. Colpaert et
+al. demonstrate multi-operator connectivity for drone deliv-
+ery [32]. Salehi et al. analyse reliability and delay across a
+3D satellite/HAPS/cellular network using multi-connectivity
+and QoS-aware path selection [33]. Topologically, they use
+the same heterogeneous suite we consider here. Sridharan
+et al. propose a reliable multi-link framework for RPAS C2
+communication and quantify 5G and LEO performance [34].
+Other studies are on multipath transport over cellular and
+LEO [35], latency-bounded multipath protocols [36], and
+erasure coding for ATC communication [37], [38].
+part, there is prior work in anticipating the C2 link degrada-
+tion. Yang et al. outline the telecom perspective on drone
+onnectivity [39]. For mobility management, researchers
+compare model-based and learning-based approaches [40],
+apply model-predictive control to predict handovers [41], and
+examine vertical handovers in non-terrestrial networks [42].
+For prediction specifically, L´opez et al. use measurements to
+estimate and predict UAV service outages [43], [44].
+Post-corrective—Regulations dictate the response ot a LC2L:
+the aircraft must hold, return to a point, or terminate the flight.
+But they ignore the return path. There is no specification in
+the literature regarding a maximum time to re-establish the
+link. There is no criterion distinguishing a link that carries
+packets to resume normal control. There is no criteria to
+distinguish a barely functioning link from one trustworthy
+enough for normal control, and no procedure for reconciling
+vehicle state and command queue after an outage. Finally,
+there are no continuity or availability requirements specific to
+the recovery interval.
+- literature regarding a maximum time to re-establish the
+link. There is no criterion distinguishing a link that carries
+packets to resume normal control. 
 
 ### Questions to Enrique
 
