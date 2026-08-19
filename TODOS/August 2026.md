@@ -201,6 +201,8 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ]  Satcom Contact Bianca and next steps + The  klagenfurt bills
 - [ ] Terrence - issue - 15
 - [ ] NB-IOT
+	- [ ] Figures and notes 
+	- [ ] Setup
 - [ ] Aeroconf
 	- [x] Read Enrique
 	- [ ] Methods brainstorm to allocate with the background
@@ -214,6 +216,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Satcom Terminal
 - [ ] Plan and prep for next week 
 - [ ] UTM-Deconfliction
+- [ ] vaccine
 
 # Friday 
 
