@@ -217,6 +217,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Plan and prep for next week 
 - [ ] UTM-Deconfliction
 - [ ] vaccine
+- [ ] Paper review
 
 # Friday 
 
