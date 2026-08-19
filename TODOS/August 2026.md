@@ -195,15 +195,16 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [x] Letter Uta
 - [ ] NB IOT 
 - [ ] Aeroconf
-- [ ] Thesis revisit and plan 
+- [x] Thesis revisit and plan 
 
 # Wednesday 
-- [ ] Docs Prep
-- [ ]  Satcom Contact Bianca and next steps 
-- [ ] Mathematical base for thesis - goal 
+- [ ]  Satcom Contact Bianca and next steps + The  klagenfurt bills
+- [ ] Terrence - issue 
+- [ ] 
 # Thursday 
 
 - [ ] Vacation Day
+- [ ] Docs Prep
 - [ ] Satcom Terminal
 - [ ] Plan and prep for next week 
 - [ ] UTM-Deconfliction
@@ -213,6 +214,7 @@ https://doodlelabs.filecloudonline.com/ui/core/index.html?mode=single&path=/SHAR
 - [ ] Vacation Berlin appointment
 - [ ] Aeroconf paper Lit review
 - [ ] Call email -Check Morten 
+- [ ] Mathematical base for thesis - goal 
 
 ---
 
