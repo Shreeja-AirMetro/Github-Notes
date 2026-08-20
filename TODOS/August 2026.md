@@ -295,26 +295,36 @@ NVDIA Tool  - Omniverse
 
 ### Important and self 
 
-1. NBIOT Hardware 
-	1. setup in computer 
-	2. VPN 
-	3. Telemetry data sending 
-	4. whole run trial 
-2. Aeroconf 
+1. Aeroconf 
 	1. Read state of art 
 	2. gaps - how to solve
 	3. Method and Math model for reactive, proactive postrecovery
 	4. trapezoid and operational margin setup 
 	5. implementation 
 	6. Start result optimizing - data 
-3. Simulator 
+2. Simulator 
 	1. Uplink Setup and do 
 	2. Tests , Data collection 
-4. Mesh hardware 
+3. Mesh hardware 
 	1. Meeting Abraham 
 	2. power 
 	3. data 
 	4. pixhawk
 	5. print - case 
-5. Satcom hardware 
-	1. 
+4. Satcom hardware 
+	1. Markus email 
+	2. Ask help initial setup 
+	3. Drone placement 
+	4. Test 
+5. Thesis 
+	1. Organize info - Introduction 
+	2. Background Part 1,2,3,4,5 - Then do each of them in parts
+
+# Others - collaboration 
+
+1. NBIOT Hardware 
+	1. setup in computer 
+	2. VPN 
+	3. Telemetry data sending 
+	4. whole run trial 
+2. 
