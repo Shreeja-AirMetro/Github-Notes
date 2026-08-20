@@ -334,3 +334,4 @@ NVDIA Tool  - Omniverse
 3. Email - Ming 
 4. ElabFtw - Comm terminal 
 5. Simcard - another 
+6. Email - 
