@@ -327,4 +327,10 @@ NVDIA Tool  - Omniverse
 	2. VPN 
 	3. Telemetry data sending 
 	4. whole run trial 
-2. 
+2. Multipath - Hansini 
+	1. SoA reading 
+	2. Chapters - Math setup 
+	3. Prep for meeting Monday 
+3. Email - Ming 
+4. ElabFtw - Comm terminal 
+5. Simcard - another 
