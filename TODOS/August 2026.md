@@ -291,3 +291,16 @@ NVDIA Tool  - Omniverse
 
 ---
 
+# open tasks 
+
+### Important and self 
+
+1. NBIOT Hardware 
+	1. setup in computer 
+	2. VPN 
+	3. Telemetry data sending 
+	4. whole run trial 
+2. Aeroconf 
+	1. Read state of art 
+	2. 
+	3. Method and Math model for 
