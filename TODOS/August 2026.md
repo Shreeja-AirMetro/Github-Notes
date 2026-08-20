@@ -302,5 +302,19 @@ NVDIA Tool  - Omniverse
 	4. whole run trial 
 2. Aeroconf 
 	1. Read state of art 
-	2. 
-	3. Method and Math model for 
+	2. gaps - how to solve
+	3. Method and Math model for reactive, proactive postrecovery
+	4. trapezoid and operational margin setup 
+	5. implementation 
+	6. Start result optimizing - data 
+3. Simulator 
+	1. Uplink Setup and do 
+	2. Tests , Data collection 
+4. Mesh hardware 
+	1. Meeting Abraham 
+	2. power 
+	3. data 
+	4. pixhawk
+	5. print - case 
+5. Satcom hardware 
+	1. 
