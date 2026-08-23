@@ -335,3 +335,28 @@ NVDIA Tool  - Omniverse
 4. ElabFtw - Comm terminal 
 5. Simcard - another 
 6. Email - abraham, roshan, terrence error 
+
+
+---
+
+# Saturday
+
+1. Email - abraham, roshan, terrence error 
+2. Markus email
+3. Aeroconf 
+	1. Read state of art 
+	2. gaps - how to solve
+	3. Method and Math model for reactive, proactive post recovery
+	4. trapezoid and operational margin setup 
+	5. implementation 
+	6. Start result optimizing - data 
+
+# Sunday 
+
+1. Multipath - Hansini 
+	1. SoA reading 
+	2. Chapters - Math setup 
+	3. Prep for meeting Monday 
+2. NBIOT Hardware 
+	1. setup in computer 
+	2. VPN 
