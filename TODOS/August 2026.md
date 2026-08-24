@@ -341,26 +341,6 @@ NVDIA Tool  - Omniverse
 
 
 
-1. Email - abraham, roshan, terrence error 
-2. Markus email
-3. Aeroconf 
-	1. Read state of art 
-	2. gaps - how to solve
-	3. Method and Math model for reactive, proactive post recovery
-	4. trapezoid and operational margin setup 
-	5. implementation 
-	6. Start result optimizing - data 
-
-
-4. Multipath - Hansini 
-	1. SoA reading 
-	2. Chapters - Math setup 
-	3. Prep for meeting Monday 
-5. NBIOT Hardware 
-	1. setup in computer 
-	2. VPN 
-
-
 # Monday 
 
 1. Email - abraham, roshan, terrence error 
@@ -370,5 +350,24 @@ NVDIA Tool  - Omniverse
 	2. Chapters - Math setup 
 	3. Prep for meeting Monday 
 4. Meeting 
-5. Attend Defense
-6. 
+5. Simcard another
+6. Attend Defense
+7. 5. NB-IOT Hardware 
+	1. setup in computer 
+	2. VPN 
+	3. Telemetry
+
+
+# Tuesday 
+
+1. ElabFTW meeting
+2.  Aeroconf 
+	1. Read state of art 
+	2. gaps - how to solve
+	3. Method and Math model for reactive, proactive post recovery
+	4. trapezoid and operational margin setup 
+	5. implementation 
+	6. Start result optimizing - data 
+3. Enrique Meeting 
+4. CeTi event
+5. Ming email
