@@ -4,39 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "37b2ab6b3fee8e23",
-        "type": "tabs",
+        "id": "185bb35b12e3da73",
+        "type": "split",
         "children": [
           {
-            "id": "a32999bdba885b49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C2 Reliability and Resilience.md",
-                "mode": "source",
-                "source": false
+            "id": "37b2ab6b3fee8e23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "14738d5600c68e1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Paper-Writing/IEEE Access.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "IEEE Access"
+                }
               },
-              "icon": "lucide-file",
-              "title": "C2 Reliability and Resilience"
-            }
+              {
+                "id": "56474e94815ab89f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODOS/August 2026.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "August 2026"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "14738d5600c68e1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Multipath.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multipath"
-            }
+            "id": "bb4f0313c341fed8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "86caccdd1666107c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Multipath.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Multipath"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -200,13 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14738d5600c68e1f",
+  "active": "86caccdd1666107c",
   "lastOpenFiles": [
     "TODOS/August 2026.md",
     "Notes/Multipath.md",
+    "Paper-Writing/IEEE Access.md",
+    "Notes/C2 Reliability and Resilience.md",
     "TODOS/June 2026.md",
     "TODOS/2026.md",
-    "Notes/C2 Reliability and Resilience.md",
     "Screenshot from 2026-08-19 10-57-11.png",
     "AeroConf_2026.pdf",
     "TODOS/2027.md",
@@ -215,7 +243,6 @@
     "Paper-Writing/FNWF - UTM.md",
     "Lectures/Comnets 1.md",
     "Paper-Writing/NPJ.md",
-    "Paper-Writing/IEEE Access.md",
     "Lectures/Comnet2.md",
     "TODOS/July 2026.md",
     "Notes/Drones.md",

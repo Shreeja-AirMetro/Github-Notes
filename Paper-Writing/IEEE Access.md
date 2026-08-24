@@ -6,7 +6,7 @@ Published versions
 Unpublished version 
 - Veins-leon 
 - HAP 
-
+- To read - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10283628&tag=1
 
 # Paper structure 
 
