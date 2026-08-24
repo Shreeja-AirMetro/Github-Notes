@@ -359,24 +359,27 @@ NVDIA Tool  - Omniverse
 	1. setup in computer 
 	2. VPN 
 	3. Telemetry
-9. Prep CeTI meeting
 
 
 # Tuesday 
 
 1. ElabFTW meeting
-2.  Aeroconf 
+2. Prep CeTI meeting
+3.  Aeroconf 
 	1. Read state of art 
 	2. gaps - how to solve
 	3. Method and Math model for reactive, proactive post recovery
 	4. trapezoid and operational margin setup 
 	5. implementation 
 	6. Start result optimizing - data 
-3. Enrique Meeting 
+
 4. CeTi event
 5. Ming email
 
 
 # Wednesday
 
-7. Simcard another
+1. Simcard another
+2. Enrique meeting
+3. Roshan meeting 
+	1. Prep
