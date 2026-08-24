@@ -351,7 +351,7 @@ NVDIA Tool  - Omniverse
 4.  ~~Markus email~~
 5.  Multipath - Hansini 
 	1. ~~SoA reading~~ 
-	2. Prep for meeting Monday 
+	2. ~~Prep for meeting Monday~~ 
 6. Meeting 
 
 7. Attend Defense
