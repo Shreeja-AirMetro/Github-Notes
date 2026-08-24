@@ -376,7 +376,6 @@ NVDIA Tool  - Omniverse
 4. CeTi event
 5. Ming email
 
-
 # Wednesday
 
 1. Simcard another
