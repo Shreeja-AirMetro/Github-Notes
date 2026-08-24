@@ -347,7 +347,7 @@ NVDIA Tool  - Omniverse
 
 1. ~~Email - abraham,~~ 
 2. ~~roshan,~~ 
-3. terrence error 
+3. ~~terrence error~~ 
 4.  ~~Markus email~~
 5.  Multipath - Hansini 
 	1. ~~SoA reading~~ 
