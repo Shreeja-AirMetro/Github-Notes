@@ -35,3 +35,14 @@ https://arxiv.org/html/2604.27640  - # Multi-Connectivity for UAVs: A Measuremen
 
 # Gaps 
 
+
+| gap                                                                                                       | C2 - importantce                                                                     | Idea                                       |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| **Latency-unaware scheduling** — default schedulers (lowest-RTT,throughput/fairness, not worst-case delay | A missed or delayed control packet can mean loss of link authority over the aircraft | Deadline-aware or risk-weighted schedulers |
+| **RTT heterogeneity across path types** - reordering and receiver-side buffering                          | breaks the "deliver-in-order"                                                        | Traffic Seggregation                       |
+| In-order delivery                                                                                         | Directly increases C2 latency                                                        | MPQUIC vs MPTCP                            |
+| Overhead - aging of info                                                                                  | Traditional Multipath                                                                | Control traffic priority - Data rate       |
+| Energy constraints                                                                                        | Battery-constrained UAV                                                              | Adaptive flows                             |
+
+Multipath 
+1. Priotity link 
