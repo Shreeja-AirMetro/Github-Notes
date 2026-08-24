@@ -319,6 +319,8 @@ NVDIA Tool  - Omniverse
 5. Thesis 
 	1. Organize info - Introduction 
 	2. Background Part 1,2,3,4,5 - Then do each of them in parts
+	3.  Chapters - Math setup 
+
 
 # Others - collaboration 
 
@@ -346,19 +348,18 @@ NVDIA Tool  - Omniverse
 1. ~~Email - abraham,~~ 
 2. ~~roshan,~~ 
 3. terrence error 
-4.  Markus email
+4.  ~~Markus email~~
 5.  Multipath - Hansini 
-	1. SoA reading 
-	2. Chapters - Math setup 
-	3. Prep for meeting Monday 
+	1. ~~SoA reading~~ 
+	2. Prep for meeting Monday 
 6. Meeting 
-7. Simcard another
-8. Attend Defense
-9. 5. NB-IOT Hardware 
+
+7. Attend Defense
+8. 5. NB-IOT Hardware 
 	1. setup in computer 
 	2. VPN 
 	3. Telemetry
-10. Prep CeTI meeting
+9. Prep CeTI meeting
 
 
 # Tuesday 
@@ -374,3 +375,8 @@ NVDIA Tool  - Omniverse
 3. Enrique Meeting 
 4. CeTi event
 5. Ming email
+
+
+# Wednesday
+
+7. Simcard another
