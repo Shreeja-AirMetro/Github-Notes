@@ -394,3 +394,6 @@ NVDIA Tool  - Omniverse
 # Vincent defense 
 
 Resilient communication, computation task Distribution and scaling under uncertainity 
+
+
+assymptotically optimum
