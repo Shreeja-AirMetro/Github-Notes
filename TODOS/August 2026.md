@@ -396,4 +396,4 @@ NVDIA Tool  - Omniverse
 Resilient communication, computation task Distribution and scaling under uncertainity 
 
 
-assymptotically optimum
+assymptotical optimum
