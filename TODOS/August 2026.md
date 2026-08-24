@@ -343,19 +343,22 @@ NVDIA Tool  - Omniverse
 
 # Monday 
 
-1. Email - abraham, roshan, terrence error 
-2.  Markus email
-3.  Multipath - Hansini 
+1. Email - abraham, 
+2. ~~roshan,~~ 
+3. terrence error 
+4.  Markus email
+5.  Multipath - Hansini 
 	1. SoA reading 
 	2. Chapters - Math setup 
 	3. Prep for meeting Monday 
-4. Meeting 
-5. Simcard another
-6. Attend Defense
-7. 5. NB-IOT Hardware 
+6. Meeting 
+7. Simcard another
+8. Attend Defense
+9. 5. NB-IOT Hardware 
 	1. setup in computer 
 	2. VPN 
 	3. Telemetry
+10. Prep CeTI meeting
 
 
 # Tuesday 

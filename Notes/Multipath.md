@@ -18,6 +18,8 @@ Mobility-Aware Multipath Communication for Unmanned Aerial Surveillance Systems
 - Fluid models of packet flows - fluid model of MPTCP's rate-control dynamics
 - Tool - MPTCP trace
 - A Lyapunov function is ==a scalar "energy-like" function V(x) used in control theory and dynamical systems to prove the stability of an equilibrium point without having to solve the system's differential equations explicitly==
+Reliability and Delay Analysis of 3-Dimensional Networks With Multi-Connectivity: Satellite, HAPs, and Cellular Communications
+https://arxiv.org/html/2604.27640  - # Multi-Connectivity for UAVs: A Measurement Study of Integrating Cellular, Aerial Mesh, and LEO Satellite Links
 
 # Core explored ideas 
 
