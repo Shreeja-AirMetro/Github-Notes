@@ -353,8 +353,7 @@ NVDIA Tool  - Omniverse
 	1. ~~SoA reading~~ 
 	2. ~~Prep for meeting Monday~~ 
 6. ~~Meeting~~ 
-
-7. Attend Defense
+7. ~~Attend Defense~~
 8.  NB-IOT Hardware 
 	1. ~~setup in computer~~ 
 	2. VPN 
