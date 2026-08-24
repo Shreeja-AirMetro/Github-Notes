@@ -352,7 +352,7 @@ NVDIA Tool  - Omniverse
 5.  Multipath - Hansini 
 	1. ~~SoA reading~~ 
 	2. ~~Prep for meeting Monday~~ 
-6. Meeting 
+6. ~~Meeting~~ 
 
 7. Attend Defense
 8.  NB-IOT Hardware 
