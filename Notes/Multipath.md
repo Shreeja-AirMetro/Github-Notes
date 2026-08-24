@@ -45,4 +45,6 @@ https://arxiv.org/html/2604.27640  - # Multi-Connectivity for UAVs: A Measuremen
 | Energy constraints                                                                                        | Battery-constrained UAV                                                              | Adaptive flows                             |
 
 Multipath 
-1. Priotity link 
+1. Priority link 
+2. Standby link 
+3. Duplicate link 

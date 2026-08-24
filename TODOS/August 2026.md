@@ -343,7 +343,7 @@ NVDIA Tool  - Omniverse
 
 # Monday 
 
-1. Email - abraham, 
+1. ~~Email - abraham,~~ 
 2. ~~roshan,~~ 
 3. terrence error 
 4.  Markus email
