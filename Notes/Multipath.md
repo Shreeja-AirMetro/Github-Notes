@@ -20,6 +20,11 @@ Mobility-Aware Multipath Communication for Unmanned Aerial Surveillance Systems
 - A Lyapunov function is ==a scalar "energy-like" function V(x) used in control theory and dynamical systems to prove the stability of an equilibrium point without having to solve the system's differential equations explicitly==
 Reliability and Delay Analysis of 3-Dimensional Networks With Multi-Connectivity: Satellite, HAPs, and Cellular Communications
 https://arxiv.org/html/2604.27640  - # Multi-Connectivity for UAVs: A Measurement Study of Integrating Cellular, Aerial Mesh, and LEO Satellite Links
+	- However, most prior work on multipath transport has focused on throughput, fairness, and aggregate capacity utilization, while real-time requirements are less explored.
+	- Many UAV applications are latency-sensitive and require delay bounds to be satisfied continuously to support safe and effective operation. 
+	- Our measurements reveal two practical limitations. First, when the available links do not provide sufficient capacity for the offered load, multipath transport can lead to pronounced sender-side buffering. Second, when the aggregated paths exhibit large round-trip time (RTT) heterogeneity, strict in-order delivery amplifies reordering, causing substantial receiver-side buffering and bursty packet delivery. As a result, latency-sensitive traffic can violate delay constraints even when aggregate capacity is sufficient.
+	- Connectivity continuity captures the ability to maintain an end-to-end communication path despite link failures. Service continuity captures the ability to sustain application operation by delivering data within the required delay bounds under the offered load, which implicitly depends on both latency and available capacity.
+	
 
 # Core explored ideas 
 
