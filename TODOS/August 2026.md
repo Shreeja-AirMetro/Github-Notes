@@ -355,7 +355,7 @@ NVDIA Tool  - Omniverse
 6. Meeting 
 
 7. Attend Defense
-8. 5. NB-IOT Hardware 
+8.  NB-IOT Hardware 
 	1. setup in computer 
 	2. VPN 
 	3. Telemetry
