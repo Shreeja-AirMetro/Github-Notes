@@ -339,7 +339,7 @@ NVDIA Tool  - Omniverse
 
 ---
 
-# Saturday
+
 
 1. Email - abraham, roshan, terrence error 
 2. Markus email
@@ -351,12 +351,24 @@ NVDIA Tool  - Omniverse
 	5. implementation 
 	6. Start result optimizing - data 
 
-# Sunday 
 
-1. Multipath - Hansini 
+4. Multipath - Hansini 
 	1. SoA reading 
 	2. Chapters - Math setup 
 	3. Prep for meeting Monday 
-2. NBIOT Hardware 
+5. NBIOT Hardware 
 	1. setup in computer 
 	2. VPN 
+
+
+# Monday 
+
+1. Email - abraham, roshan, terrence error 
+2.  Markus email
+3.  Multipath - Hansini 
+	1. SoA reading 
+	2. Chapters - Math setup 
+	3. Prep for meeting Monday 
+4. Meeting 
+5. Attend Defense
+6. 
