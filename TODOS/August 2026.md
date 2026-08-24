@@ -380,3 +380,18 @@ NVDIA Tool  - Omniverse
 2. Enrique meeting
 3. Roshan meeting 
 	1. Prep
+
+
+
+
+
+
+
+
+
+
+----
+
+# Vincent defense 
+
+Resilient communication, computation task Distribution and scaling under uncertainity 
