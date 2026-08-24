@@ -360,7 +360,6 @@ NVDIA Tool  - Omniverse
 	2. VPN 
 	3. Telemetry
 
-
 # Tuesday 
 
 1. ElabFTW meeting
@@ -372,7 +371,6 @@ NVDIA Tool  - Omniverse
 	4. trapezoid and operational margin setup 
 	5. implementation 
 	6. Start result optimizing - data 
-
 4. CeTi event
 5. Ming email
 
