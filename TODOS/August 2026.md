@@ -358,11 +358,11 @@ NVDIA Tool  - Omniverse
 	1. ~~setup in computer~~ 
 	2. VPN 
 	3. Telemetry
-
+9. Prep CeTI meeting
 # Tuesday 
 
 1. ElabFTW meeting
-2. Prep CeTI meeting
+2. Jiajing Setup 
 3.  Aeroconf 
 	1. Read state of art 
 	2. gaps - how to solve
