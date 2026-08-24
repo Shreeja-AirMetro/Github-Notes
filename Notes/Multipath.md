@@ -15,4 +15,10 @@ Mobility-Aware Multipath Communication for Unmanned Aerial Surveillance Systems
 - Multipath TCP has the potential to exploit heterogeneous wireless paths and achieve robust bandwidth by controlling the dynamics of the convoy of drones.
 - heterogenous channel 
 - Mobility aware multipath 
-- Fluid models of packet flows
+- Fluid models of packet flows - fluid model of MPTCP's rate-control dynamics
+- Tool - MPTCP trace
+
+# Core explored ideas 
+
+- Segregation-based schedulers address this directly: the Primary-Path-only Scheduler (PPoS) work adds socket APIs and a kernel modification so an application can mark one subflow as primary for a given traffic class (e.g., UAV control messages) while other paths act as backup, and the same group's follow-up shows this implemented and evaluated in a Linux-kernel MPTCP scheduler
+- MPTCP with a lowest-RTT scheduler and found that aggregation preserves end-to-end connectivity under severe link outages, but large RTT heterogeneity between paths amplifies packet reordering, causing substantial receiver-side buffering and bursty delivery — and explicitly flags that most prior multipath-transport work has optimized for throughput, fairness, and aggregate capacity, while real-time, delay-bounded requirements typical of UAV control and telemetry remain comparatively unexplored.
