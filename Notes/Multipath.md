@@ -13,4 +13,6 @@
 Mobility-Aware Multipath Communication for Unmanned Aerial Surveillance Systems
 
 - Multipath TCP has the potential to exploit heterogeneous wireless paths and achieve robust bandwidth by controlling the dynamics of the convoy of drones.
+- heterogenous channel 
+- Mobility aware multipath 
 - 
