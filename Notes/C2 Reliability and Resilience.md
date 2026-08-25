@@ -1137,8 +1137,14 @@ the metric corresponds to the application layer (OSI
 protocol stack) and does not impose direct requirements on common quality of service parameters
 such as packet loss ratio or bit error rate, parameters associated with other layers. In fact, the
 definitions of the parameters are the same as for the RCP: transaction time, continuity, integrity
-and availability. The RCTP parameters indirectly impose requirements on the quality of the linksused for the communication. For example, link parameters such as latency or packet loss ratio will
-have an impact on the transaction time.
+and availability. The RCTP parameters indirectly impose requirements on the quality of the links used for the communication. For example, link parameters such as latency or packet loss ratio will have an impact on the transaction time.
+
+The transaction time, continuity and integrity ACTP calculation should be done separately for each group of transactions that share the same RCTP values, as the system might treat their traffic differently (e.g. packet prioritization). Then, a separate analysis is also required for each period of the flight when the communication means used or its performance change. For example, if the first hour of a flight the bit rate of the air-to-ground link used is 64 kbps and the second hour the same link is used but the bit rate lowered to 32 kbps, the calculation should be separated for each hour.
+The parameter that will be used to link all these measurements is the availability, since it is a
+representation on how often the application can be initiated while meeting the other requirements.
+
+Communication Performance Managers (CPM). Knowing the requirements (RCTP) of the
+transactions, the CPM would use erasure coding at network layer and distribute the coded packets over the multiple networks between them (Figure 4) so that the ACTP are equal or better than the RCTP. Erasure codes are proposed at network layer because it does not force the CPM to have a detailed knowledge of all the application protocols used by the end systems.
 
 
 
