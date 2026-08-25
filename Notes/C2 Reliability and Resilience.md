@@ -1123,6 +1123,26 @@ unknown to the radio layer.
 
 # Read main papers - downloaded
 
+Required Communication Technical Performance, the application layer QoS metric for aeronautical data communications
+- use of erasure codes over multiple links to meet the RCP
+at the cost of consuming additional bandwidth.
+- The RCTP parameters are the metric proposed by ICAO to evaluate the Quality of
+Service (QoS) at application layer of aeronautical data communications.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
