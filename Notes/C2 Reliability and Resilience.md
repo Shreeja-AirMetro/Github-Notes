@@ -1179,3 +1179,6 @@ performance and over optimization is a trap
 https://www.philonomist.com/en/interview/robust-system-always-slightly-suboptimal
 
 A robust system is always slightly suboptimal
+
+
+rebound effect
