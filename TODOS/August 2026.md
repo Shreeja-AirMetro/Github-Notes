@@ -394,3 +394,16 @@ Resilient communication, computation task Distribution and scaling under uncerta
 
 
 assymptotical optimum
+
+
+---
+
+# Meeting with Janna 
+1. ENtry of experimnets 
+2. datamanagement - elab - setup - intranet
+
+Resources 
+	Hardware
+	Software 
+	Material 
+	
