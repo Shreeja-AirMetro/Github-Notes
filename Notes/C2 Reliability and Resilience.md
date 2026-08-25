@@ -1119,3 +1119,12 @@ unknown to the radio layer.
 1. RLP, RCP in SORA Terms 
 2. latency percentiles, outage rates, coverage maps. A latency CDF cannot explain why one system degrades gradually and recovers quickly from one that fails abruptly and recovers slowly. However, these two scnearios are two different problems for a remote pilot.
 3. ![[Screenshot from 2026-08-19 10-57-11.png]]
+
+
+# Read main papers - downloaded
+
+
+---
+
+Map the gaps and research objective 
+Res obj to questions to implementation 
