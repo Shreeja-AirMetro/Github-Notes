@@ -359,7 +359,7 @@ NVDIA Tool  - Omniverse
 9. ~~Prep CeTI meeting~~
 # Tuesday 
 
-1. ElabFTW meeting
+1. ~~ElabFTW meeting~~
 2. Jiajing Setup 
 3.  Aeroconf 
 	1. Read state of art 
@@ -368,6 +368,7 @@ NVDIA Tool  - Omniverse
 	4. trapezoid and operational margin setup 
 	5. implementation 
 	6. Start result optimizing - data 
+
 4. CeTi event
 
 # Wednesday
@@ -376,7 +377,7 @@ NVDIA Tool  - Omniverse
 2. Enrique meeting
 3. Roshan meeting 
 	1. Prep
-
+4. ELAbFTW review and tasks 
 
 # Thursday 
 
