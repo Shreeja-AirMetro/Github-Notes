@@ -1147,6 +1147,12 @@ Communication Performance Managers (CPM). Knowing the requirements (RCTP) of the
 transactions, the CPM would use erasure coding at network layer and distribute the coded packets over the multiple networks between them (Figure 4) so that the ACTP are equal or better than the RCTP. Erasure codes are proposed at network layer because it does not force the CPM to have a detailed knowledge of all the application protocols used by the end systems.
 
 
+Communications operating concept and requirements for the future radio system”,
+Eurocontrol and FAA. COCR, 2007, 2nd edition.
+5
+“Manual on Remotely Piloted Aircraft Systems (RPAS)”, ICAO, Montréal, Canada. Doc
+10019 AN/507, 2015, 1st edition.
+
 
 
 
