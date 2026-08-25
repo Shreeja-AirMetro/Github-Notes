@@ -378,7 +378,9 @@ NVDIA Tool  - Omniverse
 	1. Prep
 
 
+# Thursday 
 
+elabftw
 
 
 
