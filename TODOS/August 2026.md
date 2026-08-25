@@ -341,8 +341,6 @@ NVDIA Tool  - Omniverse
 
 ---
 
-
-
 # Monday 
 
 1. ~~Email - abraham,~~ 
@@ -371,7 +369,6 @@ NVDIA Tool  - Omniverse
 	5. implementation 
 	6. Start result optimizing - data 
 4. CeTi event
-5. Ming email
 
 # Wednesday
 
