@@ -1165,4 +1165,10 @@ Eurocontrol and FAA. COCR, 2007, 2nd edition.
 ---
 
 Map the gaps and research objective 
+
+What are the resilience  - Sphere
+
+Performance over rated to robustness and resilence 
+
+
 Res obj to questions to implementation 
