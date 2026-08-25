@@ -358,7 +358,7 @@ NVDIA Tool  - Omniverse
 	1. ~~setup in computer~~ 
 	2. VPN 
 	3. Telemetry
-9. Prep CeTI meeting
+9. ~~Prep CeTI meeting~~
 # Tuesday 
 
 1. ElabFTW meeting
