@@ -1132,8 +1132,13 @@ Service (QoS) at application layer of aeronautical data communications.
 concept and requirements for the future radio system
 
 
-
-
+![[Screenshot from 2026-08-25 10-41-24.png]]
+the metric corresponds to the application layer (OSI
+protocol stack) and does not impose direct requirements on common quality of service parameters
+such as packet loss ratio or bit error rate, parameters associated with other layers. In fact, the
+definitions of the parameters are the same as for the RCP: transaction time, continuity, integrity
+and availability. The RCTP parameters indirectly impose requirements on the quality of the linksused for the communication. For example, link parameters such as latency or packet loss ratio will
+have an impact on the transaction time.
 
 
 
