@@ -1128,7 +1128,8 @@ Required Communication Technical Performance, the application layer QoS metric f
 at the cost of consuming additional bandwidth.
 - The RCTP parameters are the metric proposed by ICAO to evaluate the Quality of
 Service (QoS) at application layer of aeronautical data communications.
-- 
+- “Communications operating
+concept and requirements for the future radio system
 
 
 
