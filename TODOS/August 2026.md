@@ -422,3 +422,6 @@ Parent and child category
 basic and comprehensive 
 
 basic - less work - data dump 
+
+
+create one for series
