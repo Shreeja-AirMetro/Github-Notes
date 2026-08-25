@@ -1168,7 +1168,14 @@ Map the gaps and research objective
 
 What are the resilience  - Sphere
 
-Performance over rated to robustness and resilence 
-
+Performance over rated to robustness and resilience 
+https://www.youtube.com/watch?v=Kzzr15cEg3o&t=1790s
 
 Res obj to questions to implementation 
+
+Resilience is the capacity to reorganize in response to changing conditions, whereas robustness is the capacity to absorb perturbations while preserving existing structure and function. Both are necessary.
+
+performance and over optimization is a trap
+https://www.philonomist.com/en/interview/robust-system-always-slightly-suboptimal
+
+A robust system is always slightly suboptimal
