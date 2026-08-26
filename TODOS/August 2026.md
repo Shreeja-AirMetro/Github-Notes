@@ -381,7 +381,8 @@ NVDIA Tool  - Omniverse
 4. Enrique meeting
 5. Roshan meeting 
 	1. Prep
-6. Markus r
+6. Markus reply 
+7. Terrence message
 
 # Thursday 
 
