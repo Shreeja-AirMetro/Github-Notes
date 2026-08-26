@@ -382,12 +382,13 @@ NVDIA Tool  - Omniverse
 	1. ~~Prep~~
 5. Markus reply 
 6. ~~Terrence message~~
+7.  ~~Simcard another~~
 
 # Thursday 
 
 elabftw
 4. ELAbFTW review and tasks 
- Simcard another
+
 
 
 
