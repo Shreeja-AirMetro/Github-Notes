@@ -372,12 +372,12 @@ NVDIA Tool  - Omniverse
 
 # Wednesday
 
-1. Aeroconf - prep
+1. ~~Aeroconf - prep~~
 2. NBIOT 
 	1. Computer setup 
 	2. ToolChain 
 	3. Jiajing python- script
-3. Enrique meeting
+3. ~~Enrique meeting~~
 4. ~~Roshan meeting~~ 
 	1. ~~Prep~~
 5. Markus reply 
