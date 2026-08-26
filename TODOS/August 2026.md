@@ -442,3 +442,8 @@ duplicate
 Review - Meta data
 
 ---
+
+# Roshan
+
+1. RIS functionality - in new sionna - verify 
+2. path
