@@ -382,7 +382,7 @@ NVDIA Tool  - Omniverse
 5. Roshan meeting 
 	1. Prep
 6. Markus reply 
-7. Terrence message
+7. ~~Terrence message~~
 
 # Thursday 
 
