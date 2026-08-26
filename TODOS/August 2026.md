@@ -377,17 +377,17 @@ NVDIA Tool  - Omniverse
 	1. Computer setup 
 	2. ToolChain 
 	3. Jiajing python- script
-3. Simcard another
-4. Enrique meeting
-5. Roshan meeting 
-	1. Prep
-6. Markus reply 
-7. ~~Terrence message~~
+3. Enrique meeting
+4. ~~Roshan meeting~~ 
+	1. ~~Prep~~
+5. Markus reply 
+6. ~~Terrence message~~
 
 # Thursday 
 
 elabftw
 4. ELAbFTW review and tasks 
+ Simcard another
 
 
 
