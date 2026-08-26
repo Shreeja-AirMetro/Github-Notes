@@ -312,7 +312,7 @@ NVDIA Tool  - Omniverse
 	4. pixhawk
 	5. print - case 
 4. Satcom hardware 
-	1. Markus email 
+	1. ~~Markus email~~ 
 	2. Ask help initial setup 
 	3. Drone placement 
 	4. Test 
@@ -325,8 +325,8 @@ NVDIA Tool  - Omniverse
 # Others - collaboration 
 
 1. NBIOT Hardware 
-	1. setup in computer 
-	2. VPN 
+	1. ~~setup in computer~~ 
+	2. ~~VPN~~ 
 	3. Telemetry data sending 
 	4. whole run trial 
 2. Multipath - Hansini 
@@ -336,7 +336,7 @@ NVDIA Tool  - Omniverse
 3. Email - Ming 
 4. ElabFtw - Comm terminal 
 5. Simcard - another 
-6. Email - abraham, roshan, terrence error 
+6. ~~Email - abraham, roshan, terrence error~~ 
 
 
 ---
@@ -360,7 +360,7 @@ NVDIA Tool  - Omniverse
 # Tuesday 
 
 1. ~~ElabFTW meeting~~
-2. Jiajing Setup 
+2. ~~Jiajing Setup~~ 
 3.  Aeroconf 
 	1. Read state of art 
 	2. gaps - how to solve
@@ -368,21 +368,25 @@ NVDIA Tool  - Omniverse
 	4. trapezoid and operational margin setup 
 	5. implementation 
 	6. Start result optimizing - data 
-
-4. CeTi event
+4. ~~CeTi event~~
 
 # Wednesday
 
-1. Simcard another
-2. Enrique meeting
-3. Roshan meeting 
+1. Aeroconf - prep
+2. NBIOT 
+	1. Computer setup 
+	2. ToolChain 
+	3. Jiajing python- script
+3. Simcard another
+4. Enrique meeting
+5. Roshan meeting 
 	1. Prep
-4. ELAbFTW review and tasks 
+6. Markus r
 
 # Thursday 
 
 elabftw
-
+4. ELAbFTW review and tasks 
 
 
 
