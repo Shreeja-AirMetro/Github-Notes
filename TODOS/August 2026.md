@@ -391,15 +391,14 @@ NVDIA Tool  - Omniverse
 	1. ~~Computer setup~~ 
 	2. ~~ToolChain~~ 
 	3. Jiajing python- script
-3. Abdelkrim meet and test
+3. ~~Abdelkrim meet and test~~
 4. Info to Abraham
-5. Check with terrence
-
-
-
-
-elabftw
-4. ELAbFTW review and tasks 
+---
+-  ELAbFTW review and tasks 
+-  Check with terrence
+- meeting prep 
+- Meeting Abraham
+- 
 
 ---
 
