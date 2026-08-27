@@ -386,7 +386,7 @@ NVDIA Tool  - Omniverse
 
 # Thursday 
 
-1. Markus email 
+1. ~~Markus email~~ 
 2.  NBIOT 
 	1. Computer setup 
 	2. ToolChain 
