@@ -392,7 +392,7 @@ NVDIA Tool  - Omniverse
 	2. ~~ToolChain~~ 
 	3. Jiajing python- script
 3. ~~Abdelkrim meet and test~~
-4. Info to Abraham
+4. ~~Info to Abraham~~
 ---
 -  ELAbFTW review and tasks 
 -  Check with terrence
