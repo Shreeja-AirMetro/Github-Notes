@@ -398,7 +398,7 @@ NVDIA Tool  - Omniverse
 -  Check with terrence
 - meeting prep 
 - Meeting Abraham
-- 
+- check sftp
 
 ---
 
