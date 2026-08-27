@@ -399,7 +399,14 @@ NVDIA Tool  - Omniverse
 elabftw
 4. ELAbFTW review and tasks 
 
+---
 
+# Open and follow up tasks 
+
+1. Aeroconf model and implementation 
+2. Dummy test of multipath TCP and QUIC
+3. Meshmerize 
+4. elabftw
 
 
 
