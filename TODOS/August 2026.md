@@ -386,6 +386,16 @@ NVDIA Tool  - Omniverse
 
 # Thursday 
 
+1. Markus email 
+2.  NBIOT 
+	1. Computer setup 
+	2. ToolChain 
+	3. Jiajing python- script
+3. Abdelkrim meet and test
+4. Check with terrence
+
+
+
 elabftw
 4. ELAbFTW review and tasks 
 

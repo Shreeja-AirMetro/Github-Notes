@@ -58,21 +58,9 @@
                   "icon": "lucide-file",
                   "title": "August 2026"
                 }
-              },
-              {
-                "id": "5bbaf0ea37af8fe8",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.13.7"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.13.7"
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -239,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bbaf0ea37af8fe8",
+  "active": "8b696a566f55597e",
   "lastOpenFiles": [
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
