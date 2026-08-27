@@ -388,11 +388,12 @@ NVDIA Tool  - Omniverse
 
 1. ~~Markus email~~ 
 2.  NBIOT 
-	1. Computer setup 
-	2. ToolChain 
+	1. ~~Computer setup~~ 
+	2. ~~ToolChain~~ 
 	3. Jiajing python- script
 3. Abdelkrim meet and test
-4. Check with terrence
+4. Info to Abraham
+5. Check with terrence
 
 
 
