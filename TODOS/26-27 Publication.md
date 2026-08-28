@@ -23,6 +23,12 @@
 | -------- | ----- | -------------------- |
 | Oct 2026 | AIAA  | Initial Reliability  |
 
+# Others 
+
+1. VTC
+2. ACM Siggcomm
+3. ICNS
+4. 
 # Journal 
 
 ### Planned 
@@ -45,3 +51,4 @@
 
 # Others 
 https://link.springer.com/journal/11276?utm_source=slink&utm_medium=journal_finder
+https://link.springer.com/journal/11036?utm_source=slink&utm_medium=journal_finder
