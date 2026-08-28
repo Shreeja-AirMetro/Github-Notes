@@ -2,10 +2,10 @@
 
 **PhD** 
 - [ ] Background for each topic 
-	- [ ] tackle each file group and Mendeley
-	- [ ] Write the relevant to least relevant as para and maintain a excel sheet list 
-	- [ ] manage the website links and notes on it 
-	- [ ] Manage the regulation - current regulation and regulatory structure 
+	- [x] tackle each file group and Mendeley
+	- [x] Write the relevant to least relevant as para and maintain a excel sheet list 
+	- [x] manage the website links and notes on it 
+	- [x] Manage the regulation - current regulation and regulatory structure 
 - [ ] Thesis - Monograph 
 	- [ ] Start a Latex file and have a gitlab backup - monthly branches 
 	- [ ] What wouldn't be possible 10 years ago , that is now and what might get harder in 10 years - irrelevant from now
