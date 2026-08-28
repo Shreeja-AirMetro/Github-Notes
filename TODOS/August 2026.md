@@ -402,7 +402,7 @@ NVDIA Tool  - Omniverse
 3. Abraham meeting 
 	1. Prep
 4. Terrence - Mavlink Router
-5. Week / other to do 
+5. ~~Week / other to do~~ 
 
 -  ELAbFTW review and tasks 
 - TAC meeting 

@@ -39,8 +39,7 @@
                   "title": "26-27 Publication"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "bb4f0313c341fed8",
@@ -242,13 +241,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5818b0c035666181",
+  "active": "56474e94815ab89f",
   "lastOpenFiles": [
-    "TODOS/2027.md",
-    "TODOS/26-27 Publication.md",
-    "TODOS/Todos.md",
-    "TODOS/2026.md",
     "TODOS/August 2026.md",
+    "TODOS/26-27 Publication.md",
+    "TODOS/2026.md",
+    "TODOS/2027.md",
+    "TODOS/Todos.md",
     "Notes/C2 Reliability and Resilience.md",
     "Notes/Multipath.md",
     "Screenshot from 2026-08-25 10-41-24.png",

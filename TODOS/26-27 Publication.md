@@ -3,26 +3,25 @@
 
 ### Planned
 
+| Timeline       | Venue        | Topic             |
+| -------------- | ------------ | ----------------- |
+| Sep - Oct 2026 | VTC - Spring |                   |
+|                |              | UTM Deconfliction |
+|                |              | Multipath         |
+|                |              | service           |
 
-|     |     |
-| --- | --- |
-|     |     |
-
-
-
-
+| April | Globecom | Dec       |       | Nw coding for het link                 |
+| ----- | -------- | --------- | ----- | -------------------------------------- |
+| Jan   | ICNS     | April     | USA   | Reliability and Resilience model of C2 |
+| Feb   | VTC-Fall | September | Japan | Heterogenous networks / Antenna        |
+|       |          |           |       | Network Coding                         |
+|       |          |           |       | A2A                                    |
 
 ### Accepted 
 
 | Timeline | Venue | Topic                |
 | -------- | ----- | -------------------- |
 | Oct 2026 | AIAA  | Initial Reliability  |
-
-
-
-
-
-
 
 # Journal 
 
