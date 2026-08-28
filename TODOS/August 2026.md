@@ -416,11 +416,6 @@ NVDIA Tool  - Omniverse
 3. Meshmerize 
 4. elabftw
 5. Deconfliction
-6. 
-
-
-
-
 
 ----
 
