@@ -394,14 +394,18 @@ NVDIA Tool  - Omniverse
 3. ~~Abdelkrim meet and test~~
 4. ~~Info to Abraham~~
 ---
-
-
+# Friday 
+1. Aeroconf
+	1. Complete tasks 
+2. NBIOT - File transfer tests
+	1. Jiajing code run 
+3. Abraham meeting 
+	1. Prep
+4. Terrence - Mavlink Router
+5. Week / other to do 
 
 -  ELAbFTW review and tasks 
--  Check with terrence
-- meeting prep 
-- Meeting Abraham
-- check sftp
+
 
 ---
 
