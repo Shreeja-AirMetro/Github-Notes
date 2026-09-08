@@ -1198,3 +1198,7 @@ https://arxiv.org/pdf/2506.19518
 
 ---
 A Telecom Perspective on the Internet of Drones: From LTE-Advanced to 5G
+
+
+---
+
