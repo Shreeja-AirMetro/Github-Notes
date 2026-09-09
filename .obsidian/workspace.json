@@ -35,8 +35,7 @@
               "title": "C2 Reliability and Resilience"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e185976dd0054e20",
+  "active": "4705b76fbd5cc3a6",
   "lastOpenFiles": [
+    "Notes/C2 Reliability and Resilience.md",
     "Mathematical_Framework.pdf",
     "TODOS/Sept 2026.md",
-    "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
     "TODOS/2026.md",
     "TODOS/2027.md",
@@ -250,7 +249,6 @@
     "Untitled 5.canvas",
     "Untitled 2.base",
     "Annotate",
-    "CNS summary for Abstract.pdf",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
