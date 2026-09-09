@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Sept 2026.md",
+                "file": "TODOS/2027.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sept 2026"
+              "title": "2027"
             }
           },
           {
@@ -201,11 +201,11 @@
   },
   "active": "4705b76fbd5cc3a6",
   "lastOpenFiles": [
+    "TODOS/2026.md",
+    "TODOS/Sept 2026.md",
     "Notes/C2 Reliability and Resilience.md",
     "Mathematical_Framework.pdf",
-    "TODOS/Sept 2026.md",
     "TODOS/August 2026.md",
-    "TODOS/2026.md",
     "TODOS/2027.md",
     "Notes/Multipath.md",
     "TODOS/26-27 Publication.md",
