@@ -1202,3 +1202,4 @@ A Telecom Perspective on the Internet of Drones: From LTE-Advanced to 5G
 
 ---
 
+![[Mathematical_Framework.pdf]]

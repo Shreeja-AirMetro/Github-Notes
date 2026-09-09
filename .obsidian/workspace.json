@@ -35,7 +35,8 @@
               "title": "C2 Reliability and Resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afb092e45cbe1933",
+  "active": "e185976dd0054e20",
   "lastOpenFiles": [
+    "Mathematical_Framework.pdf",
+    "TODOS/Sept 2026.md",
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
-    "TODOS/Sept 2026.md",
     "TODOS/2026.md",
     "TODOS/2027.md",
     "Notes/Multipath.md",
@@ -231,7 +233,6 @@
     "Paper-Writing/planned Ideas.md",
     "Paper-Writing/T58.md",
     "Paper-Writing/Standards JournalIn-network computing idea.md",
-    "Paper-Writing/REVIEW.md",
     "Paper-Writing/LAWN-Paper.pdf",
     "Untitled 7.canvas",
     "2026_CTU_Call_for_Participation_04-15-2026.pdf",
