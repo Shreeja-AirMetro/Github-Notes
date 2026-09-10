@@ -4,9 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f240430e5ab7170b",
+        "id": "4bcf8f80e793ff4c",
         "type": "tabs",
         "children": [
+          {
+            "id": "98ae5bd660822f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODOS/Sept 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sept 2026"
+            }
+          },
           {
             "id": "71d1a947a1995e2b",
             "type": "leaf",
@@ -33,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "C2 Reliability and Resilience"
-            }
-          },
-          {
-            "id": "98ae5bd660822f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODOS/Sept 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sept 2026"
             }
           }
         ]
@@ -213,13 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "98ae5bd660822f82",
   "lastOpenFiles": [
-    "TODOS/Sept 2026.md",
     "Notes/C2 Reliability and Resilience.md",
+    "Paper-Writing/FNWF - UTM.md",
+    "TODOS/Sept 2026.md",
     "TODOS/2027.md",
     "TODOS/2026.md",
-    "Paper-Writing/FNWF - UTM.md",
     "Paper-Writing/EW - 2026.md",
     "Pasted image 20260909145600.png",
     "Mathematical_Framework.pdf",
