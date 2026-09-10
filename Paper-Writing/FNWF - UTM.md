@@ -205,3 +205,11 @@ python3 plot_robustness.py        # 7. plots for step 6
 - Jusify the configurations and workload 
 - dig more into deconfliction 
 - find the complexity in linear increase in number of drones , type of drones and deconfliction procedure , keep the configuration common for resource allocation and occupier - therefore, it is negligible. 
+---
+
+Change structure 
+Evaluate Deconfliction Algorithm 
+
+1. https://undefiened.github.io/publications/icrat.pdf
+2. https://arc.aiaa.org/doi/epdf/10.2514/1.G007459
+3. 
