@@ -212,4 +212,7 @@ Evaluate Deconfliction Algorithm
 
 1. https://undefiened.github.io/publications/icrat.pdf
 2. https://arc.aiaa.org/doi/epdf/10.2514/1.G007459
-3. 
+3. https://idus.us.es/server/api/core/bitstreams/1a480d11-1751-48ba-9372-bef6ee56e21a/content
+4. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9298470
+5. https://ieeexplore.ieee.org/abstract/document/9473838
+6. https://ieeexplore.ieee.org/abstract/document/9235239
