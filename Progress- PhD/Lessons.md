@@ -113,3 +113,11 @@ You should implement a family of algorithms, structured so each incremental addi
 PhD is compounding on results 
 
 
+---
+# Lessons from Prashanth talk 
+1. Bring thesis report 
+2. Thesis chapt as ppt 
+3. Defend, justify every parameters in writing 
+4. Albation- different version or combination of tests / expansion 
+5. RSSI is not a standardized metric - it depends on the vendor 
+6. DOnt think much - Answer simple 
