@@ -1,10 +1,10 @@
 [
   "colored-text",
   "github-sync",
-  "obsidian-kanban",
   "markwhen",
   "gitlab-wiki-export",
   "obsidian-git",
   "obsidian-annotator",
-  "card-board"
+  "card-board",
+  "obsidian-kanban"
 ]
