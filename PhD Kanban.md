@@ -26,6 +26,9 @@ kanban-plugin: board
 - [ ] Aeroconf - Impelmentation
 - [ ] Aero-conf Results
 - [ ] Aeroconf Paper send for review
+- [ ] NBIOT_ Background
+- [ ] NBIOT - Tests - Code
+- [ ] Uplink
 
 
 ## Completed
