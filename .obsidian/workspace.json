@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4bcf8f80e793ff4c",
+        "id": "9d9fa7233bb98446",
         "type": "tabs",
         "children": [
           {
@@ -31,6 +31,8 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false,
                     false,
                     false
@@ -209,9 +211,15 @@
   },
   "active": "e185976dd0054e20",
   "lastOpenFiles": [
-    "Notes/C2 Reliability and Resilience.md",
+    "phD.pdf",
     "PhD Kanban.md",
+    "PhD-Flowchart-v1.pdf",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
+    "TODOS/Exams - PhD Enrollment.md",
     "TODOS/Sept 2026.md",
+    "Notes/C2 Reliability and Resilience.md",
     "September .pdf",
     "Progress- PhD/Lessons.md",
     "TODOS/Feb 2026.md",
@@ -237,11 +245,6 @@
     "Paper-Writing/IEEE Access.md",
     "Screenshot from 2026-08-19 10-57-11.png",
     "AeroConf_2026.pdf",
-    "Lectures/TT.md",
-    "Lectures/Smartgridcomm.md",
-    "Lectures/Comnets 1.md",
-    "Paper-Writing/NPJ.md",
-    "Lectures/Comnet2.md",
     "NTN_Literature_Review_Organization.md.pdf",
     "rcp_scope_within_pbcs_sora.png",
     "Paper-Writing/LAWN-Paper.pdf",
@@ -256,7 +259,6 @@
     "Screenshot from 2026-06-25 10-18-14.png",
     "Screenshot from 2026-06-25 10-14-55.png",
     "ssrn-1429049.pdf",
-    "main.pdf",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
