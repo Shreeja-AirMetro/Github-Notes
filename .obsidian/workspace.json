@@ -39,26 +39,14 @@
             "id": "75a378d27471c621",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "PhD Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "TODOS/2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "PhD Kanban"
+              "icon": "lucide-file",
+              "title": "2026"
             }
           }
         ],
@@ -229,6 +217,7 @@
   },
   "active": "75a378d27471c621",
   "lastOpenFiles": [
+    "PhD Kanban.md",
     "Notes/C2 Reliability and Resilience.md",
     "Notes/CNS.md",
     "Notes/Data Management.md",
@@ -237,7 +226,6 @@
     "Paper-Writing/planned Ideas.md",
     "Paper-Writing/NPJ.md",
     "Paper-Writing/LAWN-Paper.md",
-    "PhD Kanban.md",
     "TODOS/Sept 2026.md",
     "phD.pdf",
     "PhD-Flowchart-v1.pdf",
