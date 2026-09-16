@@ -4,6 +4,35 @@ kanban-plugin: board
 
 ---
 
+## In Progress
+
+- [ ] Aeroconf - resilience
+- [ ] A2G RCP - FNWF
+- [ ] IEEE Access - Simulator
+
+
+## Immediate Deadlines
+
+- [ ] AESS Journal - C2
+- [ ] Survey - C2 Communication , UTM BVLOS
+- [ ] Reliability society - Magazine
+
+
+## Completed
+
+- [ ] EW- UTM - Deconfliction
+
+
+## Open MIsc Tasks
+
+- [ ] Elab FTW
+- [ ] NBIOT
+- [ ] Mesh Hardware
+- [ ] Satcom Hardware
+- [ ] Ming
+- [ ] TAC
+
+
 ## PhD thesis
 
 - [ ] PhD Chapters and Associated topics
@@ -17,35 +46,13 @@ kanban-plugin: board
 
 ## Milestones
 
-- [ ] Survey - C2 Communication , UTM BVLOS
 - [ ] Data Port/ Npj - open access data source
 - [ ] Conf - With and Without RIS
 - [ ] Deconfliction Algorithm - service migration Conf
 - [ ] Multipath- COnf
 - [ ] Journal Network COding
 - [ ] Conf - A2A
-- [ ] AESS Journal - Resilience
 - [ ] DT - Ming - Patent
-
-
-## Open MIsc Tasks
-
-
-
-## Immediate Deadlines
-
-
-
-## In Progress
-
-- [ ] Aeroconf - resilience
-- [ ] A2G RCP - FNWF
-- [ ] IEEE Access - Simulator
-
-
-## Completed
-
-- [ ] EW- UTM - Deconfliction
 
 
 ## Future- End plan
