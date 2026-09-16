@@ -43,8 +43,7 @@
               "title": "PhD Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +208,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e185976dd0054e20",
+  "active": "71d1a947a1995e2b",
   "lastOpenFiles": [
-    "phD.pdf",
     "PhD Kanban.md",
+    "phD.pdf",
     "PhD-Flowchart-v1.pdf",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
@@ -258,7 +257,6 @@
     "Pasted image 20260625102518.png",
     "Screenshot from 2026-06-25 10-18-14.png",
     "Screenshot from 2026-06-25 10-14-55.png",
-    "ssrn-1429049.pdf",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
