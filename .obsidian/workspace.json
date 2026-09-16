@@ -46,8 +46,7 @@
               "title": "PhD Kanban"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e185976dd0054e20",
+  "active": "71d1a947a1995e2b",
   "lastOpenFiles": [
-    "TODOS/Sept 2026.md",
     "PhD Kanban.md",
+    "TODOS/Sept 2026.md",
     "phD.pdf",
     "PhD-Flowchart-v1.pdf",
     "Untitled Kanban.md",
