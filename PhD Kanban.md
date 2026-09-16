@@ -18,7 +18,14 @@ kanban-plugin: board
 ## Milestones
 
 - [ ] Survey - C2 Communication , UTM BVLOS
-- [ ] IEEE Access - Simulator
+- [ ] Data Port/ Npj - open access data source
+- [ ] Conf - With and Without RIS
+- [ ] Deconfliction Algorithm - service migration Conf
+- [ ] Multipath- COnf
+- [ ] Journal Network COding
+- [ ] Conf - A2A
+- [ ] AESS Journal - Resilience
+- [ ] DT - Ming - Patent
 
 
 ## Open MIsc Tasks
@@ -27,16 +34,26 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Aeroconf - resilience
+- [ ] A2G RCP - FNWF
+- [ ] IEEE Access - Simulator
 
 
 ## Completed
 
+- [ ] EW- UTM - Deconfliction
+
+
+## Future- End plan
+
+- [ ] Magazine - A2G, A2A Checklist - reliability and resilience
+- [ ] Magazine - C2 communication The past, present and the future
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
