@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "C2 Reliability and Resilience"
             }
+          },
+          {
+            "id": "75a378d27471c621",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "PhD Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "PhD Kanban"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,8 +227,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e185976dd0054e20",
+  "active": "75a378d27471c621",
   "lastOpenFiles": [
+    "Notes/C2 Reliability and Resilience.md",
     "Notes/CNS.md",
     "Notes/Data Management.md",
     "Notes/EPC.md",
@@ -218,7 +245,6 @@
     "Untitled Kanban 1.md",
     "Untitled Kanban 2.md",
     "TODOS/Exams - PhD Enrollment.md",
-    "Notes/C2 Reliability and Resilience.md",
     "September .pdf",
     "Progress- PhD/Lessons.md",
     "TODOS/Feb 2026.md",

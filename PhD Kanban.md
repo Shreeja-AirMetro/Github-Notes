@@ -60,12 +60,16 @@ kanban-plugin: board
 ## Milestones
 
 - [ ] Data Port/ Npj - open access data source
+- [ ] Journal Network COding
+- [ ] DT - Ming - Patent
+
+
+## Milestone-Conf-Workshops
+
 - [ ] Conf - With and Without RIS
 - [ ] Deconfliction Algorithm - service migration Conf
 - [ ] Multipath- COnf
-- [ ] Journal Network COding
 - [ ] Conf - A2A
-- [ ] DT - Ming - Patent
 
 
 ## Future- End plan
@@ -78,6 +82,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false]}
 ```
 %%
