@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## 
+## PhD thesis
 
 - [ ] PhD Chapters and Associated topics
 
