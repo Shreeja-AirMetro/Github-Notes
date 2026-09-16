@@ -25,25 +25,14 @@
             "id": "e185976dd0054e20",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "PhD Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/C2 Reliability and Resilience.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "PhD Kanban"
+              "icon": "lucide-file",
+              "title": "C2 Reliability and Resilience"
             }
           }
         ],
@@ -214,8 +203,15 @@
   },
   "active": "e185976dd0054e20",
   "lastOpenFiles": [
-    "TODOS/Sept 2026.md",
+    "Notes/CNS.md",
+    "Notes/Data Management.md",
+    "Notes/EPC.md",
+    "Notes/INTANS IEEE Access.md",
+    "Paper-Writing/planned Ideas.md",
+    "Paper-Writing/NPJ.md",
+    "Paper-Writing/LAWN-Paper.md",
     "PhD Kanban.md",
+    "TODOS/Sept 2026.md",
     "phD.pdf",
     "PhD-Flowchart-v1.pdf",
     "Untitled Kanban.md",
@@ -236,16 +232,10 @@
     "TODOS/mar 2026.md",
     "TODOS/2027.md",
     "Paper-Writing/FNWF - UTM.md",
-    "TODOS/2026.md",
     "September.pdf",
-    "Paper-Writing/EW - 2026.md",
     "Pasted image 20260909145600.png",
     "Mathematical_Framework.pdf",
-    "Notes/Multipath.md",
-    "TODOS/26-27 Publication.md",
-    "TODOS/Todos.md",
     "Screenshot from 2026-08-25 10-41-24.png",
-    "Paper-Writing/IEEE Access.md",
     "Screenshot from 2026-08-19 10-57-11.png",
     "AeroConf_2026.pdf",
     "NTN_Literature_Review_Organization.md.pdf",
