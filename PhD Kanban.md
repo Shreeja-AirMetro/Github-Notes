@@ -18,6 +18,16 @@ kanban-plugin: board
 - [ ] Reliability society - Magazine
 
 
+## task Breakdown
+
+- [ ] AEroconf - Intro
+- [ ] Aeroconf - Background
+- [ ] Aeroconf - Method
+- [ ] Aeroconf - Impelmentation
+- [ ] Aero-conf Results
+- [ ] Aeroconf Paper send for review
+
+
 ## Completed
 
 - [ ] EW- UTM - Deconfliction
@@ -65,6 +75,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
 %%
