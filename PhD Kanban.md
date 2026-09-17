@@ -79,10 +79,30 @@ kanban-plugin: board
 - [ ] Magazine - C2 communication The past, present and the future
 
 
+## Target-Conferences
+
+- [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
+- [ ] GLOBECOM
+- [ ] WoWMoM
+- [ ] EUCNC - https://www.eucnc.eu/about/announcement-eucnc-6g-summit-2027/
+- [ ] VTC
+
+
+## Target-Journal
+
+- [ ] Science/ IEEE Dataport - Dataset
+- [ ] IEEE Access
+- [ ] IEEE Survey and Transaction
+- [ ] Vehicular - transactions
+- [ ] IEEE Reliability
+- [ ] IEEE AESS
+- [ ] npj wireless
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false,false]}
 ```
 %%

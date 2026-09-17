@@ -8,6 +8,34 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7869dc72bcc4f2c8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "PhD Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "PhD Kanban"
+            }
+          },
+          {
             "id": "71d1a947a1995e2b",
             "type": "leaf",
             "state": {
@@ -200,10 +228,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "7869dc72bcc4f2c8",
   "lastOpenFiles": [
-    "Notes/C2 Reliability and Resilience.md",
     "TODOS/Sept 2026.md",
+    "Notes/C2 Reliability and Resilience.md",
     "TODOS/2026.md",
     "PhD Kanban.md",
     "Notes/CNS.md",
