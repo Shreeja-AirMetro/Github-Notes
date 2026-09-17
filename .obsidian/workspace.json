@@ -63,7 +63,8 @@
               "title": "C2 Reliability and Resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,12 +229,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7869dc72bcc4f2c8",
+  "active": "e185976dd0054e20",
   "lastOpenFiles": [
     "TODOS/Sept 2026.md",
+    "TODOS/2027.md",
+    "PhD Kanban.md",
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/2026.md",
-    "PhD Kanban.md",
     "Notes/CNS.md",
     "Notes/Data Management.md",
     "Notes/EPC.md",
@@ -258,7 +260,6 @@
     "TODOS/July 2026.md",
     "TODOS/June 2026.md",
     "TODOS/mar 2026.md",
-    "TODOS/2027.md",
     "September.pdf",
     "Pasted image 20260909145600.png",
     "Mathematical_Framework.pdf",

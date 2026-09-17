@@ -86,6 +86,8 @@ kanban-plugin: board
 - [ ] WoWMoM
 - [ ] EUCNC - https://www.eucnc.eu/about/announcement-eucnc-6g-summit-2027/
 - [ ] VTC
+- [ ] PIMCR
+- [ ] Meditcom
 
 
 ## Target-Journal
