@@ -17,7 +17,6 @@ tific disciplines and system levels.
 
 disciplines and system levels.
 
-- ach also
 
 represents a different way of enrolling core sociotechnical resources—such as knowl-
 
@@ -42,7 +41,6 @@ It involves reconfiguring or entirely reformulating how sociotechnical resources
 are designed, produced and circulated. This can unfold over months to decades
 
   
-
 In practice, this suggests that operationalising resilience across different moments
 
 and scales of activity requires protected spaces and forums that create vertical align-
