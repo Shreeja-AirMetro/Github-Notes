@@ -20,7 +20,6 @@ kanban-plugin: board
 
 ## task Breakdown
 
-- [ ] Aeroconf - Method
 - [ ] Aeroconf - Impelmentation
 - [ ] Aero-conf Results
 - [ ] Aeroconf Paper send for review
@@ -32,6 +31,7 @@ kanban-plugin: board
 ## Completed
 
 - [ ] Aeroconf - Background
+- [ ] Aeroconf - Method
 - [ ] AEroconf - Intro
 - [ ] EW- UTM - Deconfliction
 
