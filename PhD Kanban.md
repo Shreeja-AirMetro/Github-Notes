@@ -20,8 +20,6 @@ kanban-plugin: board
 
 ## task Breakdown
 
-- [ ] AEroconf - Intro
-- [ ] Aeroconf - Background
 - [ ] Aeroconf - Method
 - [ ] Aeroconf - Impelmentation
 - [ ] Aero-conf Results
@@ -33,6 +31,8 @@ kanban-plugin: board
 
 ## Completed
 
+- [ ] Aeroconf - Background
+- [ ] AEroconf - Intro
 - [ ] EW- UTM - Deconfliction
 
 
