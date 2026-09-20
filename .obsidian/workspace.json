@@ -63,7 +63,8 @@
               "title": "C2 Reliability and Resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,12 +229,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "7869dc72bcc4f2c8",
+  "active": "71d1a947a1995e2b",
   "lastOpenFiles": [
+    "PhD Kanban.md",
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/Sept 2026.md",
     "TODOS/2027.md",
-    "PhD Kanban.md",
     "TODOS/2026.md",
     "Notes/CNS.md",
     "Notes/Data Management.md",
