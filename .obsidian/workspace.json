@@ -35,7 +35,8 @@
               "title": "C2 Reliability and Resilience"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,11 +201,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "e185976dd0054e20",
   "lastOpenFiles": [
-    "PhD Kanban.md",
-    "Notes/C2 Reliability and Resilience.md",
     "TODOS/Sept 2026.md",
+    "Notes/C2 Reliability and Resilience.md",
+    "TODOS/August 2026.md",
+    "PhD Kanban.md",
     "TODOS/2027.md",
     "TODOS/2026.md",
     "Notes/CNS.md",
@@ -227,7 +229,6 @@
     "TODOS/Dec 2025.md",
     "TODOS/AirMetro-Student-Meeting-2701.md",
     "TODOS/Apr 2026.md",
-    "TODOS/August 2026.md",
     "TODOS/July 2026.md",
     "TODOS/June 2026.md",
     "TODOS/mar 2026.md",
