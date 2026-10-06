@@ -415,4 +415,6 @@ Sources:
 
 100 m * 100 m* 20m 
 
-We grid size - 300* 300 * 300 m   - 1 lay
+We grid size - 300* 300 * 300 m   - 1 layer 9 - 3 layers - 27 cubes 
+
+
