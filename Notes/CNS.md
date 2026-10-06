@@ -243,6 +243,17 @@ Position variable
 
 Monte carlo sampling each cube
 Full space as cube
+
+Strategic phase 
+CNS 
+
+Radio 
+4 by 4 km  
+
+To Roshan
+Send the map 
+
+
 https://clickhouse.com/docs/zh/get-started/use-cases/choosing-a-service
 https://www.bundesnetzagentur.de/DE/Vportal/TK/Funktechnik/EMF/start.html
 

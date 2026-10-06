@@ -35,7 +35,8 @@
               "title": "Oct-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,11 +201,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "baf09a9f24e23531",
   "lastOpenFiles": [
-    "Pasted image 20261006105420.png",
-    "TODOS/Oct-2026.md",
     "Notes/CNS.md",
+    "TODOS/Oct-2026.md",
+    "Pasted image 20261006105420.png",
     "imagen.png",
     "TODOS/Sept 2026.md",
     "Notes/C2 Reliability and Resilience.md",
@@ -249,7 +250,6 @@
     "IMG20260701083417.jpg",
     "Pasted image 20260629144356.png",
     "Pasted image 20260625102518.png",
-    "Screenshot from 2026-06-25 10-18-14.png",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
