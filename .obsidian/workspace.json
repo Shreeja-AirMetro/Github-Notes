@@ -35,7 +35,8 @@
               "title": "Oct-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "baf09a9f24e23531",
   "lastOpenFiles": [
-    "TODOS/Oct-2026.md",
     "Notes/CNS.md",
+    "TODOS/Oct-2026.md",
     "Screenshot from 2026-10-06 11-52-12.png",
     "Screenshot from 2026-10-06 11-36-10.png",
     "Screenshot from 2026-10-06 11-31-12.png",
