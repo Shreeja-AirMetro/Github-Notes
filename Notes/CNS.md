@@ -406,3 +406,13 @@ Sources:
 -
 
 ![[Pasted image 20261006105420.png]]
+
+
+---
+
+# Tianxiong 
+
+
+100 m * 100 m* 20m 
+
+We grid size - 300* 300 * 300 m   - 1 lay
