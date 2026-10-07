@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +215,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b48acb6fd6f4c61e",
+  "active": "baf09a9f24e23531",
   "lastOpenFiles": [
+    "TODOS/2027.md",
     "TODOS/Oct-2026.md",
     "Notes/CNS.md",
     "Screenshot from 2026-10-06 11-52-12.png",
@@ -229,7 +230,6 @@
     "Notes/C2 Reliability and Resilience.md",
     "TODOS/August 2026.md",
     "PhD Kanban.md",
-    "TODOS/2027.md",
     "TODOS/2026.md",
     "Notes/Data Management.md",
     "Notes/EPC.md",
