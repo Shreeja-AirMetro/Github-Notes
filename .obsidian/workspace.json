@@ -35,7 +35,8 @@
               "title": "CNS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "9c29b19ef335b4e4",
   "lastOpenFiles": [
-    "Notes/CNS.md",
     "TODOS/Oct-2026.md",
+    "Notes/CNS.md",
     "IMG20261015143108.jpg",
     "TODOS/2027.md",
     "TODOS/Nov 2026.md",
