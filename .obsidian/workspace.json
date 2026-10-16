@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "f05acf9a0bbf8fc2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "9c29b19ef335b4e4",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "CNS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,11 +209,10 @@
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
       "obsidian-kanban:Create new board": false,
-      "markwhen:Create new Markwhen file": false,
-      "card-board:CardBoard": false
+      "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "f05acf9a0bbf8fc2",
   "lastOpenFiles": [
     "Notes/CNS.md",
     "TODOS/Oct-2026.md",
