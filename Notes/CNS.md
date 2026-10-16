@@ -451,3 +451,41 @@ I did not look these up, so check them against the originals:
 - Volume, issue and page numbers for [8], [10], [11], [13] and [14].
 - Edition years for [1] and [2]: the PBN manual may now be in a newer edition.
 - For [5], whether you cite SORA v2.5 or v2.0, depending on what your national authority currently applies. In Germany, it is worth saying that the LBA applies SOR
+---
+
+# UAV Mission Profile
+
+Before breaking the operation into flight phases, we define the reference mission profile that the CNS architecture must support. The scenario is a beyond-visual-line-of-sight (BVLOS) UAV operation in very low level (VLL) airspace over an urban or suburban environment. The mission is classified in **Risk Category 4.6** under the applicable risk assessment, which requires high integrity, availability and continuity of the CNS functions throughout the flight [5]. The profile assumes three things: the operation cannot rely on a single link or sensor modality, GNSS may be degraded or unavailable in parts of the route, and the airspace is shared with other cooperative and non-cooperative traffic.
+
+**Communication.** Command and control (C2) and telemetry are carried over a heterogeneous multilink architecture. The primary bearer is a 5G NR terrestrial link, with the UAV operating as an aerial UE [7], [15]. It is complemented by a satellite link (GEO or LEO SatCom, or 3GPP non-terrestrial networks) to provide continuity where terrestrial coverage is fragmented or interference-limited [8]. Reconfigurable intelligent surfaces (RIS) deployed on building façades along the corridor steer reflected energy towards the flight path and so mitigate predicted coverage holes [16]. Links are used concurrently rather than as cold standby, so the C2 performance requirement is met by the combined multilink system rather than by any single link.
+
+**Navigation.** Navigation relies on a multi-modal perception stack designed for GNSS-degraded operation:
+
+- **Event cameras** provide high-dynamic-range, low-latency visual odometry under fast motion and difficult lighting [17].
+- **LiDAR** supplies geometric range measurements for SLAM-based localisation and obstacle detection [18].
+- **A 3D Gaussian Splatting (3DGS)** representation of the environment acts as a photorealistic, rapidly renderable prior map against which the onboard sensors can register [19].
+
+Fusing these inputs in a SLAM framework yields a navigation solution whose accuracy and integrity are, like the communication links, properties of the environment and must therefore be predicted before flight.
+
+**Surveillance.** Surveillance and situational awareness are provided through a **digital twin** of the operating volume. The twin integrates the 3D environment model, the radio maps of the 5G, SatCom and RIS links, the navigation-quality maps, and the live traffic picture [13], [14]. Within the twin, the relationship between the mission and its supporting CNS infrastructure is modelled as a **bipartite graph**. One vertex set holds the route segments or waypoints; the other holds the CNS resources (gNBs, satellite beams, RIS panels, and navigation anchors or map regions). Each edge is weighted by the predicted link or localisation quality, for example SINR, latency or reliability margin, for that segment–resource pair. This structure turns CNS-aware planning into a graph problem. Coverage holes appear as segments with no sufficiently weighted edge. Multilink redundancy appears as segments with several disjoint high-quality edges. Resource contention between UAVs sharing the same infrastructure can be resolved by matching or assignment on the graph.
+
+**Summary of the mission profile**
+
+|Element|Configuration|
+|---|---|
+|Operation|BVLOS, urban/suburban VLL airspace|
+|Risk classification|Risk Category 4.6|
+|Communication|5G NR (aerial UE) + SatCom multilink, RIS-assisted coverage|
+|Navigation|Event camera, LiDAR, SLAM, 3D Gaussian Splatting prior map|
+|Surveillance|Digital twin of airspace and CNS infrastructure|
+|Planning model|Bipartite graph: route segments ↔ CNS resources, edges weighted by predicted performance|
+
+## Additional references (continuing your numbering)
+
+[15] 3GPP, _TS 22.125: Unmanned Aerial System (UAS) support in 3GPP; Stage 1_, Rel-17.  
+[16] Q. Wu and R. Zhang, "Towards smart and reconfigurable environment: Intelligent reflecting surface aided wireless network," _IEEE Commun. Mag._, vol. 58, no. 1, pp. 106–112, 2020.  
+[17] G. Gallego _et al._, "Event-based vision: A survey," _IEEE Trans. Pattern Anal. Mach. Intell._, vol. 44, no. 1, pp. 154–180, 2022.  
+[18] J. Zhang and S. Singh, "LOAM: Lidar odometry and mapping in real-time," in _Proc. Robotics: Science and Systems (RSS)_, 2014.  
+[19] B. Kerbl, G. Kopanas, T. Leimkühler, and G. Drettakis, "3D Gaussian Splatting for real-time radiance field rendering," _ACM Trans. Graph._, vol. 42, no. 4, 2023.
+
+**One thing to check:** "Risk Category 4.6" isn't a standard SORA label. SORA uses a ground risk class (GRC), an air risk class (ARC) and a resulting SAIL level. If you mean something like "final GRC 4, ARC-c, SAIL IV", stating it in those terms will be clearer to reviewers. Tell me the actual values and I'll adjust the sentence. Also check whether my reading of the bipartite graph (route segments ↔ CNS resources) matches what you have in mind, or whether it models something else, such as UAVs ↔ links.
