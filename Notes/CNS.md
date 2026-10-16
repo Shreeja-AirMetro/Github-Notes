@@ -418,3 +418,36 @@ Sources:
 We grid size - 300* 300 * 300 m   - 1 layer 9 - 3 layers - 27 cubes 
 
 
+---
+
+
+# CNS references 
+
+[1] ICAO, _Performance-Based Communication and Surveillance (PBCS) Manual_, Doc 9869, 2nd ed., 2017.  
+[2] ICAO, _Performance-Based Navigation (PBN) Manual_, Doc 9613, 4th ed., 2013.  
+[3] European Commission, _Commission Implementing Regulation (EU) 2021/664 on a regulatory framework for the U-space_, 2021.  
+[4] ASTM International, _F3548-21: Standard Specification for UAS Traffic Management (UTM) UAS Service Supplier (USS) Interoperability_, 2021.  
+[5] JARUS, _JARUS Guidelines on Specific Operations Risk Assessment (SORA)_, v2.5, 2024.  
+[6] FAA, _Urban Air Mobility (UAM) Concept of Operations_, v2.0, 2023.  
+[7] 3GPP, _TR 36.777: Enhanced LTE Support for Aerial Vehicles (Release 15)_, 2018.  
+[8] Y. Zeng, J. Lyu, and R. Zhang, “Cellular-connected UAV: Potential, challenges, and promising technologies,” _IEEE Wireless Commun._, vol. 26, no. 1, pp. 120–127, 2019.  
+[9] P. D. Groves, _Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems_, 2nd ed. Artech House, 2013.  
+[10] S. Zhang and R. Zhang, “Radio map-based 3D path planning for cellular-connected UAV,” _IEEE Trans. Wireless Commun._, vol. 20, no. 3, pp. 1975–1989, 2021.  
+[11] Y. Zeng, X. Xu, S. Jin, and R. Zhang, “Simultaneous navigation and radio mapping for cellular-connected UAV with deep reinforcement learning,” _IEEE Trans. Wireless Commun._, vol. 20, no. 7, pp. 4205–4220, 2021.  
+[12] J. Hoydis _et al._, “Sionna RT: Differentiable ray tracing for radio propagation modeling,” in _Proc. IEEE Globecom Workshops_, 2023.  
+[13] L. U. Khan, W. Saad, D. Niyato, Z. Han, and C. S. Hong, “Digital-twin-enabled 6G: Vision, architectural trends, and future directions,” _IEEE Commun. Mag._, vol. 60, no. 1, pp. 74–80, 2022.  
+[14] A. Alkhateeb, S. Jiang, and G. Charan, “Real-time digital twins: Vision and research directions for 6G and beyond,” _IEEE Commun. Mag._, vol. 61, no. 11, pp. 128–134, 2023.
+
+### Before you submit
+
+I checked the key technical claims in the paragraph against sources:
+
+- **[7] TR 36.777:** a much larger share of aerial UEs experience cell-edge-like downlink SINR than terrestrial UEs, because line-of-sight propagation exposes them to interference from more cells, with up to 16 strongly interfering cells observed at heights of 50 m or above. It also notes an aerial UE may end up served by a distant base station rather than the closest one. Its conclusion is that LTE networks can serve aerial UEs but face challenges with uplink/downlink interference and mobility. [iTecSpec iTecSpec +2](https://itecspec.com/3gpp/36.777/s/6.1)
+- **[11] SNARM:** the framework uses UAV signal measurements to build a radio map that predicts outage probability across the area of interest, which supports the planning argument directly. [paperswithcode](https://paperswithcode.com/paper/simultaneous-navigation-and-radio-mapping-for)
+- **[12] Sionna RT:** the authors position differentiable ray tracing as a key enabler for research directions such as digital twins, which links your ray-tracing radio map to the digital-twin framing. [arxiv](https://arxiv.org/pdf/2303.11103)
+
+I did not look these up, so check them against the originals:
+
+- Volume, issue and page numbers for [8], [10], [11], [13] and [14].
+- Edition years for [1] and [2]: the PBN manual may now be in a newer edition.
+- For [5], whether you cite SORA v2.5 or v2.0, depending on what your national authority currently applies. In Germany, it is worth saying that the LBA applies SOR
