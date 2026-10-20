@@ -530,3 +530,137 @@ T2 Presentation 13/4
     
 
 - Tezergil, B., & Onur, E. (2022). Wireless Backhaul in 5G and Beyond: Issues, Challenges and Opportunities. _IEEE Communications Surveys & Tutorials_, _24_(4), 2579-2632. [https://doi.org/10.1109/comst.2022.3203578](https://www.google.com/search?q=https://doi.org/10.1109/comst.2022.3203578)
+
+
+
+
+
+---
+# Details on LAWN work 
+
+I read the VTS_Feb2026 draft and compared it with what your code and data actually do: the Sionna CIR dataset in [landing_cir/](landing_cir/) (with [landing_cir_README.txt](landing_cir_README.txt)), [urllc_drone_model.py](t2-t9-signal-quality-master/urllc_drone_model.py) and the scripts under [LAWN-Test/raytrace/examples/](LAWN-Test/raytrace/examples/). I read "%G" as 5G.
+
+**The main problem:** the paper and the simulation describe two different scenarios. The system-model and link-budget sections need rewriting to match what Sionna computes, or the reviewers will spot the mismatch.
+
+| | Paper (Sec. III) | Sionna dataset (`landing_cir`) |
+|---|---|---|
+| Base stations | 1 gNB at 100 m horizontal distance | 4 sites × 3 sectors = 12 cells at 26 m height, 10° downtilt |
+| Antennas | gNB and UAV both 0 dBi | gNB: 8×2 tr38901 array, no precoding applied. UAV: cross-polarised dipole |
+| Trajectory | Vertical descent, 60 m → 0 m, 2 m/s | 156 points: cruise, then glide, then final approach, 150 m → 15.5 m |
+| Interference | Gaussian, N(20, 1.5) dB, same at every altitude | Real co-channel cells. Median SIR is about **2 dB** without RIS (5th–95th percentile: −1.8 to 9.5 dB) |
+| Transmit power | 49 dBm | 44 dBm per sector (frankfurt.py uses 46, urllc_drone_model.py uses 23) |
+
+The script that produced the dataset (`frankfurt_landing.py`) is not in the workspace, so I could only check its outputs.
+
+---
+
+## 1. Existing work, grouped by what it covers
+
+**A. Aerial UEs on terrestrial cellular networks (no RIS)**
+- 3GPP TR 36.777 (in your repo) is the reference. At altitude, the UAV sees many cells in line of sight, gets interference from all of them, and is served by antenna sidelobes.
+- Two recent arXiv papers study how antenna sidelobes and downtilt shape coverage at different altitudes: [Merits of serving UAVs via terrestrial networks](https://web3.arxiv.org/abs/2503.20296) and [Altitude-dependent conspicuity](https://arxiv.org/pdf/2605.24656). Another proposes [dedicated up-tilted cells](https://arxiv.org/pdf/2210.04030) for aerial users.
+- 3GPP has added aerial-UE features from Rel-15 to Rel-18: height-triggered measurement reports, flight-path reporting, aerial-UE uplink power control and Remote ID.
+- Recent LAWN surveys: [2509.11607](https://arxiv.org/pdf/2509.11607) and [2608.08225](https://arxiv.org/pdf/2608.08225). The second is the best way into the cellular-connected side.
+
+**B. RIS with UAVs**
+- Most work either puts the RIS on the UAV or uses a UAV base station helped by a RIS. Your refs [6], [7], [9] cover this.
+- Ground RIS serving an aerial UE: Ma, Ding & Hassan [8], and Mursia et al. [7]. Both are single-cell studies that only look at SNR or coverage.
+
+**C. RIS with finite-blocklength URLLC**
+- [Hashemi et al.](https://arxiv.org/pdf/2102.13363) and the [joint blocklength follow-up](https://ar5iv.labs.arxiv.org/html/2204.13369) analyse ground RIS with short packets.
+- Abughalwa et al. [15], and the aerial-RIS URLLC work by Li et al.
+- All of these use statistical channels: Rician or Nakagami fading, with no site geometry.
+
+**D. Ray tracing with RIS**
+- The Degli-Esposti [2] and Vitucci [3] models are what Sionna RT [4] implements.
+- Sionna urban RIS studies: [RIS optimisation in Sionna](https://export.arxiv.org/pdf/2501.05817) and [RIS base station in London](https://arxiv.org/pdf/2507.08611). Neither has an aerial receiver.
+- Heimann et al. [11] cover vehicular links.
+
+**E. Safety framing:** Guerin et al. [13] on certifying emergency landing, and AirSlice [14].
+
+## 2. Gaps your paper can claim
+
+The data supports all of these, and I found no paper that combines them:
+
+1. **RIS for an aerial UE that is interference-limited, not noise-limited.** Groups B and C optimise SNR in a single cell. Your data shows the landing UAV is interference-limited (median SIR about 2 dB). A RIS also redirects energy from the other cells, which is why the dataset has a RIS path for every transmitter. This is the strongest novelty argument and the current draft throws it away by modelling interference as Gaussian noise.
+2. **Site-specific, multi-cell ray tracing with RIS along a full flight path** (cruise → glide → final), with each flight phase evaluated separately. Groups B, C and D each lack at least one of: aerial receiver, multiple cells, a trajectory.
+3. **Mission-level C2 reliability instead of per-snapshot BLER.** That means: probability the C2 message arrives within its deadline, how long link-loss episodes last, and errors that are correlated along the trajectory.
+4. **RIS control latency versus UAV speed.** You already have both modes in the data: `ris_track` (refocused at every point) and `ris_static` (fixed focus). Your stated contribution follows from these: how long the beam footprint stays valid, and how fast the RIS must be updated.
+5. **RIS versus network-controlled repeaters (NCR, 3GPP Rel-18).** Reviewers will ask why a RIS and not the standardised alternative. Add at least one paragraph.
+6. **Whether Sionna's RIS model is valid for elevated receivers close to the surface.** Roshan's note says these limitations are rarely mentioned; see the near-field point below.
+
+## 3. Assumptions that are correct
+
+- **3.5 GHz n78 TDD:** correct for Telekom and other German operators. Because TDD uses the same channel both ways, the RIS configuration works for both uplink and downlink.
+- **CIR → CFR (Eqs. 6–7):** correct and consistent with Sionna. Absolute delays are fine because the scene paths and RIS paths share one time origin.
+- **Channel quasi-static within a slot:** correct. At 3.5 GHz and 2 m/s the maximum Doppler is about 23 Hz, far below the subcarrier spacing.
+- **One clustered RIS path:** valid for bandwidths up to about 100 MHz, because the delay spread across a ~1 m RIS is only a few ns.
+- **EESM, then a finite-blocklength normal approximation, then an LDPC gap of about 1.5 dB (Eq. 21):** a standard and defensible link-to-system chain.
+- **RIS "double path loss" (Eq. 19):** correct in the far field.
+- **UMa path-loss formula (Eq. 8):** this is also TR 36.777's aerial LoS model for 22.5–300 m, so the formula itself is fine (but see the double-counting point below).
+- **Sidelobe and null zones depending on altitude:** physically correct. An 8-element λ/2 vertical array has nulls about 7°, 14.5° and 22° off boresight. But Eq. 5 cannot reproduce them (see below).
+
+## 4. Assumptions that are wrong or need fixing
+
+**Channel and link budget**
+1. **Path loss is counted twice.** Sionna's |H|² already contains the site-specific path loss and blockage. Adding UMa path loss (Eq. 8) plus Gudmundson shadowing (Eqs. 9–10) on top counts it again. Choose one: ray tracing, or the statistical model, but not both. If you need randomness, perturb the receiver positions in the ray tracer instead of adding shadowing.
+2. **Eq. 5 is wrong and cannot produce the nulls you discuss.**
+   - The 3GPP element pattern is −min(12·((θ−θ_tilt)/65°)², 30 dB) plus 8 dBi maximum gain. The factor 12 is missing in the draft.
+   - That formula is the *element* pattern, which has no nulls. Nulls come from the array factor.
+   - The dataset stores per-element coefficients with no precoding. If you sum |a|² over the 16 elements, the nulls disappear and you get optimistic array gain. You need to apply a fixed downtilt or SSB beam weight to the 16 elements, coherently.
+3. **0 dBi antennas contradict the simulation**, which uses an 8×2 tr38901 array at the gNB and a dipole at the UAV.
+4. **Interference as N(20, 1.5) dB added to the noise floor is wrong for this problem.**
+   - It contradicts your own introduction, which says interference rises with altitude.
+   - In the downlink, the interference comes from other gNBs, not from "ground users and electronic devices".
+   - Compute SINR from the 11 interfering cells in the CIR instead.
+5. **Eq. 11 and Eq. 13 contradict each other.** Eq. 11 has an unexplained −50, Eq. 13 has G_offset. Neither includes the receiver noise figure (about 7–9 dB for a UE).
+6. **Power per subcarrier is overestimated.** P_tx/N_sc with N_sc = 256 puts all of the cell's power on 256 subcarriers. A 100 MHz n78 carrier at 30 kHz spacing has about 3276 subcarriers, so this overestimates SNR by about 11 dB.
+7. **EESM over all 256 subcarriers overstates frequency diversity.** A C2 packet of a few hundred bits occupies only a few PRBs. β = 1.5 only suits QPSK, since β grows with modulation order.
+8. **Elevation angle (Eq. 4) is wrong:** the denominator uses x(t), y(t) instead of the horizontal distance to the gNB.
+
+**Link layer and reliability**
+9. **The MAVLink frame is undersized.**
+   - MAVLink v2 has a 10-byte header (not 7–9) and a 2-byte CRC, plus an optional 13-byte signature, which a safety-critical link should use.
+   - The LAND command goes in COMMAND_LONG, whose payload is 33 bytes. Position-target messages are about 51–53 bytes.
+   - Add 28 bytes of UDP/IPv4 (unless header compression is used) and PDCP/RLC/MAC headers. The packet is roughly 600–800 bits, not 320–350.
+   - At this size 38.212 uses LDPC base graph 2 with a 16-bit CRC. The script's BG1 + CRC-24A choice is wrong.
+10. **The 1−10⁻⁵ target is not the C2 requirement.** TS 22.125 v17.6 Table 7.2-1, which is in your repo, gives 99.9% for steer-to-waypoint, direct stick and UTM flight modes. It gives 99.99% only for uplink messages near infrastructure, and the latency budgets are 40 ms to 1 s. So radio latency at the millisecond level is not the binding limit; reliability within the deadline is. Either justify 10⁻⁵ (for example from SORA or the URLLC slice) or align with 22.125.
+11. **The binomial model (Eq. 22) assumes retransmissions fail independently.** At 2 m/s the coherence time is about 20 ms, so HARQ attempts within a few ms see almost the same channel. Independence makes the result far too optimistic. Also, delivering one command needs only K = 1 success, and HARQ combines soft information across attempts, which a binomial does not model.
+12. **Latency model is too optimistic.** T_proc = 0.1 slot is unrealistic; the 3GPP minimum UE processing time is about 8–10 symbols. Uplink C2 also needs a scheduling request and grant, or a configured grant. The core network and the path to the remote pilot dominate end-to-end latency.
+13. **H_safe (Eq. 24) is the wrong metric for landing.** The UAV *must* descend to the ground, so "the highest altitude where the link is safe" does not answer the question. A per-segment corridor reliability, or the distribution of link-loss durations, fits the problem better.
+14. **The paper treats C2 as one direction.** The LAND command is downlink; telemetry is uplink at 23 dBm. The uplink is where aerial-UE interference is the known 3GPP problem.
+
+**RIS model**
+15. **Near field.** The RIS is at 13.8 m height and the final approach passes close to it. For a 1 m RIS at 3.5 GHz the far-field distance 2D²/λ is about 23 m, so the double-path-loss scaling may not hold there. The Sionna model is also idealised: continuous phase, lossless, no amplitude–phase coupling. Either quantise the phases (Eq. 19 mentions discrete phases but the simulation doesn't use them) or state the limitation.
+
+**Bugs in [urllc_drone_model.py](t2-t9-signal-quality-master/urllc_drone_model.py)**, in case it feeds any results:
+- `select_mcs` always returns MCS 0. Its `for/else` has no `break`, so the `else` branch always runs ([L404-L407](t2-t9-signal-quality-master/urllc_drone_model.py#L404-L407)).
+- `los_path_loss_db = 32` dB at 1 km and 2.6 GHz; free-space loss there is about 101 dB.
+- Rician K = 7 dB is labelled "urban NLOS", but NLOS fading is Rayleigh.
+- A fixed −3.5 dB fading margin is applied on top of ray-traced fading, which double-counts fading.
+- Channel-estimation error variance is 1/SNR on an un-normalised H. With Sionna's gains (|a|² around 1e-10) the error will dominate.
+- It runs at 2.6 GHz, not 3.5 GHz, and runs on synthetic data, not the Sionna CIR.
+
+## Suggested direction
+
+1. Rewrite the system model around the dataset: 12 cells and a fixed precoder.
+2. Compute SINR with the real interferers.
+3. Run EESM over the allocated PRBs, then the finite-blocklength and LDPC mapping.
+4. Model HARQ with correlation over the trajectory.
+5. Report the C2 deadline-reliability and outage duration for noRIS, static, track and track_off. Those four RIS cases are already in the data.
+
+That gives you gaps 1, 3 and 4 with results you mostly already have.
+
+I can also turn this into a page for Roshan, Enrique and the other co-authors if that would help.
+
+Sources:
+- [Merits of Serving UAVs via Terrestrial Networks (arXiv 2503.20296)](https://web3.arxiv.org/abs/2503.20296)
+- [Altitude-Dependent Electronic Conspicuity (arXiv 2605.24656)](https://arxiv.org/pdf/2605.24656)
+- [Dedicating Cellular Infrastructure for Aerial Users (arXiv 2210.04030)](https://arxiv.org/pdf/2210.04030)
+- [LAWN Comprehensive Survey (arXiv 2509.11607)](https://arxiv.org/pdf/2509.11607)
+- [Signal Processing and AI Foundations of LAWNs (arXiv 2608.08225)](https://arxiv.org/pdf/2608.08225)
+- [RIS-aided URLLC short packets (arXiv 2102.13363)](https://arxiv.org/pdf/2102.13363)
+- [Joint sum rate and blocklength, RIS URLLC (arXiv 2204.13369)](https://ar5iv.labs.arxiv.org/html/2204.13369)
+- [RIS optimisation in Sionna RT (arXiv 2501.05817)](https://export.arxiv.org/pdf/2501.05817)
+- [RIS base stations via ray tracing (arXiv 2507.08611)](https://arxiv.org/pdf/2507.08611)
+- [TS 22.125 §7.2 C2 KPIs](https://www.itecspec.com/3gpp/22.125/s/7.2)
