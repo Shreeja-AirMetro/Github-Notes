@@ -49,8 +49,7 @@
               "title": "Oct-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,12 +214,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "cbb717ffffc12727",
+  "active": "71d1a947a1995e2b",
   "lastOpenFiles": [
+    "TODOS/Oct-2026.md",
     "PhD Kanban.md",
     "Notes/CNS.md",
     "TODOS/Todos.md",
-    "TODOS/Oct-2026.md",
     "IMG20261015143108.jpg",
     "TODOS/2027.md",
     "TODOS/Nov 2026.md",
