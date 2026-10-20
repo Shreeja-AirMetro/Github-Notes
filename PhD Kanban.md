@@ -15,9 +15,9 @@ kanban-plugin: board
 
 - [ ] AESS Journal - C2
 - [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
-- [ ] Reliability society - Magazine
 - [ ] AIAA- CNS
 - [ ] AIAA- Risk Profile
+- [ ] Sustainable and Intelligent Connectivity for Low-Altitude Wireless Networks https://www.nature.com/collections/hecdcdaahf
 
 
 ## task Breakdown
@@ -96,6 +96,7 @@ kanban-plugin: board
 
 - [ ] Science/ IEEE Dataport - Dataset
 - [ ] IEEE Access
+- [ ] Reliability society - Magazine
 - [ ] IEEE Survey and Transaction
 - [ ] Vehicular - transactions
 - [ ] Survey - C2 Communication , UTM BVLOS
