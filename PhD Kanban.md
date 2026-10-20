@@ -6,44 +6,54 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Aeroconf - resilience
-- [ ] A2G RCP - FNWF
+- [ ] Satcom Hardware
+- [ ] Mesh Hardware
 - [ ] IEEE Access - Simulator
 
 
 ## Immediate Deadlines
 
 - [ ] AESS Journal - C2
-- [ ] Survey - C2 Communication , UTM BVLOS
 - [ ] Reliability society - Magazine
 
 
 ## task Breakdown
 
-- [ ] Aeroconf - Impelmentation
-- [ ] Aero-conf Results
-- [ ] Aeroconf Paper send for review
-- [ ] NBIOT_ Background
-- [ ] NBIOT - Tests - Code
-- [ ] Uplink
 
 
 ## Completed
 
+- [ ] Aeroconf - Impelmentation
+- [ ] NBIOT - Tests - Code
+- [ ] Uplink
+- [ ] NBIOT_ Background
+- [ ] TAC
+- [ ] Aeroconf Paper send for review
+- [ ] Aero-conf Results
 - [ ] Aeroconf - Background
+- [ ] Aeroconf - resilience
+- [ ] A2G RCP - FNWF
 - [ ] Aeroconf - Method
 - [ ] AEroconf - Intro
 - [ ] EW- UTM - Deconfliction
+
+
+## Target-Conferences
+
+- [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
+- [ ] GLOBECOM
+- [ ] WoWMoM
+- [ ] EUCNC - https://www.eucnc.eu/about/announcement-eucnc-6g-summit-2027/
+- [ ] VTC
+- [ ] PIMCR
+- [ ] Meditcom
 
 
 ## Open MIsc Tasks
 
 - [ ] Elab FTW
 - [ ] NBIOT
-- [ ] Mesh Hardware
-- [ ] Satcom Hardware
 - [ ] Ming
-- [ ] TAC
 
 
 ## PhD thesis
@@ -79,23 +89,13 @@ kanban-plugin: board
 - [ ] Magazine - C2 communication The past, present and the future
 
 
-## Target-Conferences
-
-- [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
-- [ ] GLOBECOM
-- [ ] WoWMoM
-- [ ] EUCNC - https://www.eucnc.eu/about/announcement-eucnc-6g-summit-2027/
-- [ ] VTC
-- [ ] PIMCR
-- [ ] Meditcom
-
-
 ## Target-Journal
 
 - [ ] Science/ IEEE Dataport - Dataset
 - [ ] IEEE Access
 - [ ] IEEE Survey and Transaction
 - [ ] Vehicular - transactions
+- [ ] Survey - C2 Communication , UTM BVLOS
 - [ ] IEEE Reliability
 - [ ] IEEE AESS
 - [ ] npj wireless
