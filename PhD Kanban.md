@@ -14,7 +14,10 @@ kanban-plugin: board
 ## Immediate Deadlines
 
 - [ ] AESS Journal - C2
+- [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
 - [ ] Reliability society - Magazine
+- [ ] AIAA- CNS
+- [ ] AIAA- Risk Profile
 
 
 ## task Breakdown
@@ -40,7 +43,6 @@ kanban-plugin: board
 
 ## Target-Conferences
 
-- [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
 - [ ] GLOBECOM
 - [ ] WoWMoM
 - [ ] EUCNC - https://www.eucnc.eu/about/announcement-eucnc-6g-summit-2027/
