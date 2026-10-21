@@ -664,3 +664,28 @@ Sources:
 - [RIS optimisation in Sionna RT (arXiv 2501.05817)](https://export.arxiv.org/pdf/2501.05817)
 - [RIS base stations via ray tracing (arXiv 2507.08611)](https://arxiv.org/pdf/2507.08611)
 - [TS 22.125 §7.2 C2 KPIs](https://www.itecspec.com/3gpp/22.125/s/7.2)
+
+
+# Why snapshots instead of Velocity
+
+The idea in plain terms: we took photos, not a video, and we need to argue the photos are good enough.
+
+**What we have.** Sionna gave us 156 "photos" of the radio signal, one at each drone position. We never said how fast the drone flies between them.
+
+**The worry (Doppler).** When something moves, the signal it receives changes over time. That is the Doppler effect, the same thing that changes an ambulance siren's pitch as it passes. If the drone moved fast enough, the signal would change *while* a message is being received. A single photo would then be the wrong picture.
+
+**The argument.** Instead of choosing a speed, we ask: how fast would the drone have to fly before the photos stop being valid?
+- The signal stays practically unchanged during one message unless the drone flies faster than about **160 km/h**.
+- TS 22.125 says a drone approaching a landing site flies at most **50 km/h**.
+- 50 is far below 160, so the photos are fine for landing.
+
+That is what "validity limit instead of a velocity" means. We never pick a speed; we show that any speed allowed for landing is safe.
+
+**HARQ in plain terms.** HARQ means: if a message arrives broken, the base station resends it and the drone combines the copies.
+- In our photos, every resend sees exactly the same signal, because the drone stands still in the photo.
+- That is the **worst case**. If the drone were really moving, the signal would be slightly different on each resend. A second, different chance is more likely to get through than the same bad signal again.
+- So our numbers are **pessimistic**: the real drone can only do as well or better. For a safety argument, pessimistic is what you want ("even in the worst case, the link is this reliable").
+
+**Between positions.** Two neighbouring photos are 5–10 m apart. That is far enough apart that the small signal ups and downs at one position say nothing about the next. So each position counts as a separate, independent check, and no speed is needed for that either.
+
+**One-sentence version for the paper:** we evaluate static snapshots, the snapshots are valid for any speed up to about 160 km/h (above TS 22.125's landing speeds), and treating all retransmissions as seeing the same channel gives a worst-case, safe-side reliability.
