@@ -63,7 +63,8 @@
               "title": "Oct-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,12 +229,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "71d1a947a1995e2b",
+  "active": "c164a4c886e5baa6",
   "lastOpenFiles": [
+    "PhD Kanban.md",
     "Notes/RF propogation (T2).md",
     "TODOS/Oct-2026.md",
     "Screenshot from 2026-10-20 16-23-44.png",
-    "PhD Kanban.md",
     "Notes/CNS.md",
     "TODOS/Todos.md",
     "IMG20261015143108.jpg",
