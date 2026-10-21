@@ -63,8 +63,7 @@
               "title": "Oct-2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +228,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c164a4c886e5baa6",
+  "active": "71d1a947a1995e2b",
   "lastOpenFiles": [
     "Notes/RF propogation (T2).md",
     "TODOS/Oct-2026.md",

@@ -22,6 +22,8 @@ kanban-plugin: board
 
 ## task Breakdown
 
+- [ ] workshop- poster
+- [ ] workshop- presentation
 
 
 ## Completed
