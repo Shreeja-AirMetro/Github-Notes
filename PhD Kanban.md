@@ -22,12 +22,12 @@ kanban-plugin: board
 
 ## task Breakdown
 
-- [ ] workshop- poster
 - [ ] workshop- presentation
 
 
 ## Completed
 
+- [ ] workshop- poster
 - [ ] Aeroconf - Impelmentation
 - [ ] NBIOT - Tests - Code
 - [ ] Uplink
