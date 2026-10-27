@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Oct-2026"
             }
+          },
+          {
+            "id": "e8415f8e484b4324",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,11 +223,10 @@
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
       "obsidian-kanban:Create new board": false,
-      "markwhen:Create new Markwhen file": false,
-      "card-board:CardBoard": false
+      "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "cbb717ffffc12727",
+  "active": "e8415f8e484b4324",
   "lastOpenFiles": [
     "PhD Kanban.md",
     "TODOS/Oct-2026.md",
