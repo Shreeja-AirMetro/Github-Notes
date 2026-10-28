@@ -1,6 +1,6 @@
 Technology demonstrator 
 
-PIs from ouctober - gearup for phase 2 
+PIs from october - gearup for phase 2 
 SML grand opening April 2027 
 
 Check on promises 
