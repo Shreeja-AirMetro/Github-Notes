@@ -44,3 +44,10 @@ queuing theory
 approaches - statistics based, risk based, procedure based, physics based 
 ARIA - Airborne Risk identification and assessment 
 important sampling 
+
+Wake Vortex Encounter Risk
+
+
+
+The work 
+Sides Top view - LOS - Bottom view (Outcome)
