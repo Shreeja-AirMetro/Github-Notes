@@ -11,6 +11,8 @@ Zig zag like risk based on environment flying
 Cluster B - cohort 1 presentation 
 Ashraf - Comm Nav data 
 
+Risk - ground and Air Risk
+SAIL category
 
 To dos:
 Risk Profile 
