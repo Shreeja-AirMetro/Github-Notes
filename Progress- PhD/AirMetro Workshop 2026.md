@@ -30,3 +30,5 @@ communication didn't work in Kamenz ///
 down wash and impacts 
 Factor graph methods for sensor fusion 
 
+sat based collision avoidance - delusion of precision 
+
