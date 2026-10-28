@@ -23,4 +23,6 @@ LAWN
 Signal improvement 
 
 
-	
+Kamenz drone 2 LTE and Satcom - iridum 
+
+communication didn't work in Kamenz ///
