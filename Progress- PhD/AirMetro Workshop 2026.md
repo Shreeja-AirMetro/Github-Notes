@@ -41,4 +41,5 @@ system engineering
 
 queuing theory 
 
-approaches - statistics based, risk based, 
+approaches - statistics based, risk based, procedure based, physics based 
+ARIA - Airborne Risk identification and assessment 
