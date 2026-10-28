@@ -5,4 +5,9 @@ SML grand opening April 2027
 
 Check on promises 
 	Publications, Mobility windows, Int tutor, Theoriical and Experimental Studies 
+
+Zig zag like risk based on environment flying 
+	Comm , Nav 
+Cluster B - cohort 1 presentation 
+
 	
