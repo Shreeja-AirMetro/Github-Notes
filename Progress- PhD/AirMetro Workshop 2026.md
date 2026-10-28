@@ -43,3 +43,4 @@ queuing theory
 
 approaches - statistics based, risk based, procedure based, physics based 
 ARIA - Airborne Risk identification and assessment 
+important sampling 
