@@ -9,7 +9,7 @@ Check on promises
 Zig zag like risk based on environment flying 
 	Comm , Nav 
 Cluster B - cohort 1 presentation 
-
+Ashraf - Comm Nav data 
 
 
 To dos:
@@ -17,5 +17,6 @@ Risk Profile
 
 LAWN 
 Signal improvement 
+
 
 	
