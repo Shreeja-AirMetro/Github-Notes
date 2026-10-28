@@ -32,3 +32,11 @@ Factor graph methods for sensor fusion
 
 sat based collision avoidance - delusion of precision 
 
+
+
+john shortel
+
+public uni - virginia 
+system engineering 
+
+queuing theory 
