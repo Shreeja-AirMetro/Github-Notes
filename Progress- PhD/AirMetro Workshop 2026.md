@@ -47,10 +47,10 @@ important sampling
 
 Wake Vortex Encounter Risk
 LOS - Loss of Separation 
-Dynamic Tree 
+Dynamic Tree - fault tree analysis
 low fidelity simulation 
 
-
+VAE - Safety corridor 
 
 The work 
 Sides Top view - LOS - Bottom view (Outcome)
