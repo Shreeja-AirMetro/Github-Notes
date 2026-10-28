@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOS/Oct-2026.md",
+                "file": "Progress- PhD/AirMetro Worksshop 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oct-2026"
+              "title": "AirMetro Worksshop 2026"
             }
           }
         ],
@@ -217,8 +217,9 @@
   },
   "active": "cbb717ffffc12727",
   "lastOpenFiles": [
-    "PhD Kanban.md",
     "TODOS/Oct-2026.md",
+    "Progress- PhD/AirMetro Worksshop 2026.md",
+    "PhD Kanban.md",
     "Notes/RF propogation (T2).md",
     "Screenshot from 2026-10-20 16-23-44.png",
     "Notes/CNS.md",
