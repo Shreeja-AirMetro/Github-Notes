@@ -17,7 +17,7 @@ Search for publication - public link - Tools
 outdoor 80k Lidar 
 
 To dos:
-Risk Profile 
+Risk Profile - SAIL
 
 LAWN 
 Signal improvement 
@@ -28,3 +28,5 @@ Kamenz drone 2 LTE and Satcom - iridum
 communication didn't work in Kamenz ///
 
 down wash and impacts 
+Factor graph methods for sensor fusion 
+
