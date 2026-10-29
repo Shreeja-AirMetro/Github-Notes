@@ -72,3 +72,5 @@ Alex - Mesh network - Add data
 extension of digital twin 
 
 fault tolerance and semantic merging 
+
+motor/ propeller  - wind and gusts 
