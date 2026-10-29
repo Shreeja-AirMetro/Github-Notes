@@ -58,3 +58,8 @@ Sides Top view - LOS - Bottom view (Outcome)
 
 Reliability is concept and metric 
 When things are not safe - often cause Harm - Means not reliable 
+
+---
+
+# Janna Presentation
+
