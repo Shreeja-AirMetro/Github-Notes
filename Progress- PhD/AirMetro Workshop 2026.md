@@ -63,3 +63,6 @@ When things are not safe - often cause Harm - Means not reliable
 
 # Janna Presentation
 
+
+Andrea
+Aero Elasticity 
