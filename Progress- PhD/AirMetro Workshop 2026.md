@@ -70,3 +70,5 @@ Aero Elasticity
 
 Alex - Mesh network - Add data 
 extension of digital twin 
+
+fault tolerance and semantic merging 
