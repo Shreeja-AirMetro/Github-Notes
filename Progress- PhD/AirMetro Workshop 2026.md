@@ -66,3 +66,7 @@ When things are not safe - often cause Harm - Means not reliable
 
 Andrea
 Aero Elasticity 
+
+
+Alex - Mesh network - Add data 
+extension of digital twin 
