@@ -74,3 +74,9 @@ extension of digital twin
 fault tolerance and semantic merging 
 
 motor/ propeller  - wind and gusts 
+
+
+---
+
+day 3
+
