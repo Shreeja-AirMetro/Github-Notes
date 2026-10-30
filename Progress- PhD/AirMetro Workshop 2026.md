@@ -80,3 +80,5 @@ motor/ propeller  - wind and gusts
 
 day 3
 
+OGN FLarm less600 AGL 
+higher - high 
