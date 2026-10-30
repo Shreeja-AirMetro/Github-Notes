@@ -84,3 +84,9 @@ OGN FLarm less600 AGL
 higher - high 
 
 operational research 
+
+
+User
+Society
+tech 
+Buiness 
