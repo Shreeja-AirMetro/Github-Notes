@@ -80,7 +80,8 @@ motor/ propeller  - wind and gusts
 
 day 3
 
-OGN FLarm less600 AGL 
+OGN 
+FLarm dont perform well less600 AGL - disappear from radar 
 higher - high 
 
 operational research 
