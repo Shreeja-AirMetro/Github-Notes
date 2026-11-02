@@ -8,21 +8,21 @@ kanban-plugin: board
 
 - [ ] Satcom Hardware
 - [ ] Mesh Hardware
-- [ ] IEEE Access - Simulator
 
 
 ## Immediate Deadlines
 
 - [ ] AESS Journal - C2
 - [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
-- [ ] AIAA- CNS
-- [ ] AIAA- Risk Profile
 - [ ] Sustainable and Intelligent Connectivity for Low-Altitude Wireless Networks https://www.nature.com/collections/hecdcdaahf
 
 
 ## task Breakdown
 
 - [ ] workshop- presentation
+- [ ] AIAA- CNS
+- [ ] IEEE Access - Simulator
+- [ ] AIAA- Risk Profile
 
 
 ## Completed
