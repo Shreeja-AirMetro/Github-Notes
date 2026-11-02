@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress- PhD/Research stay.md",
+                "file": "TODOS/Nov 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research stay"
+              "title": "Nov 2026"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "088837f2bf857b59",
   "lastOpenFiles": [
+    "Progress- PhD/Research stay.md",
     "TODOS/Nov 2026.md",
     "PhD Kanban.md",
     "Progress- PhD/AirMetro Workshop 2026.md",
@@ -255,7 +256,6 @@
     "Progress- PhD/Lessons.md",
     "TODOS/Feb 2026.md",
     "TODOS/Jan 2026.md",
-    "TODOS/Dec 2025.md",
     "September.pdf",
     "Mathematical_Framework.pdf",
     "AeroConf_2026.pdf",

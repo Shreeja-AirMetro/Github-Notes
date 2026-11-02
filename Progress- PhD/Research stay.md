@@ -160,4 +160,77 @@ Would you like me to:
 2. Search for **DAAD funding deadlines** for 2027 research stays?
     
 3. Help you **structure the "Future Work" section** of your current paper to pave the way for this stay?
-4. 
+
+
+
+---
+
+Based on their research backgrounds and publications, Weijie Yuan is the strongest direct match for Low-Altitude Wireless Communication for Drones (UAV communications).
+
+Several other researchers on your list also have relevant expertise in aerial networks, wireless communications, and sensing.
+
+## Ranking of researchers by relevance
+
+|Researcher|Relevance|Reason|
+|---|---|---|
+|1. Weijie Yuan|Very high|Direct research on UAV communications, low-altitude wireless networks, predictive beamforming, and integrated sensing and communication.|
+|2. Mohamed-Slim Alouini|Very high|Research on aerial networks, airborne-ground communications, and wireless connectivity using aerial platforms.|
+|3. Jiacheng Wang|High|Wireless sensing, integrated sensing and communications (ISAC), and emerging wireless networks.|
+|4. Ana García Armada|Relevant|Broad expertise in wireless communications, signal processing, and communications systems.|
+
+## Why these researchers are particularly relevant
+
+1. Weijie Yuan — Best choice
+
+His official SUSTech profile explicitly lists:
+
+- UAV communications.
+    
+- Learning-based predictive beamforming for UAV communications.
+    
+- Integrated radar sensing and communications.
+    
+- Vehicular and low-altitude wireless networks.
+    
+
+He has also published Location-aware Predictive Beamforming for UAV Communications: A Deep Learning Approach.
+
+SUSTech+1
+
+2. Mohamed-Slim Alouini — Strong choice
+
+His research includes integrated ground-airborne-space networks and aerial communication systems, particularly using aerial platforms to provide wireless connectivity.
+
+kaust.edu.sa+1
+
+3. Jiacheng Wang — Supporting expertise
+
+His work focuses on wireless sensing and integrated sensing and communications, which are important for drone detection, localization, and communication.
+
+Wang Jiacheng+1
+
+4. Ana García Armada — Supporting expertise
+
+Her background is in wireless communications and signal processing, although I found less direct evidence of drone-specific research.
+
+IEEE Communications Society
+
+## My recommendation
+
+If you are selecting researchers for a project, collaboration, or academic review on Low-Altitude Wireless Communication for Drones, I would prioritize:
+
+1. Weijie Yuan — direct UAV communication expertise.
+    
+2. Mohamed-Slim Alouini — aerial wireless networks.
+    
+3. Jiacheng Wang — wireless sensing and ISAC.
+    
+4. Ana García Armada — wireless communication expertise.
+    
+
+The remaining three (Shuangyang Li, Braham Himed, and Maria Sabrina Greco) are less clearly matched to drone wireless communications based on the evidence I found.
+
+In particular, I would contact Weijie Yuan first. His research is directly aligned with your topic.
+
+
+---
