@@ -15,18 +15,20 @@ kanban-plugin: board
 - [ ] AESS Journal - C2
 - [ ] ACM Mobisys -https://www.sigmobile.org/mobisys/2027/
 - [ ] Sustainable and Intelligent Connectivity for Low-Altitude Wireless Networks https://www.nature.com/collections/hecdcdaahf
+- [ ] Multi-path
+- [ ] IEEE Access
 
 
 ## task Breakdown
 
-- [ ] workshop- presentation
 - [ ] AIAA- CNS
-- [ ] IEEE Access - Simulator
 - [ ] AIAA- Risk Profile
+- [ ] IEEE Access - Simulator
 
 
 ## Completed
 
+- [ ] workshop- presentation
 - [ ] workshop- poster
 - [ ] Aeroconf - Impelmentation
 - [ ] NBIOT - Tests - Code
