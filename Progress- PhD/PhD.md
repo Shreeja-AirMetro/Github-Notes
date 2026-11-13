@@ -1,4 +1,5 @@
 Path Nov 2026 - Dec 2027
+https://www.youtube.com/watch?v=je8CjwcPXTQ
 
 # PhD Projects & Tasks — T9.1 Reliable & Resilient C2 for UAV BVLOS
 
