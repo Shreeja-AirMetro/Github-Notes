@@ -1201,3 +1201,127 @@ A Telecom Perspective on the Internet of Drones: From LTE-Advanced to 5G
 ---
 
 ![[Mathematical_Framework.pdf]]
+
+
+
+I checked your table against the config that actually produced your paper data. The TN block is correct. **The NTN block is wrong in six places**, and the carrier aggregation row is wrong in both blocks.
+
+**How I checked:** run 0 of your `Aeroconf/HO-DL` data matches `intans/simulations/uavTest/results/CBR-DL/-0.sca` exactly (for example, NTN mean DL SINR is 13.189 dB in both). That run's header says `inifile omnetpp.ini`. The NTN values in your table come from `omnetpp_TN.ini` and the LEON demo instead. Those files were never used for these runs.
+
+## Corrections to the general table
+
+| Row | Your table | What the runs used | Source |
+|---|---|---|---|
+| NTN carrier frequency | 2 GHz | **30 GHz** (Ka-band, CC1) | [omnetpp.ini:181](simulations/uavTest/omnetpp.ini#L181) |
+| Satellite antenna gain | 51 dBi | **30 dBi** | [:165](simulations/uavTest/omnetpp.ini#L165) |
+| AUE antenna gain (NTN) | 4 dBi | **39.7 dBi** | [:168](simulations/uavTest/omnetpp.ini#L168) |
+| NTN thermal noise | −69.06 dBm | **−104.5 dBm** | [:152](simulations/uavTest/omnetpp.ini#L152) |
+| NTN NF (sat / AUE) | 28.9 / 0 dB | **4.276 / 1.2 dB** | [:156-160](simulations/uavTest/omnetpp.ini#L156-L160) |
+| NTN cable loss | 0 dB | **2 dB** | [:148](simulations/uavTest/omnetpp.ini#L148) |
+| Carrier aggregation (both blocks) | Enabled | **Not used.** TN runs on CC0 and NTN on CC1, one carrier per link | [:186-201](simulations/uavTest/omnetpp.ini#L186-L201) |
+
+The TN values (18/0 dBi, NF 5/7 dB, −104.5 dBm, 2 dB) aren't set in the ini. They are the Simu5G NED defaults, and they match your table. The 39.7 dBi gain and 1.2 dB NF are the TR 38.821 Ka-band VSAT UE values, so you can cite that if a reviewer asks why a UAV has that much gain.
+
+Your pipeline docstring says the ini values "match Table sim-params exactly". That's not true, so you may want to fix that comment.
+
+```latex
+\begin{table}[ht]
+\centering
+\caption{TN and NTN Parameters}
+\begin{tabular}{ll}
+\toprule
+\textbf{Parameter} & \textbf{Value} \\ \midrule
+\multicolumn{2}{l}{\textit{Terrestrial Network (TN)}} \\
+Carrier Frequency & 5 GHz \\
+Numerology / Bandwidth & $\mu=0$ (15 kHz), 52 RBs ($\approx$10 MHz) \\
+Channel Model & 3GPP TR 38.901 (Rural Macro) \\
+Number of gNodeBs & 6 (X2-connected) \\
+Transmit Power (gNodeB / AUE) & 46 dBm / 26 dBm \\
+Antenna Gain (gNodeB / AUE) & 18 dBi / 0 dBi \\
+Thermal Noise & $-104.5$ dBm \\
+Noise Figure (BS / AUE) & 5 dB / 7 dB \\
+Cable Loss & 2 dB \\
+\midrule
+\multicolumn{2}{l}{\textit{Non-Terrestrial Network (NTN)}} \\
+Carrier Frequency & 30 GHz (Ka-band) \\
+Numerology / Bandwidth & $\mu=0$ (15 kHz), 52 RBs \\
+Channel Model & 3GPP TR 38.811 (Rural) \\
+Constellation & 22 LEO satellites (TLE) \\
+Transmit Power (Satellite / AUE) & 46 dBm / 26 dBm \\
+Antenna Gain (Satellite / AUE) & 30 dBi / 39.7 dBi \\
+Thermal Noise & $-104.5$ dBm \\
+Noise Figure (Satellite / AUE) & 4.276 dB / 1.2 dB \\
+Cable Loss & 2 dB \\
+Feeder Link & Ground gateway (43.2 dBi, 49.1 dBm, 4 dB loss) \\
+\midrule
+\multicolumn{2}{l}{\textit{Common}} \\
+Interference & Not considered \\
+Fading / Shadowing & Enabled (Jakes) / Enabled \\
+Carrier Allocation & TN on CC0, NTN on CC1 (no CA) \\
+Handover & Enabled; hysteresis 20, latency 50 ms \\
+Min. SINR for attachment (TN / NTN) & 1 dB / 3 dB \\
+Cell broadcast interval (TN / NTN) & 1 s / 5 s \\
+CQI Period / Target BLER & 40 TTI / 0.01 \\
+AUE Altitude & 100 m \\
+Traffic (DL / UL) & CBR, 100 B / 150 B every 20 ms \\
+Simulated Time (DL / UL) & 500 s / 560 s \\
+Monte-Carlo Runs (DL / UL) & 29 / 30 \\
+\bottomrule
+\end{tabular}
+\end{table}
+```
+
+I listed 46 dBm for the satellite because `**.eNodeBTxPower` applies to all base stations. I didn't check that the NTN PHY actually reads that parameter. The run counts are 29/30 because HO-DL has no run 16.
+
+## Phase parameters
+
+These come from `CFG` in `resilience_pipeline.py`. The calibrated values (γ thresholds, stability cuts, episode counts) are what I got by running its extraction functions on your HO-DL and HO-UL data. I didn't write any figures.
+
+```latex
+\begin{table}[ht]
+\centering
+\caption{Resilience Phase Segmentation Parameters (DL / UL)}
+\begin{tabular}{lll}
+\toprule
+\textbf{Parameter} & \textbf{Symbol} & \textbf{Value} \\ \midrule
+\multicolumn{3}{l}{\textit{Common}} \\
+TN/NTN serving-cell debounce (min.\ dwell) & $\tau_{db}$ & 1.5 s \\
+Max.\ look-back for triggering crossing & $T_{lb}$ & 15 s \\
+Stability evaluation window & $W_{st}$ & 2 s \\
+\midrule
+\multicolumn{3}{l}{\textit{Proactive phase (S1)}} \\
+PHY: SINR trend window & $W_{tr}$ & 2 s \\
+PHY: SINR trend threshold (median slope at failover) & $\gamma_{tr}$ & $-0.98$ / $+1.40$ dB/s \\
+NET: HARQ error-rate smoothing window & $W_{H}$ & 1 s \\
+NET: HARQ early-warning threshold (90th pct.) & $\gamma_{H}$ & 0.245 / 0.892 \\
+Fitted distribution (PHY / NET) & -- & Log-normal / Shifted exp. \\
+Episodes (PHY / NET) & $n$ & 24/2581 \;|\; 21/3122 \\
+\midrule
+\multicolumn{3}{l}{\textit{Reactive phase (S2)}} \\
+PHY: failover threshold (20th pct.\ TN SINR) & $\gamma_{fo}$ & 13.03 / $-3.71$ dB \\
+PHY: NTN pre-qualification (60th pct.\ NTN SINR) & $\gamma_{pq}$ & 14.96 / $-8.33$ dB \\
+PHY: pre-qualification window before failover & -- & 2 s \\
+NET: outage inter-arrival gap threshold & $\tau_{out}$ & 0.2 s \\
+NET: fast/slow label & -- & TN$\to$NTN failover within $\pm$2 s \\
+Fitted distribution (PHY / NET) & -- & 2-comp.\ Weibull mixture \\
+Episodes (PHY / NET) & $n$ & 107/2915 \;|\; 70/4176 \\
+\midrule
+\multicolumn{3}{l}{\textit{Post-corrective phase (S3)}} \\
+PHY: max.\ search for NTN$\to$TN return & $T_{ret}$ & 60 s \\
+PHY: TN SINR stability cut (35th pct.\ std) & $\sigma_{st}$ & 4.19 / 4.49 dB \\
+NET: post-outage search window & -- & 30 s \\
+NET: latency stability cut (35th pct.\ std) & $\sigma_{L}$ & 1.21 / 7.25 ms \\
+Fitted distribution (PHY / NET) & -- & Gamma / Log-normal \\
+Episodes (PHY / NET) & $n$ & 99/2679 \;|\; 69/3855 \\
+\bottomrule
+\end{tabular}
+\end{table}
+```
+
+In the episode rows, the figures before `|` are DL and the figures after are UL.
+
+## Problems in the phase extraction
+
+1. **The UL proactive threshold is positive (+1.40 dB/s).** S1 is detected while the SINR slope is below γ_tr. With a positive γ_tr, flat or even rising SINR counts as "degradation". So UL PHY S1 doesn't really detect a decline.
+2. **S3 is often only one sample long.** PHY S3 has a median of 0.10 s in both directions, and DL NET S3 has a median of 0.02 s, which is one packet interval. The stability test passes almost immediately, so S3 mostly reflects the sampling resolution rather than a real re-stabilization time.
+3. **The UL data can only be matched indirectly.** The original CBR-UL result files were overwritten on Oct 9. The Oct 9 runs use the same radio values, and git shows the NTN block in the ini hasn't changed since July. So the UL table values should be right, but I couldn't match the UL data byte-for-byte as I did for DL.
