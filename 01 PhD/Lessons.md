@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Lessons from workshops/talks (map research to application, structure-flow-clarity-speed), 23-month timeline to Oct 2027, concrete algorithm variants (multipath scheduler, network coding, predictive availability, LEO fallback), OMNeT++ → testbed plan, and Prashanth talk notes.
+>
+> **Target / goal:** Keep take-aways and the concrete algorithm/experiment list in one place.
+
 Lessons from workshop 
 - Aßmann -map abstract research findings  to application 
 - Be clear about goals target question and map the path 

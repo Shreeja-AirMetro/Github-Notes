@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Earlier INTANS work: CeTI book chapter outline on NTN, a planned VTC 6G magazine paper (29 Aug), and a critical evaluation of the INTANS paper for the IEEE Future Networks 6G special issue.
+>
+> **Target / goal:** Keep the history of the simulator write-ups that led to J1.
+
 CeTi book structure - NTN
 
 - **What is NTN** - why NTN started, what is NTN , how this is gonna transform the paradigm

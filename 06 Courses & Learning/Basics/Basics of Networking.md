@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Self-study plan: probability and statistics for communications, UAV communication topics, SORA classes and their effect on protocol choice, design philosophies of 4G/5G/Satcom, physical layer and signal theory phases.
+>
+> **Target / goal:** Fill gaps in networking and communication theory.
+
 ## **Week 1: Probability Foundations and Communication Systems**
 
 **Day 1: Introduction & Probability Models**

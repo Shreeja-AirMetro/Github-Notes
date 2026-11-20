@@ -1,7 +1,7 @@
 ---
-
 kanban-plugin: board
-
+summary: "Kanban board: in progress, immediate deadlines, task breakdown, completed, target conferences/journals, misc tasks, thesis, milestones, future plan."
+goal: "Visual overview of PhD work status."
 ---
 
 ## In Progress

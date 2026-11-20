@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Doodle Labs mesh node setup: Pixhawk → MAVLink router → Raspberry Pi → mesh → QGC chain, component list, evaluation kit, step-by-step connection, network config, mounting and wiring.
+>
+> **Target / goal:** Get the Wi-Fi mesh link working on the drone for A2G/A2A tests.
+
 **==This page is for Mesh device setup==** 
 - UAV mesh node setup 
 - Initial idea 

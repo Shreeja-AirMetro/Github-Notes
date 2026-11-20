@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Ubuntu server vs desktop, Linux infrastructure choice, and the VM setup of the multi-link emulator (UAV OS, terminal, cell control, cell emulator).
+>
+> **Target / goal:** Build the VM-based multi-link (cell + Satcom) emulator.
+
 The differences between **Ubuntu Server**, **Ubuntu Desktop**, and other **Linux infrastructure variants** mainly revolve around their intended use, included software, and system resource requirements.
 
 ---

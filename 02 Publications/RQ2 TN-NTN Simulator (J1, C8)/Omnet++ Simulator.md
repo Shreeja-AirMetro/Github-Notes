@@ -1,3 +1,8 @@
+> [!summary] Summary
+> OMNeT++/INET/Simu5G/LEON technical notes: C++ rules, simulator structure (LEON, Veins-LEON), NR resource management, 3GPP specs used, UAV customisation, antenna-gain-to-SINR math, build pipeline and ini snippets.
+>
+> **Target / goal:** Understand and extend the TN-NTN simulator for UAV scenarios.
+
 
 C++ Rule of three - Memory based coding - dynamically allocated objects and memory
 

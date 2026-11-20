@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ComNets 2 revision sheet: glossary, concept maps (NFV, SDN, MEC, slicing, TSN), 5G core and RAN flows, common mix-ups, full term glossary.
+>
+> **Target / goal:** Pass the ComNets 2 oral exam.
+
 https://github.com/binhfdv/pcl_handson 
 
 16 slides 

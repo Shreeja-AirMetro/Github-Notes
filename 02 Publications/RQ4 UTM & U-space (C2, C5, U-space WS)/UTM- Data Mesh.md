@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Big background note on UTM/U-space and data mesh: principles mapped to U-space, contrast with centralised ATM, 5G role, federated architecture, MEC placement and ownership, service migration, paper proposals and references.
+>
+> **Target / goal:** Knowledge base for the UTM line: C2, C5 and the U-space workshop paper.
+
 
 ### UTM 
 - What communication 5G especially play a role in UTM 

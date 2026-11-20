@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Multipath topic with Hansini: key references (MPTCP, MP-QUIC, multi-connectivity reliability), explored ideas and gaps.
+>
+> **Target / goal:** Scope the multipath C2 conference paper (split from J3).
+
 
 1. Topic with hansini 
 

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> 3D-printing workshop notes (19/1, Sven and Robert): basics, materials, cleaning, metal printing.
+>
+> **Target / goal:** Know how to print mounts for the drone payload.
+
 Workshop 
 
 19/1

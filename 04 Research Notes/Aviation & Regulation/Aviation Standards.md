@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ATN/IPS standards for AAM (ICAO Doc 9896, Annex 10, Doc 9750 RCP, FAA/EUROCONTROL), and whether ICAO and 3GPP work together on UAS communication.
+>
+> **Target / goal:** Regulatory and standards background for RCP / C2.
+
  Standards & Regulations for ATN IPS in AAM
 
 1.1 ICAO Standards (Global)

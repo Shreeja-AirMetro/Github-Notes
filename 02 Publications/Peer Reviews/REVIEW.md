@@ -1,3 +1,8 @@
+> [!summary] Summary
+> How to review a paper, and received/written reviewer comments for an IEEE TNSM manuscript on AeBS deployment, with notes from the paper.
+>
+> **Target / goal:** Template and record for peer reviews.
+
 1. Paper review measures 
 	 - Skim the abstract, introduction and conclusion - identify if the RQ is clear 
 	 -  Clarity, Structure , Methods, Results, Discussion and novelty

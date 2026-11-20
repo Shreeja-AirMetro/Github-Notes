@@ -1,3 +1,8 @@
+> [!summary] Summary
+> All 2025 tasks in one file, by period: Aug 2025 (Dronnect proposal), goal towards 13 Nov, Nov 2025, Dec 2025, the end-2025 open-tasks snapshot and the learning plan.
+>
+> **Target / goal:** Archive of 2025 tasks; open items can be carried into the 2026 plan.
+
 # 2025 Todos
 
 > All 2025 task files merged into one: `TODOS/Todos.md` (Aug and late 2025), `TODOS/Nov 2025.md`, `TODOS/Dec 2025.md` and `Basics/Todos.md`.

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Why do a PhD (intention vs goal), what a UAV/UAM network-protocol job involves, tech stack, employers, job titles for 2027–29, how to prepare, and regional job markets in Asia.
+>
+> **Target / goal:** Keep the personal purpose of the PhD and the target career role in view.
+
 Purpose of my PHD it doesn't document my goal / but the actual intention and path 
 
 ---

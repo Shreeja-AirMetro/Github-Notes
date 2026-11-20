@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Resilience theory and C2 verification: resilience against environment/EMI/cyber, formal verification (model checking, LTL), HIL and fault injection, DO-178C/DO-160G, RCP verification, workflow from data to proof, AIAA/Aeroconf key points, phase parameters.
+>
+> **Target / goal:** Foundation for C3 (Aeroconf 2027) and its journal extension J2 (IEEE TAES).
+
 
 Resilience – Some information
 

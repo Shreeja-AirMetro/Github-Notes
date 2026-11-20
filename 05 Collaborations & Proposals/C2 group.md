@@ -1,3 +1,8 @@
+> [!summary] Summary
+> C2 working group meeting minutes (from 24/4), regulatory framework, C2 requirements per operational phase, technical insights, risks and open questions, international organisations.
+>
+> **Target / goal:** Contribute to the C2 group's findings document.
+
 Meeting minutes 24/4
 - Members introduction 
 - Initial steps, activities - use case

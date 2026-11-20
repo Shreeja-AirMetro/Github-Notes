@@ -3,6 +3,8 @@ marp: true
 theme: default
 paginate: true
 backgroundColor: #fff
+summary: "Collaboration with Enrique on deriving RCP for UAV C2 over TN/NTN: DRCN call and draft (4-phase RCP method), meeting questions, simulator to-dos (TN/NTN UL/DL data), OMNeT++ .vec recording advice for RCP metrics. This work became C1 (FNWF 2026, accepted)."
+goal: "Produce the RCP → 3GPP KPI paper (C1) and its simulation data."
 ---
 
 # Collaboration with Enrique 

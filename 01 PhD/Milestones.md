@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Large collection: foundational learning todos, paper ideas for UAVs in ITS, low-altitude network (LAWN) definitions, COMST survey suitability, 'is my topic too broad' analysis with objectives 1–3, U-space/UTM and edge computing overview, and a cross-layer orchestration PhD roadmap.
+>
+> **Target / goal:** Shape the PhD into a focused, novel project and record candidate milestones and paper scopes.
+
 
 Foundational 
 - [ ] CCNA and Network basics  - May 2026 

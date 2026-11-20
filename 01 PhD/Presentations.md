@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Notes for talks, starting with the 13–14 Nov winter workshop: goal of communication in AAM/CNS (technology, message, link quality, optimisation) and talk content.
+>
+> **Target / goal:** Collect content and feedback for PhD presentations.
+
 13-14th winter workshop 
 
 What's the goal of communication in AAM - CNS 

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ComNets 3 (quantum) lecture notes: single and multi-qubit operations, quantum states as vectors.
+>
+> **Target / goal:** Prepare the ComNets 3 exam.
+
 1. single and multi- qubits operation 
 
 

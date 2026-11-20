@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Converted Word doc (chat export): goals of Wi-Fi/5G/Satcom networks in AAM — reliable low-latency C2, seamless connectivity, throughput, safety/redundancy, scalability — and follow-up Q&A.
+>
+> **Target / goal:** Early framing of the role of communication networks in AAM.
+
 > Converted from ![[phd.docx]] (original kept in Attachments).
 
 Skip to content

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> RF propagation and antenna notes from the T2 collaboration: A2G channel surveys, measurement studies, near-field vs far-field, CSI impact, URLLC implications.
+>
+> **Target / goal:** Physical-layer background for the LAWN/RIS work.
+
 
 Here are several key academic papers and surveys on antenna placement and propagation modeling related to UAVs:
 

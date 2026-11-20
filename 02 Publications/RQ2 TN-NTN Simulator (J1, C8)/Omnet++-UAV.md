@@ -3,6 +3,8 @@ marp: true
 theme: default
 paginate: true
 backgroundColor: #fff
+summary: "Slides (Marp) for the meeting with Lyuqiao: goal, three candidate methods to add a UAV air segment, outlook."
+goal: "Decide how to model the UAV in OMNeT++."
 ---
 Meeting with LyuQiao 
 

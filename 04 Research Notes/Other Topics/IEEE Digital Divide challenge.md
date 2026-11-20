@@ -1,3 +1,8 @@
+> [!summary] Summary
+> IEEE Connecting the Unconnected challenge 2026: rules, themes, state of the art, ideas.
+>
+> **Target / goal:** Decide on a challenge submission.
+
 
 # Requirement 
 

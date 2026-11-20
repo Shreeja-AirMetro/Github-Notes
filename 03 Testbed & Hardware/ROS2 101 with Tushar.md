@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ROS 2 intro with Tushar (27/11): Pixhawk–AGX connections, lidar/camera over Ethernet, ROS in Docker, version compatibility.
+>
+> **Target / goal:** Set up ROS 2 on the companion computer.
+
 27/11
 
 connections

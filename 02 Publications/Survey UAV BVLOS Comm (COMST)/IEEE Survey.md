@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Survey plan: to-dos, outline (BVLOS requirements, A2A, A2G, UTM, Satcom/5G/6G/RIS, regulation, open challenges), comprehensive list of surveys/tutorials/standards (3GPP, ITU, IEEE, EASA, FAA), COMST fit and positioning.
+>
+> **Target / goal:** Write the UAV BVLOS communication survey for IEEE COMST.
+
 - [ ] Report on all paper - Category 
 - [ ] gaps  and contribution of the paper 
 - [ ] Paper structure 

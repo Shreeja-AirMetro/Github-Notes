@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Target conference ranking and approximate deadlines, 2026–27 conference/journal plan by topic (UTM, A2A, A2G), collaborations, societies, COMST suitability for U-space research, publication plan as of Mar 2026.
+>
+> **Target / goal:** Choose venues and deadlines (list kept unchanged).
+
 
 
 2026 - 2027 Target 

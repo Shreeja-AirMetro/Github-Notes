@@ -1,3 +1,8 @@
+> [!summary] Summary
+> All papers (published, in pipeline, planned) with tracker IDs, venues, status, key dates, RQ/chapter mapping, and links to the notes for each; lists ID/date conflicts between the trackers.
+>
+> **Target / goal:** Keep the vault's paper notes aligned with the Research Matrix, the Planned Publications doc and the PhD Work Tracker.
+
 # Publications Index
 
 Aligned with three sources, which agree except where flagged below:

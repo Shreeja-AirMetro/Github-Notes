@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Converted Word doc: summaries of CNS papers (urban ATM CNS architecture, AAM research directions for CNS by Namuduri et al.) used for the abstract.
+>
+> **Target / goal:** Related-work input for the C4 abstract.
+
 > Converted from ![[CNS summary for Abstract.docx]] (original kept in Attachments).
 
 CNS summary for Abstract:

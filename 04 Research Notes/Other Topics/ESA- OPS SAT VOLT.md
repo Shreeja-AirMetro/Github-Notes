@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ESA OPS-SAT and OPS-SAT VOLT (optical/quantum comm), and case-study topic ideas (FSO link budget, QKD, SDR, DTN).
+>
+> **Target / goal:** Possible side topics in space communication.
+
 
 - OPS-SAT - miniature sat - for experimenting controls and software with can be then deployed in real sat network 
 - **OPS-SAT** (Operations NanoSatellite)

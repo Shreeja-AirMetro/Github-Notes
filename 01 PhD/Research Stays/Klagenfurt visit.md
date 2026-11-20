@@ -1,3 +1,8 @@
+> [!summary] Summary
+> What Enrique Caballero, Aymen Fakhreddine and Christian Bettstetter (Univ. Klagenfurt) work on, plus to-dos and the 2-week meeting plan (deadline 26 Jan) for the Jan–Mar 2026 stay.
+>
+> **Target / goal:** Prepare and run the Klagenfurt research stay.
+
 Here are concise, research-direction bullets summarizing what Enrique Caballero, Aymen Fakhreddine and Christian Bettstetter (Univ. of Klagenfurt) work on in the area of drones, with sources.
 
 1. Interference between drones and terrestrial 4G/5G users — simulation studies showing uplink interference from airborne UAVs can strongly degrade ground-user SIR/throughput; they model drones with 3GPP path-loss and use the Vienna 5G System-Level Simulator. [ACM Digital Library+1](https://dl.acm.org/doi/10.1145/3597060.3597238?utm_source=chatgpt.com)

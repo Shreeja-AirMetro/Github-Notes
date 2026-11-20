@@ -1,3 +1,8 @@
+> [!summary] Summary
+> UAV-G paper meetings (goal: BVLOS with multi-modal navigation, comm as backbone), to-learn list, OctoMap in ROS 2, KD-tree/octree lecture notes.
+>
+> **Target / goal:** Your contribution and learning for C9.
+
 ### UAV G Paper
 
 Abstract: ![[UAV_G_2025-Abstract.pdf]]

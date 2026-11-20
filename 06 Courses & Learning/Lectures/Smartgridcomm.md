@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ICT for Smart Grids lecture notes and oral-exam study guide: network technologies, PLC, protocols (Modbus, MQTT, OCPP, ISO 15118, EEBus).
+>
+> **Target / goal:** Pass the Smart Grid communication oral exam.
+
 15/4 lecture - Rico Introduction
 - ICT for Smartgrid comm
 -  Discuss with lehnert - leistung punkte  - Student issue 

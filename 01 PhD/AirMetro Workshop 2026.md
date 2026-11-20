@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Notes from the AirMetro workshop 2026: technology demonstrator, phase 2 gear-up, SML opening April 2027, RTG promises (publications, mobility, tutors), Janna's data presentation.
+>
+> **Target / goal:** Record RTG-level expectations and follow-ups from the workshop.
+
 Technology demonstrator 
 
 PIs from october - gearup for phase 2 

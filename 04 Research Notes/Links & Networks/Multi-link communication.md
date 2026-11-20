@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Multi-link C2 notes: SD-WAN routing over Satcom+cellular, products, A2A options, Wi-Fi for A2A in U-space, EASA ADS-L.
+>
+> **Target / goal:** Background on multi-link and A2A technologies.
+
 -  Satellite and cellular data can both be intelligently routed through an SD-WAN connection to cloud services, with separate paths and QoS for C2 and telemetry. https://www.unmannedsystemstechnology.com/2025/04/miniature-satcom-cellular-solutions-for-commercial-bvlos-drone-operations/
 - 
 - https://www.unmannedsystemstechnology.com/2025/05/ground-control-unveils-rockblock-pro-for-enhanced-satellite-iot-connectivity/

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Planned submissions: VTC 2026 Spring (data-mesh U-space idea, timeline) and WCNC 2026 (low-altitude track, guidelines, LAE definitions).
+>
+> **Target / goal:** Venue notes for earlier submission ideas (kept unchanged).
+
 
 
 # VTC

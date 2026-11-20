@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Traffic Theory lecture 2 and exercise 2: probability foundations and random distributions.
+>
+> **Target / goal:** Pass the Traffic Theory written exam.
+
 
 
 # Lecture 2

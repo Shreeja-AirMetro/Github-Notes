@@ -1,3 +1,8 @@
+> [!summary] Summary
+> NTN notes (from Notion): 3GPP NTN specs, OMNeT++/Simu5G, readings, inter-satellite links, publication options, system information and SIB25 for NTN/TN coverage, INTANS journal references.
+>
+> **Target / goal:** NTN background for the simulator and handover work.
+
  // Copies from Notion 
 ### 3GPP 
 Pure Satellite/NTN specific specifications:

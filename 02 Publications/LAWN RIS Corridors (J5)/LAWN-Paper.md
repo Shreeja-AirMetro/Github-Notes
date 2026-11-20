@@ -3,6 +3,8 @@ marp: true
 theme: default
 paginate: true
 backgroundColor: #fff
+summary: "Slides (Marp) for the AirMetro T2–T9 LAWN collaboration: TVT LAWN call, motivation, gap (RIS for landing in urban canyons), Sionna CIR → FBL → RLNC method, setups, questions; Sionna RIS tutorial notes."
+goal: "Define J5: RIS-assisted 5G corridors for safe UAV landing."
 ---
 
 # AirMetro Colaboration

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> INTANS simulator paper for IEEE Access: published/unpublished versions, paper structure and figure/table plan, open-source discussion points, deadlines, and a system-design write-up (framework stack, topology, data flow, TN↔NTN handover logic).
+>
+> **Target / goal:** Write and submit J1 (IEEE Access, by 31 Dec 2026) with the open-source simulator.
+
 # INTANS simulator 
 Published versions 
 - VERON

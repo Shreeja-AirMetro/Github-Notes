@@ -1,3 +1,8 @@
+> [!summary] Summary
+> 3GPP URLLC: edge hosting, QoS, Rel-16 redundant transmission, QoS monitoring, PDB.
+>
+> **Target / goal:** URLLC mechanisms relevant to C2 reliability.
+
 ### 3GPP
 
 https://www.3gpp.org/technologies/urlcc-2022 

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Entry point to the vault: links to the PhD plan, publication index, current todos and a map of every folder.
+>
+> **Target / goal:** Find anything in the vault in one click and know where new notes belong.
+
 # Home
 
 PhD T9.1: Reliable & Resilient C2 for UAV BVLOS (RTG AirMetro, TU Dresden)

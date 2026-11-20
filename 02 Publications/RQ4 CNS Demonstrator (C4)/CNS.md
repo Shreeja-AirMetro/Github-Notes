@@ -1,3 +1,8 @@
+> [!summary] Summary
+> CNS cluster notes: single map representation with Enrique, CNS meetings, CNS requirements per flight phase, EU documentation framework, ICAO Annex 10, radio-map meeting with Roshan, Tianxiong, UAV mission profile and references.
+>
+> **Target / goal:** Build C4 (CNS technical demonstrator, AIAA AVIATION 2027) with the C2 part.
+
 Sss- Check CNS channels - for discussion related notes
 - ![[1571100595 abstract.pdf]]
 

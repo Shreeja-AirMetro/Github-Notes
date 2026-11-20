@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Network coding for multi-link UAV C2: categories (fountain, RLNC, IDNC, Tetrys, BATS, NC-MPTCP), detailed comparison, integration in a multi-link stack, recommended choice.
+>
+> **Target / goal:** Pick the coding scheme for J3 (RLNC / sliding window with LQI-adaptive redundancy).
+
 
 
 # Network Coding for Multi-Link UAV Communications: Methods, Integration Strategies, and Recommended Choice

@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Numbers for BVLOS C2 links: latency (ICAO, RTCA DO-377/362A), throughput, reliability/availability/continuity targets with sources.
+>
+> **Target / goal:** Reference KPI targets for C2 evaluation.
+
 BVLOS C2 links generally target sub‑second one‑way latency, tens to a few hundred kbps of throughput for C2/DAA data, and “five‑nines‑level” availability/continuity over the mission time.[icao+2](https://www.icao.int/filebrowser/download/4942?fid=4942)​
 
 ## Latency requirements

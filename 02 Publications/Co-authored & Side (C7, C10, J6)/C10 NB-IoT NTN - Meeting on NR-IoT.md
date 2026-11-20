@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Meeting with Krim on narrowband satellite IoT with DT (GEO/LEO, Nordic modems, Airbus users) and follow-ups.
+>
+> **Target / goal:** Background for C10 (NTN NB-IoT formal verification agent, Aeroconf 2027).
+
 
 Krim - WG with DT
 

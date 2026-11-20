@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Options for a research stay: Australia, South Korea, Singapore labs for BVLOS multi-link work, recommended professors (USA, Italy, Taiwan), approach timeline and comparison.
+>
+> **Target / goal:** Choose and plan the next international research stay.
+
 Australia, South Korea, and Singapore are global leaders in this field, each with a distinct "flavor" of research that aligns perfectly with your work on **heterogeneous multi-link communication**.
 
 In 2026/2027, these regions are shifting from "How do we connect?" to "How do we stay connected during link failure?"—which is the heart of your research.

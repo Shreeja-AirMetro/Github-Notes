@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Graduate Academy course 'Good Academic Practice during Doctoral Studies': modules on scientific integrity, plagiarism, supervision agreement, planning the doctorate.
+>
+> **Target / goal:** Complete the good-scientific-practice requirement.
+
 ### Good Scientific Practice 
 Module 1
 to the interdisciplinary online learning programme "Good Academic Practice during Doctoral Studies"!  

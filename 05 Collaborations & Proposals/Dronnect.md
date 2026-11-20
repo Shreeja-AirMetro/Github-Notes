@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Dronnect / Horizon call HORIZON-CL5-2025-04-D6-11 proposal: project summary, deliverables, use cases mapped to the call, pilots with work packages, and the Dronnect paper outline.
+>
+> **Target / goal:** Write the Dronnect proposal and the related paper.
+
 ![[payment cycle.png]] 
 
 

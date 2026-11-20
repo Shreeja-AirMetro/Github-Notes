@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Literature-synthesis checklist (themes, patterns, hypotheses, gaps → RQs), Mendeley notes, and guidance on review types (narrative, systematic, scoping) and how to combine them.
+>
+> **Target / goal:** Turn the paper library into a defensible literature review and research gap.
+
 - [ ] What's the articles I have 
 - [ ] What are the themes and key points key issues addressed what are the solutions
 - [ ] What are the patterns that connect this theme

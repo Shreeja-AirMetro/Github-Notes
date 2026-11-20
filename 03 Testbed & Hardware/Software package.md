@@ -1,3 +1,8 @@
+> [!summary] Summary
+> How to build software that commands a camera and receives data: interface types, SDKs, discovery, communication layer (Python/C++ examples), architecture, image handling.
+>
+> **Target / goal:** Guide for camera/payload software on the drone.
+
 
 To build software that can **send commands to a camera and receive data from it**, the first thing to determine is **what kind of camera you have** and how it communicates with a computer.
 

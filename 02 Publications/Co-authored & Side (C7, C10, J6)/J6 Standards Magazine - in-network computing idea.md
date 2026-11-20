@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Brainstorm and background for the Comm. Standards Magazine paper: quantum/semantic mobile core, QFSS, PQC, and long notes on 2G–5G core networks, vendors, RAN/transport/core landscape.
+>
+> **Target / goal:** Your input to J6 (Trust-Centric Semantic Mobile Core, published 2026).
+
 
 - Future core network - communication standard magazine
 - in-network computing - academia 

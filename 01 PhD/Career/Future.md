@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Very long career exploration: VC/technical-analyst path, high-potential drone/NTN/6G career paths, strongest niche 2026–2032, Linux kernel networking learning path, Asia job markets, IP/patent courses.
+>
+> **Target / goal:** Plan the career after the PhD (2028) and the skills to build now.
+
 
  If you finish a PhD in drone communications in 2028, you will actually have a profile that many VC firms struggle to hire: someone who can distinguish genuinely novel technology from marketing. AI will change how analysis is done, but it won't eliminate the need for technical judgment, especially in deep tech.
 

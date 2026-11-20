@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Plan for an extended FNWF 2026 version of the EW paper: adaptive data-mesh-governed MEC placement, multi-zone handover, SimPy DOE methodology, sensitivity and adaptive-vs-static results. Not submitted (cancelled Aug 2026).
+>
+> **Target / goal:** Reuse this extension for C5 (UTM deconfliction with link-aware MEC, June 2027).
+
 
 # Paper Structure — Extended Version for IEEE FNWF 2026
 

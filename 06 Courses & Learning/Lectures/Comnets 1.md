@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ComNets 1 study guide per lecture: Shannon, coding, multiple access, Ethernet/Wi-Fi, graphs and flows, routing, transport/TCP, network coding.
+>
+> **Target / goal:** Pass the ComNets 1 written exam.
+
 13 Lecture
 
 10 exercise

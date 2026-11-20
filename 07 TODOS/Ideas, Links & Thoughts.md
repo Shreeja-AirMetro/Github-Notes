@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Links, ideas, thoughts and meeting take-aways from the year-named task files: 2025 moved here, 2026/2027 copied verbatim with line numbers.
+>
+> **Target / goal:** One place to search for ideas and links without digging through monthly todos.
+
 # Ideas, Links & Thoughts
 
 > One place for the extra info (links, ideas, thoughts, meeting take-aways) that sat inside the year-named task files.

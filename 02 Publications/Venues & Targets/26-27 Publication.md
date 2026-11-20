@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Tables of planned and accepted conference and journal targets for 2026–27, with CFP links.
+>
+> **Target / goal:** Overview of publication targets (kept unchanged).
+
 
 # Conferences 
 

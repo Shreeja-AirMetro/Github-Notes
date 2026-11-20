@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Converted Word doc: status of semantic-communication standardisation (3GPP, ITU-T SG13 semantic-aware networking, ETSI) with references.
+>
+> **Target / goal:** Standards section input for J6.
+
 > Converted from ![[Semantic Communication Current standards and regulation.docx]] (original kept in Attachments).
 
 **Semantic Communication Current standards and regulation**

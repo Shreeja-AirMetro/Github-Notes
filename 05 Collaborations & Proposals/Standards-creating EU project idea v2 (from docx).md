@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Converted Word doc: early idea for a large EU project on dependable remote control (C2 datalink) of vehicles on land, sea and air using commercial networks; scope, use cases.
+>
+> **Target / goal:** Seed for a standards-creating EU project.
+
 > Converted from ![[Standards-creating-project-idea-v2.docx]] (original kept in Attachments).
 
 ***Very initial idea for a large EU project for dependable remote control of vehicles on land, at sea and in the air.***

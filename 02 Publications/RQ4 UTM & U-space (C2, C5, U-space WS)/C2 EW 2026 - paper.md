@@ -1,3 +1,8 @@
+> [!summary] Summary
+> European Wireless 2026 paper on edge-native data mesh for tactical deconfliction: Jiajing's comments, revision to-dos, storyline, data-mesh pillars in U-space, system model, RQs, liability gap, BUBBLES/SPATIO comparison, paper structure, figures and results.
+>
+> **Target / goal:** Write C2 (EW 2026, accepted and presented).
+
  ![[Federated Multiaccess Edge Computing Architecture for Scalable and Secure U-Space - Final (1).pdf]]
 Comments from Jiajing 
 

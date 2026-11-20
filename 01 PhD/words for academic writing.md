@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Small list of useful words and phrases for academic writing (seminal, sui generis, conceptual slippage, …).
+>
+> **Target / goal:** Improve vocabulary for papers and the thesis.
+
 - Seminal impact 
 - little cause of optimisum 
 - **Conceptual Slippage**—treating information entropy as if it were identical to physical, thermodynamic entropy. Here is why researchers argue about it:

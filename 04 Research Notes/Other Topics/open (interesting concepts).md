@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Log of interesting concepts met while reading (Sinkhorn, network flow) and talk notes (Ang Li, multimodal transport).
+>
+> **Target / goal:** Keep cross-topic ideas for later.
+
 // here I log interesting concepts as I come across while reading - might be helpful for the other topics
 
 - Sinkhorn algorithm for load balancing and congestion 

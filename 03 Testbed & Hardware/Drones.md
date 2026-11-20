@@ -1,3 +1,8 @@
+> [!summary] Summary
+> RTG drone hardware: Holybro X650, hexacopter, QGC, battery/power, RC (FrSky, SIYI MK15), 5G/Satcom terminals, protocols, auto-tuning, Remote ID, Wi-Fi card on Jetson, LTE dongle setup and troubleshooting, connectors.
+>
+> **Target / goal:** Reference for building and configuring the test drones.
+
 Equipment consideration: ![[Equipment-list-consideration.pdf]]
 Document approved during 30 sep 2024 - PI - budget meeting 
 ![[RTG 2947 AirMetro – Hardware Purchase List.pptx]]

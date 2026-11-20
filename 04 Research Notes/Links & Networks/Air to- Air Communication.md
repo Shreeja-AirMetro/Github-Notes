@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Organising A2A: what air-to-air communication is in aviation vs drones, A2G links (LDACS, ACARS), 3GPP terminology, goal of A2A in AAM.
+>
+> **Target / goal:** Define the A2A scope for the mesh work.
+
 
 // Organizing the goal and literature
 

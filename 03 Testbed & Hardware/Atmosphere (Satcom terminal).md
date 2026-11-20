@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Atmosphere Satcom terminal interface notes: serial levels (TTL 3.3 V, RS232), 4G VPN server.
+>
+> **Target / goal:** Connect the Satcom/5G terminal to the autopilot.
+
 Serial port level 
 1 TTL 3.3v UART - Autopilot 
 RS232 - 15 volts 

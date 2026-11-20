@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Numbered notebook pages N3–N7: channel vs network coding, information theory, what is done / to do / goal per page.
+>
+> **Target / goal:** Paper-notebook transcripts on coding and progress.
+
 # N7
 Check notes
 Not using online since 24thfeb 2026 - Think on paperNetwork coding 

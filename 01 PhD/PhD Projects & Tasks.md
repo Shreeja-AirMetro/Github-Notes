@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Copy of the dissertation planning file (2 Nov 2026): RQ1–RQ4 as projects, sub-questions SQx.y with tasks, internal outcomes (sims, flights, code) and external outcomes (papers); plus monograph and PhD-requirement projects.
+>
+> **Target / goal:** Single source for what has to be done per research question until the thesis draft (Dec 2027).
+
 Path Nov 2026 - Dec 2027
 https://www.youtube.com/watch?v=je8CjwcPXTQ
 

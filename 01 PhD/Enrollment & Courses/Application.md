@@ -1,3 +1,8 @@
+> [!summary] Summary
+> PhD admission requirements set by the doctoral committee (courses and credit points), talk with Uta (21/4) and your course plan.
+>
+> **Target / goal:** Fulfil the course/exam conditions for PhD enrollment.
+
 Courses to take: 
 The following examination requirements have been determined by the doctoral committee:
 

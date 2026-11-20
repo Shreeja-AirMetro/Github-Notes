@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Ambitious npj submission idea (collection deadline 13 Oct 2026): RCP methods, physical/logical link analysis, statistical toolbox (CTMC, FSMC, EVT), two-stage fusion to RCP parameters, article structure.
+>
+> **Target / goal:** Methodology ideas for multi-RAT RCP evaluation; reusable for J4 / Ch 5.
+
 
 # Wishful and ambitious try 
 

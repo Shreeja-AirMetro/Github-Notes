@@ -1,3 +1,8 @@
+> [!summary] Summary
+> ZIH talk on electronic lab notebooks: what an ELN stores (metadata, processing), workflow from raw data to ELN, eLabFTW use in AirMetro.
+>
+> **Target / goal:** Document experiments and hardware in eLabFTW properly.
+
 From ZIH
 Topic : Electronic Lab notebooks 
 Technical implementation : Peter Koban 

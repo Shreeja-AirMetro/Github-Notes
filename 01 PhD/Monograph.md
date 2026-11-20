@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Dissertation writing plan (20 Jul 2026, phased literature triage → extraction → clustering → draft), completion checks, regulatory-coexistence terminology (special condition, certification basis, sui generis), and the chapter structure of 4 Jun 2026.
+>
+> **Target / goal:** Plan and structure the monograph so the full draft is ready by Dec 2027.
+
 # 20th July  2026 - Plan for writing Dissertation 
 
 ### Week 1-3 (End of Aug)

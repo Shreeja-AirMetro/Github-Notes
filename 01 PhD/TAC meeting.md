@@ -1,3 +1,8 @@
+> [!summary] Summary
+> What the first TAC meeting expects: motivation, research questions, goals, methodology, timeline; no results required.
+>
+> **Target / goal:** Prepare the Thesis Advisory Committee presentation.
+
 The **first TAC meeting** is not an exam but an opportunity for you to receive feedback, confirm your project’s feasibility, and discuss your plans. At one year into your PhD, you are expected to present the following:
 - **Research motivation and context:** Why is your topic important? What is the current state of the field?
 - **Main research questions or hypotheses:** What are you aiming to discover or prove?

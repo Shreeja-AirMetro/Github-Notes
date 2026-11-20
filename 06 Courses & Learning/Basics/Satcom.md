@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Satcom research topics of a group (channel characterisation, link budgets, fading mitigation, adaptive coding, diversity).
+>
+> **Target / goal:** Satcom fundamentals.
+
 Research topics of our group are:
 
 Channel characterization, link budget and interference analyses for mobile and broadband satellite communications

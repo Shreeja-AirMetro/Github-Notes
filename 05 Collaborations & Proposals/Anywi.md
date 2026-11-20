@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Anywi collaboration: proposal meetings (MP-TCP link management), how to write winning EU proposals (RIA/IA/CSA), overview of EU drone-logistics projects and last-mile successes, differentiation ideas.
+>
+> **Target / goal:** Build a competitive EU proposal with Anywi.
+
 <span style="color:rgb(0, 0, 0)"><span style="color:rgb(0, 0, 0)"><span style="color:rgb(0, 0, 0)">1. Proposal 
 2- Meeting 7/4/25
 - Anywi works on Data Analytics and networks 

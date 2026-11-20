@@ -1,3 +1,8 @@
+> [!summary] Summary
+> UAV-G paper (with T5/T8) section plan: intro, perception-based navigation, contributions, experimental setup, integration, final accepted abstract; data location.
+>
+> **Target / goal:** Structure of C9 (multi-modal UAV testbed, published 2025).
+
 Location to grab data : https://viflvcs.vkw.tu-dresden.de/tushar.barot/uav-testbed
 
  ### UAV G Paper 

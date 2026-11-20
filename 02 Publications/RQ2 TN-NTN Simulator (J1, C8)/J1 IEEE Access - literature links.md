@@ -1,3 +1,8 @@
+> [!summary] Summary
+> Reading list for the INTANS/IEEE Access paper: projects, systems, surveys, simulators, use cases, paywalled papers.
+>
+> **Target / goal:** Background and related-work references for J1.
+
 
 # Projects 
 
