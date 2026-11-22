@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 TODOS/Ideas, Links & Thoughts.md",
+                "file": "07 TODOS/2027/2027.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas, Links & Thoughts"
+              "title": "2027"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "8ef755e0e9f15d33",
   "lastOpenFiles": [
+    "07 TODOS/Ideas, Links & Thoughts.md",
     "07 TODOS/2025 Todos.md",
     "07 TODOS/2027/2027.md",
     "07 TODOS/2026/2026.md",
@@ -214,7 +215,6 @@
     "02 Publications/Publications Index.md",
     "02 Publications/Publications Index.md.tmp.1630879.af1882d35195",
     "01 PhD/Monograph.md",
-    "01 PhD/PhD 2028.md",
     "Attachments/uav.png",
     "Attachments/terminal.png",
     "Attachments/ssrn-1429049.pdf",
