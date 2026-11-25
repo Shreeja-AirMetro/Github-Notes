@@ -35,8 +35,7 @@
               "title": "C2 follow-up - FNWF extension (not submitted, feeds C5)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +199,9 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "28a9cf61b6700682",
+  "active": "8ef755e0e9f15d33",
   "lastOpenFiles": [
+    "02 Publications/RQ4 UTM & U-space (C2, C5, U-space WS)/C2 follow-up - FNWF extension (not submitted, feeds C5).md",
     "04 Research Notes/Aviation & Regulation/UAM-AAM.md",
     "07 TODOS/2026/Nov 2026.md",
     "07 TODOS/2027/2027.md",
@@ -228,7 +228,6 @@
     "01 PhD/Career/Future.md",
     "00 Home.md",
     "00 Home.md.tmp.1630879.bea158b87feb",
-    "02 Publications/Publications Index.md",
     "02 Publications/Publications Index.md.tmp.1630879.af1882d35195",
     "Attachments/uav.png",
     "Attachments/terminal.png",
